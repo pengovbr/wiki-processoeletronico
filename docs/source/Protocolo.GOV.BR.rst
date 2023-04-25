@@ -8,12 +8,8 @@ O objetivo da solução é auxiliar no processo de digitalização do serviço d
 Maiores informações sobre o **Protocolo.GOV.BR** podem ser consultadas no `Portal do Processo Eletrônico Nacional <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_
 
 
-Base de Conhecimento
-++++++++++++++++++++
-
-
 Documentação de Apoio
----------------------
+++++++++++++++++++++++
 
 - `FAQ <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/protocolo-gov-1.br/protocolo-gov.br>`_
 
@@ -28,15 +24,13 @@ Documentação de Apoio
 - `Hipóteses de Recusa e Devolução de Protocolizações (Link para nova página) > Novo <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/protocolo-gov.br/HiptesesdeRecusaeDevoluodeProtocolizaes.pdf>`_
 
 
- 
 Treinamentos/Apresentações
--------------------------- 
++++++++++++++++++++++++++++
  
 Em construção. 
 
  
- 
 Scripts de Atendimento
-----------------------
++++++++++++++++++++++++
 
 Em construção.

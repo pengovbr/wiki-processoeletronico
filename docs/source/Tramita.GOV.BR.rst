@@ -8,12 +8,8 @@ A adoção da plataforma se traduz em um significativo impacto em termos de agil
 Maiores informações sobre o **Tramita.GOV.BR** podem ser consultadas no `Portal do Processo Eletrônico Nacional <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_
 
 
-Base de Conhecimento
-++++++++++++++++++++
-
-
 Documentação de Apoio
----------------------
++++++++++++++++++++++
  
 - `FAQ <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/FAQ%20do%20tramita-gov-.br/tramita-gov.br>`_
 
@@ -29,13 +25,13 @@ Documentação de Apoio
 -  `Manual de Utilização da API - Parte 6 <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br/kit_desenvolvimento.zip.006>`_
 -  `Manual de Utilização da API - Parte 7 <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br/kit_desenvolvimento.zip.007>`_
 -  `Tabela de Espécies Documentais <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_
--  `Integração do SEI com o Tramita.GOV.BR - Parte 1 <https://drive.google.com/file/d/1vkwGTxbiSPZ2w-AoACg2Ab2YBZnVr9xw/view?usp=sharing>`_
--  `Integração do SEI com o Tramita.GOV.BR - Parte 2 <https://drive.google.com/file/d/1Yb9ughH4wNy34zKGUuZNBHaSUlWG5W4e/view?usp=sharing>`_
 -  `Swagger - Homologação <https://homolog.api.processoeletronico.gov.br/swagger/swagger-ui/>`_
 -  `Swagger - Produção <https://api.conectagov.processoeletronico.gov.br/swagger/swagger-ui/>`_
 
 **Vídeos**
 
+-  `Integração do SEI com o Tramita.GOV.BR - Parte 1 <https://drive.google.com/file/d/1vkwGTxbiSPZ2w-AoACg2Ab2YBZnVr9xw/view?usp=sharing>`_
+-  `Integração do SEI com o Tramita.GOV.BR - Parte 2 <https://drive.google.com/file/d/1Yb9ughH4wNy34zKGUuZNBHaSUlWG5W4e/view?usp=sharing>`_
 -  `Vídeo expositivo sobre o projeto Barramento (Antigo nome do TRAMITA.GOV.BR) <https://www.youtube.com/watch?v=eXVAerj6LHc&t=754s>`_
 
 **Script SQL**
@@ -50,7 +46,7 @@ Documentação de Apoio
 
  
 Treinamentos/Apresentações
--------------------------- 
+++++++++++++++++++++++++++ 
 
 +-------------+-------------------+----------------------+--------------------------------------------------------------------------------------------------+
 |Realizado em |    Responsável    | Assuntos Tratados    |                Link                                                                              |
@@ -66,34 +62,33 @@ Treinamentos/Apresentações
 |             |                   | - Simulação          |                                                                                                  |
 +-------------+-------------------+----------------------+--------------------------------------------------------------------------------------------------+
 | 19/04/2023  |- Vinícius Mendonça|- Portal Administração|                                                                                                  |
-|             |                   |- Análise de Cenários |  Treinamento Parte 3                                                                             | 
+|             |                   |- Análise de Cenários | `Treinamento Parte 3 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_  | 
 |             |                   |                      |                                                                                                  |
 |             |                   |                      |                                                                                                  |
 +-------------+-------------------+----------------------+--------------------------------------------------------------------------------------------------+
 
-
  
 Scripts de Atendimento
-----------------------
+++++++++++++++++++++++
 
 Processo recusado por erro "Número do Processo NUP já se encontra cadastrado"  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------
   
 
 Situação  
-^^^^^^^^^ 
+~~~~~~~~~
 
 Problema identificado em órgão que estão implementando integração com o Tramita.gov.br. No caso em questão, problema identificado inicialmente ANEEL por falta de envio de NRE do trâmite original. 
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 (Descrição do passo a passo e condições que o usuário percorreu para chegar na situação) 
 
 
 Solução Sugerida  
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 O problema de recusa de processo devido à existência de um outro processo contendo o mesmo NUP normalmente ocorre em novas integrações devido a falta de envio do Número de Registro Eletrônico - NRE no cabeçalho da requisição de trâmite do processo.  
 
@@ -119,39 +114,45 @@ O NRE deverá ser reenviado em todos os novos trâmites deste processo, indicand
 
 Para maiores informações sobre o modelo de dados a ser utilizado nos serviços do Tramita.gov.br, acesso o `link <https://homolog.api.processoeletronico.gov.br/swagger/swagger-ui/#/tramite-service-v-3>`_ .
 
-  
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+ 
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
-
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~
 
 API REST; NRE; Número de Registro Eletrônico; recusa de processo; TRAMITA.GOV.BR.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
  
  
 Processos sendo recusados por motivo 99 - Nenhum assunto foi informado
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+----------------------------------------------------------------------
 
 Situação  
-^^^^^^^^^ 
+~~~~~~~~
 
 Processos sendo recusados pelo destinatário com o motivo 99 - Nenhum assunto informado para o processo.
   
@@ -159,7 +160,7 @@ Processos sendo recusados pelo destinatário com o motivo 99 - Nenhum assunto in
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Este caso pode ocorrer da seguinte forma:
  
@@ -177,7 +178,7 @@ Ao tentar receber um processo externo e utilizar este tipo externo configurado, 
 
 
 Solução Sugerida  
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Alterar no cadastro do 'Tipo de Processo' que foi utilizado como o padrão na tela de Parâmetros de Configuração do módulo PEN do DESTINATÁRIO, associando uma 'Sugestão de Assuntos' para que seja usada nestes casos de recebimento de tipo de processo diferentes dos existentes no destinatário conforme o exemplo abaixo:
  
@@ -186,46 +187,55 @@ Alterar no cadastro do 'Tipo de Processo' que foi utilizado como o padrão na te
 Após este ajuste solicitar ao REMETENTE que efetue nova tentativa de tramitação.
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; motivo 99; Nenhum assunto informado.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 Processo recusado devido a existência de documento em formato X não permitido
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------------
 
 Situação  
-^^^^^^^^^ 
+~~~~~~~~
 
 Processo recusado devido a existência de documento em formato X não permitido.
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Descrição informada pelo usuário: Os seguintes processos foram recusados pelo órgão “XXX” pelo seguinte motivo: Processo recusado devido a existência de documento em formato “XYZ” não permitido pelo sistema.
 
 
 Solução Sugerida  
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 O problema relatado consiste no conflito de regras de configuração entre os sistemas de processo eletrônico das instituições de origem e de destino do trâmite. Este conflito leva à recusa pelo sistema de destino, o que faz com que o Tramita.gov.br apenas informe a recusa o trâmite, reportando o motivo para o órgão de origem.
  
@@ -236,41 +246,52 @@ As possíveis soluções são:
 2) A substituição, no sistema de origem, do arquivo no formato recusado por outro arquivo, de idêntico teor, mas salvo em formato aceito pelo órgão de destino.
 Alternativamente, não sendo possível efetuar as alterações acima citadas, deve ser utilizado mecanismo alternativo de remessa do processo recusado.
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; documento; formato não permitido.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 ERRO DE PROCESSOS TRAVADOS NO STATUS 4- Arquivos digitais recebidos pelo destinatário NO PAINEL DO TRAMITA
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------------------------------------------
 
 Situação  
-^^^^^^^^^ 
+~~~~~~~~
+
 
 ERRO DE PROCESSOS TRAVADOS NO STATUS 4- Arquivos digitais recebidos pelo destinatário NO PAINEL DO TRAMITA.
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~
+
 
 O processo aparece no portal do Tramita travado indefinidamente com o status “4 - Arquivos digitais recebidos pelo destinatário”, porém, no SEI de origem, ainda continua bloqueado, informando estar “em Tramitação externa”.
 
@@ -286,7 +307,8 @@ O Tramita possui rotinas de expurgo destes arquivos que ficam temporariamente no
 - Destinatário pede ao tramita os documentos (o erro pode ocorrer neste ponto)
 
 Solução Sugerida  
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
+
 
 Uma vez que o Processo se encontra travado por muito tempo em status 4 conforme o exemplo abaixo:
 
@@ -317,47 +339,62 @@ O cancelamento fica disponível tanto via painel do Tramita, quanto no Super/SEI
    Se for cancelado via Painel do Tramita, é necessário clicar no ‘Cancelar tramite’ também no SEI/Super remetente pra liberar novamente uma nova tentativa de tramitação, portanto a melhor sugestão é sugerir que o remetente faça o cancelamento via SEI/Super e faça uma nova tentativa de tramite de algum destes processos que esteja nesta condição para verificar se o procedimento é suficiente para a solução do problema, não sendo suficiente nova investigação de logs do tramita se fará necessária.
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
+
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
+
 
 Tramita; STATUS 4; bloqueado; “em Tramitação externa”.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 ERRO DE STATUS “CANCELADO” NO ENVIO DE PROCESSO
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
+
 
 ERRO DE STATUS “CANCELADO” NO ENVIO DE PROCESSO
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
+
 
 O processo aparece no portal do Tramita com o status “cancelado”, porém, no SEI de origem, ainda continua bloqueado, informando estar “em Tramitação externa”. 
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Uma vez que o Processo se encontra como cancelado no Portal, mas não foi desbloqueado automaticamente, o usuário no órgão remetente pode clicar no botão “Cancelar Trâmite Externo” (vide captura abaixo). Isso forçará o sistema no órgão remetente a consultar novamente o status do trâmite, o que resultará no desbloqueio do processo.
 
@@ -365,41 +402,51 @@ Uma vez que o Processo se encontra como cancelado no Portal, mas não foi desblo
 .. figure:: _static/images/Tela_processo_botao_pen.png
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~
 
 Tramita; Status Cancelado.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
 
 
 Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Quando um usuário tenta remeter um processo pelo Tramita.GOV.BR, o sistema não permite o trâmite e exibe a mensagem: “Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde.”
 
@@ -412,7 +459,7 @@ Esta falha ocorre quando o módulo não consegue estabelecer conexão com os ser
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 1. O certificado digital utilizado para autenticação nos serviços do Tramita.GOV.BR encontra-se inválido:
 
@@ -454,48 +501,57 @@ Neste caso, a equipe de infraestrutura da instituição deverá ser consultada p
 - `Produção <https://api.conectagov.processoeletronico.gov.br/interoperabilidade/soap/v3/>`_
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; falha de comunicação.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 Acesso negado a este recurso nesta unidade
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------
 
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Acesso negado a este recurso nesta unidade
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Quando um usuário do SEI tenta realizar uma determinada operação, ele recebe a seguinte mensagem na tela: “Acesso negado a este recurso nesta unidade (exemplo_recurso / SIGLA-DA-UNIDADE).”
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Normalmente, o erro "Acesso negado a este recurso nesta unidade" ocorre quando determinada funcionalidade acessada não está liberada para acesso devido a configuração do Perfil do Usuário.
 Para solucionar o problema, os seguintes passos deverão ser realizados:
@@ -506,47 +562,56 @@ Para solucionar o problema, os seguintes passos deverão ser realizados:
 
 Para mais detalhes sobre a gestão de perfis e recursos, verifique o `Módulo 3 - Unidade 3 do curso SEI!Administrar <https://repositorio.enap.gov.br/bitstream/1/4990/3/M%C3%B3dulo%203%20-%20Controle%20de%20Acesso%20.pdf#page=14>`_
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; acesso negado.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 Desbloquear Processo
-~~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Processo Bloqueado.
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 O processo está bloqueado pois foi recebido com sucesso em um sistema devidamente habilitada no barramento de serviços, através de um certificado digital único.
 Por este motivo, não existe uma funcionalidade disponível no sistema rementente, pois o desbloqueio do processo quebraria uma regra estabelecida para o projeto.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Considerando a situação específica de recebimento indevido precisamos de uma alteração manual no BD para desbloquear o processo e permitir o reenvio para o XXXXX. Dito isto, peço que entre em contato com o equipe de BD responsável pelo sistema no XXXX e solicite que alterem a coluna sta_estado para o valor 0 no processo com problema. 
  
@@ -568,47 +633,58 @@ Os valores de sta_estado são:
 3 = Processo Anexado
 4 = Processo Bloqueado
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; Bloqueado; Desbloqueado.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
 
 
 Erros de hash e de ordem de documentos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~~
 
 Erros de hash e de ordem de documentos.
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Inicialmente solicitar que executem a query abaixo para descobrir se a ordem dos documentos do processo estão certas no órgão:
  
@@ -681,93 +757,112 @@ vimdiff ARQ1 ARQ2
 Caso o órgão tenha dado "vida independente" ao processo após essa desanexação (ex da foto 95190.000148/2021-01), o órgão deverá mover todos os documentos desse processo e deixar apenas os originais do barramento antes de anexar novamente.
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; hash; ordem; documento.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
 
 Mudar Parâmetros de Memória
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Mudar Parâmetros de Memoria
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Isso já foi implementado na versão 4.0. Serão 3 níveis para configurar tanto o limite de memória quanto o tempo máximo de execução. Cada nível contém um conjunto de operações específico que são descritos no documento de instalação (ex.: nível 1 = operações em geral,  nível 2 = geração de PDF, nível 3 = web services).
  
 Na versão 3.1 foram colocados limites específicos em vários pontos usando ini_set para memory_limit. Só mudando os valores nestas chamadas para conseguir personalizar. Se tem algum ponto que apresenta problema frequente podemos mudar o valor padrão na próxima atualização da 3.1.x.
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; Parâmetros de Memória.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 Não execução do agendamento do SEI via crontab
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~~
 
 Não execução do agendamento do SEI via crontab
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
-
+Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Script para testar com usuário casos de não execução do agendamento do SEI via crontab.(Pode ser enviado para execução direta deles)
 
@@ -855,47 +950,57 @@ curl--cert/opt/sei/config/mod-pen/certificado.pem:SENHA https://homolog.api.proc
 
 * Caso execute com sucesso até esta etapa, e mesmo assim não tramite processos, entrar em contato com o suporte PEN.
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~
 
 Tramita; crontab.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
 
 
 Não finalização de processos dos workers do gearman
-
+----------------------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 No MME percebemos que na atualização para a versão 3.1.6 do SEI e 2.1.4 do módulo o CentOS por algum motivo não finalizou processos dos workers do gearman.
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 No MME percebemos que na atualização para a versão 3.1.6 do SEI e 2.1.4 do módulo o CentOS por algum motivo não finalizou processos dos workers do gearman. Assim, a cada chamada ao MonitoramentoTarefasPEN.php, ele verifica o número de workers ativos, como já existiam rodando 4 workers, o modulo não iniciava outros para processar as pendências.
 
@@ -907,139 +1012,167 @@ ps -aux |grep MonitoramentoTarefasPEN.php
 
 kill -9 XXXXX
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; gearman; finalização de processo.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
 
 
 Erro Número de Documentos
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Erro Número de Documentos
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Nos casos que apareceram o erro ao tramitar "Inconsistência identificada no recebimento de processo: - Número de documentos do processo não confere com o registrado nos dados do processo no enviado externamente."
 
 Caso existam processos anexados na árvore de documentos, provavelmente esta é a razão do erro, assim solicite a atualização para a versão superior a 2.1.3.
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; Erro Número de Documentos.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 Barra de Progresso Travando
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~~~
 
 Barra de Progresso Travando
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 Ao realizar upload de documentos ou imagens, o módulo cria uma barra de progresso azul que em alguns casos pode ficar piscando e não concluir o upload. Para ajustar esses casos devemos instalar uma versão específica de um componente do PHP. As versões atuais do pacote uploadprogress que causam esse erro, assim fazer o downgrade para:
 
 pecl install uploadprogress-1.0.3.1
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; barra de progresso.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 Tipo de documento [Especie XX] não encontrado
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Tipo de documento [Especie XX] não encontrado
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Nesses casos o erro que aparece é o ID do barramento, conforme o csv abaixo (tabela md_pen_especie_documental). Avaliar o ID que aparece e olhar no PEN > mapeamento se esse tipo está corretamente configurado. No caso que vimos o tipo estava errado, estava como Extratos (no plural) e esse tipo estava inativo no SEI do órgão existindo apenas o Extrato (singluar).
 
@@ -1421,46 +1554,55 @@ id_especie,nome_especie
 
 999,Outra
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; espécie não encontrada.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 Update em NRE errado
-~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Update em NRE errado
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Nos casos que dois tramites apresentem NREs diferentes, devemos rodar a seguinte transação para corrigir:
 
@@ -1576,46 +1718,54 @@ from md_pen_recibo_tramite_enviado where numero_registro=@velhoNRE and id_tramit
 
   COMMIT;
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; NRE; Errada.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
-
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 Processamento lento de Pendências
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Processamento lento de Pendências
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Quando olhamos o agendamento no sei, tem na descrição um parâmetro WORKER, podemos aumentar até "workers=9"
 Assim, se no minuto X os 9 paralelos estão executando, no próximo minuto do agendamento ele não vai chamar mais processos paralelos
@@ -1630,133 +1780,159 @@ Isso pode significar que podem estar travados, assim executamos o kill
 Outra solução seria rodar com nohup xxxx & nohup xxxx.
 Como a cada chamada do Monitoramento é feito um shuffle das pendencias, teoricamente entre os 2 nohup paralelos serão executados processos diferentes.
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; Processamento; lento.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 Documentos Externos desformatados quando HTML
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Documentos Externos desformatados quando HTML
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Ocorreu quando o usuário tenta incluir um documento externo HTML com encoding UTF-8, e ao abrir a visualização do SEI os caracteres estiverem com erro de formatação. 
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 Verificar se o pacote 'files' está instalado no servidor de aplicação do SEI, caso contrario instale com "yum/apt install file'
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; desformatados; HTML; documentos externos.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
 
 Erro escrevendo no infra_log
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~~
 
 Erro escrevendo no infra_log
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Quando não se tem o LANGUAGE no cron configurado como ISO8859
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 Um dos erros conhecidos para esse caso foi o fato de não ter o LANGUAGE no cron configurado como ISO8859, assim rodando diretamente pelo Monitorar.php funciona mas usando o cron estoura o erro de escrita em infra_log
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
 
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; cron; infra_log.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
 
 
 Erro na quantidade de processos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Erro na quantidade de processos
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Pedir para rodar o SQL abaixo, na coluna ordem_documento tem que vir na sequência (1,2,3..) que é a sequência de documentos do processo. A coluna ORDEM é a ordem do COMPONENTE DIGITAL desse documento, geralmente vai vir sempre 1, já que a maioria só tem 1 componente digital mesmo
 
@@ -1782,46 +1958,55 @@ Caso o erro no órgão seja do tipo "Inconsistência identificada no recebimento
   set ordem_documento=ordem,ordem=1
   where ordem_documento is null
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; erro; processados.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
   
 
 Metadados - Erro: A parte informada ultrapassa o tamanho do componente digital informado nos metadados do trâmite
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Erro: A parte informada ultrapassa o tamanho do componente digital informado nos metadados do trâmite
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Não se aplica.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Segue a correção para o problema enfrentado.
 
@@ -1847,114 +2032,142 @@ php -c /etc/php.ini  /opt/sei/scripts/verificacao_repositorio_arquivos.php 28/03
    Ajustar a data de exemplo (28/03/2022) para a data que houve o ataque
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; metadados; ultrapassar tamanho; componente; digital.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
- 
+
 
 Erro criar permissão
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Erro criar permissão
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Caso um usuário ao tentar criar uma nova permissão pelo SIP aparecer uma mensagem de erro informando que 'já existe registro' isso ocorre porque foi excluída da base do SIP o user, porém permanece na base do SEI. Essa falta de sincronismo gera o erro mencionado.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Dessa forma, buscar o usuário na base sei para alterarem o valor da coluna sin_ativo para N
 
+
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; erro; permissão.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
 
 
 
 Falha ao conectar ao barramento mesmo com script de validação com sucesso
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------------------------------
 
 Situação  
-^^^^^^^^^
+~~~~~~~~
 
 Falha ao conectar ao barramento mesmo com script de validação com sucesso
 
 
 Quando Ocorre
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Esse erro ocorreu na PR, onde o script de instalação estava rodando corretamente. Ao testar o "php /opt/sei/scripts/mod-pen/MonitoramentoTarefasPEN.php" pela CLI, o resultado era correto também, trazendo as pendências. Porém, pelo front end parecia que o SEI não se conectava ao barramento.
 
 
 Solução Sugerida
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 Nesse caso verifique se os arquivos de certificado do pem possuem permissão para o apache.
 
 Atribuições e responsabilidades  
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *(Indicar quem é responsável pelo atendimento da demanda, se são os atendentes de 1º nível ou se o chamado deve ser encaminhado para outras instâncias)*  
 
 
+Modelo de Resposta para Chamados  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(Indicar como o atendente deverá responder ao chamado, incluindo o texto de saudação inicial, o corpo da resposta e a despedida ou fecho. Exemplo aqui.)
+
+Respostas em Construção.
+
+
 Perfil do usuário  
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 *(Indicar se a demanda tem caráter negocial ou técnico. Se técnico, indicar o perfil do usuário no sistema)*
 
 
 Palavras-chave  
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~
 
 Tramita; falha conexão.
 
 
 Referências  
-^^^^^^^^^^^
+~~~~~~~~~~~~
 
-*(Indicar o material consultado – como FAQ, manuais ou portais – bem como a relação desse tema com outros scripts existentes. Utilizar preferencialmente links)*
+Material construído conforme o conteúdo abordado nos treinamentos/apresentações ocorridas nos dias `05/04/2023  <https://drive.google.com/file/d/1rZL24WiAyqzBCSKvElNc7y785VdUHxia/view>`_, `12/04/2023 <https://drive.google.com/file/d/1BxBIhO7YURqbae5LtGCQut9nQ2RF9Byz/view>`_ e `19/04/2023 <https://drive.google.com/file/d/1H4qfihC8DAcvDuOOodPi34TK2Q29XQ5E/view>`_. 
+
+
+

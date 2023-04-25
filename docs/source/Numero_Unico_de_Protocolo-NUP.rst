@@ -6,12 +6,8 @@ O **Número Único de Protocolo (NUP)** é o número atribuído ao documento avu
 Maiores informações sobre o **Número Único de Protocolo (NUP)** podem ser consultadas no `Portal do Processo Eletrônico Nacional <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/numero-unico-de-protocolo-nup>`_
 
 
-Base de Conhecimento
-++++++++++++++++++++
-
-
 Documentação de Apoio
----------------------
++++++++++++++++++++++
  
 - `FAQ <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/perguntas-frequentes-sobre-o-nup>`_
 
@@ -25,11 +21,12 @@ Documentação de Apoio
 
  
 Treinamentos/Apresentações
--------------------------- 
+++++++++++++++++++++++++++
  
 Em construção.
+
  
 Scripts de Atendimento
-----------------------
++++++++++++++++++++++++
 
 Em construção.
