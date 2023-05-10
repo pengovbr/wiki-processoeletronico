@@ -1,8 +1,9 @@
-WIKI - Processo Eletrônico Nacional
-===================================
 
 .. figure:: _static/images/wiki_pen.svg
 
+
+WIKI - Processo Eletrônico Nacional
+===================================
 
 
 Este ambiente tem o objetivo de ser o repositório de informações e conhecimentos relacionados à solução de erros ou comportamentos indesejados, conhecidos e já sanados, das soluções que integram o ecossistema do Processo Eletrônico Nacional (PEN).
