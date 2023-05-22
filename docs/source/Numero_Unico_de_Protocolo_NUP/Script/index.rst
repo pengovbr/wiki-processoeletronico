@@ -6,6 +6,5 @@ Scripts de Atencimento
    :hidden:
    :titlesonly:
 
-   Scripts_de_Atendimento
-   Scripts_de_Atendimento_2
+   CONSULTAR_CODIGO_DE_NUP-ESCLARECER_DUVIDAS
    
