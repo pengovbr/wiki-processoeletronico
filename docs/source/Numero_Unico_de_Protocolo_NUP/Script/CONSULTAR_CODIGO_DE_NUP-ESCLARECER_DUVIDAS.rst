@@ -64,7 +64,7 @@ Perfil Negócio
 Palavras-chave  
 ~~~~~~~~~~~~~~
 
-NUP; código.
+NUP; consultar código.
 
 
 Referências  

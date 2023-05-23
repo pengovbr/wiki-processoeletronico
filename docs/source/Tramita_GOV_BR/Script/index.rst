@@ -1,4 +1,4 @@
-Scripts de Atencimento
+Scripts de Atendimento
 ======================
 
 
@@ -28,3 +28,4 @@ Scripts de Atencimento
    Processamento_lento_de_Pendencias
    Tipo_de_documento_Especie_XX_nao_encontrado
    Update_em_NRE_errado
+   

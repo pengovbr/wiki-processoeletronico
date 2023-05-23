@@ -12,6 +12,12 @@ Tal Repositório será organizado por solução e será construído de forma col
 
 A equipe do PEN construiu este material pensando em você! Esperamos que possa auxiliá-lo na resolução de questões relativas às soluções PEN.
 
+.. toctree::
+   :hidden:
+   :titlesonly:
+  
+   Informacoes_gerais/index
+
 
 .. toctree::
    :hidden:

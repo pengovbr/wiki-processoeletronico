@@ -1,4 +1,4 @@
-Scripts de Atencimento
+Scripts de Atendimento
 ======================
 
 
