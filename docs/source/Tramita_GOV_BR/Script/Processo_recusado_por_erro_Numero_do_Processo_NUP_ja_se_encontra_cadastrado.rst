@@ -1,5 +1,5 @@
-Processo recusado por erro "Número do Processo NUP já se encontra cadastrado"
-=============================================================================
+2023.05.08-Processo recusado por erro "Número do Processo NUP já se encontra cadastrado"-V1
+===========================================================================================
 
 Situação  
 ~~~~~~~~~

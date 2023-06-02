@@ -1,5 +1,5 @@
-Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde
-==============================================================================================
+2023.05.08-Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde-V1
+============================================================================================================
 
 Situação  
 ~~~~~~~~

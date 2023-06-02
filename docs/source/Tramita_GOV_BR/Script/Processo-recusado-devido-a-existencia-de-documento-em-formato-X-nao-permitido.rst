@@ -1,5 +1,5 @@
-Processo recusado devido a existência de documento em formato X não permitido
-=============================================================================
+2023.05.08-Processo recusado devido a existência de documento em formato X não permitido-V1
+===========================================================================================
 
 Situação  
 ~~~~~~~~

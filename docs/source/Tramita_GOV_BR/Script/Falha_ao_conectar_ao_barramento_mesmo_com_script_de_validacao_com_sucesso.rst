@@ -1,5 +1,5 @@
-Falha ao conectar ao barramento mesmo com script de validação com sucesso
-=========================================================================
+2023.05.08-Falha ao conectar ao barramento mesmo com script de validação com sucesso-V1
+=======================================================================================
 
 Situação  
 ~~~~~~~~

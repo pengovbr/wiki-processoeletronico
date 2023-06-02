@@ -1,5 +1,5 @@
-Não finalização de processos dos workers do gearman
-===================================================
+2023.05.08-Não finalização de processos dos workers do gearman-V1
+=================================================================
 
 Situação  
 ~~~~~~~~
