@@ -26,7 +26,7 @@ Scripts de Atendimento
    Nao_execucao_do_agendamento_do_SEI_via_crontab
    Nao_finalizacao_de_processos_dos_workers_do_gearman
    Processamento_lento_de_Pendencias
-   Processo_concluido_automaticamente_ao_chegar_ao_destinatario
    Tipo_de_documento_Especie_XX_nao_encontrado
    Update_em_NRE_errado
+   Processo_concluido_automaticamente_ao_chegar_ao_destinatario
    
