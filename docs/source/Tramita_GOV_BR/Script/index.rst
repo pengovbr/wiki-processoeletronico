@@ -25,7 +25,11 @@ Scripts de Atendimento
    Mudar_Parametros_de_Memoria
    Nao_execucao_do_agendamento_do_SEI_via_crontab
    Nao_finalizacao_de_processos_dos_workers_do_gearman
+   Procurar_gestores_no_Portal_do_Tramita
    Processamento_lento_de_Pendencias
+   Processos_concluidos_automaticamente_na_chegada_da_Tramitacao
+   Recibo_de_conclusao_de_tramite–PEN
+   Solicitacao_de_atualizacao_da_versao_do_Modulo_do_Tramita
    Tipo_de_documento_Especie_XX_nao_encontrado
    Update_em_NRE_errado
    Processo_concluido_automaticamente_ao_chegar_ao_destinatario
