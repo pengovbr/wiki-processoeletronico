@@ -33,7 +33,7 @@ Treinamentos/Apresentações
 |             |                   | - Assinaturas externas  |                                                                                                  |
 +-------------+-------------------+-------------------------+--------------------------------------------------------------------------------------------------+
 | 10/05/2023  |- Pedro Moreira    | - Overview              |                                                                                                  |
-|             |                   | - Usuários Externos     | `Treinamento Parte 2 <https://drive.google.com/file/d/1v1NxeNrK7NC-c5FZ0xqUXJSjVPF8ebeA/view>`_  |
+|             |                   | - Usuários Externos     | Treinamento Parte 3                                                                              |
 |             |                   | - Demais Operações      |                                                                                                  |
 |             |                   | - Menus disponíveis     |                                                                                                  |
 +-------------+-------------------+-------------------------+--------------------------------------------------------------------------------------------------+
