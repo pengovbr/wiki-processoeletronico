@@ -41,6 +41,12 @@ A equipe do PEN construiu este material pensando em você! Esperamos que possa a
    :hidden:
    :titlesonly:
 
+   Protocolo_Integrado/index
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+
    Numero_Unico_de_Protocolo_NUP/index   
 
 .. toctree::

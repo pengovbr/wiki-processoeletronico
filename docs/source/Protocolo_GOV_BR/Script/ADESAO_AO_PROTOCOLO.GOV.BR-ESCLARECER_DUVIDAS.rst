@@ -1,4 +1,4 @@
-2023.05.08-ADESÃO AO PROTOCOLO.GOV.BR - ESCLARECER DÚVIDAS-V1
+2023.11.13-ADESÃO AO PROTOCOLO.GOV.BR - ESCLARECER DÚVIDAS-V2
 ==============================================================
 
 Situação  
@@ -10,7 +10,7 @@ Este procedimento tem a finalidade de orientar o usuário sobre “Adesão ao Pr
 Quando Ocorre
 ~~~~~~~~~~~~~~
 
-Não se aplica.
+Quando o usuário sinaliza que precisa fazer uso do protocolo gov.br e necessita de auxílio acerca deste tema.
 
 
 Solução Sugerida
@@ -43,7 +43,25 @@ Demais endereços de consulta e material de apoio ao Protocolo.GOV.BR
 Modelo de Resposta para Chamados  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Resposta em Construção.
+Prezado (a) Senhor (a) [inserir nome do Usuário], 
+
+ 
+
+As orientações para adesão ao Protocolo.GOV.BR estão disponíveis no endereço https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/protocolo.GOV.BR/como-aderir 
+
+ 
+
+O modelo do ofício de adesão, bem como informações sobre o envio dos dados, está disponível no endereço acima 
+
+  
+
+Para saber mais sobre as ações do PEN, acesse gov.br/pen 
+
+  
+
+Atenciosamente, 
+
+[nome profissional do atentende]” 
 
 
 Atribuições e responsabilidades  
@@ -67,4 +85,4 @@ PROTOCOLO.GOV.BR; Adesão.
 Referências  
 ~~~~~~~~~~~~
 
-Script construído pela equipe PEN. 
+`Página do Protocolo.GOV.BR <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/protocolo.GOV.BR>`_
