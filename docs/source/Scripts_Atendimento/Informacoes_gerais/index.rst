@@ -1,6 +1,5 @@
-Scripts de Atendimento
-======================
-
+Gerais
+======
 
 .. toctree::
    :titlesonly:

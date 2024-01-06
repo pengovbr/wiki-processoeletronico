@@ -9,6 +9,6 @@ Seu principal objetivo é oferecer ao cidadão mais um canal para consultas, al�
    :hidden:
    :titlesonly:
 
-   Base_Conhecimento
-   Script/index 
+   Documentacao_de_Apoio
+   TreinamentosApresentacoes
    

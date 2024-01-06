@@ -23,13 +23,13 @@ A equipe do PEN construiu este material pensando em você! Esperamos que possa a
    :hidden:
    :titlesonly:
   
-   Sistema_Eletronico_de_Informação_SEI/index
+   Scripts_Atendimento/index
 
 .. toctree::
    :hidden:
    :titlesonly:
-
-   Sistema_Unico_de_Processo_Eletronico_em_Rede_Super_GOV_BR/index
+  
+   Sistema_Eletronico_de_Informação_SEI/index
 
 .. toctree::
    :hidden:
