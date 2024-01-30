@@ -1,5 +1,5 @@
 
-.. figure:: _static/images/wiki_pen.svg
+.. figure:: _static/images/WIKI-PEN_1.png
 
 
 WIKI - Processo Eletrônico Nacional
