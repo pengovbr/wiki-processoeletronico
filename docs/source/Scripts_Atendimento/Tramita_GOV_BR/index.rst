@@ -25,6 +25,7 @@ TRAMITA.GOV.BR
    Mudar_Parametros_de_Memoria
    Nao_execucao_do_agendamento_do_SEI_via_crontab
    Nao_finalizacao_de_processos_dos_workers_do_gearman
+   Prazo_para_modulo_compativel
    Procurar_gestores_no_Portal_do_Tramita
    Processamento_lento_de_Pendencias
    Processos_concluidos_automaticamente_na_chegada_da_Tramitacao
