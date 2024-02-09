@@ -29,6 +29,7 @@ TRAMITA.GOV.BR
    Procurar_gestores_no_Portal_do_Tramita
    Processamento_lento_de_Pendencias
    Processos_concluidos_automaticamente_na_chegada_da_Tramitacao
+   Processo_parado_no_Status_5
    Recibo_de_conclusao_de_tramite–PEN
    Solicitacao_de_atualizacao_da_versao_do_Modulo_do_Tramita
    Tipo_de_documento_Especie_XX_nao_encontrado
