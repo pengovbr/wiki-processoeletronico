@@ -45,7 +45,7 @@ A atualização dos dados no Portal de Administração é realizada pelos Gestor
 
 **Passo 4**: Clicar no botão Salvar, para que a atualização seja realizada com sucesso. 
 
-.. figure:: _static/images/Portal_administracao.png
+.. figure:: _static/images/Portal_administracao.gif
    
    Tela inicial do Portal de Administração do Tramita e NUP
 
