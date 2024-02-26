@@ -16,12 +16,12 @@ Os órgãos pertencentes ao **Sistema de Serviços Gerais (SISG)** são parte in
 O que é Sistema de Processo Administrativo Eletrônico (SPE)?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-**Sistema de Processo Administrativo Eletrônico (SPE)** é o termo utilizado para se referir aos sistemas internos utilizados pelos órgãos no gerenciamento de processos administrativos no exercício de suas atividades administrativas. Por exemplo: O SEI, o SIPAC, o SUAP, o Sapiens-AGU etc. 
+**Sistema de Processo Administrativo Eletrônico (SPE)** é o termo utilizado para se referir aos sistemas internos utilizados pelos órgãos no gerenciamento de processos administrativos no exercício de suas atividades administrativas. Por exemplo: o SEI, o SIPAC, o SUAP, o Sapiens-AGU etc. 
 
 O que é Número de Registro Eletrônico (NRE)?
 ++++++++++++++++++++++++++++++++++++++++++++
 
-**O Número de Registro Eletrônico (NRE)** está relacionado ao Número Único de Protocolo (NUP) ou Número do Processo. O NRE corresponde a uma **numeração de identificação estática**, que permanece constante em meio a todos os trâmites processuais gerenciados por meio do Tramita GOV.BR. Ou seja, esta numeração não é alterada à medida que novos trâmites são realizados.
+O **Número de Registro Eletrônico (NRE)** está relacionado ao Número Único de Protocolo (NUP) ou Número do Processo. O NRE corresponde a uma **numeração de identificação estática**, que permanece constante em meio a todos os trâmites processuais gerenciados por meio do Tramita GOV.BR. Ou seja, esta numeração não é alterada à medida que novos trâmites são realizados.
 
 O que é Índice de Trâmite (IDT)?
 +++++++++++++++++++++++++++++++++
@@ -107,7 +107,7 @@ No caso do Poder Executivo Federal, esta estrutura é mantida pelo Sistema de In
 
 Os demais poderes e entes federativos, após autorização de acesso e vínculo do seu órgão a uma estrutura, podem cadastrar a estrutura dos seus órgãos por meio da funcionalidade “hierarquia” no Portal de Administração.
 
-.. admonition:: Após realizar o login no portal é necessário acessar: 
+.. important:: Após realizar o login no portal é necessário acessar: 
 
    Gestão do Tramita  > Órgão  > Hierarquia
 
