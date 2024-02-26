@@ -100,8 +100,8 @@ Após o envio do processo, é importante que o Gestor de Protocolo do órgão in
 
 O órgão será, então, considerado implantado quando cumprir com sucesso as seguintes etapas: 
 
-1. Envio de Processo com Sucesso (Status 6) - Órgão em Implantação como remetente; 
+   1. Envio de Processo com Sucesso (Status 6) - Órgão em Implantação como remetente; 
 
-2. Recebimento de Processo com Sucesso (Status 6) - Órgão em Implantação como destinatário; 
+   2. Recebimento de Processo com Sucesso (Status 6) - Órgão em Implantação como destinatário; 
 
-3. Recusa de Recebimento de Processo (Status 9) - Órgão em Implantação como destinatário. 
+   3. Recusa de Recebimento de Processo (Status 9) - Órgão em Implantação como destinatário. 
