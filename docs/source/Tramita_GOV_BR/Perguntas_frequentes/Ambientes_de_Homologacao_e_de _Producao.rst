@@ -35,6 +35,18 @@ Os **endereços eletrônicos utilizados na configuração em ambiente de homolog
 
       Content Tab 2
 
+.. tab-set::
+
+   .. tab-item:: Tab 1
+      :sync: key1
+
+      Content Tab 1
+
+   .. tab-item:: Tab 2
+      :sync: key2
+
+      Content Tab 2
+
 .. tabs::
 
    ..group-tab:: SOAP
