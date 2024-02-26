@@ -27,6 +27,16 @@ Os **endereços eletrônicos utilizados na configuração em ambiente de homolog
 
 .. tabs::
 
+   .. group-tab:: Tab 1
+
+      Content Tab 1
+
+   .. group-tab:: Tab 2
+
+      Content Tab 2
+
+.. tabs::
+
    ..group-tab:: SOAP
    
       - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
