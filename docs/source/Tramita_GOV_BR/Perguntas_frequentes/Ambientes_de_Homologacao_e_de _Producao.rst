@@ -11,6 +11,8 @@ Cada ambiente possui seu próprio certificado digital?
 
 Sim, os ambientes de homologação e produção trabalham de forma independente, de modo que **não é possível utilizar o certificado do ambiente de homologação no ambiente de produção** e vice-versa. 
 
+.. important::
+
 A utilização de um mesmo certificado digital em ambientes distintos é uma prática totalmente desaconselhada e pode resultar em complicações sistêmicas para o órgão. Dessa forma, recomenda-se não realizar o uso do mesmo certificado entre diferentes ambientes, evitando - assim - o surgimento de possíveis problemas operacionais resultantes da má utilização dos certificados digitais por parte do órgão. 
 
 Como solicitar acesso ao Ambiente de Homologação do Portal de Administração?
@@ -23,19 +25,17 @@ Quais são os Endereços dos Serviços utilizados na configuração em ambiente 
 
 Os **endereços eletrônicos utilizados na configuração em ambiente de homologação** estão listados abaixo, correspondentes à versão V3. A partir de 2 de janeiro de 2024, `a versão V2 foi descontinuada <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/noticias/2023/migracao-urgente-para-a-versao-3-da-api-tramita-gov.br>`_.
 
-.. list-table::
-   :header-rows: 1
-   
-   - * SOAP
-   - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
-   - * Pendências: https://homolog.pendencias.processoeletronico.gov.br/ 
+.. tabs::
 
-.. list-table::
-   :header-rows: 1
+   ..group-tab:: SOAP
    
-   - * REST
-   - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
-   - * Pendências: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
+      - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
+      - * Pendências: https://homolog.pendencias.processoeletronico.gov.br/ 
+
+   ..group-tab:: REST
+   
+      - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
+      - * Pendências: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
 
 Como acessar o ambiente de homologação destinado a testes de trâmite externo?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
