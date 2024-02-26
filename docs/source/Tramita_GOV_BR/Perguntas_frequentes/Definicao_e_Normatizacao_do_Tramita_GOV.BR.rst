@@ -11,7 +11,7 @@ O trâmite processual é estabelecido entre órgãos que utilizam Sistemas de Pr
 Como é composta a plataforma Tramita GOV.BR?
 ++++++++++++++++++++++++++++++++++++++++++++
 
-A plataforma do Tramita GOV.BR **é composta por três produtos**, que atuam com direcionamentos específicos para uma melhor cobertura das demandas existentes. 
+A plataforma do Tramita GOV.BR é composta por **três produtos**, que atuam com direcionamentos específicos para uma melhor cobertura das demandas existentes. 
 
 1. O primeiro produto é o Portal de Administração, por meio do qual os gestores de cada órgão possuem acesso a toda estrutura gerencial da plataforma. 
 2. O segundo produto, a API (sigla derivada do inglês), consiste em um conjunto de regras e protocolos que permitem a comunicação entre diferentes sistemas, que cada órgão utiliza para gerenciar e tramitar seus processos internos.
@@ -20,7 +20,7 @@ A plataforma do Tramita GOV.BR **é composta por três produtos**, que atuam com
 Qual Instrumento Normativo institui o Tramita GOV.BR?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-A `Portaria nº 9.412, de 26 de outubro de 2022 <https://www.in.gov.br/en/web/dou/-/portaria-seges/me-n-9.412-de-26-de-outubro-de-2022-440014685>`_, **é o Instrumento Normativo** que regulamenta e institui a plataforma digital de comunicação entre sistemas de processo administrativo eletrônico - Tramita GOV.BR, no âmbito da administração pública federal direta, autárquica e fundacional. 
+A `Portaria nº 9.412, de 26 de outubro de 2022 <https://www.in.gov.br/en/web/dou/-/portaria-seges/me-n-9.412-de-26-de-outubro-de-2022-440014685>`_, é o **Instrumento Normativo** que regulamenta e institui a plataforma digital de comunicação entre sistemas de processo administrativo eletrônico - Tramita GOV.BR, no âmbito da administração pública federal direta, autárquica e fundacional. 
 
 Existem restrições normativas para integração ao Tramita GOV.BR?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
