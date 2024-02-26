@@ -110,11 +110,11 @@ Quais situações podem resultar na recusa de um trâmite?
 
 A notificação de recusa processual e, consequentemente, sua devolução ao órgão de origem se dá por meio de **inúmeras situações possíveis**. A seguir são elencadas algumas dessas possíveis situações: 
 
-1. O processo contém um tipo de documento não mapeado para recebimento no SPE do órgão de destino; 
+   1. O processo contém um tipo de documento não mapeado para recebimento no SPE do órgão de destino; 
 
-2. O processo contém um documento com formato de arquivo não permitido no SPE do órgão de destino; 
+   2. O processo contém um documento com formato de arquivo não permitido no SPE do órgão de destino; 
 
-3. O processo contém um documento com tamanho superior ao permitido no SPE do órgão de destino.
+   3. O processo contém um documento com tamanho superior ao permitido no SPE do órgão de destino.
 
 Qual é o tamanho máximo de arquivo permitido pelo Tramita GOV.BR?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
