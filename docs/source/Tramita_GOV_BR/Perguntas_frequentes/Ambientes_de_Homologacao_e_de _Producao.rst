@@ -63,11 +63,11 @@ Quais os requisitos para o órgão concluir o processo de homologação?
 
 O órgão está qualificado a iniciar os testes em ambiente de produção somente após a conclusão bem-sucedida dos testes em ambiente de homologação. Para isso, é necessário que **alguns requisitos sejam cumpridos**. São eles:
 
-Envio de Processo com Sucesso (Status 6) - Órgão em Implantação como remetente; 
+   Envio de Processo com Sucesso (Status 6) - Órgão em Implantação como remetente; 
 
-Recebimento de Processo com Sucesso (Status 6) - Órgão em Implantação como destinatário; 
+   Recebimento de Processo com Sucesso (Status 6) - Órgão em Implantação como destinatário; 
 
-Recusa de Recebimento de Processo (Status 9) - Órgão em Implantação como destinatário.
+   Recusa de Recebimento de Processo (Status 9) - Órgão em Implantação como destinatário.
 
 Cumpridas estas etapas, o órgão poderá solicitar acesso em ambiente de produção, por meio do `endereço eletrônico específico para cadastro <https://gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_.  
 
