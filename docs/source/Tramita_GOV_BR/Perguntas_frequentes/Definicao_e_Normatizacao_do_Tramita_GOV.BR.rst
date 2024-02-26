@@ -4,7 +4,7 @@ Definição e Normatização do Tramita GOV.BR
 O que é o Tramita GOV.BR?
 ++++++++++++++++++++++++++
 
-O `Tramita GOV.BR <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_ (antigo Barramento de Serviços do Processo Eletrônico Nacional) **é uma plataforma digital centralizada**, mantida e gerenciada pelo Ministério da Gestão e da Inovação em Serviços Públicos (MGI), que viabiliza o trâmite de processos administrativos ou documentos avulsos, por meio 100% digital.
+O `Tramita GOV.BR <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_ (antigo Barramento de Serviços do Processo Eletrônico Nacional) é uma **plataforma digital centralizada**, mantida e gerenciada pelo Ministério da Gestão e da Inovação em Serviços Públicos (MGI), que viabiliza o trâmite de processos administrativos ou documentos avulsos, por meio 100% digital.
 
 O trâmite processual é estabelecido entre órgãos que utilizam Sistemas de Processo Administrativo Eletrônico (SPE), e pertencem à administração pública, independentemente do poder da administração pública (executivo, judiciário, legislativo e outros) ou esfera (municipal, estadual, distrital e federal) a qual pertencem. 
 
