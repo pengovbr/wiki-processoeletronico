@@ -88,7 +88,7 @@ O órgão é considerado **implantado** após a conclusão bem-sucedida dos test
 
 **Unidade**: “Divisão de Gestão de Sistemas de Documentação e Informação - DISIS / COGED / CGTIP / DAL / SGC / MGI”
 
-.. admonition:: Atenção
+.. important:: Atenção
 
    1. Copie ou anote o número do processo enviado para localizá-lo mais facilmente. 
 
