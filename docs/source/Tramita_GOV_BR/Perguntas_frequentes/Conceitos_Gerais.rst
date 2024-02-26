@@ -18,10 +18,6 @@ O que é Sistema de Processo Administrativo Eletrônico (SPE)?
 
 **Sistema de Processo Administrativo Eletrônico (SPE)** é o termo utilizado para se referir aos sistemas internos utilizados pelos órgãos no gerenciamento de processos administrativos no exercício de suas atividades administrativas. Por exemplo: O SEI, o SIPAC, o SUAP, o Sapiens-AGU etc. 
 
-.. figure:: _static/images/Item_2.3.gif
-
-   Sistemas Integrados ao Tramita GOV.BR
-
 O que é Número de Registro Eletrônico (NRE)?
 ++++++++++++++++++++++++++++++++++++++++++++
 
@@ -33,10 +29,6 @@ O que é Índice de Trâmite (IDT)?
 O **Índice de Trâmite (IDT)** é uma **numeração única atribuída a cada trâmite** existente dentro da plataforma do Tramita GOV.BR. Essa numeração serve como um identificador do trâmite processual e não deve ser confundida com o Número de Registro Eletrônico (NRE). Para cada movimentação externa realizada, um novo IDT é gerado.  
 
 Tomando como exemplo uma movimentação processual partindo do órgão A para o B (1º trâmite), seguida de uma devolutiva do órgão B para o A (2º trâmite), serão gerados dois IDTs: um referente ao *1º trâmite* e outro referente ao *2º trâmite*. Não há um limite de quantidade de IDTs que podem ser atribuídos a um mesmo processo, uma vez que este valor está relacionado somente à movimentação processual na plataforma e não ao processo ou documento em si. 
-
-.. figure:: _static/images/Item_2.5.gif
-
-   Índice de Trâmite (IDT)
 
 O que é Solução de Integração com o Tramita GOV.BR?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
