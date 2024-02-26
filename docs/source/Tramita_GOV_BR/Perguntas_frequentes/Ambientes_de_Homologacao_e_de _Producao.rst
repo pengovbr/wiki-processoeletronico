@@ -25,39 +25,22 @@ Quais são os Endereços dos Serviços utilizados na configuração em ambiente 
 
 Os **endereços eletrônicos utilizados na configuração em ambiente de homologação** estão listados abaixo, correspondentes à versão V3. A partir de 2 de janeiro de 2024, `a versão V2 foi descontinuada <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/noticias/2023/migracao-urgente-para-a-versao-3-da-api-tramita-gov.br>`_.
 
-.. tabs::
-
-   .. group-tab:: Tab 1
-
-      Content Tab 1
-
-   .. group-tab:: Tab 2
-
-      Content Tab 2
-
-.. tab-set::
-
-   .. tab-item:: Tab 1
-      :sync: key1
-
-      Content Tab 1
-
-   .. tab-item:: Tab 2
-      :sync: key2
-
-      Content Tab 2
-
-.. tabs::
-
-   ..group-tab:: SOAP
+.. list-table::
+   :header-rows: 1
+   :align: left
    
-      - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
-      - * Pendências: https://homolog.pendencias.processoeletronico.gov.br/ 
+   - * SOAP
+   - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
+   - * Pendências: https://homolog.pendencias.processoeletronico.gov.br/ 
 
-   ..group-tab:: REST
+.. list-table::
+   :header-rows: 1
+   :align: left
    
-      - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
-      - * Pendências: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
+   - * REST
+   - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
+   - * Pendências: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
+
 
 Como acessar o ambiente de homologação destinado a testes de trâmite externo?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -109,14 +92,16 @@ Os **endereços eletrônicos utilizados na configuração em ambiente de homolog
 
 .. list-table::
    :header-rows: 1
+   :align: left
    
    - * SOAP
-   - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
-   - * Pendências: https://homolog.pendencias.processoeletronico.gov.br/ 
+   - * API: https://api.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
+   - * Pendências: https://pendencias.processoeletronico.gov.br/ 
 
 .. list-table::
    :header-rows: 1
+   :align: left
    
    - * REST
-   - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
-   - * Pendências: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
+   - * API: https://api.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
+   - * Pendências: https://api.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
