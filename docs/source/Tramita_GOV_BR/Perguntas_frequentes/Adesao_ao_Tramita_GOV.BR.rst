@@ -69,7 +69,7 @@ Sim, na página oficial do Tramita GOV.BR existe um espaço destinado à disponi
 Demais documentos relacionados ao:
 
 * `Envio Parcial de Documentos de Processo <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br/api2013-rest-envio-parcial-de-documentos-de-um-processo>`_;
-* `Tabela de Espécies Documentais <www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_;
+* `Tabela de Espécies Documentais <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_;
 * Swagger (`Homologação <https://homolog.api.processoeletronico.gov.br/swagger/swagger-ui/>`_ e `Produção <https://api.conectagov.processoeletronico.gov.br/swagger/swagger-ui/>`_);
 * Vídeos instrutivos sobre a integração do Tramita ao SEI (`Parte 1 <https://drive.google.com/file/d/1vkwGTxbiSPZ2w-AoACg2Ab2YBZnVr9xw/view?usp=sharing>`_ e `Parte 2 <https://drive.google.com/file/d/1Yb9ughH4wNy34zKGUuZNBHaSUlWG5W4e/view?usp=sharing>`_).
 
