@@ -29,9 +29,19 @@ Não há qualquer impedimento legal ao Gestor de Protocolo ser também um Gestor
 Quem é responsável pela aquisição do Certificado Digital utilizado na configuração do SPE?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-O processo de obtenção do Certificado Digital é de responsabilidade do órgão e varia de acordo com o tipo de SPE utilizado na integração com o Tramita. Independentemente de se o SPE utilizado é o SEI ou não, cabe ao Gestor de Protocolo dar início ao processo de obtenção do Certificado Digital. 
+A responsabilidade de geração de certificado muda de acordo com o Gestor de Tecnológico. Veja o quadro sinóptico, a seguir: 
 
-Veja o passo a passo abaixo:
+.. list-table::
+   :header-rows: 1
+
+   - * Gestor Tecnológico
+     * Responsabilidade
+   - * Interno
+     * Qualquer gestor do órgão solicitante.
+   - * Outros
+     * Apenas gestores da empresa pública responsáveis pela infraestrutura do órgão. Por exemplo: Dataprev. 
+
+Veja o passo a passo abaixo para geração, o qual não muda independente do Gestor Tecnológico:
 
 .. list-table::
    :header-rows: 1
@@ -45,7 +55,7 @@ Veja o passo a passo abaixo:
    :header-rows: 1
    
    - * Outras versões do MOD-SEI-PEN e Outros SPE:
-   - * 1.O Gestor de Processos, acessa o Portal do Tramita GOV.BR; 
+   - * 1.O Gestor Responsável, acessa o Portal do Tramita GOV.BR; 
    - * 2.Dentro menu Administração, a funcionalidade Sistema Processo Eletrônico deve ser acessada; 
    - * 3.Ao clicar na ação Gerar Certificado, o certificado gerado é vinculado automaticamente ao sistema do órgão, tornando-o confiável para o Tramita GOV.BR
    - * Não existem limitações para a geração de certificados. Contudo, esta funcionalidade deve ser utilizada com prudência e racionalidade. 

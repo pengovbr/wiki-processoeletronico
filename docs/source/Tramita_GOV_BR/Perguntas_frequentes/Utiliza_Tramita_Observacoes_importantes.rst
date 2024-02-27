@@ -94,7 +94,7 @@ O órgão é considerado **implantado** após a conclusão bem-sucedida dos test
 
    2. Informe, claramente, na especificação do processo e nos documentos inseridos, tratar-se de Teste do Tramita GOV.BR, visando a conclusão da última etapa para entrada em produção. 
 
-Aguarde o retorno do processo para seu órgão. O procedimento será bem-sucedido quando o processo for recebido em ambos os sistemas (no SEI-MGI e no seu ambiente local) com os documentos inseridos corretamente. 
+Aguarde o retorno do processo para seu órgão. O procedimento será bem-sucedido quando o processo for recebido em ambos os sistemas (no SEI-MGI e no seu Sistema de Processo Eletrônico) com os documentos inseridos corretamente. 
 
 Após o envio do processo, é importante que o Gestor de Protocolo do órgão informe, por meio do endereço eletrônico processo.eletronico@economia.gov.br, que o processo foi enviado. Feito isso, um analista do PEN entrará em contato para alinhamento dos procedimentos de devolução e de recusa. 
 

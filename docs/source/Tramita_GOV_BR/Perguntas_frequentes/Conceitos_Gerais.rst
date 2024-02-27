@@ -83,14 +83,16 @@ O que são Unidades Administrativas?
 
 As **Unidades Administrativas** são unidades da estrutura organizacional do órgão armazenada no Portal do Tramita GOV.BR, que se conectam ao SPE ativo nesse órgão para possibilitar o envio ou recebimento de processos por meio da plataforma.
 
-No caso dos órgãos integrantes do SISG, as Unidades Administrativas são importadas automaticamente do Sistema de Informações Organizacionais do Governo Federal (SIORG). Há uma lista pública de unidades disponível no `Portal de Administração <https://gestaopen.processoeletronico.gov.br/>`_. 
+No caso dos órgãos integrantes do SISG, as Unidades Administrativas são importadas automaticamente do Sistema de Informações Organizacionais do Governo Federal (SIORG). 
 
 Toda unidade marcada para recebimento na plataforma será apresentada na tela de seleção de unidade destinatária de um processo a ser remetido.
 
 O que são Unidades Centralizadoras?
 +++++++++++++++++++++++++++++++++++
 
-**Unidades Centralizadoras** são unidades responsáveis pelo recebimento de todos os processos enviados para o órgão, destinadas a qualquer das unidades com vínculo ativo no Portal de Administração. A interesse do órgão, quando configuradas e habilitadas, essas unidades funcionam basicamente como uma unidade de protocolo, ou seja, todos os processos recebidos via plataforma tramitarão por essa unidade.
+**Unidades Centralizadoras** são são unidades responsáveis pelo recebimento de todos os processos enviados para unidades hierarquicamente inferiores desde que seja configurado pelo Gestor de Protocolo. 
+
+A interesse do órgão, quando configuradas e habilitadas, essas unidades funcionam basicamente como uma unidade de protocolo, ou seja, todos os processos recebidos via plataforma tramitarão por essa unidade.
 
 .. admonition:: Ilustrando
 

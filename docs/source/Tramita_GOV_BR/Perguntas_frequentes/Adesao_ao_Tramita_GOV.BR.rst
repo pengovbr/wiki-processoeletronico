@@ -41,8 +41,11 @@ Não houve retorno à solicitação de acesso ao Tramita GOV.BR, o que pode ter 
 Não é comum que as solicitações de acesso permaneçam por um grande período **sem que haja uma devolutiva** da equipe responsável pela análise das solicitações. Entretanto, eventualmente é possível que situações como essa possam vir a acontecer, e geralmente os três motivos mais comuns para esse tipo de ocorrência estão relacionados: 
 
 À não conclusão da análise do pedido pela equipe do PEN, nesse caso é necessário apenas aguardar a conclusão; 
+
 Ao não recebimento do e-mail de orientação, que pode ter sido enviado e não recebido pelo órgão, necessitando uma verificação interna junto ao setor de TI do órgão;
+
 À existência de mais de uma equipe ou setor, pertencente ao mesmo órgão, com solicitação de acesso ao portal, necessitando uma melhor comunicação interna para averiguação da situação. 
+
 Independentemente do motivo pelo qual o atraso exista, é sempre possível que o Gestor de Protocolo, representante do órgão interessado, faça a abertura de um chamado junto à `Central de Atendimento <https://www.gov.br/gestao/pt-br/assuntos/central-de-atendimento>`_, para uma melhor verificação da situação.
 
 Como são cadastrados os Gestores de Protocolo?
@@ -65,8 +68,8 @@ Sim, na página oficial do Tramita GOV.BR existe um espaço destinado à disponi
 
 Demais documentos relacionados ao:
 
-* `Envio Parcial de Documentos de Processo <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br/api2013-rest-envio-parcial-de-documentos-de-um-processo>`_;
-* `Tabela de Espécies Documentais <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_;
+* `Envio Parcial de Documentos de Processo <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br/api2013-rest-envio-parcial-de-documentos-de-um-processo>`_;
+* `Tabela de Espécies Documentais <www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_;
 * Swagger (`Homologação <https://homolog.api.processoeletronico.gov.br/swagger/swagger-ui/>`_ e `Produção <https://api.conectagov.processoeletronico.gov.br/swagger/swagger-ui/>`_);
 * Vídeos instrutivos sobre a integração do Tramita ao SEI (`Parte 1 <https://drive.google.com/file/d/1vkwGTxbiSPZ2w-AoACg2Ab2YBZnVr9xw/view?usp=sharing>`_ e `Parte 2 <https://drive.google.com/file/d/1Yb9ughH4wNy34zKGUuZNBHaSUlWG5W4e/view?usp=sharing>`_).
 
