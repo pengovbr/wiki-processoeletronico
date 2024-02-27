@@ -18,7 +18,7 @@ O processo de integração ao Tramita GOV.BR irá depender do SPE utilizado pelo
    :header-rows: 1
    
    - * Órgãos que não utilizam o SEI:
-   - * Estes órgãos devem desenvolver uma Solução de Integração própria, respeitando os padrões de interoperabilidade da solução. A documentação de suporte para este desenvolvimento está disponível na página de `Material de Apoio do Tramita GOV.BR <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br>`_. Nesta página, também está disponível o `Manual de Utilização da API <https://github.com/supergovbr/mod-sei-pen>`_, o qual está dividido em sete partes. Ao concluir o download de todas as partes, é preciso abrir o primeiro arquivo com o software de compactação/descompactação de arquivos de sua preferência e, em seguida, extrair todo o seu conteúdo para uma pasta selecionada.
+   - * Estes órgãos devem desenvolver uma Solução de Integração própria, respeitando os padrões de interoperabilidade da solução. A documentação de suporte para este desenvolvimento está disponível na página de `Material de Apoio do Tramita GOV.BR <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br>`_. Nesta página, também está disponível o `Manual de Utilização da API <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/USAGE.md>`_, o qual está dividido em sete partes. Ao concluir o download de todas as partes, é preciso abrir o primeiro arquivo com o software de compactação/descompactação de arquivos de sua preferência e, em seguida, extrair todo o seu conteúdo para uma pasta selecionada.
 
 Quais Sistemas de Processo Eletrônico já estão integrados à plataforma?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -28,7 +28,7 @@ Quais Sistemas de Processo Eletrônico já estão integrados à plataforma?
 * Sistema Eletrônico de Informações (SEI);
 * `Sistema Integrado de Gestão de Patrimônio, Administração e Contratos <https://sipac.ufrn.br/public/jsp/portal.jsf>`_ (SIPAC);
 * `Sistema Unificado de Administração Pública <https://portal.suap.ifrn.edu.br/>`_ (SUAP);
-* `Sistema AGU de Inteligência Jurídica <http://xn--sistema%20agu%20de%20inteligncia%20jurdica-b0d6l/>`_ (Sapiens).
+* `Sistema AGU de Inteligência Jurídica <https://www.gov.br/agu/pt-br/sapiens-1/super-sapiens>`_ (Sapiens).
 A relação de todos os SPEs já integrados à plataforma, por sua vez, está disponível em uma `lista pública <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/conteudo/barramento-de-servicos/sistemas-integrados-ao-tramita-gov.br>`_, atualizada periodicamente. 
 
 Em quais órgãos o Tramita GOV.BR está presente?
