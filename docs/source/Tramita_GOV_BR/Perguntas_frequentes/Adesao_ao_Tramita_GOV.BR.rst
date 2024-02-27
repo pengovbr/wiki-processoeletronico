@@ -62,9 +62,9 @@ Existe Material de Apoio que oriente na implantação à plataforma?
 
 Sim, na página oficial do Tramita GOV.BR existe um espaço destinado à disponibilização dos mais variados `materiais de apoio <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br>`_. Nela, encontram-se disponíveis: 
 
-* O `Manual Técnico Operacional do Tramita GOV.BR <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/arquivos/tramita-gov-br-documentos/Manual_Tecnico_Operacional_do_Tramita.GOV.BR.pdf>`_;
+* O `Manual Técnico Operacional do Tramita GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/index.html>`_;
 * O `Manual de Instalação do Módulo Tramita GOV.BR <https://github.com/supergovbr/mod-sei-pen>`_;
-* O `Manual de Utilização da API <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/USAGE.md>`_;
+* O `Manual de Utilização da API <https://homolog.wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Documentacao_de_Apoio.html>`_;
 
 Demais documentos relacionados ao:
 
