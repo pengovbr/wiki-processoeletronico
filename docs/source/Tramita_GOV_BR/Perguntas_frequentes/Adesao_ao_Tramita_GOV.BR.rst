@@ -64,7 +64,7 @@ Sim, na página oficial do Tramita GOV.BR existe um espaço destinado à disponi
 
 * O `Manual Técnico Operacional do Tramita GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/index.html>`_;
 * O `Manual de Instalação do Módulo Tramita GOV.BR <https://github.com/supergovbr/mod-sei-pen>`_;
-* O `Manual de Utilização da API <https://homolog.wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Documentacao_de_Apoio.html>`_;
+* O `Manual de Utilização da API <https://wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Documentacao_de_Apoio.html>`_;
 
 Demais documentos relacionados ao:
 

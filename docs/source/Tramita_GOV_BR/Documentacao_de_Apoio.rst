@@ -4,7 +4,7 @@ Documentação de Apoio
 FAQ
 ++++
  
-- `FAQ <https://homolog.wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_
+- `FAQ <https://wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_
 
 Manuais
 +++++++
