@@ -18,7 +18,7 @@ A utilização de um mesmo certificado digital em ambientes distintos é uma pr�
 Como solicitar acesso ao Ambiente de Homologação do Portal de Administração?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-NPara acessar o Ambiente de Homologação da plataforma, basta solicitar o acesso pelo link `Solicitar Acesso ao Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_ , na página principal do Portal de Administração. 
+Para acessar o Ambiente de Homologação da plataforma, basta solicitar o acesso pelo link `Solicitar Acesso ao Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_ , na página principal do Portal de Administração. 
 
 Quais são os Endereços dos Serviços utilizados na configuração em ambiente de homologação?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

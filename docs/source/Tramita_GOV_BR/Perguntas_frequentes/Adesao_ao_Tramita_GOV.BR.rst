@@ -8,8 +8,8 @@ Como o órgão pode aderir ao Tramita GOV.BR?
    :header-rows: 1
    
    - * Integrantes do SISG
-   - * 1. Acessar o `Portal de Administração do Tramita GOV.BR <https://gestaopen.processoeletronico.gov.br/>`_
-   - * 2. Clicar em `Solicitar Acesso ao Tramita GOV.BR <https://gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_
+   - * 1. Acessar o `Portal de Administração do Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/>`_
+   - * 2. Clicar em `Solicitar Acesso ao Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_
    - * 3. Preencher as informações solicitadas; 
    - * 4. Anexar documento comprobatório;
    - * 5. Anexar documentos pessoais; 
@@ -21,8 +21,8 @@ Como o órgão pode aderir ao Tramita GOV.BR?
    - * Não integrantes do SISG
 
    - * 1. Baixar e assinar o Termo de Adesão;
-   - * 2. Acessar o `Portal de Administração do Tramita GOV.BR <https://gestaopen.processoeletronico.gov.br/>`_; 
-   - * 3. Clicar em `Solicitar Acesso ao Tramita GOV.BR <https://gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_;
+   - * 2. Acessar o `Portal de Administração do Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/>`_; 
+   - * 3. Clicar em `Solicitar Acesso ao Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_;
    - * 4. Preencher as informações solicitadas;
    - * 5. Anexar documento que comprova a competência para assinatura do Termo + Termo de Adesão devidamente assinado;
    - * 6. Submeter a solicitação para apreciação da equipe do Tramita GOV.BR (Clicar em Solicitar).
