@@ -17,4 +17,4 @@ Para registrar uma solicitação, siga as seguintes etapas:
 
 4. Descrever o problema e incluir evidências, captura das telas (print screen) e detalhes que ajudem a explicar a demanda no chamado.
 
-Caso não tenha acesso, cadastre-se e abra o seu chamado clicando aqui: `gov.br/centraldeatendimento <https://portaldeservicos.economia.gov.br/>`_. Mais informações sobre a abertura de chamado e sobre a Central, acesse o `FAQ da Central <https://homolog.wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_ em gov.br/centraldeatendimento.
+Caso não tenha acesso, cadastre-se e abra o seu chamado clicando aqui: `gov.br/centraldeatendimento <https://portaldeservicos.economia.gov.br/>`_. Mais informações sobre a abertura de chamado e sobre a Central, acesse o `FAQ da Central <https://www.gov.br/governodigital/pt-br/atendimento-gov.br>`_ em gov.br/centraldeatendimento.
