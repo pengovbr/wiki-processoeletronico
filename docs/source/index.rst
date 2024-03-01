@@ -1,16 +1,16 @@
 
-.. figure:: _static/images/WIKI-PEN_1.png
+.. figure:: _static/images/WIKI-Tramita GOV.BR_1.png
 
 
-WIKI - Processo Eletrônico Nacional
+WIKI - Tramita GOV.BR
 ===================================
 
 
-Este ambiente tem o objetivo de ser o repositório de informações e conhecimentos relacionados à solução de erros ou comportamentos indesejados, conhecidos e já sanados, das soluções que integram o ecossistema do Processo Eletrônico Nacional (PEN).
+Este ambiente tem o objetivo de ser o repositório de informações e conhecimentos relacionados à solução de erros ou comportamentos indesejados, conhecidos e já sanados, das soluções que integram o ecossistema do Tramita GOV.BR.
 
-Tal Repositório será organizado por solução e será construído de forma colaborativa pela equipe DTGES, central de atendimento e rede PEN.
+Tal Repositório será organizado por solução e será construído de forma colaborativa pela equipe DTGES, central de atendimento e rede Tramita GOV.BR.
 
-A equipe do PEN construiu este material pensando em você! Esperamos que possa auxiliá-lo na resolução de questões relativas às soluções PEN.
+A equipe do Tramita GOV.BR construiu este material pensando em você! Esperamos que possa auxiliá-lo na resolução de questões relativas às soluções Tramita GOV.BR.
 
 .. toctree::
    :hidden:

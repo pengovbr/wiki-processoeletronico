@@ -1,11 +1,11 @@
 Tramita.GOV.BR
 ==============
 
-O **Tramita.GOV.BR** (anteriormente, Barramento de Serviços do PEN) destina-se à tramitação de processos administrativos eletrônicos e documentos avulsos, em meio eletrônico, entre os diversos Sistemas de Processo Administrativo Eletrônico (SPE) existentes, com incrementos de segurança, integridade, agilidade e redução de custos no serviço público.
+O **Tramita.GOV.BR** (anteriormente, Barramento de Serviços do Tramita GOV.BR) destina-se à tramitação de processos administrativos eletrônicos e documentos avulsos, em meio eletrônico, entre os diversos Sistemas de Processo Administrativo Eletrônico (SPE) existentes, com incrementos de segurança, integridade, agilidade e redução de custos no serviço público.
 
 A adoção da plataforma se traduz em um significativo impacto em termos de agilidade e capilaridade da Administração Pública,  visto que o Tramita.GOV.BR possibilita a interoperabilidade entre os mais diversos sistemas utilizados pelos órgãos e entidades da Administração Pública.
 
-Maiores informações sobre o **Tramita.GOV.BR** podem ser consultadas no `Portal do Processo Eletrônico Nacional <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_
+Maiores informações sobre o **Tramita.GOV.BR** podem ser consultadas no `Portal do Tramita GOV.BR <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_
 
 
 Documentação de Apoio
@@ -164,7 +164,7 @@ Quando Ocorre
 
 Este caso pode ocorrer da seguinte forma:
  
-O sistema REMETENTE utilizar um Tipo de Processo específico dele, por exemplo 'Ofício Especial Xyz' que não existe nos Tipos de Processo do Destinatário, neste caso o SEI/Super de Destino irá tentar utilizar o 'Tipo de Processo Externo' indicado na tela de Parâmetros de Configuração do PEN:
+O sistema REMETENTE utilizar um Tipo de Processo específico dele, por exemplo 'Ofício Especial Xyz' que não existe nos Tipos de Processo do Destinatário, neste caso o SEI/Super de Destino irá tentar utilizar o 'Tipo de Processo Externo' indicado na tela de Parâmetros de Configuração do Tramita GOV.BR:
  
 
 .. figure:: _static/images/tela_parametros_configuracao.png
@@ -180,7 +180,7 @@ Ao tentar receber um processo externo e utilizar este tipo externo configurado, 
 Solução Sugerida  
 ~~~~~~~~~~~~~~~~
 
-Alterar no cadastro do 'Tipo de Processo' que foi utilizado como o padrão na tela de Parâmetros de Configuração do módulo PEN do DESTINATÁRIO, associando uma 'Sugestão de Assuntos' para que seja usada nestes casos de recebimento de tipo de processo diferentes dos existentes no destinatário conforme o exemplo abaixo:
+Alterar no cadastro do 'Tipo de Processo' que foi utilizado como o padrão na tela de Parâmetros de Configuração do módulo Tramita GOV.BR do DESTINATÁRIO, associando uma 'Sugestão de Assuntos' para que seja usada nestes casos de recebimento de tipo de processo diferentes dos existentes no destinatário conforme o exemplo abaixo:
  
 .. figure:: _static/images/Tela_alterar_tipo_processo_solucao.png
 
@@ -436,19 +436,19 @@ Material construído conforme o conteúdo abordado nos treinamentos/apresentaç�
 
 
 
-Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde
+Falha de comunicação com o Tramita GOV.BR. Por favor, tente novamente mais tarde
 -----------------------------------------------------------------------------------------------
 
 Situação  
 ~~~~~~~~
 
-Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde
+Falha de comunicação com o Tramita GOV.BR. Por favor, tente novamente mais tarde
 
 
 Quando Ocorre
 ~~~~~~~~~~~~~~
 
-Quando um usuário tenta remeter um processo pelo Tramita.GOV.BR, o sistema não permite o trâmite e exibe a mensagem: “Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde.”
+Quando um usuário tenta remeter um processo pelo Tramita.GOV.BR, o sistema não permite o trâmite e exibe a mensagem: “Falha de comunicação com o Tramita GOV.BR. Por favor, tente novamente mais tarde.”
 
 Esta falha ocorre quando o módulo não consegue estabelecer conexão com os serviços do Tramita.gov.br e pode se dar pelos seguintes motivos:
 
@@ -724,7 +724,7 @@ Para calcular hash de todos na pasta criar um arquivo calculaHash.sh:
 
 for f in * do echo "Processing $f" cat $f | openssl dgst -binary -sha256 | base64 echo "" done
  
-E rodar com 'bash calculaHash.sh'. Comparar com a listagem no painel do PEN para verificar ordens e erros.
+E rodar com 'bash calculaHash.sh'. Comparar com a listagem no painel do Tramita GOV.BR para verificar ordens e erros.
  
 Caso o hash não esteja igual, abra em um editor de texto e procure a diferença:
  
@@ -870,11 +870,11 @@ Script para testar com usuário casos de não execução do agendamento do SEI v
 
 * Caso a máquina seja de desenvolvimento e fruto de clone da máquina de producao, avaliar se a configuração está correta no ConfiguracaoSEI.php(endereços de certificados, URL de serviços, etc).
 
-* Caso sua instalação do PHP possua mais de 1 php.ini (por exemplo em distribuições DEBIAN, ou em instalações onde o php.ini não está em /etc/php.ini), favor atualizar módulo do PEN para versão superior a 2.1.3.
+* Caso sua instalação do PHP possua mais de 1 php.ini (por exemplo em distribuições DEBIAN, ou em instalações onde o php.ini não está em /etc/php.ini), favor atualizar módulo do Tramita GOV.BR para versão superior a 2.1.3.
 
 * Caso o servidor do SEI utilize um proxy, liberar o acesso direto à internet do mesmo.
 
-* No front-end do SEI acessar Infra>Agendameento e verificar se as configurações do PENAgendamentoRN :: processarTarefasPEN estão corretas:
+* No front-end do SEI acessar Infra>Agendameento e verificar se as configurações do Tramita GOV.BRAgendamentoRN :: processarTarefasTramita GOV.BR estão corretas:
   
   - Atenção para a periodicidade ser MINUTO e o penúltimo botão estar ATIVADO.
 
@@ -886,7 +886,7 @@ Script para testar com usuário casos de não execução do agendamento do SEI v
 
 * Acessar o servidor e rodar os seguintes scripts:
 
-/usr/bin/php -c /etc/php.ini XXXX/scripts/mod-pen/MonitoramentoTarefasPEN.php
+/usr/bin/php -c /etc/php.ini XXXX/scripts/mod-pen/MonitoramentoTarefasTramita GOV.BR.php
 
 /usr/bin/php -c /etc/php.ini XXXX/scripts/mod-pen/verifica_instalacao_modulo_pen.php
 
@@ -894,7 +894,7 @@ Script para testar com usuário casos de não execução do agendamento do SEI v
 
 /usr/bin/php -c /etc/php.ini XXXX/scripts/AgendamentoTarefaSEI.php
 
-* Avaliar no front-end do SEI se no menu Infra>Agendamento houve atualização do horário no agendamento da tarefa PENAgendamentoRN :: processarTarefasPEN.
+* Avaliar no front-end do SEI se no menu Infra>Agendamento houve atualização do horário no agendamento da tarefa Tramita GOV.BRAgendamentoRN :: processarTarefasTramita GOV.BR.
 
 * Avaliar se existem logs em Infra>Logs e analisar.
 
@@ -948,7 +948,7 @@ curl--cert/opt/sei/config/mod-pen/certificado.pem:SENHA https://homolog.api.proc
  
 * Avaliar se existem logs em Infra>Logs e analisar.
 
-* Caso execute com sucesso até esta etapa, e mesmo assim não tramite processos, entrar em contato com o suporte PEN.
+* Caso execute com sucesso até esta etapa, e mesmo assim não tramite processos, entrar em contato com o suporte Tramita GOV.BR.
 
 
 Modelo de Resposta para Chamados  
@@ -1002,11 +1002,11 @@ Não se aplica.
 Solução Sugerida
 ~~~~~~~~~~~~~~~~
 
-No MME percebemos que na atualização para a versão 3.1.6 do SEI e 2.1.4 do módulo o CentOS por algum motivo não finalizou processos dos workers do gearman. Assim, a cada chamada ao MonitoramentoTarefasPEN.php, ele verifica o número de workers ativos, como já existiam rodando 4 workers, o modulo não iniciava outros para processar as pendências.
+No MME percebemos que na atualização para a versão 3.1.6 do SEI e 2.1.4 do módulo o CentOS por algum motivo não finalizou processos dos workers do gearman. Assim, a cada chamada ao MonitoramentoTarefasTramita GOV.BR.php, ele verifica o número de workers ativos, como já existiam rodando 4 workers, o modulo não iniciava outros para processar as pendências.
 
 * Para verificar se existem processos rodando:
 
-ps -aux |grep MonitoramentoTarefasPEN.php
+ps -aux |grep MonitoramentoTarefasTramita GOV.BR.php
 
 * E caso existam processos travados, rodar:
 
@@ -1174,7 +1174,7 @@ Não se aplica.
 Solução Sugerida
 ~~~~~~~~~~~~~~~~
 
-Nesses casos o erro que aparece é o ID do barramento, conforme o csv abaixo (tabela md_pen_especie_documental). Avaliar o ID que aparece e olhar no PEN > mapeamento se esse tipo está corretamente configurado. No caso que vimos o tipo estava errado, estava como Extratos (no plural) e esse tipo estava inativo no SEI do órgão existindo apenas o Extrato (singluar).
+Nesses casos o erro que aparece é o ID do barramento, conforme o csv abaixo (tabela md_pen_especie_documental). Avaliar o ID que aparece e olhar no Tramita GOV.BR > mapeamento se esse tipo está corretamente configurado. No caso que vimos o tipo estava errado, estava como Extratos (no plural) e esse tipo estava inativo no SEI do órgão existindo apenas o Extrato (singluar).
 
 
 id_especie,nome_especie
@@ -1771,7 +1771,7 @@ Quando olhamos o agendamento no sei, tem na descrição um parâmetro WORKER, po
 Assim, se no minuto X os 9 paralelos estão executando, no próximo minuto do agendamento ele não vai chamar mais processos paralelos
 Podemos olhar se tem processos com tempo de vida muito grande:
 
-ps -aux |grep MonitoramentoTarefasPEN.php
+ps -aux |grep MonitoramentoTarefasTramita GOV.BR.php
 
 Isso pode significar que podem estar travados, assim executamos o kill
 
@@ -2130,7 +2130,7 @@ Falha ao conectar ao barramento mesmo com script de validação com sucesso
 Quando Ocorre
 ~~~~~~~~~~~~~~
 
-Esse erro ocorreu na PR, onde o script de instalação estava rodando corretamente. Ao testar o "php /opt/sei/scripts/mod-pen/MonitoramentoTarefasPEN.php" pela CLI, o resultado era correto também, trazendo as pendências. Porém, pelo front end parecia que o SEI não se conectava ao barramento.
+Esse erro ocorreu na PR, onde o script de instalação estava rodando corretamente. Ao testar o "php /opt/sei/scripts/mod-pen/MonitoramentoTarefasTramita GOV.BR.php" pela CLI, o resultado era correto também, trazendo as pendências. Porém, pelo front end parecia que o SEI não se conectava ao barramento.
 
 
 Solução Sugerida

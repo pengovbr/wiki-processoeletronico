@@ -1,16 +1,16 @@
-2023.05.08-Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde-V1
+2023.05.08-Falha de comunicação com o Tramita GOV.BR. Por favor, tente novamente mais tarde-V1
 ============================================================================================================
 
 Situação  
 ~~~~~~~~
 
-Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde
+Falha de comunicação com o Tramita GOV.BR. Por favor, tente novamente mais tarde
 
 
 Quando Ocorre
 ~~~~~~~~~~~~~~
 
-Quando um usuário tenta remeter um processo pelo Tramita.GOV.BR, o sistema não permite o trâmite e exibe a mensagem: “Falha de comunicação com o Processo Eletrônico Nacional. Por favor, tente novamente mais tarde.”
+Quando um usuário tenta remeter um processo pelo Tramita.GOV.BR, o sistema não permite o trâmite e exibe a mensagem: “Falha de comunicação com o Tramita GOV.BR. Por favor, tente novamente mais tarde.”
 
 Esta falha ocorre quando o módulo não consegue estabelecer conexão com os serviços do Tramita.gov.br e pode se dar pelos seguintes motivos:
 

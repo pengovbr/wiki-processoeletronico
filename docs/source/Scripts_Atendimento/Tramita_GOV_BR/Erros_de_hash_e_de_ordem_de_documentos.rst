@@ -54,7 +54,7 @@ Para calcular hash de todos na pasta criar um arquivo calculaHash.sh:
 
 for f in * do echo "Processing $f" cat $f | openssl dgst -binary -sha256 | base64 echo "" done
  
-E rodar com 'bash calculaHash.sh'. Comparar com a listagem no painel do PEN para verificar ordens e erros.
+E rodar com 'bash calculaHash.sh'. Comparar com a listagem no painel do Tramita GOV.BR para verificar ordens e erros.
  
 Caso o hash não esteja igual, abra em um editor de texto e procure a diferença:
  

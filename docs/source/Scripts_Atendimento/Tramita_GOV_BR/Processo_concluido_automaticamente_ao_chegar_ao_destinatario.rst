@@ -11,7 +11,7 @@ Quando Ocorre
 
 Por alguma característica do SEI, a integração do Tramita ao Sistema não executa a operação de envio do mesmo jeito que o sistema executa em trâmites internos. Ao consultar o andamento, nota-se que ao enviar o processo de uma unidade pra outra, o sistema envia o processo e (a menos que você mantenha aberto o processo na unidade) conclui automaticamente na unidade remetente. Por essa limitação, o Tramita.GOV.BR, depois que gera o processo na unidade indicada como "Unidade SEI para Representação de Órgãos Externos", faz duas operações separadas: 1ª) ele envia o processo. 2ª) Ele conclui na unidade remetente. 
 
-O problema começa a surgir quando os administradores cadastram, no menu "Administração > Processo Eletrônico Nacional > Parâmetros de Configuração do Módulo de Tramitações PEN", nesse parâmetro "Unidade SEI para Representação de Órgãos Externos", uma unidade já em uso no sistema, como o Protocolo Central etc. e NÃO uma unidade específica para o Tramita, como solicita o Manual. Ele recomenda que, os dados da unidade a ser criada SÓ pra gerar os processos do Tramita: "sigla = Tramita.GOV.BR, nome: Processo recebido via Tramita.GOV.BR" (cadastrado dessa forma, fica mais fácil para o usuário, ao visualizar o andamento, entender que se trata de um processo que veio via Tramita).
+O problema começa a surgir quando os administradores cadastram, no menu "Administração > Tramita GOV.BR > Parâmetros de Configuração do Módulo de Tramitações Tramita GOV.BR", nesse parâmetro "Unidade SEI para Representação de Órgãos Externos", uma unidade já em uso no sistema, como o Protocolo Central etc. e NÃO uma unidade específica para o Tramita, como solicita o Manual. Ele recomenda que, os dados da unidade a ser criada SÓ pra gerar os processos do Tramita: "sigla = Tramita.GOV.BR, nome: Processo recebido via Tramita.GOV.BR" (cadastrado dessa forma, fica mais fácil para o usuário, ao visualizar o andamento, entender que se trata de um processo que veio via Tramita).
 
 Solução Sugerida
 ~~~~~~~~~~~~~~~~~~
@@ -44,7 +44,7 @@ Solicito que verifique se a configuração do módulo do Tramita GOV.BR em seu s
 
 Para contextualizar a questão, por alguma característica do SEI, a integração do Tramita ao Sistema não executa a operação de envio do mesmo jeito que o sistema executa em trâmites internos. Ao consultar o andamento, nota-se que ao enviar o processo de uma unidade pra outra, o sistema envia o processo e (a menos que você mantenha aberto o processo na unidade) conclui automaticamente na unidade remetente. Por essa limitação, o Tramita.GOV.BR, depois que gera o processo na unidade indicada como "Unidade SEI para Representação de Órgãos Externos", faz duas operações separadas: 1ª) ele envia o processo. 2ª) Ele conclui na unidade remetente. 
 
-O problema começa a surgir quando os administradores cadastram, no menu "Administração > Processo Eletrônico Nacional > Parâmetros de Configuração do Módulo de Tramitações PEN", nesse parâmetro "Unidade SEI para Representação de Órgãos Externos", uma unidade já em uso no sistema, como o Protocolo Central etc. e NÃO uma unidade específica para o Tramita, como solicita o Manual. Ele recomenda que, os dados da unidade a ser criada SÓ pra gerar os processos do Tramita: "sigla = Tramita.GOV.BR, nome: Processo recebido via Tramita.GOV.BR" (cadastrado dessa forma, fica mais fácil para o usuário, ao visualizar o andamento, entender que se trata de um processo que veio via Tramita). 
+O problema começa a surgir quando os administradores cadastram, no menu "Administração > Tramita GOV.BR > Parâmetros de Configuração do Módulo de Tramitações Tramita GOV.BR", nesse parâmetro "Unidade SEI para Representação de Órgãos Externos", uma unidade já em uso no sistema, como o Protocolo Central etc. e NÃO uma unidade específica para o Tramita, como solicita o Manual. Ele recomenda que, os dados da unidade a ser criada SÓ pra gerar os processos do Tramita: "sigla = Tramita.GOV.BR, nome: Processo recebido via Tramita.GOV.BR" (cadastrado dessa forma, fica mais fácil para o usuário, ao visualizar o andamento, entender que se trata de um processo que veio via Tramita). 
 
 Após a contextualização, temos o seguinte caminho: 
 
@@ -61,7 +61,7 @@ Após a contextualização, temos o seguinte caminho:
 
 Após essas etapas a situação do processo é “Concluído” 
 
-Para saber mais sobre as ações do PEN, acesse gov.br/pen 
+Para saber mais sobre as ações do Tramita GOV.BR, acesse gov.br/pen 
   
 
 Atenciosamente, 

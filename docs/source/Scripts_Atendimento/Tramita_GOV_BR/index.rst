@@ -31,7 +31,7 @@ TRAMITA.GOV.BR
    Processos_concluidos_automaticamente_na_chegada_da_Tramitacao
    Processo_parado_no_status_2
    Processo_parado_no_Status_5
-   Recibo_de_conclusao_de_tramite–PEN
+   Recibo_de_conclusao_de_tramite–Tramita GOV.BR
    Solicitacao_de_atualizacao_da_versao_do_Modulo_do_Tramita
    Tipo_de_documento_Especie_XX_nao_encontrado
    Update_em_NRE_errado

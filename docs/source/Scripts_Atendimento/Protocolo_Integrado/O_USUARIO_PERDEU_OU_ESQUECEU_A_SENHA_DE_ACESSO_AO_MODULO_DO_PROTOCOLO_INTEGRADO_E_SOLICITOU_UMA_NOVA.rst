@@ -21,7 +21,7 @@ Modelo de Resposta para Chamados
 
 Resposta 01: 
 
-Prezado(a) senhor(a) (inserir aqui nome do usuário), conforme solicitado através deste chamado de número ________ , informamos que sua demanda será encaminhada à equipe do PEN para geração de uma nova senha de acesso, pedimos que aguarde.  
+Prezado(a) senhor(a) (inserir aqui nome do usuário), conforme solicitado através deste chamado de número ________ , informamos que sua demanda será encaminhada à equipe do Tramita GOV.BR para geração de uma nova senha de acesso, pedimos que aguarde.  
 
 Atenciosamente, 
 
@@ -55,4 +55,4 @@ Protocolo Integrado, Senha de acesso Protocolo Integrado, senha de acesso.
 Referências  
 ~~~~~~~~~~~~
 
-Script elaborado pela equipe do PEN.
+Script elaborado pela equipe do Tramita GOV.BR.

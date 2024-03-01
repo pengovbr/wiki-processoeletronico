@@ -25,7 +25,7 @@ Prezado(a) senhor(a) (inserir aqui nome do usuário), conforme solicitado atrav�
 
 https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/conteudo/protocolo-integrado-1/solicitacao-de-credenciais-para-uso-do-web-service
 
-Informamos que, após o(a) senhor(a) enviar a referida portaria, sua demanda será encaminhada à equipe do PEN para a atualização das informações pertinentes e geração de novas credenciais de acesso. 
+Informamos que, após o(a) senhor(a) enviar a referida portaria, sua demanda será encaminhada à equipe do Tramita GOV.BR para a atualização das informações pertinentes e geração de novas credenciais de acesso. 
 
 Resposta 02 (após PO do Protocolo Integrado confirmar a atualização das informações e geração das novas credenciais de acesso: 
 

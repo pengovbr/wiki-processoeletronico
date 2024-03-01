@@ -28,9 +28,9 @@ O usuário que solicitar orientações para consultar ou identificar código do 
    
    1.2) Basta inserir o nome do órgão ou do gestor e verificar a coluna NUP com a marcação “SIM”. 
 
-   1.3) Em seguida, entrar em contato com o gestor pelo telefone e e-mail cadastrado, pois esse cadastro é realizado pelos órgãos e entidades e não pelo PEN. 
+   1.3) Em seguida, entrar em contato com o gestor pelo telefone e e-mail cadastrado, pois esse cadastro é realizado pelos órgãos e entidades e não pelo Tramita GOV.BR. 
 
-   2) Caso o usuário informe que não obteve retorno do seu órgão, registre o chamado e atribua para o Nível 3 PEN 
+   2) Caso o usuário informe que não obteve retorno do seu órgão, registre o chamado e atribua para o Nível 3 Tramita GOV.BR 
  
 Demais endereços de consulta e material de apoio do NUP: 
 
@@ -70,4 +70,4 @@ NUP; consultar código.
 Referências  
 ~~~~~~~~~~~~
 
-Script construído pela equipe PEN. 
+Script construído pela equipe Tramita GOV.BR. 

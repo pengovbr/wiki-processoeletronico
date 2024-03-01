@@ -5,7 +5,7 @@ O **Protocolo.GOV.BR** (antigo Protocolo Digital) foi instituído a partir da Po
 
 O objetivo da solução é auxiliar no processo de digitalização do serviço de atendimento de protocolo prestado à sociedade. Assim, pessoas físicas ou jurídicas, interessadas ou não, podem protocolar eletronicamente documentos e requerimentos para os órgãos e entidades, diretamente no portal de serviços Gov.BR.
 
-Maiores informações sobre o **Protocolo.GOV.BR** podem ser consultadas no `Portal do Processo Eletrônico Nacional <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_
+Maiores informações sobre o **Protocolo.GOV.BR** podem ser consultadas no `Portal do Tramita GOV.BR <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_
 
 
 Documentação de Apoio
