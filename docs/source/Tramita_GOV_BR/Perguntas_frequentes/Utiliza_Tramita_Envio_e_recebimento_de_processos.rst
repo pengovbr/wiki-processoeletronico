@@ -139,19 +139,6 @@ Atualmente estão definidos dez tipos de status, os quais representam situaçõe
 
 São eles:
 
-.. list-table::
-   :header-rows: 1
-   
-   - * Status 1
-   - * Descrição 
-     * Aguardando o envio dos arquivos digitais 
-   - * O que signifca o status? 
-     * As informações básicas (número, descrição, interessado, relação de documentos etc.) foram fornecidas e recebidas pelo Tramita GOV.BR, porém o sistema está aguardando o envio dos arquivos 
-   - * Onde está o processo?
-     * Sistema de processo eletrônico de origem 
-   - * O que pode ser feito?
-     * O trâmite do processo pode ser cancelado manualmente pelo usuário do sistema de origem.
-
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Status 1                                                                                                                                                                                                            | 
 +========================+============================================================================================================================================================================================+
