@@ -475,7 +475,7 @@ Maiores informações acerca deste procedimento podem ser encontradas no `FAQ do
 
 2. Os servidores de aplicação do SEI não confiam no Certificado Digital utilizado na criptografia do protocolo HTTPS do Tramita.GOV.BR: 
 
-A partir da versão 3.2.2 do módulo de integração do SEI com o Tramita.GOV.BR (mod-sei-pen), o módulo passou a forçar a validação da confiabilidade do certificado digital utilizado pela API do Tramita.GOV.BR. Desta forma, caso o servidor do SEI não confie no certificado utilizado pelo Tramita.GOV.BR (Let's Encrypt), irá ser apresentado o erro em questão. 
+A partir da versão 3.2.2 do módulo de integração do SEI com o Tramita.GOV.BR (mod-sei-tramitagovbr), o módulo passou a forçar a validação da confiabilidade do certificado digital utilizado pela API do Tramita.GOV.BR. Desta forma, caso o servidor do SEI não confie no certificado utilizado pelo Tramita.GOV.BR (Let's Encrypt), irá ser apresentado o erro em questão. 
 
 Para resolver o problema, a equipe de operações deverá atualizar os servidores do SEI para confiar nos certificados Let's Encrypt utilizados pela API de serviços. 
 
