@@ -3,7 +3,7 @@ Ainda tenho dúvida(s)
 
 Ainda tenho dúvida(s)  
 
-Sem problemas! Registre um chamado na **Central de Atendimento do PEN** e contribua para a melhoria do FAQ/Perguntas de Respostas do Tramita GOV.BR.
+Sem problemas! Registre um chamado na **Central de Atendimento do Tramita GOV.BR** e contribua para a melhoria do FAQ/Perguntas de Respostas do Tramita GOV.BR.
 
 O canal de comunicação oficial do Processo Eletrônico Nacional é o `Portal de Serviços <https://portaldeservicos.economia.gov.br/>`_.
 
