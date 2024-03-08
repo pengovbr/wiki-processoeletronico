@@ -51,17 +51,17 @@ Pensando em uma melhor ambientação com a plataforma, o PEN disponibiliza quatr
 
 Na relação abaixo, estão dispostas informações a respeito de cada um dos ambientes de teste.
 
-+---------+--------+--------+----------------------------------------------------------+--------------------------+-----------------------------------------------+--------------------------+----------------+
-| Sistema | Versão | Módulo |         URL                                              | Repositório              | Unidade                                       | Usuário                  | Senha          |
-+=========+========+========+==========================================================+==========================+===============================================+==========================+================+
-|  SEI    | 4.0.12 | 3.5.0  |  https://sei.orgao1.tramita.processoeletronico.gov.br/   | Órgãos/ Entidades Legado | sei.orgao1.tramita.processoeletronico.gov.br  | usuariobasicoseiorgao101 | orgao1/orgao1  |                                                                                                        
-+         +--------+--------+----------------------------------------------------------+                          +-----------------------------------------------+--------------------------+----------------+
-|         | 4.0.11 | 3.5.0  |  https://sei.orgao2.tramita.processoeletronico.gov.br/   |                          | sei.orgao2.tramita.processoeletronico.gov.br  | usuariobasicoseiorgao201 | orgao2/orgao2  |
-+         +--------+--------+----------------------------------------------------------+                          +-----------------------------------------------+--------------------------+----------------+
-|         | 3.1.7  | 3.5.0  |  https://sei.orgao3.tramita.processoeletronico.gov.br/   |                          | sei.orgao3.tramita.processoeletronico.gov.br  | usuariobasicoseiorgao301 | orgao3/orgao3  |
-+         +--------+--------+----------------------------------------------------------+                          +-----------------------------------------------+--------------------------+----------------+
-|         | 4.0.3  | 3.5.0  |  https://sei.orgao4.tramita.processoeletronico.gov.br/   |                          | sei.orgao4.tramita.processoeletronico.gov.br  | usuariobasicoseiorgao401 | orgao4/orgao4  |
-+---------+--------+--------+----------------------------------------------------------+--------------------------+-----------------------------------------------+--------------------------+----------------+
++---------+--------+--------+----------------------------------------------------------+--------------------------+-----------------------------------------------+----------+---------+
+| Sistema | Versão | Módulo |         URL                                              | Repositório              | Unidade                                       | Usuário  | Senha   |
++=========+========+========+==========================================================+==========================+===============================================+==========+=========+
+|  SEI    | 4.0.11 | 3.5.0  |  https://sei.orgao1.tramita.processoeletronico.gov.br/   | Órgãos/ Entidades Legado | sei.orgao1.tramita.processoeletronico.gov.br  | orgao1   | orgao1  |                                                                                                        
++         +--------+--------+----------------------------------------------------------+                          +-----------------------------------------------+----------+---------+
+|         | 4.0.11 | 3.5.0  |  https://sei.orgao2.tramita.processoeletronico.gov.br/   |                          | sei.orgao2.tramita.processoeletronico.gov.br  | orgao2   | orgao2  |
++         +--------+--------+----------------------------------------------------------+                          +-----------------------------------------------+----------+---------+
+|         | 3.1.7  | 3.5.0  |  https://sei.orgao3.tramita.processoeletronico.gov.br/   |                          | sei.orgao3.tramita.processoeletronico.gov.br  | orgao3   | orgao3  |
++         +--------+--------+----------------------------------------------------------+                          +-----------------------------------------------+----------+---------+
+|         | 4.0.3  | 3.5.0  |  https://sei.orgao4.tramita.processoeletronico.gov.br/   |                          | sei.orgao4.tramita.processoeletronico.gov.br  | orgao4   | orgao4  |
++---------+--------+--------+----------------------------------------------------------+--------------------------+-----------------------------------------------+----------+---------+
 
 Quais os requisitos para o órgão concluir o processo de homologação?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
