@@ -40,7 +40,7 @@ Não houve retorno à solicitação de acesso ao Tramita GOV.BR, o que pode ter 
 
 Não é comum que as solicitações de acesso permaneçam por um grande período **sem que haja uma devolutiva** da equipe responsável pela análise das solicitações. Entretanto, eventualmente é possível que situações como essa possam vir a acontecer, e geralmente os três motivos mais comuns para esse tipo de ocorrência estão relacionados: 
 
-À não conclusão da análise do pedido pela equipe do PEN, nesse caso é necessário apenas aguardar a conclusão; 
+À não conclusão da análise do pedido pela equipe do Tramita GOV.BR, nesse caso é necessário apenas aguardar a conclusão; 
 
 Ao não recebimento do e-mail de orientação, que pode ter sido enviado e não recebido pelo órgão, necessitando uma verificação interna junto ao setor de TI do órgão;
 

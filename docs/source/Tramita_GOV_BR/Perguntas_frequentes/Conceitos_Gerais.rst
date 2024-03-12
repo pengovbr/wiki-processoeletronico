@@ -35,7 +35,7 @@ O que é Solução de Integração com o Tramita GOV.BR?
 
 A **Solução de Integração** consiste, como o próprio nome diz, em uma solução responsável por realizar a interoperabilidade entre diferentes tipos de SPE com o Tramita GOV.BR. Ou seja, possibilita a conexão entre o SPE utilizado pelos órgãos e a plataforma. Dentre suas funcionalidades básicas, é possível citar o envio ou recebimento de processos eletrônicos.
 
-Um exemplo bastante usual a ser citado é o `Módulo de Integração do SEI ao Tramita GOV.BR (MOD-SEI-PEN) <https://github.com/pengovbr/mod-sei-pen>`_, que consiste na **Solução de Integração** do SEI com a plataforma. 
+Um exemplo bastante usual a ser citado é o `Módulo de Integração do SEI ao Tramita GOV.BR (MOD-SEI-TRAMITAGOVBR) <https://github.com/pengovbr/mod-sei-pen>`_, que consiste na **Solução de Integração** do SEI com a plataforma. 
 
 O que é Portal de Administração do Tramita GOV.BR?
 ++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -70,7 +70,7 @@ Em contraste, o SPE pode ser implementado em uma infraestrutura externa, que nã
 O que é um Órgão em Implantação?
 ++++++++++++++++++++++++++++++++
 
-O órgão é classificado com o status **em implantação** quando, após realizar a solicitação de acesso inicial ao ambiente de homologação do Portal de Administração do PEN, recebe autorização de acesso para iniciar os testes do Tramita GOV.BR. Esse status permanece até que todas as etapas dos testes obrigatórios em ambiente de produção sejam concluídas. 
+O órgão é classificado com o status **em implantação** quando, após realizar a solicitação de acesso inicial ao ambiente de homologação do Portal de Administração do Tramita GOV.BR, recebe autorização de acesso para iniciar os testes do Tramita GOV.BR. Esse status permanece até que todas as etapas dos testes obrigatórios em ambiente de produção sejam concluídas. 
 
 O que é um Órgão Implantado?
 +++++++++++++++++++++++++++++

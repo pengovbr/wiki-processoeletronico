@@ -67,7 +67,7 @@ Onde o usuário poderá pesquisar por meio do filtro “Nome do Órgão” ou �
 
 .. figure:: _static/images/Dados_dos_Gestores_do_Tramita.GOV.Br_e_NUP_FILTRO_Pesquisa.png
 
-Para saber mais sobre as ações do PEN, acesse gov.br/pen
+Para saber mais sobre as ações do Tramita GOV.BR, acesse gov.br/pen
 
 Atenciosamente, 
 

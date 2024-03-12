@@ -45,7 +45,7 @@ Os **endereços eletrônicos utilizados na configuração em ambiente de homolog
 Como acessar o ambiente de homologação destinado a testes de trâmite externo?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Pensando em uma melhor ambientação com a plataforma, o PEN disponibiliza quatro ambientes de testes para que os órgãos possam verificar todas as funcionalidades de seus SPEs, quando integrados à plataforma.
+Pensando em uma melhor ambientação com a plataforma, o Tramita GOV.BR disponibiliza quatro ambientes de testes para que os órgãos possam verificar todas as funcionalidades de seus SPEs, quando integrados à plataforma.
 
 É importante mencionar que os ambientes são exclusivamente desenvolvidos para a realização de testes, não estando aptos ou habilitados para qualquer outro tipo de finalidade processual. 
 

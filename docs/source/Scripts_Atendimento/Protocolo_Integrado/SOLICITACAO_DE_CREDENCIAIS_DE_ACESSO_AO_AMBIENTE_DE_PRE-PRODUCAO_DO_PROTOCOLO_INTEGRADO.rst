@@ -26,7 +26,7 @@ Resposta 01:
 
 “Prezado(a) senhor(a) (inserir aqui nome do usuário), conforme solicitado através deste chamado de número ________ , seguem as orientações para acesso ao ambiente de pré-produção do Protocolo Integrado: 
 
-O Órgão deve aguardar a geração das credenciais de acesso por parte da equipe do PEN e, enquanto isso, instalar o módulo em ambiente de produção conforme orientações detalhadas disponíveis no endereço https://github.com/supergovbr/mod-sei-protocolo-integrado/blob/master/docs/INSTALACAO.md 
+O Órgão deve aguardar a geração das credenciais de acesso por parte da equipe do Tramita GOV.BR e, enquanto isso, instalar o módulo em ambiente de produção conforme orientações detalhadas disponíveis no endereço https://github.com/supergovbr/mod-sei-protocolo-integrado/blob/master/docs/INSTALACAO.md 
 
 Atenciosamente, 
 
@@ -67,4 +67,4 @@ Referências 
 
 https://github.com/supergovbr/mod-sei-protocolo-integrado/blob/master/docs/INSTALACAO.md 
 
-https://mtegovbr.sharepoint.com/:x:/r/sites/CentraldeAtendimentoPEN/_layouts/15/WopiFrame2.aspx?action=edit&sourcedoc=%7BF15841DB-50C5-40F8-BDDC-089A4F32F15F%7D&wdOrigin=TEAMS-ELECTRON.null.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1690981627740&web=1&cid=b6836ffc-5051-4c3d-b282-1c869617edae
+https://mtegovbr.sharepoint.com/:x:/r/sites/CentraldeAtendimentoTramita GOV.BR/_layouts/15/WopiFrame2.aspx?action=edit&sourcedoc=%7BF15841DB-50C5-40F8-BDDC-089A4F32F15F%7D&wdOrigin=TEAMS-ELECTRON.null.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1690981627740&web=1&cid=b6836ffc-5051-4c3d-b282-1c869617edae

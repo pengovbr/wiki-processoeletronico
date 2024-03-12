@@ -22,11 +22,11 @@ Script para testar com usuário casos de não execução do agendamento do SEI v
 
 * Caso a máquina seja de desenvolvimento e fruto de clone da máquina de producao, avaliar se a configuração está correta no ConfiguracaoSEI.php(endereços de certificados, URL de serviços, etc).
 
-* Caso sua instalação do PHP possua mais de 1 php.ini (por exemplo em distribuições DEBIAN, ou em instalações onde o php.ini não está em /etc/php.ini), favor atualizar módulo do PEN para versão superior a 2.1.3.
+* Caso sua instalação do PHP possua mais de 1 php.ini (por exemplo em distribuições DEBIAN, ou em instalações onde o php.ini não está em /etc/php.ini), favor atualizar módulo do Tramita GOV.BR para versão superior a 2.1.3.
 
 * Caso o servidor do SEI utilize um proxy, liberar o acesso direto à internet do mesmo.
 
-* No front-end do SEI acessar Infra>Agendameento e verificar se as configurações do PENAgendamentoRN :: processarTarefasPEN estão corretas:
+* No front-end do SEI acessar Infra>Agendameento e verificar se as configurações do Tramita GOV.BRAgendamentoRN :: processarTarefasTramita GOV.BR estão corretas:
   
   - Atenção para a periodicidade ser MINUTO e o penúltimo botão estar ATIVADO.
 
@@ -38,7 +38,7 @@ Script para testar com usuário casos de não execução do agendamento do SEI v
 
 * Acessar o servidor e rodar os seguintes scripts:
 
-/usr/bin/php -c /etc/php.ini XXXX/scripts/mod-pen/MonitoramentoTarefasPEN.php
+/usr/bin/php -c /etc/php.ini XXXX/scripts/mod-pen/MonitoramentoTarefasTramita GOV.BR.php
 
 /usr/bin/php -c /etc/php.ini XXXX/scripts/mod-pen/verifica_instalacao_modulo_pen.php
 
@@ -46,7 +46,7 @@ Script para testar com usuário casos de não execução do agendamento do SEI v
 
 /usr/bin/php -c /etc/php.ini XXXX/scripts/AgendamentoTarefaSEI.php
 
-* Avaliar no front-end do SEI se no menu Infra>Agendamento houve atualização do horário no agendamento da tarefa PENAgendamentoRN :: processarTarefasPEN.
+* Avaliar no front-end do SEI se no menu Infra>Agendamento houve atualização do horário no agendamento da tarefa Tramita GOV.BRAgendamentoRN :: processarTarefasTramita GOV.BR.
 
 * Avaliar se existem logs em Infra>Logs e analisar.
 
@@ -100,7 +100,7 @@ curl--cert/opt/sei/config/mod-pen/certificado.pem:SENHA https://homolog.api.proc
  
 * Avaliar se existem logs em Infra>Logs e analisar.
 
-* Caso execute com sucesso até esta etapa, e mesmo assim não tramite processos, entrar em contato com o suporte PEN.
+* Caso execute com sucesso até esta etapa, e mesmo assim não tramite processos, entrar em contato com o suporte Tramita GOV.BR.
 
 
 Modelo de Resposta para Chamados  

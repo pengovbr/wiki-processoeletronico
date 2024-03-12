@@ -14,7 +14,7 @@ Quando Ocorre
 
 Este caso pode ocorrer da seguinte forma:
  
-O sistema REMETENTE utilizar um Tipo de Processo específico dele, por exemplo 'Ofício Especial Xyz' que não existe nos Tipos de Processo do Destinatário, neste caso o SEI/Super de Destino irá tentar utilizar o 'Tipo de Processo Externo' indicado na tela de Parâmetros de Configuração do PEN:
+O sistema REMETENTE utilizar um Tipo de Processo específico dele, por exemplo 'Ofício Especial Xyz' que não existe nos Tipos de Processo do Destinatário, neste caso o SEI/Super de Destino irá tentar utilizar o 'Tipo de Processo Externo' indicado na tela de Parâmetros de Configuração do Tramita GOV.BR:
  
 
 .. figure:: _static/images/tela_parametros_configuracao.png
@@ -30,7 +30,7 @@ Ao tentar receber um processo externo e utilizar este tipo externo configurado, 
 Solução Sugerida  
 ~~~~~~~~~~~~~~~~
 
-Alterar no cadastro do 'Tipo de Processo' que foi utilizado como o padrão na tela de Parâmetros de Configuração do módulo PEN do DESTINATÁRIO, associando uma 'Sugestão de Assuntos' para que seja usada nestes casos de recebimento de tipo de processo diferentes dos existentes no destinatário conforme o exemplo abaixo:
+Alterar no cadastro do 'Tipo de Processo' que foi utilizado como o padrão na tela de Parâmetros de Configuração do módulo Tramita GOV.BR do DESTINATÁRIO, associando uma 'Sugestão de Assuntos' para que seja usada nestes casos de recebimento de tipo de processo diferentes dos existentes no destinatário conforme o exemplo abaixo:
  
 .. figure:: _static/images/Tela_alterar_tipo_processo_solucao.png
 

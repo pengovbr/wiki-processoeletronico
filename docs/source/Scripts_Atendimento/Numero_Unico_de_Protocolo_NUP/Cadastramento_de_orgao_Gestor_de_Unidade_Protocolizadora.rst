@@ -20,7 +20,7 @@ Orientação para o Atendente:
 
 1º Acessar o Painel do NUP, pelo seguinte caminho  
 1.1 acessar o portal gov.br/pen; 
-1.2 na página inicial do portal, localizar o meu "Conheça as ações do PEN"; 
+1.2 na página inicial do portal, localizar o meu "Conheça as ações do Tramita GOV.BR"; 
 1.3 Clicar na imagem "NUP" 
 1.4 Clicar em "Material de Apoio" na seção Saiba Mais, ao final da página; 
 1.5 Clicar em "Painel do NUP" 

@@ -53,7 +53,7 @@ Sim, a plataforma **não impõe restrições** de qualquer natureza sobre o envi
 A plataforma permite o envio ou recebimento de documentos avulsos?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Sim, o Tramita GOV.BR **permite o envio e o recebimento de documento avulso**. Contudo, posto que o SEI não permite a utilização de documentos avulsos (apenas processos, mesmo que com um único documento), o módulo de integração do SEI (MOD-SEI-PEN) também não permite o envio de documento avulso.  
+Sim, o Tramita GOV.BR **permite o envio e o recebimento de documento avulso**. Contudo, posto que o SEI não permite a utilização de documentos avulsos (apenas processos, mesmo que com um único documento), o módulo de integração do SEI (MOD-SEI-TRAMITAGOVBR) também não permite o envio de documento avulso.  
 
 Dessa forma, para o SEI, é possível apenas receber documento avulso, o qual é transformado em processo no ato do recebimento. Se os SPEs dos órgãos envolvidos no trâmite processual recebem e enviam documentos avulsos, o trâmite será realizado com sucesso. 
 

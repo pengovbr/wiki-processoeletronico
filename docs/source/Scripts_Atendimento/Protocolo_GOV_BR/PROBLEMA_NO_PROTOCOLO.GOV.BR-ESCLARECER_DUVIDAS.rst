@@ -22,7 +22,7 @@ Ao usuário que deseja relatar um problema no Protocolo.GOV.BR, deve ser informa
 
 .. admonition:: Atenção! 
 
-   Caso o usuário apresente dúvidas negociais sobre o Protocolo.GOV.BR, que não sejam sobre adesão e nem problema na ferramenta, passar o chamado para o Nível 3 - PEN.
+   Caso o usuário apresente dúvidas negociais sobre o Protocolo.GOV.BR, que não sejam sobre adesão e nem problema na ferramenta, passar o chamado para o Nível 3 - Tramita GOV.BR.
 
 
 Demais endereços de consulta e material de apoio ao Protocolo.GOV.BR
@@ -65,4 +65,4 @@ PROTOCOLO.GOV.BR; problema.
 Referências  
 ~~~~~~~~~~~~
 
-Script construído pela equipe PEN. 
+Script construído pela equipe Tramita GOV.BR. 

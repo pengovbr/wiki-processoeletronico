@@ -15,7 +15,7 @@ A plataforma do Tramita GOV.BR é composta por **três produtos**, que atuam com
 
 1. O primeiro produto é o Portal de Administração, por meio do qual os gestores de cada órgão possuem acesso a toda estrutura gerencial da plataforma. 
 2. O segundo produto, a API (sigla derivada do inglês), consiste em um conjunto de regras e protocolos que permitem a comunicação entre diferentes sistemas, que cada órgão utiliza para gerenciar e tramitar seus processos internos.
-3. Por fim, o terceiro produto que compõe a plataforma é o Módulo do Tramita GOV.BR para o SEI (o MOD-SEI-PEN), uma solução de integração responsável pela manutenção, aprimoramentos e atualizações de segurança que envolvem os serviços de integração da plataforma com o SEI
+3. Por fim, o terceiro produto que compõe a plataforma é o Módulo do Tramita GOV.BR para o SEI (o MOD-SEI-TRAMITAGOVBR), uma solução de integração responsável pela manutenção, aprimoramentos e atualizações de segurança que envolvem os serviços de integração da plataforma com o SEI
 
 Qual Instrumento Normativo institui o Tramita GOV.BR?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++

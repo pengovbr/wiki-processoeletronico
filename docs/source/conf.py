@@ -5,7 +5,7 @@
 project = ''
 copyright = '2023, MGI/SEGES/DTGES/CGESP'
 author = 'MGI/SEGES/DTGES/CGESP'
-project_copyright = 'WIKI Processo Eletrônico Nacional'
+project_copyright = 'WIKI Tramita GOV.BR'
 version = '1.0'
 release = ''
 

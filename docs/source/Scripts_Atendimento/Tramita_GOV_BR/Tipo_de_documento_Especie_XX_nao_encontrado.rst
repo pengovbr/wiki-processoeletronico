@@ -16,7 +16,7 @@ Não se aplica.
 Solução Sugerida
 ~~~~~~~~~~~~~~~~
 
-Nesses casos o erro que aparece é o ID do barramento, conforme o csv abaixo (tabela md_pen_especie_documental). Avaliar o ID que aparece e olhar no PEN > mapeamento se esse tipo está corretamente configurado. No caso que vimos o tipo estava errado, estava como Extratos (no plural) e esse tipo estava inativo no SEI do órgão existindo apenas o Extrato (singluar).
+Nesses casos o erro que aparece é o ID do barramento, conforme o csv abaixo (tabela md_pen_especie_documental). Avaliar o ID que aparece e olhar no Tramita GOV.BR > mapeamento se esse tipo está corretamente configurado. No caso que vimos o tipo estava errado, estava como Extratos (no plural) e esse tipo estava inativo no SEI do órgão existindo apenas o Extrato (singluar).
 
 
 .. list-table::

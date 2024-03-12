@@ -55,4 +55,4 @@ Protocolo Integrado, teor de processos, conteúdo de documentos.
 Referências  
 ~~~~~~~~~~~~
 
-Script elaborado pela equipe do PEN
+Script elaborado pela equipe do Tramita GOV.BR

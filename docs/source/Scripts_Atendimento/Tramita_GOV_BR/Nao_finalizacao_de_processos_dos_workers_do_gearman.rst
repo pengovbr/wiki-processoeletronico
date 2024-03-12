@@ -16,11 +16,11 @@ Não se aplica.
 Solução Sugerida
 ~~~~~~~~~~~~~~~~
 
-No MME percebemos que na atualização para a versão 3.1.6 do SEI e 2.1.4 do módulo o CentOS por algum motivo não finalizou processos dos workers do gearman. Assim, a cada chamada ao MonitoramentoTarefasPEN.php, ele verifica o número de workers ativos, como já existiam rodando 4 workers, o modulo não iniciava outros para processar as pendências.
+No MME percebemos que na atualização para a versão 3.1.6 do SEI e 2.1.4 do módulo o CentOS por algum motivo não finalizou processos dos workers do gearman. Assim, a cada chamada ao MonitoramentoTarefasTramita GOV.BR.php, ele verifica o número de workers ativos, como já existiam rodando 4 workers, o modulo não iniciava outros para processar as pendências.
 
 * Para verificar se existem processos rodando:
 
-ps -aux |grep MonitoramentoTarefasPEN.php
+ps -aux |grep MonitoramentoTarefasTramita GOV.BR.php
 
 * E caso existam processos travados, rodar:
 
