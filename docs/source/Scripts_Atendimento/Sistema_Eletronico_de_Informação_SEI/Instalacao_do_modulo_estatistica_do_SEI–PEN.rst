@@ -58,9 +58,9 @@ Antes de cadastrar algum órgão/sistema faz-se necessária avaliação sobre a 
    **Homologação:** 
     **url:** https://estatistica.dev.processoeletronico.gov.br 
    
-   **sigla:** <<sigla gerada>>
+    **sigla:** <<sigla gerada>>
    
-   **chave:** <<chave gerada>> 
+    **chave:** <<chave gerada>> 
 
 **Cadastrar em Prod** 
 
@@ -81,7 +81,7 @@ Modelo de Resposta para Chamados
 
 “Prezado Senhor(a) [nome do usuário], 
 
-Em atenção à sua solicitação, informamos que há um link das instruções da instalação do ambiente no seguinte `link. <https://github.com/pengovbr/mod-sei-estatisticas/blob/master/README.md>`_ 
+Em atenção à sua solicitação, informamos que há um link das instruções da instalação do ambiente no seguinte link: https://github.com/pengovbr/mod-sei-estatisticas/blob/master/README.md
 
 Em uma das etapas de instalação do modulo citado, você deverá solicitar uma chave de conexão para completar a configuração, a chave em questão é gerada pela equipe do PEN. Para a chave ser gerada, registre um chamado com a categoria PEN – Módulo Estatística – Instalação. 
 
