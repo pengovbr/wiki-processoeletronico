@@ -27,7 +27,7 @@ Em uma das etapas de instalação do módulo, o usuário deverá solicitar a cha
 
    A rota pode ser facilmente verificada usando, por exemplo, o comando: 
    
-    :: curl https://estatistica.processoeletronico.gov.br 
+    curl https://estatistica.processoeletronico.gov.br 
 
    o resultado deverá ser algo como: 
 
@@ -55,9 +55,11 @@ Antes de cadastrar algum órgão/sistema faz-se necessária avaliação sobre a 
 * A sigla de homolog deve obrigatoriamente conter -H no final para indicar que se trata de homologação; 
 * Adicione a sigla e a senha definida anteriormente e salve; 
 * Envie ao user: 
-  **Homologação:** 
-   **url:** https://estatistica.dev.processoeletronico.gov.br 
+   **Homologação:** 
+    **url:** https://estatistica.dev.processoeletronico.gov.br 
+   
    **sigla:** <<sigla gerada>>
+   
    **chave:** <<chave gerada>> 
 
 **Cadastrar em Prod** 
@@ -69,7 +71,9 @@ Antes de cadastrar algum órgão/sistema faz-se necessária avaliação sobre a 
 * Envie ao user: 
    **Produção:**  
     **url:** https://estatistica.processoeletronico.gov.br 
+    
     **sigla:** <<sigla gerada>> 
+    
     **chave:** <<chave gerada>> 
 
 Modelo de Resposta para Chamados  
