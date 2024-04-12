@@ -16,6 +16,7 @@ TRAMITA.GOV.BR
    Erro_criar_permissao
    ERRO_DE_STATUS_CANCELADO_NO_ENVIO_DE_PROCESSO
    Erro_escrevendo_no_infra_log
+   Erro_Modulo_Tramita.GOV.BR
    Erro_na_quantidade_de_processos
    Erro_Numero_de_Documentos
    Erros_de_hash_e_de_ordem_de_documentos
