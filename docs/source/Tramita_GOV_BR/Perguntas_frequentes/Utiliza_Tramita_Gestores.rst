@@ -46,15 +46,15 @@ Veja o passo a passo abaixo para geração, o qual não muda independente do Ges
 .. list-table::
    :header-rows: 1
    
-   - * MOD-SEI-PEN inferior a versão 1.5.4:
-   - * 1.Abertura de um chamado, junto à Central de Atendimento do PEN, pelo Gestor de Protocolos solicitando um Certificado Digital para utilização do Tramita GOV.BR; 
+   - * MOD-SEI-TRAMITAGOVBR inferior a versão 1.5.4:
+   - * 1.Abertura de um chamado, junto à Central de Atendimento do Tramita GOV.BR, pelo Gestor de Protocolos solicitando um Certificado Digital para utilização do Tramita GOV.BR; 
    - * 2.O certificado é gerado e cadastrado pelos analistas responsáveis. 
    - * Dentro do ambiente da Central de Atendimento é necessário acessar, no menu lateral: Processo Eletrônico Nacional   > Portal do Tramita GOV.BR >  Adesão
 
 .. list-table::
    :header-rows: 1
    
-   - * Outras versões do MOD-SEI-PEN e Outros SPE:
+   - * Outras versões do MOD-SEI-TRAMITAGOVBR e Outros SPE:
    - * 1.O Gestor Responsável, acessa o Portal do Tramita GOV.BR; 
    - * 2.Dentro menu Administração, a funcionalidade Sistema Processo Eletrônico deve ser acessada; 
    - * 3.Ao clicar na ação Gerar Certificado, o certificado gerado é vinculado automaticamente ao sistema do órgão, tornando-o confiável para o Tramita GOV.BR

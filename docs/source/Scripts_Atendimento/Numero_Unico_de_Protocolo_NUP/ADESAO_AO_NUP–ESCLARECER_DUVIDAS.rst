@@ -25,11 +25,11 @@ Para consultar se um órgão ou entidade é gestor do NUP, basta acessar o `ende
 
 .. admonition:: Atenção!
 
-   1) Caso o usuário seja de um órgão da Administração Pública Federal direta e solicite “adesão ao NUP”, “Cadastro como órgão gestor do NUP”, “Cadastro de Unidade Protocolizadora - UP”, “Cadastro de NUP” ou “Descentralização da gestão do NUP” passar o chamado para o Nível 3 – PEN. 
+   1) Caso o usuário seja de um órgão da Administração Pública Federal direta e solicite “adesão ao NUP”, “Cadastro como órgão gestor do NUP”, “Cadastro de Unidade Protocolizadora - UP”, “Cadastro de NUP” ou “Descentralização da gestão do NUP” passar o chamado para o Nível 3 – Tramita GOV.BR. 
 
    2) Caso o usuário seja de uma entidade vinculada (Fundação federal, Autarquia federal ou Empresa pública estatal federal) e solicite “adesão ao NUP”, “Cadastro como órgão gestor do NUP”, “Cadastro de Unidade Protocolizadora - UP” ou “Cadastro de NUP” deve ser orientado a entrar em contato com o gestor do NUP do órgão ao qual está vinculado, buscando o contato por meio do `endereço <https://gestaopen.processoeletronico.gov.br/listarGestoresProtocolo>`_.
 
-   3) Caso o usuário informe que não conseguiu contato com os gestores cadastrados, registrar o Chamado e passar para o Nível 3 – PEN.
+   3) Caso o usuário informe que não conseguiu contato com os gestores cadastrados, registrar o Chamado e passar para o Nível 3 – Tramita GOV.BR.
 
 Demais endereços de consulta e material de apoio do NUP 
 
@@ -71,4 +71,4 @@ NUP; adesão.
 Referências  
 ~~~~~~~~~~~~
 
-Script construído pela equipe PEN. 
+Script construído pela equipe Tramita GOV.BR. 

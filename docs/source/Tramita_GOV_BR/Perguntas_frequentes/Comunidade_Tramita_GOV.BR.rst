@@ -77,4 +77,4 @@ No formulário de acesso à comunidade Tramita GOV.BR são solicitadas as seguin
 O Termo de Uso e da Política de Privacidade da Comunidade do Tramita GOV.BR é de livre acesso?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Sim, o `Termo de Uso e da Política de Privacidade da Comunidade do Tramita GOV.BR <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/transparencia/termo-de-uso-e-aviso-de-privacidade-do-tramita-gov.br>`_ pode ser acessado por qualquer pessoa, independentemente de ser Gestor de Protocolo ou não, e fica disponível no Portal do PEN, em uma página própria. 
+Sim, o `Termo de Uso e da Política de Privacidade da Comunidade do Tramita GOV.BR <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/transparencia/termo-de-uso-e-aviso-de-privacidade-do-tramita-gov.br>`_ pode ser acessado por qualquer pessoa, independentemente de ser Gestor de Protocolo ou não, e fica disponível no Portal do Tramita GOV.BR, em uma página própria. 

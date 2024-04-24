@@ -21,7 +21,7 @@ Solicitar informações de versão do SEI, versão do Módulo e envio de logs (s
 Modelo de Resposta para Chamados  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Prezado(a) senhor(a) (inserir aqui nome do usuário), conforme solicitado através deste chamado de número ________ , solicitamos as seguintes informações: versão do SEI e do Módulo do Protocolo Integrado utilizada na sua Instituição, e logs do erro (se houver). Quando recebermos estas informações, encaminharemos sua solicitação à equipe de suporte técnico do PEN.   
+Prezado(a) senhor(a) (inserir aqui nome do usuário), conforme solicitado através deste chamado de número ________ , solicitamos as seguintes informações: versão do SEI e do Módulo do Protocolo Integrado utilizada na sua Instituição, e logs do erro (se houver). Quando recebermos estas informações, encaminharemos sua solicitação à equipe de suporte técnico do Tramita GOV.BR.   
 
 Atenciosamente, 
 
@@ -49,4 +49,4 @@ Protocolo Integrado, falha no Protocolo Integrado, erro no envio dos metadados
 Referências  
 ~~~~~~~~~~~~
 
-Script elaborado pela equipe do PEN.
+Script elaborado pela equipe do Tramita GOV.BR.

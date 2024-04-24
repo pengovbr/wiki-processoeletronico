@@ -37,7 +37,7 @@ Demais endereços de consulta e material de apoio ao Protocolo.GOV.BR
 
 .. admonition:: Atenção! 
 
-   Caso o usuário apresente dúvidas negociais sobre o Protocolo.GOV.BR, que não sejam sobre adesão e nem problema na ferramenta, passar o chamado para o Nível 3 - PEN.
+   Caso o usuário apresente dúvidas negociais sobre o Protocolo.GOV.BR, que não sejam sobre adesão e nem problema na ferramenta, passar o chamado para o Nível 3 - Tramita GOV.BR.
 
 
 Modelo de Resposta para Chamados  
@@ -55,7 +55,7 @@ O modelo do ofício de adesão, bem como informações sobre o envio dos dados, 
 
   
 
-Para saber mais sobre as ações do PEN, acesse gov.br/pen 
+Para saber mais sobre as ações do Tramita GOV.BR, acesse gov.br/pen 
 
   
 

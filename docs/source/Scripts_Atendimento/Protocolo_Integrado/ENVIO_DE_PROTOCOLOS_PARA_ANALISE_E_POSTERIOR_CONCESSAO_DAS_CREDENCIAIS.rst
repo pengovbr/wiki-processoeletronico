@@ -4,13 +4,13 @@
 Situação  
 ~~~~~~~~
 
-O Órgão já tem acesso ao ambiente de pré-produção, realizou os testes e, através de novo chamado na Central de Atendimento, enviou os 10 protocolos para análise e validação da equipe do PEN.
+O Órgão já tem acesso ao ambiente de pré-produção, realizou os testes e, através de novo chamado na Central de Atendimento, enviou os 10 protocolos para análise e validação da equipe do Tramita GOV.BR.
 
 
 Quando Ocorre
 ~~~~~~~~~~~~~~
 
-Quando é feito o envio dos 10 protocolos para análise e validação da equipe do PEN, conforme etapa 3 do Script 1.
+Quando é feito o envio dos 10 protocolos para análise e validação da equipe do Tramita GOV.BR, conforme etapa 3 do Script 1.
 
 
 Solução Sugerida
@@ -27,7 +27,7 @@ Resposta 01:
 
 “Prezado(a) senhor(a) (inserir aqui nome do usuário), conforme solicitado através deste chamado de número ________ , seguem as orientações para acesso ao ambiente de produção do Protocolo Integrado: 
 
-O Órgão deve aguardar a geração das credenciais de acesso por parte da equipe do PEN. Assim que os dados forem cadastrados, o senhor receberá um e-mail contendo as credenciais para integração com o ambiente de produção do Protocolo Integrado. 
+O Órgão deve aguardar a geração das credenciais de acesso por parte da equipe do Tramita GOV.BR. Assim que os dados forem cadastrados, o senhor receberá um e-mail contendo as credenciais para integração com o ambiente de produção do Protocolo Integrado. 
 
 Atenciosamente, 
 

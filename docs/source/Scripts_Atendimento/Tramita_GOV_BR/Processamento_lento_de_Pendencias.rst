@@ -19,7 +19,7 @@ Quando olhamos o agendamento no sei, tem na descrição um parâmetro WORKER, po
 Assim, se no minuto X os 9 paralelos estão executando, no próximo minuto do agendamento ele não vai chamar mais processos paralelos
 Podemos olhar se tem processos com tempo de vida muito grande:
 
-ps -aux |grep MonitoramentoTarefasPEN.php
+ps -aux |grep MonitoramentoTarefasTramita GOV.BR.php
 
 Isso pode significar que podem estar travados, assim executamos o kill
 

@@ -59,15 +59,15 @@ Após executar os passos 1 ao 3, analisar os resultados apresentados e proceder 
 
 A tempo, como forma de melhor orientar a compreensão da situação relatada é sugerida a leitura dos itens 7.12.5 e 6.1 da nossa FAQ (Embutir link da FAQ no “nossa FAQ”), respectivamente.  
 
-Não obstante, uma vez que a sequência apresentada como solução não tenha sido suficiente para desbloquear o status do referido trâmite, será necessária a coleta de evidências adicionais a serem solicitadas pela equipe do PEN, a depender da situação. 
+Não obstante, uma vez que a sequência apresentada como solução não tenha sido suficiente para desbloquear o status do referido trâmite, será necessária a coleta de evidências adicionais a serem solicitadas pela equipe do Tramita GOV.BR, a depender da situação. 
 
 Caso existam dúvidas sobre como executar algum dos passos, acesse o vídeo de orientação (Embutir em “vídeo de orientação” - https://youtu.be/GY9dtTHs9RU) elaborado por nossa equipe e disponibilizado em nosso canal oficial. Além disso, é possível que suas dúvidas possam ser esclarecidas em nossa página de perguntas frequentes (FAQ) (Embutir link - https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-tramita-gov.br) ou por meio do nosso Manual Técnico Operacional (Embutir link - https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/index.html) 
 
-Recomendamos que acompanhe as notícias e atualizações fornecidas no portal do PEN, no site oficial do Ministério da Gestão e da Inovação em Serviços Públicos - MGI, acessível em gov.br/pen (https://gov.br/pen) e a FAQ Tramita GOV.BR. 
+Recomendamos que acompanhe as notícias e atualizações fornecidas no portal do Tramita GOV.BR, no site oficial do Ministério da Gestão e da Inovação em Serviços Públicos - MGI, acessível em gov.br/pen (https://gov.br/pen) e a FAQ Tramita GOV.BR. 
 
 Atenciosamente, 
 
-Processo Eletrônico Nacional 
+Tramita GOV.BR 
 
 **Modelo resposta para o Destinatário:** 
 
@@ -88,11 +88,11 @@ Nossa recomendação é que entre em contato com órgão remetente questionando 
 
 Se porventura esse contato já tenha sido realizado, e mesmo com análises internas o órgão não conseguiu realizar o recebimento do recibo e consequentemente, o desbloqueio do trâmite, é necessário que seja aberto um chamado por parte do órgão remetente, para que nossa equipe seja capaz de avaliar com mais cautela a situação reportada. 
 
-Recomendamos que acompanhe as notícias e atualizações fornecidas no portal do PEN, no site oficial do Ministério da Gestão e da Inovação em Serviços Públicos - MGI, acessível em gov.br/pen (https://gov.br/pen) e a FAQ Tramita GOV.BR 
+Recomendamos que acompanhe as notícias e atualizações fornecidas no portal do Tramita GOV.BR, no site oficial do Ministério da Gestão e da Inovação em Serviços Públicos - MGI, acessível em gov.br/pen (https://gov.br/pen) e a FAQ Tramita GOV.BR 
 
 Atenciosamente, 
 
-Processo Eletrônico Nacional 
+Tramita GOV.BR 
 
  
 Atribuições e responsabilidades  

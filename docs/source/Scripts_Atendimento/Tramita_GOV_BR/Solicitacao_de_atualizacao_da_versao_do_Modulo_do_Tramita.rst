@@ -29,11 +29,11 @@ Agradecemos o contato e informamos que esta solicitação deve ser remetida junt
  
 O `link <https://github.com/supergovbr/mod-sei-pen/releases>`_ contém instruções para instalação, atualização e melhorias.  
 
-Para saber mais sobre as ações do PEN, acesse gov.br/pen
+Para saber mais sobre as ações do Tramita GOV.BR, acesse gov.br/pen
 
 Atenciosamente, 
 
-Equipe PEN 
+Equipe Tramita GOV.BR 
 
 
 Atribuições e responsabilidades  

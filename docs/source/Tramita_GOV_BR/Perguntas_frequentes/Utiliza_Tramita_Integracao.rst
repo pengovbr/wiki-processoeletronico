@@ -4,7 +4,7 @@ Utiliza Tramita: Integração
 Como realizar a integração de um Sistema de Processo Eletrônico à plataforma?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-O processo de integração ao Tramita GOV.BR irá depender do SPE utilizado pelo órgão solicitante. Sendo bem-sucedida a integração do órgão à plataforma, é necessário realizar um conjunto de operações no Portal de Administração do PEN, conforme orientado nos itens 4, 5, 6 e 7 do Manual Técnico Operacional do Tramita GOV.BR.  
+O processo de integração ao Tramita GOV.BR irá depender do SPE utilizado pelo órgão solicitante. Sendo bem-sucedida a integração do órgão à plataforma, é necessário realizar um conjunto de operações no Portal de Administração do Tramita GOV.BR, conforme orientado nos itens 4, 5, 6 e 7 do Manual Técnico Operacional do Tramita GOV.BR.  
 
 É recomendada a leitura completa do referido Manual Técnico, para que haja um máximo domínio acerca dos procedimentos técnicos e negociais, bem como dos comportamentos, esperados ou não, da aplicação. As orientações distinguem duas situações:
 
@@ -12,7 +12,7 @@ O processo de integração ao Tramita GOV.BR irá depender do SPE utilizado pelo
    :header-rows: 1
    
    - * Órgãos que utilizam o SEI (versão 3.1.x ou superior):
-   - * É necessário instalar o `MOD-SEI-PEN <https://github.com/pengovbr/mod-sei-pen>`_, uma vez que a conexão com o Tramita GOV.BR não é nativa. Para uma correta integração do SEI à plataforma, é necessário seguir as `instruções de instalação <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/INSTALL.md>`_ disponíveis para o módulo de integração.
+   - * É necessário instalar o `MOD-SEI-TRAMITAGOVBR <https://github.com/pengovbr/mod-sei-pen>`_, uma vez que a conexão com o Tramita GOV.BR não é nativa. Para uma correta integração do SEI à plataforma, é necessário seguir as `instruções de instalação <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/INSTALL.md>`_ disponíveis para o módulo de integração.
 
 .. list-table::
    :header-rows: 1
@@ -41,21 +41,21 @@ A integração à plataforma está disponível apenas para órgãos que utilizam
 
 Não, órgãos que utilizam outros sistemas eletrônicos também podem solicitar integração à plataforma. Para isso basta seguir as `orientações disponibilizadas no Material de Apoio <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/tramita-gov.br>`_, mais especificamente na documentação chamada Manual de Utilização da API.
 
-O MOD-SEI-PEN é compatível com todas as versões do SEI?
+O MOD-SEI-TRAMITAGOVBR é compatível com todas as versões do SEI?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Não, algumas versões mais antigas do SEI **não são compatíveis com o MOD SEI PEN**. Por isso, é importante verificar, antes da implantação do módulo, se a versão desejada é compatível com a versão do SEI implantado no órgão. 
+Não, algumas versões mais antigas do SEI **não são compatíveis com o MOD SEI TRAMITAGOVBR**. Por isso, é importante verificar, antes da implantação do módulo, se a versão desejada é compatível com a versão do SEI implantado no órgão. 
 
-Como obtenho acesso às atualizações disponibilizadas para o MOD-SEI-PEN?
+Como obtenho acesso às atualizações disponibilizadas para o MOD-SEI-TRAMITAGOVBR?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-A **versão mais recente do MOD-SEI-PEN** encontra-se disponível em um endereço eletrônico fixo. Os arquivos são constantemente atualizados à medida que novas atualizações são realizadas.  
+A **versão mais recente do MOD-SEI-TRAMITAGOVBR** encontra-se disponível em um endereço eletrônico fixo. Os arquivos são constantemente atualizados à medida que novas atualizações são realizadas.  
 
 Por sua vez, caso deseje obter informações a respeito de versões mais antigas ou sobre o histórico de evoluções e correções do módulo, estes seguem disponíveis em um `repositório eletrônico de informações e notícias <https://github.com/pengovbr/mod-sei-pen/releases>`_.  
 
-Como posso atualizar o MOD-SEI-PEN para a versão mais recente?
+Como posso atualizar o MOD-SEI-TRAMITAGOVBR para a versão mais recente?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-A **atualização do MOD-SEI-PEN** pode ser realizada diretamente por meio da versão mais recente disponível, sem a necessidade de instalação das versões anteriores, sempre verificando a compatibilidade da versão com o SEI utilizado pelo órgão. A descrição do processo de atualização está disponível no `Manual de Atualização do Módulo de Integração do Processo Eletrônico Nacional <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/UPGRADE.md>`_.  
+A **atualização do MOD-SEI-TRAMITAGOVBR** pode ser realizada diretamente por meio da versão mais recente disponível, sem a necessidade de instalação das versões anteriores, sempre verificando a compatibilidade da versão com o SEI utilizado pelo órgão. A descrição do processo de atualização está disponível no `Manual de Atualização do Módulo de Integração do Processo Eletrônico Nacional <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/UPGRADE.md>`_.  
 
 A recomendação é que **sempre seja instalada a última versão do módulo de integração**, garantindo - assim - a implementação das medidas de segurança e melhorias mais recentes.

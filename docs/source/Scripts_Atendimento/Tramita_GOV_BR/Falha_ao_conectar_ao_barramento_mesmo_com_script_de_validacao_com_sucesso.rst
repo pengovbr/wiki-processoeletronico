@@ -10,7 +10,7 @@ Falha ao conectar ao barramento mesmo com script de validação com sucesso
 Quando Ocorre
 ~~~~~~~~~~~~~~
 
-Esse erro ocorreu na PR, onde o script de instalação estava rodando corretamente. Ao testar o "php /opt/sei/scripts/mod-pen/MonitoramentoTarefasPEN.php" pela CLI, o resultado era correto também, trazendo as pendências. Porém, pelo front end parecia que o SEI não se conectava ao barramento.
+Esse erro ocorreu na PR, onde o script de instalação estava rodando corretamente. Ao testar o "php /opt/sei/scripts/mod-pen/MonitoramentoTarefasTramita GOV.BR.php" pela CLI, o resultado era correto também, trazendo as pendências. Porém, pelo front end parecia que o SEI não se conectava ao barramento.
 
 
 Solução Sugerida
