@@ -12,6 +12,7 @@ Sistema Eletrônico de Informação - SEI
    Error_500
    Instalacao_do_modulo_estatistica_do_SEI–PEN 
    Orientacoes_sobre_o_modulo_estatistica_do_SEI
+   SOLICITACAO_DE_SUPORTE_TECNICO_A_VERSOES_DO_SEI_ANTERIORES_A_4.0 
    Sugestoes_de_melhoria_para_o_modulo_estatistica_do_SEI–PEN
    Suporte_ao_SEI
    Novo_acordo
