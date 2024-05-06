@@ -11,7 +11,7 @@ Manuais
 
 - `Manual Operacional do Tramita.GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/index.html>`_
 -  `Manual de Instalação do Módulo Tramita.GOV.BR <https://github.com/spbgovbr/mod-sei-pen/blob/master/docs/INSTALL.md>`_
--  `Manual de Utilização da API <https://mtegovbr-my.sharepoint.com/:u:/g/personal/vinicius_mendonca_gestao_gov_br/EV7vPGV2ylxAhKrtCxm4QUkBSfuwr_vgYn_96LSEr9H_7A?e=NdKFKY>`_
+-  `Manual de Utilização da API <https://drive.google.com/file/d/1K8qe9Yp0736ICh6Sz4G8MLeKFAJTmki9/view?usp=sharing>`_
 -  `Tabela de Espécies Documentais <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_
 -  `Swagger - Homologação <https://homolog.api.processoeletronico.gov.br/swagger/swagger-ui.html>`_
 -  `Swagger - Produção <https://api.conectagov.processoeletronico.gov.br/swagger/swagger-ui/>`_
