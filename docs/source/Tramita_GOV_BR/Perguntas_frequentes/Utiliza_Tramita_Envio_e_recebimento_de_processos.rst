@@ -1,32 +1,7 @@
-.. raw:: html
-
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "O que significa ficar parado no status 2 do Tramita?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "<p>Caso o processo esteja parado no status 2, é muito provável que o sistema de destino esteja com problemas para recebimento. Nessa situação, entre em contato com um dos gestores de protocolo do órgão de destino.</p>"
-        }
-      }, {
-        "@type": "Question",
-        "name": "O que significa ficar parado no status 5 do Tramita?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Caso o processo esteja parado no status 5, provavelmente o sistema de origem está indisponível. Nessa situação, entre em contato com um dos gestores de protocolo do órgão de origem."
-        }
-      }]
-    }
-  </script>
-
-
 Utiliza Tramita Envio e recebimento de processos
 =================================================
 
-Como enviar processos pelo Tramita GOV.BR ?
+Com o enviar processos pelo Tramita GOV.BR?
 +++++++++++++++++++++++++++++++++++++++++++
 
 Antes de enviar processos via plataforma do Tramita GOV.BR, é preciso se certificar que o órgão já está integrado à plataforma. Feito isso, basta seguir alguns passos simples: 
@@ -299,3 +274,27 @@ São eles:
 |O que pode ser feito?    | _                                                                                                                                                                                                                                                          |
 +-------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
  
+
+.. raw:: html
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "O que significa ficar parado no status 2 do Tramita?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<p>Caso o processo esteja parado no status 2, é muito provável que o sistema de destino esteja com problemas para recebimento. Nessa situação, entre em contato com um dos gestores de protocolo do órgão de destino.</p>"
+        }
+      }, {
+        "@type": "Question",
+        "name": "O que significa ficar parado no status 5 do Tramita?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Caso o processo esteja parado no status 5, provavelmente o sistema de origem está indisponível. Nessa situação, entre em contato com um dos gestores de protocolo do órgão de origem."
+        }
+      }]
+    }
+  </script>
