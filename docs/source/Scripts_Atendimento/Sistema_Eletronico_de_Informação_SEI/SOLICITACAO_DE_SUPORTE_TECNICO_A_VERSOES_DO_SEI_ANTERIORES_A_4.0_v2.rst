@@ -15,7 +15,7 @@ Quando o Órgão deseja suporte técnico para uma versão anterior à 4.0 do SEI
 Solução Sugerida
 ~~~~~~~~~~~~~~~~
 
-nformar ao solicitante que conforme Ofício-Circular SEI nº 323/2024/MGI, desde a data de 01/05/2024, o Ministério da Gestão e da Inovação em Serviços Públicos (MGI) não fornece mais suporte técnico para versões anteriores à 4.0 do SEI para órgãos e entidades da Administração Pública Federal e os demais atendidos pelo Processo Eletrônico Nacional (PEN). Caso os órgãos estejam na lista da tabela Órgãos continuidade de suporte.xlsx, tratar os chamados normalmente. 
+nformar ao solicitante que conforme Ofício-Circular SEI nº 323/2024/MGI, desde a data de 01/05/2024, o Ministério da Gestão e da Inovação em Serviços Públicos (MGI) não fornece mais suporte técnico para versões anteriores à 4.0 do SEI para órgãos e entidades da Administração Pública Federal e os demais atendidos pelo Processo Eletrônico Nacional (PEN). Caso os órgãos estejam na lista da tabela `Órgãos continuidade de suporte <https://mtegovbr.sharepoint.com/:x:/s/CentraldeAtendimentoPEN/EYaqPvXS2WVAlOYKygenP6YBmM_P0W0vqgRQ9zhVdmyxfg?e=hyJhGq>`_, tratar os chamados normalmente. 
 
 Modelo de Resposta para Chamados  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
