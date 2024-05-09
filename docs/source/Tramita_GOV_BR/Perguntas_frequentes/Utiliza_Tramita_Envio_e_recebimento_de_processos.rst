@@ -1,7 +1,7 @@
 Utiliza Tramita Envio e recebimento de processos
 =================================================
 
-Com o enviar processos pelo Tramita GOV.BR?
+Como enviar processos pelo Tramita GOV.BR?
 +++++++++++++++++++++++++++++++++++++++++++
 
 Antes de enviar processos via plataforma do Tramita GOV.BR, é preciso se certificar que o órgão já está integrado à plataforma. Feito isso, basta seguir alguns passos simples: 
