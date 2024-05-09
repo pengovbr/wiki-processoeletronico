@@ -29,6 +29,7 @@ TRAMITA.GOV.BR
    Prazo_para_modulo_compativel
    Procurar_gestores_no_Portal_do_Tramita
    Processamento_lento_de_Pendencias
+   Processo_cancelado_via_Portal_de_Administracao_permanecendo_bloqueado_no_SEI
    Processos_concluidos_automaticamente_na_chegada_da_Tramitacao
    Processo_parado_no_status_2
    Processo_parado_no_Status_5
