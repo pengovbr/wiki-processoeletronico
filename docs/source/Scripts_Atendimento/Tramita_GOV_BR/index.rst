@@ -5,6 +5,7 @@ TRAMITA.GOV.BR
 .. toctree::
    :titlesonly:
 
+   Ambientes_diferentes_utilizando_o_mesmo_certificado_digital   
    Processo_recusado_por_erro_Numero_do_Processo_NUP_ja_se_encontra_cadastrado
    Processos_sendo_recusados_por_motivo_99_Nenhum_assunto_foi_informado
    Processo-recusado-devido-a-existencia-de-documento-em-formato-X-nao-permitido
@@ -26,6 +27,7 @@ TRAMITA.GOV.BR
    Mudar_Parametros_de_Memoria
    Nao_execucao_do_agendamento_do_SEI_via_crontab
    Nao_finalizacao_de_processos_dos_workers_do_gearman
+   Perfil_Basico_do_SEI_sem_possibilidade_de_tramitar_processos_na_versao_3.6.1
    Prazo_para_modulo_compativel
    Procurar_gestores_no_Portal_do_Tramita
    Processamento_lento_de_Pendencias
