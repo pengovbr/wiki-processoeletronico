@@ -1,4 +1,4 @@
-Treinamentos/Apresentações
-==========================
+Capacitações e Apresentações
+=============================
  
 Em construção.
