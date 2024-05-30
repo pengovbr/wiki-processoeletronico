@@ -39,7 +39,7 @@ Os **endereços eletrônicos utilizados na configuração em ambiente de homolog
    
    - * REST
    - * API: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
-   - * Pendências: https://homolog.api.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
+   - * Pendências: https://homolog.api.conectagov.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
 
 
 Como acessar o ambiente de homologação destinado a testes de trâmite externo?
@@ -95,7 +95,7 @@ Os **endereços eletrônicos utilizados na configuração em ambiente de homolog
    :align: left
    
    - * SOAP
-   - * API: https://api.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
+   - * API: https://api.conectagov.processoeletronico.gov.br/interoperabilidade/soap/v3/ 
    - * Pendências: https://pendencias.processoeletronico.gov.br/ 
 
 .. list-table::
@@ -103,5 +103,5 @@ Os **endereços eletrônicos utilizados na configuração em ambiente de homolog
    :align: left
    
    - * REST
-   - * API: https://api.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
-   - * Pendências: https://api.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
+   - * API: https://api.conectagov.processoeletronico.gov.br/interoperabilidade/rest/v3/ 
+   - * Pendências: https://api.conectagov.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes 
