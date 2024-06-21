@@ -19,9 +19,9 @@ Solução Sugerida
 
 Orientar a verificar o log do script de monitoramento, seguido da execução do script de verificação e armazenamento do log referente ao script. Além disso, é necessário orientar que seja verificado o comando curl e após a execução de todas as verificações, realizar a análise dos resultados providenciando a correção dos problemas identificados.  
 
-Na sequência, é esperado que o órgão/entidade receba os recibos de conclusão para que dessa forma o trâmite seja finalizado, conforme definido no fluxo de status disponível no Manual Técnico Operacional do Tramita GOV.BR (Embutir no nome do manual - https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status). 
+Na sequência, é esperado que o órgão/entidade receba os recibos de conclusão para que dessa forma o trâmite seja finalizado, conforme definido no `fluxo de status disponível no Manual Técnico Operacional do Tramita GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_TECNICO_OPERACIONAL/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_. 
 
-Mencionar o Item 7.12.5 das Perguntas Frequentes (FAQ) do Tramita (Embutir: https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-tramita-gov.br).  
+Mencionar o `Item 7.12 das Perguntas Frequentes (FAQ) do Tramita <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-o-processo-esteja-parado-em-algum-dos-status>`_.  
 
 **Caso o destinatário (destino)  tenha aberto o chamado:**
 

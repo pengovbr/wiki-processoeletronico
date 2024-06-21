@@ -67,4 +67,4 @@ Certificado digital | status 6 | Processo não recebido | Ambientes concorrentes
 Referências  
 ~~~~~~~~~~~~
 
-Item 4.2 da FAQ - https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Ambientes_de_Homologacao_e_de%20_Producao.html#cada-ambiente-possui-seu-proprio-certificado-digital  
+`Item 4.2 da FAQ <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Ambientes_de_Homologacao_e_de%20_Producao.html#cada-ambiente-possui-seu-proprio-certificado-digital>`_  
