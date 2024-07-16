@@ -23,7 +23,7 @@ Uma vez cadastrado no Portal, o Gestor de Protocolo tem autonomia para cadastrar
 
 No caso de o órgão ou entidade possuir apenas um gestor cadastrado e esse gestor não estiver mais ativo, é necessário abrir um chamado na Central de Atendimento para solicitar a inclusão de um novo usuário. 
 
-Para obter mais informações sobre o processo de cadastro do primeiro gestor, consulte os seguintes itens:  `2.10. O que são Gestores de Protocolo? <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Conceitos_Gerais.html#o-que-sao-gestores-de-protocolo>`_ e `3.8. Como eu faço para incluir novos Gestores de Protocolo no Portal do Tramita GOV.BR? <>`_ .  
+Para obter mais informações sobre o processo de cadastro do primeiro gestor, consulte os seguintes itens:  `2.10. O que são Gestores de Protocolo? <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Conceitos_Gerais.html#o-que-sao-gestores-de-protocolo>`_ e `3.4. Como são cadastrados os Gestores de Protocolo? <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Adesao_ao_Tramita_GOV.BR.html#como-sao-cadastrados-os-gestores-de-protocolo>`_ .  
 
 
 Modelo de Resposta para Chamados  

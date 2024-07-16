@@ -8,6 +8,6 @@ Capacitações e Apresentações
    :titlesonly:
 
    Apresentacoes
-   Treinamentos
-   Webnars
+   TreinamentosApresentacoes/index
+   Perguntas_frequentes/index
    
