@@ -1,4 +1,4 @@
-2024.05.13-Ambientes diferentes utilizando o mesmo certificado digital-V1
+2024.08.29-Ambientes diferentes utilizando o mesmo certificado digital-V2
 ===========================================================================
 
 Situação  
@@ -23,7 +23,7 @@ Modelo de Resposta para Chamados
 
 Prezado(a),  
 
-Informamos que o problema relatado está relacionado à existência de mais de um ambiente utilizando o mesmo certificado digital. Geralmente isso decorre da utilização do certificado do ambiente de produção no ambiente de homologação, ou seja, o mesmo certificado em dois ambientes distintos. Conforme instruído no item 4.2 da FAQ do Tramita, cada ambiente deve possuir o seu próprio certificado digital. 
+Informamos que o problema relatado está relacionado à existência de mais de um ambiente utilizando o mesmo certificado digital. Geralmente isso decorre da utilização do certificado do ambiente de produção no ambiente de homologação, ou seja, o mesmo certificado em dois ambientes distintos. Conforme instruído no item `Item 4.2 da FAQ <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Ambientes_de_Homologacao_e_de%20_Producao.html#cada-ambiente-possui-seu-proprio-certificado-digital>`_, cada ambiente deve possuir o seu próprio certificado digital. 
 
 Para esses casos em que o processo recebe o status 6 e o órgão de destino não identifica o seu recebimento, cabe ressaltar que o processo foi tramitado com sucesso, ou seja, sim ele foi recebido em algum sistema e, provavelmente, o não desejado pelo usuário. Dessa forma, é necessário identificar qual ambiente recebeu o processo de forma indevida. 
 
@@ -43,7 +43,9 @@ O processo seja enviado novamente para o órgão de destino, já de posse do nov
 
 É fundamental enfatizar que, antes de qualquer alteração na base, é imperativo realizar uma cópia de segurança dos dados. Isso é essencial para garantir a conformidade com as políticas de segurança e a continuidade das operações do órgão em questão. Complementamos que o tramita não controla a posse do processo. 
 
-Recomendamos que acompanhe as notícias e atualizações fornecidas no portal do PEN, no site oficial do Ministério da Gestão e da Inovação em Serviços Públicos - MGI, acessível em gov.br/pen (https://gov.br/pen) e nossa FAQ Tramita GOV.BR. 
+Informamos ainda que não havendo mais nenhum tipo de comunicação, esse chamado será encerrado após 48 horas. 
+
+Acompanhe nossas notícias e atualizações no portal do PEN, no site oficial do Ministério da Gestão e da Inovação em Serviços Públicos - MGI, acessível em gov.br/pen (https://gov.br/pen). Conheça, também, nossa `FAQ Tramita.GOV.BR <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_. 
 
 Atenciosamente, 
 
@@ -55,16 +57,17 @@ Atendente N2
 Perfil do usuário  
 ~~~~~~~~~~~~~~~~~~
 
-Atendente N2
+Gestor
 
 
 Palavras-chave  
 ~~~~~~~~~~~~~~
 
-Certificado digital | status 6 | Processo não recebido | Ambientes concorrentes | Módulo do Tramita GOV.BR | Tramita GOV.BR 
-
+Certificado digital | status 6 | Processo não recebido | Ambientes concorrentes  
 
 Referências  
 ~~~~~~~~~~~~
 
-`Item 4.2 da FAQ <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Ambientes_de_Homologacao_e_de%20_Producao.html#cada-ambiente-possui-seu-proprio-certificado-digital>`_  
+* `Item 4.2 da FAQ <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Ambientes_de_Homologacao_e_de%20_Producao.html#cada-ambiente-possui-seu-proprio-certificado-digital>`_ 
+
+* Chamado 3201224 

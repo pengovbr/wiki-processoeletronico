@@ -1,4 +1,4 @@
-2024.07.14-Processo parado no Status 5-V2
+2024.08.29-Processo parado no Status 5-V3
 ===========================================
 
 Situação  
@@ -21,12 +21,12 @@ Solução Sugerida
 
 - Na sequência, é esperado que o órgão/entidade receba os recibos de conclusão para que dessa forma o trâmite seja finalizado, conforme definido no `fluxo de status disponível no Manual Técnico Operacional do Tramita GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_TECNICO_OPERACIONAL/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_. 
 
-- Mencionar o `Item 7.12 das Perguntas Frequentes (FAQ) do Tramita <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-o-processo-esteja-parado-em-algum-dos-status>`_.
+- Mencionar o `Item 7.12 (status 5) das Perguntas Frequentes (FAQ) do Tramita <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-o-processo-esteja-parado-em-algum-dos-status>`_.
  
 
 **Caso o destinatário (destino)  tenha aberto o chamado:**
 
-- Orientar, inicialmente, a entrar em contato com o órgão remetente, conforme disposto no `item 7.12.5 das Perguntas Frequentes (FAQ) do Tramita < https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-tramita-gov.br>`_.  
+- Orientar, inicialmente, a entrar em contato com o órgão remetente, conforme disposto no `item 7.12.5 (status 5) das Perguntas Frequentes (FAQ) do Tramita < https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-tramita-gov.br>`_.  
 
 - O contato com o órgão destinatário deve ser acompanhado de mensagem clara que informe sobre o problema estar centrado no órgão de origem, e que para isso é fundamental que haja um contato com o órgão para saber se eles estão cientes da situação.  
 
@@ -39,7 +39,7 @@ Modelo de Resposta para Chamados
 
 Prezado(a), 
 
-Informamos que situação reportada, definida no `item 7.12.5 da FAQ Tramita <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-oprocesso-esteja-parado-em-algum-dos-status>`_, ocorre devido a um problema de comunicação com o Sistema de Processo Eletrônico (SPE) do(a) órgão/entidade remetente (origem).  
+Informamos que situação reportada, definida no `item 7.12.5 (status 5) da FAQ Tramita <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-oprocesso-esteja-parado-em-algum-dos-status>`_, ocorre devido a um problema de comunicação com o Sistema de Processo Eletrônico (SPE) do(a) órgão/entidade remetente (origem).  
  
 Conforme disponível no Portal de Administração, o trâmite ainda não foi concluído. Isto é evidenciado por meio da mensagem de aviso  
 
@@ -55,13 +55,15 @@ Para isso, recomendamos que a área técnica responsável realize os seguintes p
 
 3. Verificar o comando curl: curl –cert <caminho_para_meu_certificado.pem>     'https://api.conectagov.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes?todas=true'-v 
 
-Após executar os passos 1 ao 3, analisar os resultados apresentados e proceder com a correção dos problemas identificados.  
+4. Após executar os passos 1 ao 3, analisar os resultados apresentados e proceder com a correção dos problemas identificados.  
 
 A tempo, como forma de melhor orientar a compreensão da situação relatada é sugerida a leitura dos itens `7.12.5 <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-oprocesso-esteja-parado-em-algum-dos-status>`_ e `6.1 <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Gestores.html#os-contatos-dos-gestores-de-protocolo-dos-orgaos-estao-disponiveis>`_ da nossa FAQ, respectivamente.  
 
 Não obstante, uma vez que a sequência apresentada como solução não tenha sido suficiente para desbloquear o status do referido trâmite, será necessária a coleta de evidências adicionais a serem solicitadas pela equipe do PEN, a depender da situação. 
 
-Caso existam dúvidas sobre como executar algum dos passos, acesse o vídeo de orientação (Embutir em “vídeo de orientação” - https://youtu.be/GY9dtTHs9RU) elaborado por nossa equipe e disponibilizado em nosso canal oficial. Além disso, é possível que suas dúvidas possam ser esclarecidas em nossa página de perguntas frequentes (FAQ) (Embutir link - https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-tramita-gov.br) ou por meio do nosso Manual Técnico Operacional (Embutir link - https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/index.html) 
+Caso existam dúvidas sobre como executar algum dos passos, acesse o `vídeo de orientação <https://youtu.be/GY9dtTHs9RU>`_ elaborado por nossa equipe e disponibilizado em nosso canal oficial. Além disso, é possível que suas dúvidas possam ser esclarecidas em nossa página de `perguntas frequentes (FAQ) <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_ ou por meio do nosso `Manual Técnico Operacional <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/index.html>`_
+
+Informamos ainda que não havendo mais nenhum tipo de comunicação, esse chamado será encerrado após 48 horas.
 
 Acompanhe nossas notícias e atualizações no portal do PEN, no site oficial do Ministério da Gestão e da Inovação em Serviços Públicos - MGI, acessível em `gov.br/pen <https://gov.br/pen>`_. Conheça, também, nossa `FAQ Tramita.GOV.BR <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_.  
 
@@ -88,6 +90,10 @@ Nossa recomendação é que entre em contato com órgão remetente questionando 
 
 Se porventura esse contato já tenha sido realizado, e mesmo com análises internas o órgão não conseguiu realizar o recebimento do recibo e consequentemente, o desbloqueio do trâmite, é necessário que seja aberto um chamado por parte do órgão remetente, para que nossa equipe seja capaz de avaliar com mais cautela a situação reportada. 
 
+A tempo, como forma de melhor orientar a compreensão da situação relatada é sugerida a leitura do `item 7.12 <https://wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-o-processo-esteja-parado-em-algum-dos-status>`_ e do `item 6.1 <https://wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Gestores.html#os-contatos-dos-gestores-de-protocolo-dos-orgaos-estao-disponiveis>`_ da nossa FAQ, respectivamente. 
+
+Informamos ainda que não havendo mais nenhum tipo de comunicação, esse chamado será encerrado após 48 horas.
+
 Acompanhe nossas notícias e atualizações no portal do PEN, no site oficial do Ministério da Gestão e da Inovação em Serviços Públicos - MGI, acessível em `gov.br/pen <https://gov.br/pen>`_. Conheça, também, nossa `FAQ Tramita.GOV.BR <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_.
 
 Atenciosamente, 
@@ -98,7 +104,9 @@ Processo Eletrônico Nacional
 Atribuições e responsabilidades  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Atendentes 1° Nível 
+Atendentes N1 – Caso destinatário 
+
+Atendentes N2 – Caso remetente 
 
 Perfil do usuário  
 ~~~~~~~~~~~~~~~~~~
@@ -108,7 +116,7 @@ Gestor
 Palavras-chave  
 ~~~~~~~~~~~~~~
 
-STATUS 5; Tramita; Parado;  
+Status 5 | verificação | Parado | monitoramento  
 
 Referências  
 ~~~~~~~~~~~~
