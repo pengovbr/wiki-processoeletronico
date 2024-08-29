@@ -69,10 +69,6 @@ O MGI disponibiliza algum curso para os administradores do SEI?
 
 Sim, há um curso gratuito para administração do SEI, também oferecido pela ENAP, na plataforma `Escola Virtual Gov <https://www.escolavirtual.gov.br/curso/1052>`_ 
 
-O MGI oferece assistência para instalação do SEI? 
---------------------------------------------------
-
-Sim, o MGI oferece consultoria para a implantação do SEI, cobrindo tanto as questões técnicas que os órgãos podem enfrentar durante a instalação, quanto as configurações necessárias para a entrada em produção. Para solicitar essa consultoria, é necessário que o órgão tenha aderido ao ProPEN ou faça parte da Administração Pública Federal fundacional e autárquica. A solicitação pode ser feita através de um chamado na categoria "Solicitar Consultoria" na área referente ao SEI na `Central de Atendimento — Ministério da Gestão e da Inovação em Serviços Públicos (www.gov.br) <https://www.gov.br/gestao/pt-br/assuntos/central-de-atendimento>`_
  
 
  
