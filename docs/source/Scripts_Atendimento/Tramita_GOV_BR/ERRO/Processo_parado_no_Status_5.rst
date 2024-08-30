@@ -19,18 +19,18 @@ Solução Sugerida
 
 - Orientar a verificar o log do script de monitoramento, seguido da execução do script de verificação e armazenamento do log referente ao script. Além disso, é necessário orientar que seja verificado o comando curl e após a execução de todas as verificações, realizar a análise dos resultados providenciando a correção dos problemas identificados.  
 
-- Na sequência, é esperado que o órgão/entidade receba os recibos de conclusão para que dessa forma o trâmite seja finalizado, conforme definido no `fluxo de status disponível no Manual Técnico Operacional do Tramita GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_TECNICO_OPERACIONAL/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_. 
+- Na sequência, é esperado que o órgão/entidade receba os recibos de conclusão para que dessa forma o trâmite seja finalizado, conforme definido no fluxo de status disponível no `Manual Técnico Operacional <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_TECNICO_OPERACIONAL/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_ do Tramita GOV.BR . 
 
-- Mencionar o `Item 7.12 (status 5) das Perguntas Frequentes (FAQ) do Tramita <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-o-processo-esteja-parado-em-algum-dos-status>`_.
+- Mencionar o `Item 7.12 (status 5) <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-o-processo-esteja-parado-em-algum-dos-status>`_ das Perguntas Frequentes (FAQ) do Tramita .
  
 
 **Caso o destinatário (destino)  tenha aberto o chamado:**
 
-- Orientar, inicialmente, a entrar em contato com o órgão remetente, conforme disposto no `item 7.12.5 (status 5) das Perguntas Frequentes (FAQ) do Tramita < https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-tramita-gov.br>`_.  
+- Orientar, inicialmente, a entrar em contato com o órgão remetente, conforme disposto no `item 7.12.5 (status 5) <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-tramita-gov.br>`_ das Perguntas Frequentes (FAQ) do Tramita.  
 
 - O contato com o órgão destinatário deve ser acompanhado de mensagem clara que informe sobre o problema estar centrado no órgão de origem, e que para isso é fundamental que haja um contato com o órgão para saber se eles estão cientes da situação.  
 
-- Por fim, é esperado que o órgão/entidade de origem receba os recibos de conclusão para que dessa forma o trâmite seja finalizado, conforme definido no fluxo de status disponível no `Manual Técnico Operacional do Tramita GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_. 
+- Por fim, é esperado que o órgão/entidade de origem receba os recibos de conclusão para que dessa forma o trâmite seja finalizado, conforme definido no fluxo de status disponível no `Manual Técnico Operacional <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_TECNICO_OPERACIONAL/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_ do Tramita GOV.BR . 
 
 Modelo de Resposta para Chamados  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,7 +39,7 @@ Modelo de Resposta para Chamados
 
 Prezado(a), 
 
-Informamos que situação reportada, definida no `item 7.12.5 (status 5) da FAQ Tramita <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-oprocesso-esteja-parado-em-algum-dos-status>`_, ocorre devido a um problema de comunicação com o Sistema de Processo Eletrônico (SPE) do(a) órgão/entidade remetente (origem).  
+Informamos que situação reportada, definida no `item 7.12.5 (status 5) <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-oprocesso-esteja-parado-em-algum-dos-status>`_ da FAQ Tramita , ocorre devido a um problema de comunicação com o Sistema de Processo Eletrônico (SPE) do(a) órgão/entidade remetente (origem).  
  
 Conforme disponível no Portal de Administração, o trâmite ainda não foi concluído. Isto é evidenciado por meio da mensagem de aviso  
 
@@ -49,15 +49,15 @@ Nesse sentido, é necessário que seu órgão receba (remetente) o recibo de con
 
 Para isso, recomendamos que a área técnica responsável realize os seguintes passos: 
 
-1. Verifique o `log do script de monitoramento <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/INSTALL.md#33-opcional-script-de-monitoramento>`_; 
+1. Verifique o log do `script de monitoramento <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/INSTALL.md#33-opcional-script-de-monitoramento>`_; 
 
-2. Executar o `script de verificação 'verifica_instalacao_modulo_pen.php' <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/INSTALL.md#110-verifica%C3%A7%C3%A3o-e-testes-da-instala%C3%A7%C3%A3o-do-m%C3%B3dulo>`_ e armazenar o log gerado; 
+2. Executar o `script de verificação <https://github.com/pengovbr/mod-sei-pen/blob/master/docs/INSTALL.md#110-verifica%C3%A7%C3%A3o-e-testes-da-instala%C3%A7%C3%A3o-do-m%C3%B3dulo>`_ 'verifica_instalacao_modulo_pen.php'  e armazenar o log gerado; 
 
 3. Verificar o comando curl: curl –cert <caminho_para_meu_certificado.pem>     'https://api.conectagov.processoeletronico.gov.br/interoperabilidade/rest/v3/tramites/pendentes?todas=true'-v 
 
 4. Após executar os passos 1 ao 3, analisar os resultados apresentados e proceder com a correção dos problemas identificados.  
 
-A tempo, como forma de melhor orientar a compreensão da situação relatada é sugerida a leitura dos itens `7.12.5 <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-oprocesso-esteja-parado-em-algum-dos-status>`_ e `6.1 <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Gestores.html#os-contatos-dos-gestores-de-protocolo-dos-orgaos-estao-disponiveis>`_ da nossa FAQ, respectivamente.  
+A tempo, como forma de melhor orientar a compreensão da situação relatada é sugerida a leitura do item `7.12 <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-o-processo-esteja-parado-em-algum-dos-status>`_ e do `item 6.1 <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Gestores.html#os-contatos-dos-gestores-de-protocolo-dos-orgaos-estao-disponiveis>`_ da nossa FAQ, respectivamente. 
 
 Não obstante, uma vez que a sequência apresentada como solução não tenha sido suficiente para desbloquear o status do referido trâmite, será necessária a coleta de evidências adicionais a serem solicitadas pela equipe do PEN, a depender da situação. 
 
@@ -78,7 +78,7 @@ Processo Eletrônico Nacional
 Prezado(a), 
   
 
-Informamos que situação reportada, definida no `item 7.12.5 da FAQ Tramita <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-oprocesso-esteja-parado-em-algum-dos-status>`_, ocorre devido a um problema de comunicação com o Sistema de Processo Eletrônico (SPE) do(a) órgão/entidade remetente (origem).  
+Informamos que situação reportada, definida no item no `item 7.12 (status 5) <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Utiliza_Tramita_Envio_e_recebimento_de_processos.html#o-que-representa-o-status-de-um-tramite-e-como-proceder-caso-oprocesso-esteja-parado-em-algum-dos-status>`_ da FAQ Tramita, ocorre devido a um problema de comunicação com o Sistema de Processo Eletrônico (SPE) do(a) órgão/entidade remetente (origem). 
  
 Conforme disponível no Portal de Administração, o trâmite ainda não foi concluído. Isto é evidenciado por meio da mensagem de aviso  
 
