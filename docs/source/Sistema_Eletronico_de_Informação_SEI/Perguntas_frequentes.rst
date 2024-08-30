@@ -67,7 +67,7 @@ Sim, a Escola Nacional de Administração Pública (ENAP) oferece um curso gratu
 O MGI disponibiliza algum curso para os administradores do SEI? 
 ---------------------------------------------------------------
 
-Sim, há um curso gratuito para administração do SEI, também oferecido pela ENAP, na plataforma `Escola Virtual Gov <https://www.escolavirtual.gov.br/curso/1052>`_ 
+Sim, há um curso gratuito para administração do SEI, também oferecido pela ENAP, na plataforma `Escola Virtual Gov <https://www.escolavirtual.gov.br/curso/304>`_ 
 
 Quais são os critérios mínimos para implantar o SEI!? 
 -----------------------------------------------------
