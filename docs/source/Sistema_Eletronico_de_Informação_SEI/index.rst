@@ -10,4 +10,5 @@ O **Sistema Eletrônico de Informação (SEI)** é uma ferramenta de gestão de 
 
    Documentacao_de_Apoio
    TreinamentosApresentacoes
-   Basedereferencia 
+   Basedereferencia
+   Perguntas_frequentes
