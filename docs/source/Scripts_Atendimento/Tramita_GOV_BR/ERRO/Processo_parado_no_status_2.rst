@@ -21,7 +21,7 @@ Solução Sugerida
 
 - O contato com o órgão remetente deve ser acompanhado de mensagem clara que informe sobre o problema estar centrado no órgão de destino, e que para isso é fundamental que haja um contato com o órgão para saber se eles estão cientes da situação. 
 
-- Por fim, é esperado que o órgão de destino receba os arquivos digitais para que dessa forma o trâmite avance para os status posteriores, conforme disponível no `Manual Técnico Operacional <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_ do Tramita GOV.BR. 
+- Por fim, é esperado que o órgão de destino receba os arquivos digitais para que dessa forma o trâmite avance para os status posteriores, conforme disponível no `Manual Técnico Operacional <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_TECNICO_OPERACIONAL/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_ do Tramita GOV.BR. 
 
 
 **Caso o destinatário (destino) tenha aberto o chamado:** 
@@ -32,7 +32,7 @@ Solução Sugerida
 
 - Orientar que os agendamentos devem ser reativados ao final de todos os ajustes realizados; 
 
-- Na sequência, é esperado que o órgão envie os componentes digitais para que dessa forma o trâmite avance para os status posteriores, conforme definido no `Manual Técnico Operacional <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_ do Tramita GOV.BR; 
+- Na sequência, é esperado que o órgão envie os componentes digitais para que dessa forma o trâmite avance para os status posteriores, conforme definido no `Manual Técnico Operacional <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_TECNICO_OPERACIONAL/ACESSO_AO_AMBIENTE_DE_PRODUCAO.html#fluxo-de-status>`_ do Tramita GOV.BR; 
 
 - Mencionar o `Item 7.12 (status 2) <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-tramita-gov.br>`_ Perguntas Frequentes (FAQ) do Tramita 
 

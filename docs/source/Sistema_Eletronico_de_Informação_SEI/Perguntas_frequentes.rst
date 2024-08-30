@@ -69,8 +69,41 @@ O MGI disponibiliza algum curso para os administradores do SEI?
 
 Sim, há um curso gratuito para administração do SEI, também oferecido pela ENAP, na plataforma `Escola Virtual Gov <https://www.escolavirtual.gov.br/curso/1052>`_ 
 
- 
+Quais são os critérios mínimos para implantar o SEI!? 
+-----------------------------------------------------
 
+O órgão deve verificar qual o seu uso esperado do SEI e ter pessoal e infraestrutura correspondente. No manual tem uma sugestão de infraestrutura. 
+
+Além disso o órgão deve se atentar a: 
+
+* Estrutura tecnológica adequada: 
+
+  * Servidores com capacidade de processamento e armazenamento. 
+
+  * Rede de comunicação com banda larga. 
+
+  * Equipe de profissionais qualificados: 
+
+  * Administradores de sistemas. 
+
+  * Analistas de suporte. 
+
+  * Gestores de documentos. 
+
+* Recursos orçamentários: 
+
+  * Para custear a instalação, a configuração, a administração e a manutenção do SEI. 
+
+No multi-órgão as tabelas de assuntos, processos, documentos e demais serão sempre compartilhadas entre todos os órgãos? 
+-------------------------------------------------------------------------------------------------------------------------
+
+A administração é uma só por instância do SEI. Não há separação. 
+
+ 
+No multi-órgão a implantação de ações de preservação digital, atualizações do SEI e implementação de novos módulos deverão partir sempre do órgão principal ou os órgãos subordinados podem ter autonomia para implementar esse tipo de projeto? 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A gestão de continuidade de negócio junto com gestão de mudanças é de responsabilidade dos órgãos. A autonomia dos órgãos pode ser contemplada nos planos correspondentes ou em outro mecanismo adequado gerenciado pelos órgãos. 
  
 
  
