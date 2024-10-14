@@ -7,17 +7,17 @@ Para tanto, será disponível opção para consulta simples de documentos confor
 Consulta Simples
 Possibilita a consulta básica de documentos por meio do filtro:
  - 'Nº Protocolo:
-=========================	 =====================================
-Formato					           Dígitos
-=========================	 =====================================
-00000.000000/00	           13 dígitos
-00000.000000/00-0	         13 dígitos + 1 Dígito Verificador
-00000.000000/00-00	       13 dígitos + 2 dígitos verificadores
-00000.000000/00-DV	       13 dígitos + letras “D” e “V”
-00000.000000/0000-00	     15 dígitos + 2 dígitos verificadores
-00000.000000/0000-DV	     15 dígitos + letras “D” e “V”
-0000000.00000000/0000-00	 19 + 2 dígitos verificadores
-=========================	 =====================================
+======================== ====================================
+Formato					             Dígitos
+======================== ====================================
+00000.000000/00	         13 dígitos
+00000.000000/00-0	       13 dígitos + 1 Dígito Verificador
+00000.000000/00-00	      13 dígitos + 2 dígitos verificadores
+00000.000000/00-DV	      13 dígitos + letras “D” e “V”
+00000.000000/0000-00	    15 dígitos + 2 dígitos verificadores
+00000.000000/0000-DV	    15 dígitos + letras “D” e “V”
+0000000.00000000/0000-00 19 + 2 dígitos verificadores
+======================== ====================================
 
 Fundamentação: Portaria Interministerial MJ/MP nº 2.321, de 30 de dezembro de 2014; Portaria SLTI-MP n° 3, de 16 de maio de 2003; Portaria SLTI-MP nº 2, de 26 de fevereiro de 2003; Portaria GM-MP n° 171, de 28 de dezembro de 1999; Instrução Normativa DASP-PR n° 149, de 25 de novembro de 1983; e Instrução Normativa DASP-PR n° 138, de 15 de abril de 1983.
 
