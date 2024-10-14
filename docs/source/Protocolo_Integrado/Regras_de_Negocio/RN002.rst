@@ -1,0 +1,17 @@
+**RN002-Acesso Público ao Conteúdo PI: Consulta Avançada**
+
+A plataforma PI deve permitir o acesso (por meio de consulta) ao conteúdo de processos com grau de acessos públicos, semelhante à 'Pesquisa Pública'. 
+
+Para tanto, o usuário poderá realizar consultas por meio da opção 'Consulta Simples de Documentos' ou 'Consulta Avançada de Documentos.
+
+Esta regra descreve os filtros necessários para a 'Consulta Avançada de Documentos' descrito abaixo:
+
+**Consulta Avançada**
+ - Filtros Necessários: 
+                        - 'Nome do Interessado';
+                        - 'Órgão ou Entidade';
+                        - 'Data Inicial';
+                        - 'Data Final';
+                        - 'Número Documento (RG/CPF)';
+                        - 'Tipo de Processo';
+                        - 'Assunto'.
