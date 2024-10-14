@@ -1,12 +1,13 @@
-RN001-Acesso Público ao Conteúdo PI: Consulta Simples
+**RN001-Acesso Público ao Conteúdo PI: Consulta Simples**
 
-A plataforma PI deve permitir o acesso/consulta público ao conteúdo de processos com grau de acessos públicos, semelhante à Pesquisa Pública. 
+A plataforma PI deve permitir o acesso (por meio de consulta) ao conteúdo de processos com grau de acessos públicos, semelhante à 'Pesquisa Pública'. 
 
-Para tanto, será disponível opção para consulta simples de documentos conforme descrito abaixo:
+Para tanto, o usuário poderá realizar consultas por meio da opção 'Consulta Simples de Documentos' ou 'Consulta Avançada de Documentos.
 
-Consulta Simples
-Possibilita a consulta básica de documentos por meio do filtro:
- - 'Nº Protocolo:
+Esta regra descreve os filtros necessários para a 'Consulta Simples de Documentos' descrito abaixo:
+
+**Consulta Simples**
+ - Filtro Necessário: 'Nº Protocolo'. O número de protocolo deve conter o formato abaixo:
 ======================== ====================================
 Formato					             Dígitos
 ======================== ====================================
@@ -19,6 +20,7 @@ Formato					             Dígitos
 0000000.00000000/0000-00 19 + 2 dígitos verificadores
 ======================== ====================================
 
-Fundamentação: Portaria Interministerial MJ/MP nº 2.321, de 30 de dezembro de 2014; Portaria SLTI-MP n° 3, de 16 de maio de 2003; Portaria SLTI-MP nº 2, de 26 de fevereiro de 2003; Portaria GM-MP n° 171, de 28 de dezembro de 1999; Instrução Normativa DASP-PR n° 149, de 25 de novembro de 1983; e Instrução Normativa DASP-PR n° 138, de 15 de abril de 1983.
+**Fundamentação**
+ - Portaria Interministerial MJ/MP nº 2.321, de 30 de dezembro de 2014; Portaria SLTI-MP n° 3, de 16 de maio de 2003; Portaria SLTI-MP nº 2, de 26 de fevereiro de 2003; Portaria GM-MP n° 171, de 28 de dezembro de 1999; Instrução Normativa DASP-PR n° 149, de 25 de novembro de 1983; e Instrução Normativa DASP-PR n° 138, de 15 de abril de 1983.
 
 
