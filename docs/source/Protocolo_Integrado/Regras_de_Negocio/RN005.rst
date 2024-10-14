@@ -3,3 +3,38 @@
 A plataforma PI deve permitir o usuário não logado visualize os tràmites de processos com grau de acesso público.
 
 Para tanto, ao selecionar o processo à ser consultado, o sistema deve exibir as informações abaixo:
+
+Este processo foi disponiblizado em seu inteiro teor pelo órgão XPTO, acesse na íntegra.
+
+ - Documentos
+
+   - Protocolo
+
+   - Data de Produção
+
+   - Espécie
+
+   - Identificação
+
+Assunto
+
+ - Interessados
+
+   - Identificação
+
+   - Nome
+
+ - Histórico
+
+   - Data 
+
+   - Unidade
+
+   - Operação
+
+ - Botões
+
+   - Imprimir
+
+   - Voltar
+ 
