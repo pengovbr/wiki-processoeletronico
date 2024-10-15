@@ -9,4 +9,4 @@ Seu principal objetivo é oferecer ao cidadão mais um canal para consultas, al�
    :hidden:
    :titlesonly:
 
-   Regras_de_Negocio
+   Regras_de_Negocio/index
