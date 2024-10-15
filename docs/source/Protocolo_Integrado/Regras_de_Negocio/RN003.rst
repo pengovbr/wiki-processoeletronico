@@ -1,0 +1,5 @@
+**RN003-Acompanhamento de Processos PI: Login via GOV.BR**
+
+A plataforma PI deve permitir o acompanhamento de processos de cada usuário com grau de acessos restrito.
+
+Para tanto, o usuário deverá realizar login via GOV.BR.
