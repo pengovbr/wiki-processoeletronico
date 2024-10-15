@@ -2,6 +2,6 @@
 
 A plataforma PI deve verificar o perfil de acesso do cidadão.
 
- - Caso o perfil de acesso seja púlblico (RN001 e RN002), o cidadão poderá Consultar Documentos, Visualizar Consulta de Processos e Visualizar Detalhes do Processo.
+ - Caso o perfil de acesso seja púlblico, o cidadão poderá Consultar Documentos, Visualizar Consulta de Processos e Visualizar Detalhes do Processo.
 
- - Caso o perfil de acesso seja restrito (RN003), o cidadão poderá Consultar Documentos, Visualizar Consulta de Processos, Visualizar Detalhes do Processo, Ativar Acompanhamento de Processos, Receber Notificações, Gerenciar Documentos (Excluir Acompanhamento de Processos). 
+ - Caso o perfil de acesso seja restrito, o cidadão poderá Consultar Documentos, Visualizar Consulta de Processos, Visualizar Detalhes do Processo, Ativar Acompanhamento de Processos, Receber Notificações, Gerenciar Documentos (Excluir Acompanhamento de Processos). 
