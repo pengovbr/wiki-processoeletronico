@@ -1,9 +1,16 @@
-Regras de Negócio
-===================
+Regras de Negócio - PI
+===============================
+
+As regras de negócio da plataforma Protocolo Integrado são listadas abaixo:
 
 
 .. toctree::
    :hidden:
    :titlesonly:
 
-   RN001.rst
+   RN001
+   RN002
+   RN003
+   RN004
+   RN005
+   RN006
