@@ -1,41 +1,42 @@
 **RN005-Visualização de Processos Públicos: Usuário não Logado**
 ================================================================
 
-A plataforma PI deve permitir o usuário não logado visualize os tràmites de processos com grau de acesso público.
+A plataforma PI deve permitir o usuário não logado visualize os trâmites de processos com grau de acesso público.
 
 Para tanto, ao selecionar o processo à ser consultado, o sistema deve exibir as informações abaixo:
 
-Este processo foi disponiblizado em seu inteiro teor pelo órgão XPTO, acesse na íntegra.
+Este processo foi disponiblizado em seu inteiro teor pelo órgão **[XXX]**. **Clique aqui** para acessá-lo na íntegra.
 
- - Documentos
+Documentos
+==========
+   - Disponibilizar em tela campo 'Protocolo'
 
-   - Protocolo
+   - Disponibilizar em tela campo 'Data de Produção'
 
-   - Data de Produção
+   - Disponibilizar em tela campo 'Espécie'
 
-   - Espécie
+   - Disponibilizar em tela campo 'Identificação'
 
-   - Identificação
+   - Disponibilizar em tela campo 'Assunto'
 
-   - Assunto
+Interessados
+============
+   - Disponibilizar em tela campo 'Identificação'
 
- - Interessados
+   - Disponibilizar em tela campo 'Nome'
 
-   - Identificação
+Histórico
+=========
 
-   - Nome
+   - Disponibilizar em tela campo 'Data' 
 
- - Histórico
+   - Disponibilizar em tela campo 'Unidade'
 
-   - Data 
+   - Disponibilizar em tela campo 'Operação'
 
-   - Unidade
+Botões
+======
+   - Disponibilizar em tela botão 'Imprimir'
 
-   - Operação
-
- - Botões
-
-   - Imprimir
-
-   - Voltar
+   - Disponibilizar em tela botão 'Voltar'
  
