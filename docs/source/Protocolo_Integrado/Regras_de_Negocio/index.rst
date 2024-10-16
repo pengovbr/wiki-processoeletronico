@@ -1,4 +1,4 @@
-Regras de Negócio - PI
+Regras de Negócio
 ===============================
 
 As regras de negócio da plataforma Protocolo Integrado são listadas abaixo:
