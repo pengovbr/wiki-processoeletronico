@@ -1,4 +1,5 @@
 **RN005-Visualização de Processos Públicos: Usuário não Logado**
+================================================================
 
 A plataforma PI deve permitir o usuário não logado visualize os tràmites de processos com grau de acesso público.
 

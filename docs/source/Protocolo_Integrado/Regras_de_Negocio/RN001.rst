@@ -1,4 +1,5 @@
 **RN001-Acesso Público ao Conteúdo PI: Consulta Simples**
+=========================================================
 
 A plataforma PI deve permitir o acesso (por meio de consulta) ao conteúdo de processos com grau de acessos públicos, semelhante à 'Pesquisa Pública'. 
 
