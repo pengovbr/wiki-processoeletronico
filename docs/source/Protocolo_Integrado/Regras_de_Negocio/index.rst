@@ -14,3 +14,4 @@ As regras de negócio da plataforma Protocolo Integrado são listadas abaixo:
    RN005
    RN006
    RN007
+   RN008
