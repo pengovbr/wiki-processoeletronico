@@ -3,7 +3,7 @@
 
 A plataforma PI deve permitir a consulta ao conteúdo de processos com grau de acessos públicos. 
 
-Para tanto, o usuário poderá realizar consultas por meio da opção 'Consulta Simples de Documentos' ou 'Consulta Avançada de Documentos.
+Para tanto, o usuário poderá realizar consultas de documentos por meio da opção 'Consulta Simples' ou 'Consulta Avançada'.
 
 Esta regra descreve os filtros necessários para a 'Consulta Avançada de Documentos' descrito abaixo:
 
