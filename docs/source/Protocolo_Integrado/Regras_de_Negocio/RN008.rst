@@ -11,10 +11,18 @@ Para tanto, ao informar os filtros de consulta necessários e acionar o botão '
 
    - Disponibilizar grid em tela contendo as seguintes colunas:
 
+================== ==== ==== =========== ======= ====
+Processo/Documento Tipo	Data Interessado Assunto Ação
+================== ==== ==== =========== ======= ====	         
+================== ==== ==== =========== ======= ====
 
 **Lista de Andamentos (Quantidade de Registros)**
 
 
    - Disponibilizar grid em tela contendo as seguintes colunas:
 
+========= ============ ========= ====
+Data/Hora  Interessado Descrição Ação
+========= ============ ========= ====	         
+========= ============ ========= ====
  
