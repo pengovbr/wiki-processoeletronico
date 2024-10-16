@@ -1,6 +1,6 @@
-**RN004-Acompanhamento e Recebimento de Notificações de Atualizações de Processos PI: E-mail, WhatsApp e SMS**
-===============================================================================================================
+**RN004-Acompanhamento de Processos PI: Envio de Notificações sobre o Andamento do Processo**
+=============================================================================================
 
 A plataforma PI deve permitir que o usuário acompanhe seus respectivos processos (desde que esteja logado via GOV.BR) e receba notificações de atualização e do acompanhamento de processos.
 
-Para tanto, o usuário deverá receber e-mail, SMS e WhatsApp.
+Para tanto, a plataforma deverá enviar notificações por e-mail, SMS e WhatsApp.
