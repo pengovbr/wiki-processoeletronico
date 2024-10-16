@@ -1,0 +1,5 @@
+**RN007-Exclusão de Acompanhamento de Processos PI: Cancelamento de Envio de Notificações sobre o Andamento do Processo**
+=========================================================================================================================
+A plataforma PI deve permitir que o usuário realize a exclusão do acompanhamento de processos (desde que esteja logado via GOV.BR e esteja acompanhando um ou mais processo(s)).
+
+Para tanto, caso a exclusão do acompanhamento seja realizada, a plataforma deverá cancelar o envio de notificações por e-mail, SMS e WhatsApp.
