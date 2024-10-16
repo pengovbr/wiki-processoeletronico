@@ -1,5 +1,5 @@
-**RN006-Verificar Perfil de Acesso**
-======================================
+**RN006-Verificar Perfil do Cidadão PI: Acesso Público e Acesso Restrito**
+==========================================================================
 
 A plataforma PI deve verificar o perfil de acesso do cidadão.
 
