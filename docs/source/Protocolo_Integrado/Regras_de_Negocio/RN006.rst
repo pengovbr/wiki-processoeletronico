@@ -1,8 +1,8 @@
-**RN006-Veririfcar Perfil de Acesso**
+**RN006-Verificar Perfil de Acesso**
 ======================================
 
 A plataforma PI deve verificar o perfil de acesso do cidadão.
 
  - Caso o perfil de acesso seja púlblico, o cidadão poderá Consultar Documentos, Visualizar Consulta de Processos e Visualizar Detalhes do Processo.
 
- - Caso o perfil de acesso seja restrito, o cidadão poderá Consultar Documentos, Visualizar Consulta de Processos, Visualizar Detalhes do Processo, Ativar Acompanhamento de Processos, Receber Notificações, Gerenciar Documentos (Excluir Acompanhamento de Processos). 
+ - Caso o perfil de acesso seja restrito, o cidadão poderá Consultar Documentos, Visualizar Consulta de Processos, Visualizar Detalhes do Processo, Ativar Acompanhamento de Processos, Receber Notificações e Excluir Acompanhamento de Processos. 
