@@ -7,8 +7,8 @@ Para tanto, ao selecionar o processo à ser consultado, o sistema deve exibir as
 
 Este processo foi disponiblizado em seu inteiro teor pelo órgão **[XXX]**. **Clique aqui** para acessá-lo na íntegra.
 
-Documentos
-==========
+**Documentos**
+
    - Disponibilizar em tela campo 'Protocolo'
 
    - Disponibilizar em tela campo 'Data de Produção'
@@ -19,14 +19,14 @@ Documentos
 
    - Disponibilizar em tela campo 'Assunto'
 
-Interessados
-============
+**Interessados**
+
    - Disponibilizar em tela campo 'Identificação'
 
    - Disponibilizar em tela campo 'Nome'
 
-Histórico
-=========
+**Histórico**
+
 
    - Disponibilizar em tela campo 'Data' 
 
@@ -34,8 +34,8 @@ Histórico
 
    - Disponibilizar em tela campo 'Operação'
 
-Botões
-======
+**Botões**
+
    - Disponibilizar em tela botão 'Imprimir'
 
    - Disponibilizar em tela botão 'Voltar'
