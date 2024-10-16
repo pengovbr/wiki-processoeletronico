@@ -5,7 +5,6 @@ As regras de negócio da plataforma Protocolo Integrado são listadas abaixo:
 
 
 .. toctree::
-   :hidden:
    :titlesonly:
 
    RN001
