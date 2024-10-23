@@ -1,2 +1,5 @@
-**RN001-Gerar Processo de Documento de Atos Oficiais: Autenticação no SEI**
-============================================================================
+**RN001-Gerar Processo de Documento de Atos Oficiais SIDOF: Autenticação no SEI**
+=================================================================================
+O sistema deve permitir o uso do SEI para o gerenciamento eletrônico de documentos em conformidade com as normas de segurança da informação.
+
+Para tanto, a plataforma deve permitir que o usuário realize a autenticação no SEI por meio de login e senha desde que esteja previamente cadastrado na unidade 'Presidência (PR)'.
