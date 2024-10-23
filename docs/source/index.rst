@@ -59,6 +59,6 @@ A equipe do PEN construiu este material pensando em você! Esperamos que possa a
    :hidden:
    :titlesonly:
 
-   PROJETO_SIDOF
+   PROJETO_SIDOF/index
  
    
