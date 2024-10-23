@@ -8,5 +8,8 @@ As regras de negócio do Projeto SIDOF estão listadas abaixo:
    :titlesonly:
 
    RN001
+   RN002
+   RN003
+
 
 
