@@ -1,7 +1,9 @@
-**RN002-Gerar Processo de Documento de Atos Oficiais: Tipos de Processo**
+**RN002-Gerar Processo de Documento de Atos Oficiais SIDOF: Tipos de Processo**
 =========================================================================
 
-O sistema deve permitir aque os tipos de processo permitidos de serem criados devem ser restritos aos itens listados abaixo: 
+O sistema deve permitir que a 'Classificação por Assuntos' seja estabelecida conforme o 'Tipo de Processo'.
+
+Para tanto, os tipos de processo a serem criados devem ser restritos aos itens listados abaixo com a possibilidade de serem parametrizados: 
 
 ==================================  ====================================================================================================================================
 Tipo de Processo				    Objetivo
