@@ -1,2 +1,18 @@
 **RN002-Gerar Processo de Documento de Atos Oficiais: Tipos de Processo**
 =========================================================================
+
+O sistema deve permitir aque os tipos de processo permitidos de serem criados devem ser restritos aos itens listados abaixo: 
+
+==================================  ====================================================================================================================================
+Tipo de Processo				    Objetivo
+==================================  ====================================================================================================================================
+Anteprojeto/Projeto de Lei          Criar propostas de novas leis a serem submetidas ao Congresso Nacional para aprovação.
+Exposição de Motivos para Despacho  Fornecer informações e justificativas para decisões a serem tomadas pela Presidência da República.
+Exposição de Motivos para Mensagem  Justificar e contextualizar mensagens enviadas ao Congresso Nacional ou outras entidades. 
+Projeto de Decreto de Pessoal       Formalizar atos relativos à gestão de pessoal no serviço público, como nomeações e exonerações. 
+Projeto de Decreto Normativo        Estabelecer normas detalhadas para a aplicação de leis e regulamentações.
+Projeto de Decreto sem número       Tratar de questões administrativas e outras matérias que não se enquadram nos tipos normativos ou de pessoal. 
+Projeto de Medida Provisória        Propor ações legislativas imediatas com força de lei, que devem ser aprovadas pelo Congresso Nacional dentro de um prazo específico.
+Ofício                              Comunicar oficialmente decisões, instruções e informações importantes entre os órgãos do governo e para o público. 
+==================================  ====================================================================================================================================
+
