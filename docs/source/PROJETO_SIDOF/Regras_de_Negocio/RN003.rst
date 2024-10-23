@@ -1,2 +1,10 @@
-**RN003-Gerar Processo de Documento de Atos Oficiais: Campos de preenchimento obrigatório**
-===========================================================================================
+**RN003-Gerar Processo de Documento de Atos Oficiais SIDOF: Campos de preenchimento obrigatório**
+=================================================================================================
+
+- Campos de preenchimento obrigatório:
+ - Especificação: descrever suscintamente do que se trata a matéria; 
+ - Prioridade: informar a prioridade do processo; 
+ - Classificação por Assuntos: conforme o código de classificação e tabela de temporalidade e destinação de documentos relativos às atividades-meio/suporte e/ou atividades fim do Poder Executivo federal; 
+ - Interessados: indicar os Ministérios Coautores que deverão subscrever a Exposição de Motivos e/ou o Texto Normativo proposto; 
+ - Observações desta unidade: incluir observações da unidade autora sobre o processo. 
+ - Nível de Acesso: informar o nível de acesso e a hipótese legal pertinente em caso de restrição. 
