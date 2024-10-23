@@ -18,4 +18,5 @@ O sistema suportará tanto assinaturas avançadas, realizadas por meio do Assina
    Regras_de_Negocio/index
    Documentacao_de_Apoio
    TreinamentosApresentacoes
+   DECRETO_LEI
 
