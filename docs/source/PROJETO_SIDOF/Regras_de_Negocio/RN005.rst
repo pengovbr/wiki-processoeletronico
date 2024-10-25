@@ -1,5 +1,5 @@
-**RN005-Gerar Documentos SIDOF: Campos de preenchimento obrigatório**
-=====================================================================
+**RN005-Gerar Documentos de Exposição de Motivos SIDOF: Campos de preenchimento obrigatório**
+=============================================================================================
 O sistema deve permitir que seja gerado o documento de exposição de motivos.
 
 Para tanto, o sistema deverá fornecer as informações indicadas abaixo:
