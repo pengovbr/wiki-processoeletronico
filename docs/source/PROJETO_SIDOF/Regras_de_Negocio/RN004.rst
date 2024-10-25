@@ -1,4 +1,4 @@
-**RN004-Gerar Processo de Documento de Atos Oficiais SIDOF: Tipos de Documentos**
+**RN004-Gerar Documentos SIDOF: Tipos de Documentos**
 =================================================================================
 O sistema deve permitir, ao Gerar um Documento, que seja estabelecida o 'Tipo de Documento'.
 
