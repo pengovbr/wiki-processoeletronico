@@ -1,8 +1,8 @@
-**RN003-Gerar Processo de Documento de Atos Oficiais SIDOF: Campos de preenchimento obrigatório**
-=================================================================================================
+**RN003-Gerar Processo de Documento de Atos Oficiais SIDOF: Campos de preenchimento obrigatório do novo processo**
+==================================================================================================================
 O sistema deve permitir que seja gerado o processo de documento de atos oficiais.
 
-Para tanto, os deverá fornecer as informações indicadas abaixo:
+Para tanto, os deverá fornecer as informações indicadas abaixo durante a informação do novo processo:
 
 - Campos de preenchimento obrigatório:
  - **Especificação:** descrever suscintamente do que se trata a matéria; 
