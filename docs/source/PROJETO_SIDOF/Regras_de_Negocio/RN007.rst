@@ -1,0 +1,9 @@
+**RN007-Gerar Documentos SIDOF: Númeração Exposição de Motivos**
+================================================================
+O sistema deve permitir que seja gerado o documento de exposição de motivos.
+
+Para tanto, a numeração da Exposição de Motivos deverá ser anual e sequencial por Ministério Autor, 
+sem prejuízo da utilização de numeração única do próprio sistema SEI. 
+
+Exemplo:
+ - [Mapear Exemplo]
