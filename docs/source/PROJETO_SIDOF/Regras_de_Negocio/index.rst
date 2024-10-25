@@ -14,3 +14,4 @@ As regras de negócio do Projeto SIDOF estão listadas abaixo:
    RN005
    RN006
    RN007
+   RN008
