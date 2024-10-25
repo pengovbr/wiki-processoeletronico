@@ -1,0 +1,17 @@
+**RN008-Gerar Documentos de Texto Normativo SIDOF: Campos de preenchimento obrigatório**
+========================================================================================
+O sistema deve permitir que seja gerado o documento de texto normativo.
+
+Para tanto, o sistema deverá fornecer as informações indicadas abaixo:
+
+- Campos de preenchimento obrigatório:
+ - **Texto Inicial**: selecionar uma das opções: 
+  - **Documento Modelo:** deverá indicar o número SEI do documento existente que se quer utilizar como modelo; 
+  - **Texto Padrão:** deverá ser indicado o texto padrão previamente cadastrado que se quer utilizar; 
+  - **Nenhum:** iniciar um documento em branco. 
+ - **Descrição:** descrever suscintamente do que se trata o documento;
+ - **Nome na Árvore:** incluir o termo que aparecerá com sufixo após o nome e número padrão do Texto Normativo; 
+ - **Interessados:** indicar os Ministérios Coautores que deverão subscrever o Texto Normativo. Devem ser os mesmos Ministérios que constam no item Interessados das propriedades do processo. 
+ - **Classificação por Assuntos:** conforme o código de classificação e tabela de temporalidade e destinação de documentos relativos às atividades-meio/suporte e/ou atividades fim do Poder Executivo federal; 
+ - **Observações desta unidade:** incluir observações da unidade autora sobre o processo. 
+ - **Nível de Acesso:** informar o nível de acesso e a hipótese legal pertinente em caso de restrição. 
