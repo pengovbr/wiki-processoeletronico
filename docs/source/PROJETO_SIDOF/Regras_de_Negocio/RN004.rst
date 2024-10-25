@@ -1,3 +1,13 @@
 **RN004-Gerar Processo de Documento de Atos Oficiais SIDOF: Tipos de Documentos**
 =================================================================================
+O sistema deve permitir, ao Gerar um Documento, que seja estabelecida o 'Tipo de Documento'.
 
+Para tanto, os tipos de documentos a serem criados devem ser conforme os itens listados abaixo com a possibilidade de serem parametrizados: 
+
+==================================  ====================================================================================================================================
+Tipo de Documentos				    Objetivo
+==================================  ====================================================================================================================================
+Externo                             Definir
+Exposição de Motivos                Definir
+Texto Normativo                     Definir
+==================================  ====================================================================================================================================
