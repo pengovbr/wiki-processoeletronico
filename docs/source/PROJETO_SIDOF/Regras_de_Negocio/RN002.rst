@@ -1,7 +1,7 @@
 **RN002-Gerenciar envio de processo para a Presidência STRATOS: Tipos de Processos**
 ====================================================================================
 
-O sistema deve permitir os seguintes 'Tipos de Processos' que devem ser compatíveis aos itens listados abaixo, com a possibilidade de serem parametrizados: 
+O sistema deve permitir, para o Ato Oficial, os seguintes 'Tipos de Processos' que devem ser compatíveis aos itens listados abaixo, com a possibilidade de serem parametrizados: 
 
 - Minuta de Anteprojeto/Projeto de Lei;
 - Minuta de Medida Provisória;
