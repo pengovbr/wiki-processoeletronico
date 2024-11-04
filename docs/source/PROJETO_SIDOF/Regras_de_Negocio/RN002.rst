@@ -1,13 +1,13 @@
 **RN002-Gerenciar envio de processo para a Presidência STRATOS: Tipos de Processos**
 ====================================================================================
 
-O sistema deve permitir os seguintes tipos de processos que devem ser restritos (número limitado e representativo) aos itens listados abaixo com a possibilidade de serem parametrizados: 
+O sistema deve permitir os seguintes 'Tipos de Processos' que devem ser compatíveis aos itens listados abaixo, com a possibilidade de serem parametrizados: 
 
-- Anteprojeto/Projeto de Lei
-- Medida Provisória
-- Decreto Normativo
-- Decreto (sem número)
-- Decreto de Pessoal
-- Mensagem Presidencial
-- Despacho do Presidente da República
+- Minuta de Anteprojeto/Projeto de Lei;
+- Minuta de Medida Provisória;
+- Minuta de Decreto Normativo;
+- Minuta de Decreto (sem número);
+- Minuta de Decreto de Pessoal;
+- Minuta de Mensagem Presidencial;
+- Minuta de Despacho do Presidente da República.
 
