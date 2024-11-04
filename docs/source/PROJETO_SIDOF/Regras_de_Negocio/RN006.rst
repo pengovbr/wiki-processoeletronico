@@ -1,9 +1,2 @@
-**RN006-Gerar Documentos de Exposição de Motivos SIDOF: Campo Destinatários**
-=============================================================================
-O sistema deve permitir que seja gerado o documento de exposição de motivos.
-
-Para tanto, o campo **Destinatários** deve conter os mesmos Ministérios Coautores indicados no campo Interessados do processo. 
-
-Preferencialmente, o campo Destinatários deve vir pré-preenchido e não ser passível de alteração. 
-
-A alteração deve ser permitida apenas no campo Interessados do processo, sendo refletida no campo Destinatários da Exposição de Motivos. 
+**RN006-Gerenciar envio de processo para a Presidência STRATOS: Definir**
+=========================================================================
