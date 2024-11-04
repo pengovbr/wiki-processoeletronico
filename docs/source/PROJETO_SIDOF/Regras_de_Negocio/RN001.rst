@@ -2,4 +2,4 @@
 =====================================================================================
 O sistema deve permitir o uso do SEI para o gerenciamento de envio de processos para a Presidência.
 
-Para tanto, a plataforma deve permitir que o usuário realize a autenticação no SEI por meio de login e senha desde que esteja previamente cadastrado na unidade 'Presidência (PR)'.
+Para tanto, a plataforma deve permitir que o usuário realize a autenticação no SEI por meio de login, senha e o órgão ao qual está vinculado.
