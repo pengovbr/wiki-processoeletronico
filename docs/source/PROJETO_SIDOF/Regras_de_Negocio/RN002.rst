@@ -1,5 +1,5 @@
-**RN002-Gerar Processo de Documento de Atos Oficiais SIDOF: Tipos de Processo**
-=========================================================================
+**RN002-Gerenciar envio de processo para a Presidência STRATOS: Tipos de Processo**
+===================================================================================
 
 O sistema deve permitir que a 'Classificação por Assuntos' seja estabelecida conforme o 'Tipo de Processo'.
 
