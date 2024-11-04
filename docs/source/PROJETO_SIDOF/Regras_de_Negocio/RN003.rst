@@ -1,13 +1,2 @@
-**RN003-Gerar Processo de Documento de Atos Oficiais SIDOF: Campos de preenchimento obrigatório do novo processo**
-==================================================================================================================
-O sistema deve permitir que seja gerado o processo de documento de atos oficiais.
-
-Para tanto, os deverá fornecer as informações indicadas abaixo durante a informação do novo processo:
-
-- Campos de preenchimento obrigatório:
- - **Especificação:** descrever suscintamente do que se trata a matéria; 
- - **Prioridade:** informar a prioridade do processo; 
- - **Classificação por Assuntos:** conforme o código de classificação e tabela de temporalidade e destinação de documentos relativos às atividades-meio/suporte e/ou atividades fim do Poder Executivo federal; 
- - **Interessados:** indicar os Ministérios Coautores que deverão subscrever a Exposição de Motivos e/ou o Texto Normativo proposto; 
- - **Observações desta unidade:** incluir observações da unidade autora sobre o processo. 
- - **Nível de Acesso:** informar o nível de acesso e a hipótese legal pertinente em caso de restrição. 
+**RN003-Gerenciar envio de processo para a Presidência STRATOS: Definir**
+=========================================================================
