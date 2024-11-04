@@ -1,7 +1,7 @@
 Regras de Negócio
 =================
 
-As regras de negócio do Projeto SIDOF estão listadas abaixo:
+As regras de negócio do Projeto STRATOS estão listadas abaixo:
 
 
 .. toctree::
