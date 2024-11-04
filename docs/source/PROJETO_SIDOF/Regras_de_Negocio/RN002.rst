@@ -1,36 +1,13 @@
-**RN002-Gerenciar envio de processo para a Presidência STRATOS: Tipos de Processo**
+**RN002-Gerenciar envio de processo para a Presidência STRATOS: Tipos de Processos*
 ===================================================================================
 
-O sistema deve permitir que a 'Classificação por Assuntos' seja estabelecida conforme o 'Tipo de Processo'.
+O sistema deve permitir os seguintes tipos de processos que devem ser restritos (número limitado e representativo) aos itens listados abaixo com a possibilidade de serem parametrizados: 
 
-Para tanto, os tipos de processo a serem criados devem ser restritos (número limitado e representativo) aos itens listados abaixo com a possibilidade de serem parametrizados: 
-
-==================================  ====================================================================================================================================
-Tipo de Processo				    Artefatos
-==================================  ====================================================================================================================================
-Anteprojeto/Projeto de Lei          - Exposição de Motivos
-                                    - Minuta de Anteprojeto/Projeto de Lei
-                                    - Anexos
-                                    - Parecer de Mérito do Ministério Autor
-                                    - Parecer Jurídico do Ministério Autor
-                                    - Pareceres de Mérito dos Ministérios Coautores
-                                    - Pareceres Jurídico dos Ministérios Coautores
-Medida Provisória                   - Exposição de Motivos 
-                                    - Minuta de Medida Provisória
-                                    - Anexos
-                                    - Parecer de Mérito do Ministério Autor
-                                    - Parecer Jurídico do Ministério Autor
-                                    - Pareceres de Mérito dos Ministérios Coautores
-                                    - Pareceres Jurídico dos Ministérios Coautores
-Decreto Normativo                   - Exposição de Motivos 
-                                    - Minuta de Decreto Normativo
-                                    - Anexos
-                                    - Parecer de Mérito do Ministério Autor
-                                    - Parecer Jurídico do Ministério Autor
-                                    - Pareceres de Mérito dos Ministérios Coautores
-                                    - Pareceres Jurídico dos Ministérios Coautores
-Decreto (sem número)                - Exposição de Motivos 
-                                    - Minuta de Decreto (sem número)
-
-==================================  ====================================================================================================================================
+- Anteprojeto/Projeto de Lei
+- Medida Provisória
+- Decreto Normativo
+- Decreto (sem número)
+- Decreto de Pessoal
+- Mensagem Presidencial
+- Despacho do Presidente da República
 
