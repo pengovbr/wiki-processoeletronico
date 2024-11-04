@@ -1,5 +1,5 @@
-**RN001-Gerenciar envio de processo para a Presidência STRATOS: Autenticação no SEI**
-=====================================================================================
+**RN001-Gerenciar envio de processo para a Presidência: Autenticação no SEI**
+=============================================================================
 O sistema deve permitir o uso do SEI para o gerenciamento de envio de processos para a Presidência.
 
 Para tanto, a plataforma deve permitir que o usuário realize a autenticação no SEI (modo multiórgão) por meio de login, senha e o órgão ao qual está vinculado.
