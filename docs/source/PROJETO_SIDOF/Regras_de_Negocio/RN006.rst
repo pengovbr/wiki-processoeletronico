@@ -1,2 +1,3 @@
-**RN006-Gerenciar envio de processo para a Presidência: Definir**
-=================================================================
+**RN006-Gerenciar envio de processo para a Presidência: Validação de Exposição de Motivos ou Atos Oficiais**
+============================================================================================================
+O sistema deve garantir que não seja permitido o envio de uma **EXPOSIÇÃO DE MOTIVOS** ou **ATO OFICIAL** sem as assinaturas do **Ministro Autor** e dos **Coautores**.
