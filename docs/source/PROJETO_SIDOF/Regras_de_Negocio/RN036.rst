@@ -1,2 +1,3 @@
 **RN 36**
 =========
+O sistema deve permitir que o Administrador configure o tipo de assinatura a ser utilizada nos documentos pelo Ministro Autor. A configuração padrão deve restringir o uso a assinaturas qualificadas, podendo o Administrador alterar essa definição conforme necessário
