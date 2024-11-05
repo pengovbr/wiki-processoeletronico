@@ -1,1 +1,19 @@
+**RN 10**
+=========
+O valor do campo Sugestão de Assuntos deve ser estabelecido conforme o TIPO DE PROCESSO, conforme segue:
 
+ a)Anteprojeto/Projeto de Lei: 100 - ÁREA FIM
+
+ b)Exposição de Motivos para Despacho: 100 - ÁREA FIM
+
+ c)Exposição de Motivos para Mensagem: 100 - ÁREA FIM
+ 
+ d)Projeto de Decreto de Pessoal: 100 - ÁREA FIM
+ 
+ e)Projeto de Decreto Normativo: 100 - ÁREA FIM
+ 
+ f)Projeto de Decreto sem número: 100 - ÁREA FIM
+ 
+ g)Projeto de Medida Provisória: 100 - ÁREA FIM
+
+**Observação:** O Código de Classificação e a Tabela de Temporalidade e Destinação de Documentos das atividades fim da Presidência da República ainda estão em fase de elaboração. Enquanto esse processo não for concluído, será atribuído o código 100 - ÁREA FIM a todos os TIPOS DE PROCESSOS.
