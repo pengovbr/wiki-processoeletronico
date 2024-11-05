@@ -1,3 +1,3 @@
-**RN 002**
-==========
+**RN 2**
+========
 O sistema deve permitir ao Administrador adicionar o campo Coautores durante a criação de um tipo de documento, quando aplicável. Vide RN 2, RN 3, RN 4, RN 12, RN 18, RN 19, RN 20, RN 21, RN 25, RN 27, RN 28, RN 29, RN 30, RN 32, RN 34, RN 37, RN 43, RN 45 e RN 48 para orientação complementar.
