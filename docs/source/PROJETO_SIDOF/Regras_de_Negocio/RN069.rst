@@ -1,2 +1,3 @@
 **RN 69**
 =========
+O sistema deve criar o processo validado diretamente na unidade de Protocolo da Presidência da República, de forma que os Ministérios Autor e Coautores não tenham acesso ao processo sem que o processo seja encaminhado de volta por alguma unidade da Presidência da República.
