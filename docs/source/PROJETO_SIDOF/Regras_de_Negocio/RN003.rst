@@ -1,2 +1,4 @@
-**RN003-Gerenciar envio de processo para a Presidência: Definir**
-=================================================================
+**RN003-Gerenciar envio de processo para a Presidência: Permissão de Acesso ao Botão de Envio**
+===============================================================================================
+
+O sistema deve permitir que somente o **Ministério Autor** seja capaz de clicar no botão 'ENVIAR PROCESSO PARA A PRESIDÊNCIA DA REPÚBLICA'.
