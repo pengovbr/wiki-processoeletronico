@@ -1,2 +1,3 @@
 **RN 57**
 =========
+O sistema deve permitir que o Ministério Autor e Coautores possam clicar no botão VERIFICAR PEDÊNCIAS.
