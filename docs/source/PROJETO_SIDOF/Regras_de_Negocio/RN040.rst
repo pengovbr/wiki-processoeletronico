@@ -1,2 +1,3 @@
 **RN 40**
 =========
+O sistema deve permitir que o Administrador visualize e revise a lista de unidades com restrição de envio de blocos de assinatura, facilitando o gerenciamento e a atualização dessas configurações conforme necessário.
