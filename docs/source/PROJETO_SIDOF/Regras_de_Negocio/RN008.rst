@@ -1,3 +1,3 @@
-**RN 008**
-==========
+**RN 8**
+========
 O sistema deve permitir que, para cada TIPO DE DOCUMENTO obrigatório, o administrador configure a quantidade mínima e máxima de documentos permitidos para envio à Presidência da República por unidade de processo. Exemplo: Para processos do tipo "Atos Normativos: Mensagem Presidencial", o número mínimo de documentos do tipo "Exposição de Motivos" é 1, e o número máximo também é 1. Para o tipo de documento "Parecer de Mérito", o número mínimo é 1 por Ministério participante, e não há limite máximo, permitindo que o Ministério autor e coautores insiram quantos pareceres considerar necessários. Para o tipo de documento “Anexo", o número mínimo é 0 por Ministério participante, e não há limite máximo, permitindo que o Ministério autor e coautores insiram quantos documentos anexos considerar necessários.
