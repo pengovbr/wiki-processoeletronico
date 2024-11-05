@@ -1,2 +1,3 @@
 **RN 60**
 =========
+O sistema deve garantir que não seja permitido o envio de uma EXPOSIÇÃO DE MOTIVOS ou ATO OFICIAL sem as assinaturas do Ministro Autor e dos Coautores.
