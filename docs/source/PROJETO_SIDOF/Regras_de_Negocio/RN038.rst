@@ -1,2 +1,3 @@
 **RN 38**
 =========
+O sistema deve permitir que o Administrador configure unidades específicas para as quais é permitido apenas o envio de blocos de assinatura, restringindo o envio de processos completos.
