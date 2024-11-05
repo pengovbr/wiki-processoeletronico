@@ -1,4 +1,4 @@
-**RN 004**
-==========
+**RN 4**
+========
 
 O sistema deve validar automaticamente a presença do campo Coautores nos tipos de documentos indicados como obrigatórios, impedindo a criação ou o envio do documento sem o preenchimento deste campo.
