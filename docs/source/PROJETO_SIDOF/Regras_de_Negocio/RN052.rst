@@ -1,2 +1,3 @@
 **RN 52**
 =========
+O sistema deve restringir a seleção de documentos para cada Ministério, permitindo que cada um selecione apenas os documentos que ele mesmo tenha feito o upload, além dos documentos de EXPOSIÇÃO DE MOTIVOS e ATO OFICIAL compartilhados.
