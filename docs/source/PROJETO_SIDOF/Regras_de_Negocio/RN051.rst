@@ -1,2 +1,3 @@
 **RN 51**
 =========
+O sistema deve permitir que os prepostos do Ministério Autor e dos Ministérios Coautores selecionem apenas os documentos pertinentes para envio à Presidência da República, incluindo obrigatoriamente um documento de EXPOSIÇÃO DE MOTIVOS e um documento de ATO OFICIAL.
