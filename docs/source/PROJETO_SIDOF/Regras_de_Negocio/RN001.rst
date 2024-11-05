@@ -1,3 +1,3 @@
-**RN 001**
-==========
+**RN 1**
+========
 O sistema deve permitir ao Administrador configurar os TIPOS DE DOCUMENTOS que estarão sujeitos às regras do módulo.
