@@ -1,2 +1,3 @@
 **RN 63**
 =========
+Somente o Ministério Autor deve ser capaz clicar no botão ENVIAR PROCESSO PARA A PRESIDÊNCIA DA REPÚBLICA.
