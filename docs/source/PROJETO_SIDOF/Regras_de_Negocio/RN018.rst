@@ -1,1 +1,3 @@
-
+**RN 018**
+==========
+O campo Coautores do formulário da ação INICIAR PROCESSO deverá servir para que o Ministério Autor defina quais os Ministérios autorizados a tramitarem o processo. Apenas os Ministérios expressamente incluídos nesse campo poderão receber o processo e nele atuar, garantindo que ele seja encaminhado apenas às autoridades ministeriais diretamente envolvidas.
