@@ -1,2 +1,3 @@
 **RN 54**
 =========
+O sistema deve validar a presença dos documentos obrigatórios (EXPOSIÇÃO DE MOTIVOS e ATO OFICIAL) antes de permitir o envio à Presidência, impedindo o envio caso algum desses documentos esteja ausente.
