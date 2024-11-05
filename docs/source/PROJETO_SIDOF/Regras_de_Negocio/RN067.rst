@@ -1,2 +1,3 @@
 **RN 67**
 =========
+O sistema deve permitir o envio de apenas de uma EXPOSIÇÃO DE MOTIVOS e um ATO OFICIAL à Presidência da República.
