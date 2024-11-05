@@ -1,3 +1,3 @@
-**RN 007**
-==========
+**RN 7**
+========
 O sistema deve permitir que, para cada tipo de processo sujeito às regras do módulo, o administrador defina os TIPOS DE DOCUMENTOS obrigatórios.
