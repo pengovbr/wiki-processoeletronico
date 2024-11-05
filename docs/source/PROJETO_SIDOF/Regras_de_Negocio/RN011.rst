@@ -1,1 +1,3 @@
-
+**RN 011**
+==========
+Os campos relativos ao Nível de Acesso Sugerido e Nível de Acesso Permitido devem ser preenchidos como Restrito, com a hipótese legal de Documento Preparatório (Art. 7º, § 3º, da Lei nº 12.527/2011).
