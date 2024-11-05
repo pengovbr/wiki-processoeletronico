@@ -1,2 +1,3 @@
 **RN 70**
 =========
+O sistema deve criar o processo na unidade de protocolo da Presidência da República apenas com os documentos e assinaturas validados corretamente.
