@@ -1,2 +1,3 @@
 **RN 35**
 =========
+O Bloco de Assinatura deve comportar a inclusão tanto de DOCUMENTOS INTERNOS quanto DOCUMENTOS EXTERNOS. Que necessitem de assinatura pelos Ministro Autor e Coautores.
