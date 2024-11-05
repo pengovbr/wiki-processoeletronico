@@ -1,2 +1,3 @@
 **RN 22**
 =========
+O preenchimento do campo Prioridade deve seguir as diretrizes estabelecidas no regulamento vigente.
