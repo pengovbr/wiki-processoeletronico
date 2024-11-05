@@ -1,2 +1,3 @@
 **RN 46**
 =========
+O PARECER JURÍDICO deve ser carregado no sistema já assinado a partir da instância SEI do Ministério Autor ou do Sistema SAPIENS, utilizando o módulo Gov.br ou um certificado digital ICP-Brasil. A assinatura digital pode ser avançada ou qualificada.
