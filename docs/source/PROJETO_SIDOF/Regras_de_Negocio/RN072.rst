@@ -1,2 +1,10 @@
 **RN 72**
 =========
+O sistema deve permitir o uso do SEI para o gerenciamento de envio de processos para a Presidência.
+
+Para tanto, a plataforma deve permitir que o usuário realize a autenticação no SEI (modo multiórgão) por meio de login, senha e o órgão ao qual está vinculado.
+
+Os tipos de órgãos vinculados esão listados abaixo:
+ - STRATOS.
+
+
