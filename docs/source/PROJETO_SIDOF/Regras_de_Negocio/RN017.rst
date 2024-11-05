@@ -1,3 +1,3 @@
-**RN 017**
-==========
+**RN 17**
+=========
 Os tipos de documentos que podem ser criados pelos usuários devem ser restritos aos definidos no termo TIPOS DE DOCUMENTOS no Glossário, previamente cadastrados pelo Administrador do sistema.
