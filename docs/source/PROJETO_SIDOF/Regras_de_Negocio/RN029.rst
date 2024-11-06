@@ -5,5 +5,3 @@ O campo **Interessados** deve conter os mesmos Ministérios indicados no campo C
 Deve vir pré-preenchido e não ser passível de alteração. 
 
 A alteração deve ser permitida apenas no campo **Interessados** do processo, sendo refletida no campo **Interessados** do documento anexo.
-
-**Regra igual a RN 25, RN 27, RN 28 e RN 30**
