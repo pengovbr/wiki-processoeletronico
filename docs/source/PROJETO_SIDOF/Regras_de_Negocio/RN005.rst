@@ -1,3 +1,5 @@
 **RN 5**
 ========
 O sistema deve permitir ao Administrador restringir o uso de TIPOS DE DOCUMENTOS aos órgãos e unidades autorizados, parametrizando essa restrição para assegurar que apenas as unidades ministeriais indicadas possam criar esses tipos específicos de documentos.
+
+**Esta repetida com a RN 9**
