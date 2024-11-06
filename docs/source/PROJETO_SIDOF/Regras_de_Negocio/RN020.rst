@@ -1,3 +1,3 @@
 **RN 20**
 =========
-O sistema não deverá permitir que o preposto do Ministério Autor exclua a própria unidade do Ministério Autor do campo Coautores.
+O sistema não deverá permitir que o preposto do Ministério Autor exclua a própria unidade do Ministério Autor do campo **Interessados**.
