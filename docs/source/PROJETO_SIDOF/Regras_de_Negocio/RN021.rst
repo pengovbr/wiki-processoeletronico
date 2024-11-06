@@ -1,3 +1,5 @@
 **RN 21**
 =========
-As informações contidas no campo Coautores deverão ser utilizadas para validar, na etapa oportuna, a presença das assinaturas do Ministro de Estado Autor e de todos os Coautores no documento de EXPOSIÇÃO DE MOTIVOS e no ATO OFICIAL. Essa validação assegura que todos os envolvidos diretamente no processo tenham formalizado sua concordância e participação, garantindo a legitimidade e a conformidade do documento final.
+As informações contidas no campo **Interessados** deverão ser utilizadas para validar, na etapa oportuna, a presença das assinaturas do Ministro de Estado Autor e de todos os Coautores no documento de EXPOSIÇÃO DE MOTIVOS e no ATO OFICIAL. 
+
+Essa validação assegura que todos os envolvidos diretamente no processo tenham formalizado sua concordância e participação, garantindo a legitimidade e a conformidade do documento final.
