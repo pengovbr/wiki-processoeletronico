@@ -1,6 +1,6 @@
 **RN 30**
 =========
-O campo **Interessados** deve conter os mesmos Ministérios indicados no campo Coautores quando da criação do processo. 
+O campo **Interessados** deve conter os mesmos Ministérios indicados no campo  **Interessados** quando da criação do processo. 
 
 Deve vir pré-preenchido e não ser passível de alteração. 
 
