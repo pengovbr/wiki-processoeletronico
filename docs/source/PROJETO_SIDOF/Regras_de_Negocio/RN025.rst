@@ -1,3 +1,7 @@
 **RN 25**
 =========
-O campo Coautores deve conter os mesmos Ministérios indicados no campo Coautores quando da criação do processo. Deve vir pré-preenchido e não ser passível de alteração. A alteração deve ser permitida apenas no campo Coautores do processo, sendo refletida no campo Coautores do documento tipo ATO OFICIAL em questão.
+O campo **Interessados** deve conter os mesmos Ministérios indicados no campo **Interessados** quando da criação do processo. 
+
+Deve vir pré-preenchido e não ser passível de alteração. 
+
+A alteração deve ser permitida apenas no campo **Interessados** do processo, sendo refletida no campo **Interessados** do documento tipo ATO OFICIAL em questão.
