@@ -1,7 +1,7 @@
-Projeto STRATOS
-===============
+Projeto SEI-Atos
+================
 
-O **Projeto STRATOS (Sistema de Tramitação de Atos Oficiais)** tem como objetivo implementar uma extensão modular ao Sistema Eletrônico de Informações (SEI), aproveitando sua arquitetura tecnológica consolidada e interface, bem como o fato de ser amplamente utilizado em toda a Esplanada dos Ministérios. 
+O **Projeto SEI-Atos (Sistema de Tramitação de Atos Oficiais)** tem como objetivo implementar uma extensão modular ao Sistema Eletrônico de Informações (SEI), aproveitando sua arquitetura tecnológica consolidada e interface, bem como o fato de ser amplamente utilizado em toda a Esplanada dos Ministérios. 
 
 O módulo será dedicado à tramitação de atos oficiais entre os Ministros e a Presidência da República. 
 
