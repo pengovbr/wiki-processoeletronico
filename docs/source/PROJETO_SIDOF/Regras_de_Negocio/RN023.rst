@@ -16,4 +16,4 @@ A Classificação por Assuntos padrão deve ser estabelecida conforme o TIPO DE 
  
  n)Projeto de Medida Provisória: 100 - ÁREA FIM.
 
-**Observação:** O Código de Classificação e a Tabela de Temporalidade e Destinação de Documentos das atividades fim da Presidência da República ainda estão em fase de elaboração. Enquanto esse processo não for concluído, será
+**Observação:** O Código de Classificação e a Tabela de Temporalidade e Destinação de Documentos das atividades fim da Presidência da República ainda estão em fase de elaboração. Enquanto esse processo não for concluído, será atribuído o código 100 - ÁREA FIM a todos os TIPOS DE PROCESSOS.
