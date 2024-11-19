@@ -1,3 +1,5 @@
 **RN 6**
 ========
 O sistema deve permitir que o Administrador configure os TIPOS DE PROCESSOS do SEI que estarão sujeitos às regras do módulo.
+
+.. figure:: TiposProcessos.png
