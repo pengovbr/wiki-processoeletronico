@@ -1,6 +1,6 @@
 **RN 72**
 =========
-Para acessar o SEI-Atos, o usuário deve utilizar um navegador de internet para acessar a URL fornecida pelo órgão ao qual está vinculado, informar seu login, senha e o órgão ao qual está vinculado.
+Para acessar o SEI-Atos, o usuário deve utilizar um navegador de internet para acessar a URL, informar seu login, senha e o órgão ao qual está vinculado.
 
 O tipo de órgãos vinculados esta listado abaixo:
  - SEI-Atos.
