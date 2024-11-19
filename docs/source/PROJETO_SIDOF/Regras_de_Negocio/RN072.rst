@@ -5,4 +5,5 @@ Para acessar o SEI-Atos, o usuário deve utilizar um navegador de internet para 
 O tipo de órgãos vinculados esta listado abaixo:
  - SEI-Atos.
 
+.. figure:: AcessoSistema.png
 
