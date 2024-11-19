@@ -2,4 +2,4 @@
 =========
 O Bloco de Assinatura deve comportar a inclusão tanto de DOCUMENTOS INTERNOS quanto DOCUMENTOS EXTERNOS. Que necessitem de assinatura pelos Ministro Autor e Coautores.
 
-- **REGRA DE NEGÓCIO NÃO APLICÁVEL**
+- **REGRA DE NEGÓCIO NÃO APLICÁVEL, POIS SERÁ TRATADO NA NOVA PROPOSTA REALIZADA PELA PRESIDÊNCIA NO DIA 12/11/2024**
