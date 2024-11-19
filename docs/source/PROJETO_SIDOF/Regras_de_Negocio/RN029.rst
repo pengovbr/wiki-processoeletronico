@@ -5,3 +5,6 @@ O campo **Interessados** deve conter os mesmos Ministérios indicados no campo *
 Deve vir pré-preenchido e não ser passível de alteração. 
 
 A alteração deve ser permitida apenas no campo **Interessados** do processo, sendo refletida no campo **Interessados** do documento anexo.
+
+
+- **REGRA DE NEGÓCIO NÃO APLICÁVEL**
