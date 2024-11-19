@@ -1,3 +1,6 @@
 **RN 45**
 =========
 O campo Interessados deve conter os mesmos Ministérios indicados no campo Coautores quando da criação do processo. Deve vir pré-preenchido e não ser passível de alteração. A alteração deve ser permitida apenas no campo Coautores do processo, sendo refletida no campo Interessados do documento PARECER JURÍDICO.
+
+
+- **REGRA DE NGÓCIO NÃO APLICÁVEL**
