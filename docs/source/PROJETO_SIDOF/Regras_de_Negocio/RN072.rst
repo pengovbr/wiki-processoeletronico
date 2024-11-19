@@ -1,10 +1,8 @@
 **RN 72**
 =========
-O sistema deve permitir o uso do SEI para o gerenciamento das configurações do módulo.
+Para acessar o SEI-Atos, o usuário deve utilizar um navegador de internet para acessar a URL fornecida pelo órgão ao qual está vinculado, informar seu login, senha e o órgão ao qual está vinculado.
 
-Para tanto, a plataforma deve permitir que o usuário realize a autenticação no SEI (modo multiórgão) por meio de login, senha e o órgão ao qual está vinculado.
-
-Os tipos de órgãos vinculados esão listados abaixo:
- - SEI-ATOS.
+O tipo de órgãos vinculados esta listado abaixo:
+ - SEI-Atos.
 
 
