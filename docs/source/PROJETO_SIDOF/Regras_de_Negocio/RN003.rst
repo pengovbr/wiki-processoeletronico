@@ -1,3 +1,5 @@
 **RN 3**
 ========
 O sistema deve permitir que o Administrador defina quais tipos de documentos exigem o campo Coautores, configurando essa obrigatoriedade conforme o perfil do documento.
+
+- **REGRA DE NEGÓCIO NÃO APLICÁVEL**
