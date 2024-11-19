@@ -2,3 +2,5 @@
 ========
 
 O sistema deve validar automaticamente a presença do campo Coautores nos tipos de documentos indicados como obrigatórios, impedindo a criação ou o envio do documento sem o preenchimento deste campo.
+
+- **REGRA DE NEGÓCIO NÃO APLICÁVEL**
