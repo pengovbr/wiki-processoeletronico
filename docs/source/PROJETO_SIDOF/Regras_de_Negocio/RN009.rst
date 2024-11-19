@@ -1,5 +1,3 @@
 **RN 9**
 ========
 O sistema deve permitir que o Administrador restrinja o uso de TIPOS DE DOCUMENTOS aos órgãos e unidades autorizados, parametrizando essa restrição para assegurar que apenas as unidades indicadas tenham acesso aos tipos específicos de processos.
-
-**Esta repetida com a RN 5**
