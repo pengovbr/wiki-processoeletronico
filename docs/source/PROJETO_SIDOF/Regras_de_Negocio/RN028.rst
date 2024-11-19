@@ -6,4 +6,3 @@ Deve vir pré-preenchido e não ser passível de alteração.
 
 A alteração deve ser permitida apenas no campo **Interessados** do processo, sendo refletida no campo **Interessados** do documento tipo ATO OFICIAL em questão.
 
-**Regra igual a RN 25 e RN 27**
