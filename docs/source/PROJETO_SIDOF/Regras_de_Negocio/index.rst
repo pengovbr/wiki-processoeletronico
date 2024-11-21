@@ -85,3 +85,4 @@ As regras de negócio do Projeto STRATOS estão listadas abaixo:
    RN076
    RN077
    RN078
+   RN079
