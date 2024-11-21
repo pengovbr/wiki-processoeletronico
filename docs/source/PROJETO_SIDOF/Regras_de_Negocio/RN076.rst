@@ -1,0 +1,8 @@
+**RN 76**
+=========
+A seção "Configurar Processo" deve implementar funcionalidades que permitam a personalização granular das características e regras específicas de cada tipo de processo gerenciado pelo módulo. 
+Deve disponibilizar ações para adicionar novas configurações, listar as existentes e reativar configurações desativadas, proporcionando controle preciso sobre o comportamento de cada processo.
+
+- **Exemplo do menu:**
+ **1) Tela do Menu SEI-ATOS seção 'Configurar Processo':** 
+       .. figure:: Menu4.png
