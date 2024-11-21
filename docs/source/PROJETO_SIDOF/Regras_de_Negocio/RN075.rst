@@ -1,0 +1,8 @@
+**RN 75**
+=========
+ A seção "Tipos de Processo" deve implementar uma estrutura que organize as operações essenciais para gerenciamento dos tipos de processo permitidos no módulo. Deve disponibilizar ações para adicionar novos tipos, listar os existentes e reativar tipos anteriormente desativados, mantendo uma organização lógica que facilite a administração do módulo.
+
+
+- **Exemplo da tela:**
+ **1) Tela do Menu SEI-ATOS expandida mostrando as seções:** 
+       .. figure:: Menu2.png
