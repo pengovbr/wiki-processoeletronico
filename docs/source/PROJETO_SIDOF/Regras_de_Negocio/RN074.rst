@@ -1,1 +1,15 @@
+**RN 74**
+=========
+O sistema deve permitir que o Administrador acesse ao MENU de administração do módulo para gerenciar suas configurações e parâmetros.
+
+- **Exemplos das telas:**
+ **1) Tela do Menu SEI-ATOS totalmente recolhida:** 
+       .. figure:: Menu1.png
+
+ **2) Tela do Menu SEI-ATOS expandida mostrando as seções:** 
+       .. figure:: Menu2.png
+
+ **3) Tela do Menu SEI-ATOS mostrando a seção Tipos de Processo expandida com as respectivas ações (Adicionar, Listar e Reativar):** 
+       .. figure:: Menu3.png
+
 
