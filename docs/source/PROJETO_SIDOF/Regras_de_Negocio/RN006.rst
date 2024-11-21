@@ -2,4 +2,6 @@
 ========
 O sistema deve permitir que o Administrador configure os TIPOS DE PROCESSOS do SEI que estarão sujeitos às regras do módulo.
 
+**Exemplos das telas:**
+
 .. figure:: TiposProcessos.png
