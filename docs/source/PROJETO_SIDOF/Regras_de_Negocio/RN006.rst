@@ -21,4 +21,7 @@ O sistema deve permitir que o Administrador configure os TIPOS DE PROCESSOS do S
  **6) Tela inicial da ação SEI-ATOS>Tipo de Processo>Listar mostrando os processos sujeitos às regras do módulo e respectivos documentos principais:**
        .. figure:: TiposProcessos6.png
 
+**7) Tela inicial da ação SEI-ATOS>Tipo de Processo>Reativar mostrando processos inativos:**
+       .. figure:: TiposProcessos7.png
+
 
