@@ -1,0 +1,5 @@
+**RN 77**
+=========
+O sistema deve implementar múltiplas camadas de validação para garantir a segurança do acesso ao menu administrativo. 
+
+Além da validação visual que oculta o menu, deve existir proteção contra tentativas de acesso direto via URL por usuários não autorizados, com redirecionamento automático para a página inicial em caso de violação.
