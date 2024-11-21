@@ -1,0 +1,7 @@
+**RN 78**
+=========
+O menu deve implementar funcionalidades de expansão e recolhimento para suas seções e subseções, 
+permitindo que o usuário organize sua visualização conforme a necessidade. 
+O estado expandido/recolhido deve ser mantido durante a sessão do usuário, proporcionando uma experiência de navegação consistente.
+
+
