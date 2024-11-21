@@ -7,6 +7,10 @@ O menu "SEI-ATOS" deve implementar controle de acesso baseado em perfil, sendo v
  **1) Tela do Menu SEI-ATOS totalmente recolhida:** 
        .. figure:: Menu1.png
 
+ **2) Tela do Menu SEI-ATOS expandida mostrando as seções:** 
+       .. figure:: Menu2.png
+
+
 
 
 
