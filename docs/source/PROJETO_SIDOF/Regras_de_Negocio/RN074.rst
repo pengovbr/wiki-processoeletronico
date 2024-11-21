@@ -1,15 +1,12 @@
 **RN 74**
 =========
-O sistema deve permitir que o Administrador acesse ao MENU de administração do módulo para gerenciar suas configurações e parâmetros.
+O menu "SEI-ATOS" deve implementar controle de acesso baseado em perfil, sendo visível e acessível exclusivamente para usuários que possuam perfil de administrador do sistema. O controle deve garantir que apenas administradores possam visualizar e interagir com as funcionalidades administrativas do módulo.
 
-- **Exemplos das telas:**
+
+- **Exemplo do menu à ser implementado:**
  **1) Tela do Menu SEI-ATOS totalmente recolhida:** 
        .. figure:: Menu1.png
 
- **2) Tela do Menu SEI-ATOS expandida mostrando as seções:** 
-       .. figure:: Menu2.png
 
- **3) Tela do Menu SEI-ATOS mostrando a seção Tipos de Processo expandida com as respectivas ações (Adicionar, Listar e Reativar):** 
-       .. figure:: Menu3.png
 
 
