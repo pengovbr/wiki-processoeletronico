@@ -4,4 +4,11 @@ O menu deve implementar funcionalidades de expansão e recolhimento para suas se
 permitindo que o usuário organize sua visualização conforme a necessidade. 
 O estado expandido/recolhido deve ser mantido durante a sessão do usuário, proporcionando uma experiência de navegação consistente.
 
+- **Exemplo do menu à ser implementado:**
+ **1) Tela do Menu SEI-ATOS totalmente recolhida:** 
+       .. figure:: Menu1.png
+
+ **2) Tela do Menu SEI-ATOS expandida mostrando as seções:** 
+       .. figure:: Menu2.png
+
 
