@@ -5,3 +5,6 @@ A tabela deve implementar recursos de ordenação para as colunas ID, Nome e Doc
 
 O estado da ordenação deve ser claramente indicado por setas direcionais no cabeçalho da coluna em uso, mantendo-se consistente durante toda a sessão.
 
+- **Exemplo da tela:**
+       .. figure:: ListarTipoProcesso4.png
+
