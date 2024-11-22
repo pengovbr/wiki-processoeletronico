@@ -1,6 +1,0 @@
-**RN 90**
-=========
-O sistema deve implementar validação completa dos campos obrigatórios, garantindo que tanto o tipo de processo quanto o documento principal sejam 
-selecionados antes de permitir o salvamento. 
-
-As validações devem ser executadas em tempo real e no momento do envio do formulário, fornecendo feedback visual e mensagens claras sobre campos não preenchidos.
