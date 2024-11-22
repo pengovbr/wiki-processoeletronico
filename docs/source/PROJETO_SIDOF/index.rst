@@ -1,4 +1,4 @@
-Projeto SEI-Atos
+Projeto SEI-ATOS
 ================
 
 O **Projeto SEI-Atos (Sistema de Tramitação de Atos Oficiais)** tem como objetivo implementar uma extensão modular ao Sistema Eletrônico de Informações (SEI), aproveitando sua arquitetura tecnológica consolidada e interface, bem como o fato de ser amplamente utilizado em toda a Esplanada dos Ministérios. 
