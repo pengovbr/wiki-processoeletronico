@@ -1,8 +1,8 @@
 **RN 82**
 =========
-Assim que selecionado o campo 'Documento Principal', o sistema deve listar os dados apresentados na imagem abaixo.
+Assim que o ADMINISTRADOR selecionar o campo 'Documento Principal', o sistema deve listar os documentos compatíveis com os tipos de processos disponíveis no SEI.
 
 - **Exemplo da tela:**
- **1) Caixa de seleção Documento Principal mostrando lista com opções:** 
+ **1) Caixa de seleção Documento Principal mostrando lista com opções iniciais:** 
 
        .. figure:: AdicionarTipoProcesso3.png
