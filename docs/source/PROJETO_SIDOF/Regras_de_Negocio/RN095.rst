@@ -6,5 +6,4 @@ Os elementos devem ser organizados de forma a otimizar a experiência do usuári
 com os tipos de processo ativos no módulo, seus documentos principais e ações disponíveis.
 
 - **Exemplo da tela:**
- **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Listar mostrando os processos sujeitos às regras do módulo e respectivos documentos principais:** 
        .. figure:: ListarTipoProcesso2.png
