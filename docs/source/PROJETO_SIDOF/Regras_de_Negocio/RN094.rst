@@ -1,0 +1,7 @@
+**RN 94**
+=========
+Assim que acionada a opção 'Tipo de Processo > Listar' no menu, o sistema deve ser direcionado para tela 'Listar Tipo de Processo'.
+
+- **Exemplo da tela:**
+ **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Listar mostrando os processos sujeitos às regras do módulo e respectivos documentos principais:** 
+       .. figure:: ListarTipoProcesso1.png
