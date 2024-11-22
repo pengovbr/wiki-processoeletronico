@@ -1,2 +1,6 @@
 **RN 109**
 ==========
+O acesso à funcionalidade de reativação de tipos de processo deve ser controlado por perfil de usuário, sendo restrito exclusivamente aos administradores do sistema. 
+
+Tentativas de acesso por usuários não autorizados devem ser bloqueadas e redirecionadas para a página inicial do SEI.
+ 
