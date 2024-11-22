@@ -1,8 +1,8 @@
 **RN 81**
 =========
-Assim que selecionado o campo 'Tipo de Processo', o sistema deve listar os dados apresentados na imagem abaixo.
+Assim que o ADMINISTRADOR selecionar o campo 'Tipo de Processo', o sistema deve listar todos os processos disponíveis no SEI.
 
 - **Exemplo da tela:**
- **1) Caixa de seleção Tipo de Processo mostrando lista com opções:** 
+ **1) Caixa de seleção Tipo de Processo mostrando lista com opções iniciais:** 
 
        .. figure:: AdicionarTipoProcesso2.png
