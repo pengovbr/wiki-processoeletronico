@@ -1,0 +1,8 @@
+**RN 81**
+=========
+Assim que selecionado o campo 'Tipo de Processo', o sistema deve listar os dados apresentados na imagem abaixo.
+
+- **Exemplo da tela:**
+ **1) Caixa de seleção Tipo de Processo mostrando lista com opções:** 
+
+       .. figure:: AdicionarTipoProcesso2.png
