@@ -1,2 +1,7 @@
 **RN 101**
 ==========
+
+O acesso à funcionalidade de listagem e gerenciamento de tipos de processo deve ser controlado através do perfil do usuário, sendo restrito exclusivamente aos administradores do sistema. 
+
+Qualquer tentativa de acesso por usuários não autorizados deve ser bloqueada e redirecionada para a página inicial do SEI, mantendo a segurança e integridade do módulo.
+   
