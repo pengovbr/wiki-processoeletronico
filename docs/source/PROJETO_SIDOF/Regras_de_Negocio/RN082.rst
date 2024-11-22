@@ -1,0 +1,8 @@
+**RN 82**
+=========
+Assim que selecionado o campo 'Documento Principal', o sistema deve listar os dados apresentados na imagem abaixo.
+
+- **Exemplo da tela:**
+ **1) Caixa de seleção Documento Principal mostrando lista com opções:** 
+
+       .. figure:: AdicionarTipoProcesso3.png
