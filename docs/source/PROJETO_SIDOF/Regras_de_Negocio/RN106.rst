@@ -1,4 +1,4 @@
-**RN 105**
+**RN 106**
 ==========
 A tabela deve implementar mecanismos de ordenação pelos campos ID e Nome, permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho das colunas. 
 
