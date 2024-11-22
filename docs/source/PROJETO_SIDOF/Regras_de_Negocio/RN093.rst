@@ -3,6 +3,7 @@
 Assim que selecionado a opção 'Adicionar', o sistema deve apresentar a tela conforme imagem abaixo.
 
 - **Exemplo da tela:**
- **1) Tela inicial da ação Adicionar Tipo de Processo:** 
+ **1) Tela inicial Alterar Tipo de Processo:** 
 
-       .. figure:: AdicionarTipoProcesso5.png
+       .. figure:: AdicionarTipoProcesso4.png
+
