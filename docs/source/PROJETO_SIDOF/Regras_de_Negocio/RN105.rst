@@ -1,2 +1,5 @@
 **RN 105**
 ==========
+A tabela deve implementar mecanismos de ordenação pelos campos ID e Nome, permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho das colunas. 
+
+A ordenação deve ser indicada visualmente por setas direcionais no cabeçalho da coluna ordenada.
