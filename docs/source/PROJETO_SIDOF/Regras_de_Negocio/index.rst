@@ -100,3 +100,12 @@ As regras de negócio do Projeto STRATOS estão listadas abaixo:
    RN091
    RN092
    RN093
+   RN094
+   RN095
+   RN096
+   RN097
+   RN098
+   RN099
+   RN100
+   RN101
+   RN102
