@@ -5,3 +5,6 @@ Cada registro listado na tabela deve disponibilizar ações individuais através
 
 Todas as ações devem exigir confirmação do usuário antes de serem efetivadas e fornecer feedback visual apropriado sobre o resultado da operação, mantendo a consistência dos dados.
 
+- **Exemplo da tela:**
+       .. figure:: ListarTipoProcesso6.png
+
