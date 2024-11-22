@@ -5,3 +5,6 @@ utilizando correspondência exata ou parcial do termo pesquisado.
 
 A pesquisa deve atualizar a tabela dinamicamente, 
 filtrando os registros conforme os critérios informados e preservando todas as funcionalidades da listagem nos resultados exibidos.
+
+- **Exemplo da tela:**
+       .. figure:: ListarTipoProcesso3.png
