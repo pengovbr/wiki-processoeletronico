@@ -1,5 +1,5 @@
 **RN 105**
 ==========
- O sistema deve oferecer um mecanismo de pesquisa que permita ao usuário localizar tipos de processo pelo nome, seja por correspondência exata ou parcial. 
+O sistema deve oferecer um mecanismo de pesquisa que permita ao usuário localizar tipos de processo pelo nome, seja por correspondência exata ou parcial. 
 
 A pesquisa deve atualizar dinamicamente a tabela de resultados, exibindo apenas os registros que correspondam aos critérios informados.
