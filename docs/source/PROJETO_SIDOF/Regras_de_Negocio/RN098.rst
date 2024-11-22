@@ -1,2 +1,7 @@
 **RN 98**
 =========
+
+O sistema deve fornecer mecanismos para seleção e manipulação simultânea de múltiplos registros, permitindo que o usuário desative ou exclua vários tipos de processo em uma única operação. 
+
+As ações em lote devem exigir confirmação prévia do usuário e apresentar feedback claro sobre o resultado, garantindo a integridade dos dados manipulados.
+
