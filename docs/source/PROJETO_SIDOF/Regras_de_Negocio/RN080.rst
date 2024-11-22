@@ -1,0 +1,7 @@
+**RN 80**
+=========
+Assim que acionada a opção 'Tipo de Processo > Adicionar' no menu, o sistema deve ser direcionado para tela 'Adicionar Tipo de Processo'.
+
+- **Exemplo da tela:**
+ **1) Tela inicial da ação Alterar Tipo de Processo:** 
+       .. figure:: AdicionarTipoProcesso1.png
