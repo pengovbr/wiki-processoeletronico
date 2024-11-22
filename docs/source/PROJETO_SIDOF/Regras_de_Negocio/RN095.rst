@@ -4,3 +4,7 @@ A página de listagem dos Tipos de Processo deve implementar um layout estrutura
 
 Os elementos devem ser organizados de forma a otimizar a experiência do usuário, incluindo barra de comandos com botões de ação, área de pesquisa e uma tabela 
 com os tipos de processo ativos no módulo, seus documentos principais e ações disponíveis.
+
+- **Exemplo da tela:**
+ **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Listar mostrando os processos sujeitos às regras do módulo e respectivos documentos principais:** 
+       .. figure:: ListarTipoProcesso2.png
