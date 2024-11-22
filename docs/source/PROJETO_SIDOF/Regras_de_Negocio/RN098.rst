@@ -5,3 +5,6 @@ O sistema deve fornecer mecanismos para seleção e manipulação simultânea de
 
 As ações em lote devem exigir confirmação prévia do usuário e apresentar feedback claro sobre o resultado, garantindo a integridade dos dados manipulados.
 
+- **Exemplo da tela:**
+       .. figure:: ListarTipoProcesso5.png
+
