@@ -6,5 +6,5 @@ As ações em lote devem ser executadas somente após confirmação do usuário 
 
 - **Exemplo da tela:**
  **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Reativar mostrando processos inativos:** 
-       .. figure:: RN107.png
+       .. figure:: ReativarTipoProcesso3.png
 
