@@ -5,6 +5,7 @@ O sistema deve garantir que todo tipo de processo seja configurado com um docume
 A operação de salvar deve validar a consistência entre o tipo de processo e o documento principal selecionado, 
 exibindo feedback apropriado sobre o sucesso da operação e redirecionando o usuário para a lista atualizada de tipos de processo.
 
+
 - **Exemplo da tela:**
  **1) Tela inicial da ação Adicionar Tipo de Processo:** 
 
