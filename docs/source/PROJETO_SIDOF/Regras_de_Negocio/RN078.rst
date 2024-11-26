@@ -1,15 +1,5 @@
 **RN 78**
 =========
-O menu deve implementar funcionalidades de expansão e recolhimento para suas seções, 
-permitindo que o usuário organize sua visualização conforme a necessidade. 
+A seção "Autoridades" deve implementar funcionalidades que permitam o gerenciamento das autoridades e seus requisitos de assinatura no sistema. 
 
-O estado expandido/recolhido deve ser mantido durante a sessão do usuário, proporcionando uma experiência de navegação consistente.
-
-- **Exemplo do menu à ser implementado:**
- **1) Tela do Menu SEI-ATOS totalmente recolhida:** 
-       .. figure:: Menu1.png
-
- **2) Tela do Menu SEI-ATOS expandida mostrando as seções:** 
-       .. figure:: Menu2.png
-
-
+Deve disponibilizar ações para adicionar novas autoridades e listar as existentes, proporcionando controle efetivo sobre quais autoridades podem assinar cada tipo de documento no módulo. Deve permitir expansão/recolhimento das ações, mantendo o estado de visualização durante a sessão do usuário para garantir uma experiência de navegação consistente
