@@ -1,6 +1,6 @@
 **RN 93**
 =========
-Assim que selecionado a opção 'Adicionar', o sistema deve apresentar a tela conforme imagem abaixo.
+Assim que selecionado a opção 'Cadastrar', o sistema deve apresentar a tela conforme imagem abaixo.
 
 - **Exemplo da tela:**
  **1) Tela inicial Alterar Tipo de Processo:** 
