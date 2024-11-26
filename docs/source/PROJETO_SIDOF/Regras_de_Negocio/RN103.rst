@@ -1,7 +1,7 @@
 **RN 103**
 ==========
-Assim que acionada a opção 'Tipo de Processo > Reativar' no menu, o sistema deve ser direcionado para tela 'Reativar Tipo de Processo'.
+Assim que acionada a opção 'Mapeamento de Tipos de Processos > Reativar' no menu, o sistema deve ser direcionado para tela 'Reativar Tipo de Processo'.
 
 - **Exemplo da tela:**
- **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Reativar mostrando processos inativos:** 
+ **1) Tela inicial da ação SEI-ATOS>Mapeamento de Tipos de Processos>Reativar mostrando processos inativos:** 
        .. figure:: ReativarTipoProcesso1.png
