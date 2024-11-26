@@ -1,7 +1,6 @@
 **RN 79**
 =========
-O sistema deve garantir consistência na navegação entre as diferentes funcionalidades acessíveis através do menu, 
-assegurando que cada ação selecionada direcione o usuário para a tela correspondente correta. 
+O sistema deve garantir consistência na navegação entre as diferentes funcionalidades acessíveis através do menu, assegurando que cada ação selecionada direcione o usuário para a tela correspondente correta. 
 
 O contexto da navegação deve ser preservado, mantendo o estado do menu conforme a última interação do usuário.
 
