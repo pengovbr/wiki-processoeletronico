@@ -6,4 +6,4 @@ A ordenação deve ser indicada visualmente por setas direcionais no cabeçalho 
 
 - **Exemplo da tela:**
  **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Reativar mostrando processos inativos:** 
-       .. figure:: RN106.png
+       .. figure:: ReativarTipoProcesso2.png
