@@ -2,10 +2,11 @@
 =========
 O sistema deve garantir consistência na navegação entre as diferentes funcionalidades acessíveis através do menu, 
 assegurando que cada ação selecionada direcione o usuário para a tela correspondente correta. 
+
 O contexto da navegação deve ser preservado, mantendo o estado do menu conforme a última interação do usuário.
 
 - **Exemplo da tela à ser implementada:**
 
- **1) Tela do Menu SEI-ATOS mostrando a seção Tipos de Processo expandida com as respectivas ações (Adicionar, Listar e Reativar):** 
+ **1) Tela do Menu SEI-ATOS mostrando a seção 'Mapeamento de Tipos de Processos' expandida com as respectivas ações (Adicionar, Listar e Reativar):** 
        .. figure:: Menu5.png
 
