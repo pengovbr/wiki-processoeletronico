@@ -1,6 +1,6 @@
 **RN 81**
 =========
-Assim que o ADMINISTRADOR selecionar o campo 'Tipo de Processo', o sistema deve listar todos os processos disponíveis no SEI.
+Assim que o ADMINISTRADOR selecionar o campo 'Mapeamento de Tipos de Processos', o sistema deve listar todos os processos disponíveis no SEI.
 
 - **Exemplo da tela:**
  **1) Caixa de seleção Tipo de Processo mostrando lista com opções iniciais:** 
