@@ -4,7 +4,7 @@ A seção “Mapeamento de Tipos de Processo” deve implementar uma estrutura q
 
 Deve disponibilizar ações para cadastrar novos tipos, listar os existentes e reativar tipos anteriormente desativados, mantendo uma organização lógica que facilite a administração do módulo. 
 
-Deve permitir expansão/recolhimento das ações, mantendo o estado de visualização durante a sessão do usuário para garantir uma experiência de navegação consistente
+Deve permitir expansão/recolhimento das ações, mantendo o estado de visualização durante a sessão do usuário para garantir uma experiência de navegação consistente.
 
 
 - **Exemplo do menu à ser impementado:**
