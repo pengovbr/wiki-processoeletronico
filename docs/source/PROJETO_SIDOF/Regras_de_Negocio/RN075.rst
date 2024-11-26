@@ -6,5 +6,5 @@ Deve disponibilizar ações para cadastrar novos tipos, listar os existentes e r
 
 
 - **Exemplo do menu à ser impementado:**
- **1) Tela do Menu SEI-ATOS mostrando a seção Tipos de Processo expandida com as respectivas ações (Adicionar, Listar e Reativar)::** 
+ **1) Tela do Menu SEI-ATOS mostrando a seção Tipos de Processo expandida com as respectivas ações (Cadastrar, Listar e Reativar)::** 
        .. figure:: Menu3.png
