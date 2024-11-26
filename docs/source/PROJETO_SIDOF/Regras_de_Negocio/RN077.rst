@@ -1,5 +1,5 @@
 **RN 77**
 =========
-O sistema deve implementar múltiplas camadas de validação para garantir a segurança do acesso ao menu administrativo. 
+O sistema deve implementar validação para garantir que apenas usuários com o perfil específico "Administrador do SEI-ATOS" possam acessar as funcionalidades administrativas do módulo. 
 
-Além da validação visual que oculta o menu, deve existir proteção contra tentativas de acesso direto via URL por usuários não autorizados, com redirecionamento automático para a página inicial em caso de violação.
+Esta validação deve ser independente de outros perfis do sistema, incluindo o perfil de administrador geral.
