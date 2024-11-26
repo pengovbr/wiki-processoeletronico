@@ -2,4 +2,4 @@
 =========
 A seção "Autoridades" deve implementar funcionalidades que permitam o gerenciamento das autoridades e seus requisitos de assinatura no sistema. 
 
-Deve disponibilizar ações para adicionar novas autoridades e listar as existentes, proporcionando controle efetivo sobre quais autoridades podem assinar cada tipo de documento no módulo. Deve permitir expansão/recolhimento das ações, mantendo o estado de visualização durante a sessão do usuário para garantir uma experiência de navegação consistente
+Deve disponibilizar ações para adicionar novas autoridades e listar as existentes, proporcionando controle efetivo sobre quais autoridades podem assinar cada tipo de documento no módulo. Deve permitir expansão/recolhimento das ações, mantendo o estado de visualização durante a sessão do usuário para garantir uma experiência de navegação consistente.
