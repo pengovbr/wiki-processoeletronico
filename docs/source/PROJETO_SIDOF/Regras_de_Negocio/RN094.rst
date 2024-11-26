@@ -3,5 +3,5 @@
 Assim que acionada a opção 'Mapeamento de Tipos de Processos > Listar' no menu, o sistema deve ser direcionado para tela 'Listar Tipo de Processo'.
 
 - **Exemplo da tela:**
- **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Listar mostrando os processos sujeitos às regras do módulo e respectivos documentos principais:** 
+ **1) Tela inicial da ação SEI-ATOS>Mapeamento de Tipos de Processos>Listar mostrando os processos sujeitos às regras do módulo e respectivos documentos principais:** 
        .. figure:: ListarTipoProcesso1.png
