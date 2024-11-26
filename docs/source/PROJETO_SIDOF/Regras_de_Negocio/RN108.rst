@@ -7,5 +7,5 @@ As ações devem exigir confirmação do usuário antes de serem efetivadas e fo
 
 - **Exemplo da tela:**
  **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Reativar mostrando processos inativos:** 
-       .. figure:: ReativarTipoProcesso4.jpeg
+       .. figure:: ReativarTipoProcesso4.png
 
