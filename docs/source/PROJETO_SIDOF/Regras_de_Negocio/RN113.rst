@@ -5,6 +5,6 @@ O sistema deve carregar automaticamente todos os dados do mapeamento selecionado
 Os campos devem ser preenchidos com os valores atuais, permitindo sua modificação conforme necessário, exceto o tipo de documento que deve permanecer somente leitura.
 
 - **Exemplo da tela:**
- **1) Tela da ação da página Alterar Mapeamento de Tipo de Documento:** 
+ **1) Caixa de seleção “Contabilização” mostrando lista com opções :** 
        .. figure:: AdicionarTipoDocumentos2.png
 
