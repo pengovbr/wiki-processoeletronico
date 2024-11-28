@@ -1,2 +1,4 @@
 **RN 145**
 ==========
+A página de listagem de documentos inativos deve seguir o padrão visual do sistema, com elementos obrigatórios como barra de localização, barra de comandos superior, título do tipo de processo selecionado em destaque, campo de pesquisa, tabela de dados paginada e quantidade total de registros, prezando por uma organização clara e intuitiva das informações.
+
