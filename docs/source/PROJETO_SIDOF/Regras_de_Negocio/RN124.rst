@@ -1,2 +1,3 @@
 **RN 124**
 ==========
+O sistema deve manter um comportamento interativo consistente para as caixas de seleção, respeitando as dependências entre campos e preservando os valores originais até que sejam explicitamente alterados pelo usuário.
