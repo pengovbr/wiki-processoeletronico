@@ -1,2 +1,8 @@
 **RN 131**
 ==========
+O sistema deve fornecer uma interface inicial para a seleção do mapeamento de tipo de processo de interesse, com mecanismo de pesquisa dinâmico que filtra a lista à medida que o usuário digita. 
+
+A lista deve apresentar todos os mapeamentos de tipos de processo cadastrados no módulo e permitir seleção direta através de clique. 
+
+Ao selecionar um mapeamento, o sistema deve manter o nome do tipo de processo mapeado como contexto para exibição na tela subsequente.
+
