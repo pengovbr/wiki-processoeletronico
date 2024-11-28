@@ -1,2 +1,4 @@
 **RN 129**
 ==========
+O sistema deve garantir que cada tipo de documento seja configurado apenas uma vez por tipo de processo, implementando verificações de unicidade durante o cadastramento para evitar duplicidades e manter a clareza das definições processuais.
+
