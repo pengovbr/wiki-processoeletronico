@@ -1,2 +1,6 @@
 **RN 113**
 ==========
+O sistema deve carregar automaticamente todos os dados do mapeamento selecionado para alteração. 
+
+Os campos devem ser preenchidos com os valores atuais, permitindo sua modificação conforme necessário, exceto o tipo de documento que deve permanecer somente leitura.
+
