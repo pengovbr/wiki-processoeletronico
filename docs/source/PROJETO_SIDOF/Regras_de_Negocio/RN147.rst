@@ -1,2 +1,4 @@
 **RN 147**
 ==========
+O sistema deve implementar mecanismo de pesquisa que permita localizar documentos inativos a partir do nome, processando tanto correspondências exatas quanto parciais do termo pesquisado. A pesquisa deve atualizar a tabela dinamicamente, preservando a ordenação atual dos registros.
+
