@@ -1,2 +1,8 @@
 **RN 115**
 ==========
+O sistema deve implementar mecanismo de controle de assinaturas que suporte diferentes níveis de autenticação. 
+
+A seleção do tipo de assinatura deve automaticamente ajustar os requisitos de autenticação do documento, mantendo a integridade das demais configurações. 
+
+As opções de assinatura devem seguir uma hierarquia de segurança, permitindo o uso de métodos mais seguros que o mínimo exigido.
+
