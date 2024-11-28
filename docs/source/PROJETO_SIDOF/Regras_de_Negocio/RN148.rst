@@ -1,2 +1,6 @@
 **RN 148**
 ==========
+A tabela deve implementar mecanismos de ordenação para as colunas que contêm dados ordenáveis (ID, Nome e Grupo), permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho. 
+
+O estado da ordenação deve ser indicado por setas direcionais, e a ordenação deve afetar todos os registros visíveis na tabela.
+
