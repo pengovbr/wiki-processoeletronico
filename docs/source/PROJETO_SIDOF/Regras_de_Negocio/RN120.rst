@@ -1,2 +1,10 @@
 **RN 120**
 ==========
+O sistema deve permitir a alteração das configurações do mapeamento de tipo de documento, garantindo a integridade e consistência dos dados. 
+
+Ao salvar, todas as validações devem ser executadas e, se bem-sucedidas, as alterações são persistidas e o usuário redirecionado para a listagem. 
+
+Em caso de cancelamento, as alterações são descartadas sem afetar o registro original. 
+
+O sistema deve fornecer feedback claro sobre o resultado de cada operação através de mensagens específicas. A navegação entre telas deve preservar o contexto da operação e os dados já informados até sua conclusão.
+
