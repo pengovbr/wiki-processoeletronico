@@ -1,2 +1,3 @@
 **RN 116**
 ==========
+O acesso à funcionalidade deve ser controlado por perfil de usuário, sendo restrito ao perfil de administrador do módulo SEI-ATOS.
