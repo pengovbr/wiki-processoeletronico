@@ -1,2 +1,4 @@
 **RN 154**
 ==========
+O módulo SEI-ATOS deve manter sincronização automática com o core do SEI, espelhando todas as alterações de estado (inativação/exclusão) realizadas no sistema principal para manter a consistência dos dados e evitar situações anômalas.
+
