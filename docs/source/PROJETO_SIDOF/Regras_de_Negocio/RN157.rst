@@ -1,2 +1,4 @@
 **RN 157**
 ==========
+O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de documentos inativos, otimizada para meio impresso, incluindo todos os registros atualmente visíveis na tabela e mantendo a ordenação em uso.
+
