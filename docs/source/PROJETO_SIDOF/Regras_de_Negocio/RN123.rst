@@ -1,2 +1,5 @@
 **RN 123**
 ==========
+O sistema deve implementar um processo estruturado de carregamento e apresentação dos dados necessários para a configuração, iniciando com a lista completa de tipos de processo sujeitos às regras do módulo e oferecendo mecanismos de filtragem para localização rápida. 
+
+Após a seleção inicial, deve apresentar apenas os documentos compatíveis, excluindo automaticamente documentos principais já configurados e inicializando campos com valores padrão predefinidos. Todo o carregamento deve manter a consistência entre campos relacionados e preservar as seleções durante a navegação, garantindo assim um processo de configuração eficiente e livre de erros.
