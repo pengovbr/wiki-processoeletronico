@@ -1,2 +1,8 @@
 **RN 119**
 ==========
+O sistema deve validar os campos de quantidade garantindo a consistência numérica e lógica entre valores mínimos, máximos e a obrigatoriedade do documento. 
+
+Para documentos obrigatórios, deve-se garantir quantidade mínima igual ou superior a um. 
+
+Para documentos opcionais, permite-se quantidade mínima zero, desde que respeitados os limites máximos do sistema.
+
