@@ -1,2 +1,3 @@
 **RN 153**
 ==========
+O sistema deve validar a consistência dos dados antes de permitir a reativação, garantindo que todas as configurações necessárias para o funcionamento do documento ainda existam no sistema.
