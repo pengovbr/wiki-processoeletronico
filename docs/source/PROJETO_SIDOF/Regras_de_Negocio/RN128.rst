@@ -4,7 +4,7 @@ O sistema deve validar os campos de quantidade garantindo a consistência numér
 
 Para documentos obrigatórios, deve-se garantir quantidade mínima igual ou superior a um. Para documentos opcionais, permite-se quantidade mínima zero, desde que respeitados os limites máximos do sistema.
 
--**Exemplo de Tela:**
+- **Exemplo de Tela:**
 
 **1) Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Campo de entrada "Quantidade Mínima" destinado à inserção de valores numéricos inteiros não negativos. Este campo permite que o usuário insira manualmente um número ou o ajuste utilizando os controles de incremento e decremento fornecidos pelo navegador.** 
        .. figure:: Cadastrar5.png
