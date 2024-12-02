@@ -1,2 +1,4 @@
 **RN 166**
 ==========
+O sistema deve impedir o cadastramento de usuários que já estejam mapeados como autoridades, garantindo a unicidade dos mapeamentos.
+
