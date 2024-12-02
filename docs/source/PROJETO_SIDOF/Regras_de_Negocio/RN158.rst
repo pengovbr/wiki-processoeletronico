@@ -2,3 +2,10 @@
 ==========
 
 A página de alteração de mapeamento de autoridade deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior e áreas distintas para dados do usuário e configuração de autoridade. A interface deve manter campos de identificação em modo somente leitura e permitir a alteração apenas das configurações de unidade e função.
+
+- **Exemplo de Tela:**
+
+**Tela da ação da página Alterar Mapeamento de Autoridade** 
+       .. figure:: AlterarAutoridade1.png
+
+
