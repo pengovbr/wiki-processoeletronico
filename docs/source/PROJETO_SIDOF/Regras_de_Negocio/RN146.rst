@@ -5,3 +5,8 @@ O sistema deve implementar um processo estruturado de carregamento e apresentaç
 iniciando com a lista completa de tipos de processo sujeitos às regras do módulo e oferecendo mecanismos de filtragem para localização rápida. 
 
 Após a seleção de um tipo de processo, deve carregar e exibir em tabela paginada todos os tipos de documentos inativos vinculados, mantendo o tipo de processo como contexto. Os dados apresentados devem ser consistentes e atualizados, refletindo a situação atual das configurações.
+
+- **Exemplo de Tela:**
+
+**Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse Usuário digitou "Decreto" no campo de pesquisa e o sistema automaticamente filtrou, mostrando apenas "Atos Oficiais: Decreto Normativo", com o termo "Decreto" destacado em amarelo, demonstrando o filtro dinâmico em funcionamento.** 
+       .. figure:: ReativarTipoDocumentos2.png
