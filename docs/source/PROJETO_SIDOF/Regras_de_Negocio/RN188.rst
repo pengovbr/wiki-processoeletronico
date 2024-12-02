@@ -1,0 +1,1 @@
+Regra: O sistema deve validar a consistência dos dados antes de permitir operações em lote, garantindo que todas as configurações necessárias ainda existam no sistema.
