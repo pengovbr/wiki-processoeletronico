@@ -1,2 +1,4 @@
 **RN 165**
 ==========
+O sistema deve validar se há pelo menos um usuário selecionado antes de permitir o cadastramento do mapeamento.
+
