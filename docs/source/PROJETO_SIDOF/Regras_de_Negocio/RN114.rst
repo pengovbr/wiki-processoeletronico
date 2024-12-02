@@ -4,4 +4,4 @@ O sistema deve manter um comportamento interativo consistente para as caixas de 
 
 - **Exemplo da tela:**
  **1) Caixa de seleção “Contabilização” mostrando lista com opções:** 
-       .. figure:: AdicionarTipoDocumentos3.png
+       .. figure:: AdicionarTipoDocumentos2.png
