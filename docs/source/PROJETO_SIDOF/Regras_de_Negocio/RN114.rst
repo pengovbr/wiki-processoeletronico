@@ -2,6 +2,3 @@
 ==========
 O sistema deve manter um comportamento interativo consistente para as caixas de seleção, respeitando as dependências entre campos e preservando os valores originais até que sejam explicitamente alterados pelo usuário.
 
-- **Exemplo da tela:**
- **1) Caixa de seleção “Contabilização” mostrando lista com opções:** 
-       .. figure:: AdicionarTipoDocumentos2.png
