@@ -6,6 +6,6 @@ Cada campo deve ser validado individualmente quanto ao seu preenchimento obrigat
 
 O processo de validação deve ocorrer no momento do salvamento, fornecendo mensagens claras sobre qualquer inconsistência detectada.
 
-**Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Formulário preenchido corretamente** 
-       .. figure:: Cadastrar6.png
+**Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Caixa de seleção “Contabilização” mostrando lista com opções** 
+       .. figure:: Cadastrar4.png
 
