@@ -1,0 +1,1 @@
+Regra: O sistema deve oferecer ações individuais para cada registro, permitindo reativação e exclusão unitárias. Essas ações devem ser acessíveis através de botões posicionados na última coluna da tabela, identificados por ícones significativos.
