@@ -1,2 +1,4 @@
 **RN 161**
 ==========
+A página de cadastramento de mapeamento de autoridade deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, área de pesquisa e tabela de dados. A interface deve permitir a pesquisa, seleção e filtragem de usuários para mapeamento como autoridade.
+
