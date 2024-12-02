@@ -4,3 +4,7 @@ A página de cadastramento de mapeamento de tipo de documento deve seguir o padr
 
 A interface deve conter áreas distintas para: seleção do tipo de documento, definição de obrigatoriedade, configuração do tipo de assinatura e estabelecimento de limites de quantidade.
 
+- **Exemplo da tela:**
+
+**1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Cadastrar Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento** 
+       .. figure:: Cadastrar2.png
