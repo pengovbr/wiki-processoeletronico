@@ -1,1 +1,3 @@
-Regra: O sistema deve fornecer ações em lote para que os administradores possam realizar operações em múltiplas autoridades de uma vez.
+**RN 184**
+==========
+O sistema deve fornecer ações em lote para que os administradores possam realizar operações em múltiplas autoridades de uma vez.
