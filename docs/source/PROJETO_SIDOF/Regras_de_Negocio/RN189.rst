@@ -1,1 +1,3 @@
- Regra: O sistema deve garantir fluxos completos de operações, seja para registros individuais ou em lote, mantendo o usuário informado sobre o progresso e resultado das operações.
+**RN 189**
+==========
+O sistema deve garantir fluxos completos de operações, seja para registros individuais ou em lote, mantendo o usuário informado sobre o progresso e resultado das operações.
