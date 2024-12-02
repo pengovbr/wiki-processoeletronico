@@ -1,1 +1,3 @@
-Regra: O sistema deve implementar mecanismo de pesquisa que permita localizar autoridades inativas a partir dos filtros disponíveis (Órgão, Sigla, Nome e Nome Social), processando tanto correspondências exatas quanto parciais dos termos pesquisados. A pesquisa deve atualizar a tabela dinamicamente, preservando a ordenação atual dos registros.
+**RN 182**
+==========
+O sistema deve implementar mecanismo de pesquisa que permita localizar autoridades inativas a partir dos filtros disponíveis (Órgão, Sigla, Nome e Nome Social), processando tanto correspondências exatas quanto parciais dos termos pesquisados. A pesquisa deve atualizar a tabela dinamicamente, preservando a ordenação atual dos registros.
