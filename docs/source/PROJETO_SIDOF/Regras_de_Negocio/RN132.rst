@@ -1,3 +1,7 @@
 **RN 132**
 ==========
 A página de listagem de mapeamentos deve seguir o padrão visual do sistema, com elementos obrigatórios como barra de localização, barra de comandos superior, campo de pesquisa, tabela de dados paginada e quantidade total de registros, prezando por uma organização clara e intuitiva das informações.
+
+- **Exemplo de Tela:**
+
+**Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Listar Tela 2 - Página de Listagem de Mapeamentos de Tipos de Docmentos do Tipo de Processo Selecionado ** 
