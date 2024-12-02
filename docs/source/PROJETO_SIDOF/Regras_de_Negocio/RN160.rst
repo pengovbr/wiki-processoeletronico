@@ -1,0 +1,1 @@
+Regra: O sistema deve permitir uma navegação intuitiva e segura, mantendo a consistência das informações durante todo o processo de alteração.
