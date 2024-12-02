@@ -8,5 +8,5 @@ Ao selecionar um mapeamento, o sistema deve manter o nome do tipo de processo ma
 
 - **Exemplo da tela:**
 
- **1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Cadastrar Página de seleção do mapeamento do tipo de processo de interesse** 
+ **1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Cadastrar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse** 
        .. figure:: Cadastrar1.png
