@@ -2,3 +2,7 @@
 ==========
 O documento principal deve manter configurações específicas que garantam sua função essencial no processo: ser obrigatório, ter quantidade mínima de um e contabilização por processo. O sistema deve impedir alterações que comprometam estas características.
 
+- **Exemplo da tela:**
+ **1) Campo de entrada "Quantidade Mínima" destinado à inserção de valores numéricos inteiros não negativos. Este campo permite que o usuário insira manualmente um número ou o ajuste utilizando os controles de incremento e decremento fornecidos pelo navegador.** 
+       .. figure:: AdicionarTipoDocumentos3.png
+
