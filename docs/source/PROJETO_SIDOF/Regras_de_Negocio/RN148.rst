@@ -4,3 +4,6 @@ A tabela deve implementar mecanismos de ordenação para as colunas que contêm 
 
 O estado da ordenação deve ser indicado por setas direcionais, e a ordenação deve afetar todos os registros visíveis na tabela.
 
+- **Exemplo de Tela:**
+       .. figure:: ReativarTipoDocumentos4.png
+
