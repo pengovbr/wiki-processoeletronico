@@ -6,5 +6,5 @@ Após a seleção inicial, deve apresentar apenas os documentos compatíveis, ex
 
 - **Exemplo da tela:**
 
-**1) Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Caixa de seleção “Tipo de Documento” mostrando lista com opções ** 
+**1) Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Caixa de seleção “Tipo de Documento” mostrando lista com opções** 
        .. figure:: Cadastrar3.png
