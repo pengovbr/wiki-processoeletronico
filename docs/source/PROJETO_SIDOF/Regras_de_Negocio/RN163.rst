@@ -1,2 +1,4 @@
 **RN 163**
 ==========
+O sistema deve disponibilizar mecanismos de seleção através de caixas de seleção, permitindo a seleção individual ou múltipla de usuários para mapeamento como autoridades. A seleção em massa deve se aplicar aos registros da página atual, habilitando automaticamente a opção de cadastramento.
+
