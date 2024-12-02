@@ -5,3 +5,6 @@ O sistema deve fornecer uma interface inicial para a seleção do mapeamento de 
 A lista deve apresentar todos os mapeamentos de tipos de processo cadastrados no módulo e permitir seleção direta através de clique. 
 
 Ao selecionar um mapeamento, o sistema deve manter o nome do tipo de processo mapeado como contexto para exibição na tela subsequente.
+
+- **Exemplo da tela:**
+       .. figure:: Cadastrar1.png
