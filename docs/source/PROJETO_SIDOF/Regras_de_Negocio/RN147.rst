@@ -2,3 +2,8 @@
 ==========
 O sistema deve implementar mecanismo de pesquisa que permita localizar documentos inativos a partir do nome, processando tanto correspondências exatas quanto parciais do termo pesquisado. A pesquisa deve atualizar a tabela dinamicamente, preservando a ordenação atual dos registros.
 
+- **Exemplo de Tela:**
+
+**Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 2 - Página de Listagem de Mapeamentos de Tipos de Documentos Inativos** 
+       .. figure:: ReativarTipoDocumentos3.png
+
