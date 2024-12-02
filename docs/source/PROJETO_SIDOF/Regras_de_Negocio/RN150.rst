@@ -6,3 +6,7 @@ Essas ações devem ser acessíveis através de botões posicionados na última 
 
 Ao clicar nas ações, deve ser exibida uma confirmação antes de efetivar a operação.
 
+
+- **Exemplo de Tela:**
+       .. figure:: ReativarTipoDocumentos6.png
+
