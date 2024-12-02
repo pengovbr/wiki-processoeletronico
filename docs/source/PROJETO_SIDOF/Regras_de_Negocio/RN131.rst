@@ -6,3 +6,8 @@ A lista deve apresentar todos os mapeamentos de tipos de processo cadastrados no
 
 Ao selecionar um mapeamento, o sistema deve manter o nome do tipo de processo mapeado como contexto para exibição na tela subsequente.
 
+-**Exemplo de Tela:**
+
+**1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Listar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse** 
+       .. figure:: ListarTipoDocumento1.png
+
