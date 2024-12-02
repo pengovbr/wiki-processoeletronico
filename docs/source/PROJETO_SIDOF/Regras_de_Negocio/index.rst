@@ -164,3 +164,35 @@ As regras de negócio do Projeto STRATOS estão listadas abaixo:
    RN155
    RN156
    RN157
+   RN158
+   RN159
+   RN160
+   RN161
+   RN162
+   RN163
+   RN164
+   RN165
+   RN166
+   RN167
+   RN168
+   RN169
+   RN170
+   RN171
+   RN172
+   RN173
+   RN174
+   RN175
+   RN176
+   RN177
+   RN178
+   RN179
+   RN180
+   RN181
+   RN182
+   RN183
+   RN184
+   RN185
+   RN186
+   RN187
+   RN188
+   RN189
