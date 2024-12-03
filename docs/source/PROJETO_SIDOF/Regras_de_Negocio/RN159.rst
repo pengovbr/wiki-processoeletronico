@@ -5,5 +5,5 @@ O sistema deve permitir a alteração das configurações do mapeamento de autor
 
 - **Exemplo de Tela:**
 
-**Campo de seleção suspensa (dropdown) com o rótulo "Função" e três opções disponíveis. O campo apresenta um espaço vazio padrão como opção inicial, seguido pelas opções "Ministro" e "Substituto Eventual do Ministro". Ele é configurado para permitir que o usuário selecione uma das funções disponíveis.** 
+**1) Campo de seleção suspensa (dropdown) com o rótulo "Função" e três opções disponíveis. O campo apresenta um espaço vazio padrão como opção inicial, seguido pelas opções "Ministro" e "Substituto Eventual do Ministro". Ele é configurado para permitir que o usuário selecione uma das funções disponíveis.** 
        .. figure:: AlterarAutoridade2.png
