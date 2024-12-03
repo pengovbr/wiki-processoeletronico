@@ -1,4 +1,6 @@
 **RN 173**
 ==========
 O sistema deve oferecer ações individuais para cada registro, permitindo alteração, desativação e exclusão unitárias.
+- **Exemplo de Tela:**
+     .. figure:: ListarAutoridade7.png
 
