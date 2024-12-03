@@ -4,7 +4,7 @@ O sistema deve disponibilizar mecanismos de seleção através de caixas de sele
 
 - **Exemplo de Tela:**
 
-**Ação SEI-ATOS>Mapeamento de Tipos de Autoridades>Cadastrar 
+**1) Ação SEI-ATOS>Mapeamento de Tipos de Autoridades>Cadastrar 
 Campo de seleção suspensa (dropdown) chamado "Órgão", que permite ao usuário selecionar uma opção específica relacionada aos órgãos disponíveis. O campo apresenta uma opção inicial em branco, seguida das opções "Todos", "SEI-ATOS", "PR e "IN".** 
        .. figure:: CadastrarAutoridade2.png
 
