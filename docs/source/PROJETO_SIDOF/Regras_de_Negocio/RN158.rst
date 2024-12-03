@@ -5,7 +5,7 @@ A página de alteração de mapeamento de autoridade deve seguir o padrão visua
 
 - **Exemplo de Tela:**
 
-**Tela da ação da página Alterar Mapeamento de Autoridade** 
+**1) Tela da ação da página Alterar Mapeamento de Autoridade** 
        .. figure:: AlterarAutoridade1.png
 
 
