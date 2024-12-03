@@ -4,18 +4,18 @@ A página de listagem de mapeamento de autoridades deve seguir o padrão visual 
 
 - **Exemplo de Tela:**
 
-**Ação SEI-ATOS>Mapeamento de Autoridades>Listar** 
+**1) Ação SEI-ATOS>Mapeamento de Autoridades>Listar** 
        .. figure:: ListarAutoridade1.png
 
-**Ação SEI-ATOS>Mapeamento de Autoridades>Listar 
+**2) Ação SEI-ATOS>Mapeamento de Autoridades>Listar 
 Campo de seleção suspensa (dropdown) chamado "Órgão", que permite ao usuário selecionar uma opção específica relacionada aos órgãos disponíveis. O campo apresenta uma opção inicial em branco, seguida das opções "Todos", "SEI-ATOS", "PR e "IN".** 
        .. figure:: ListarAutoridade2.png
 
-**Ação SEI-ATOS>Mapeamento de Autoridades>Listar 
+**3) Ação SEI-ATOS>Mapeamento de Autoridades>Listar 
 Campo de seleção suspensa (dropdown) intitulado "Unidade", que permite ao usuário selecionar uma unidade administrativa específica. O campo apresenta uma opção inicial em branco, seguida de uma lista abrangente de opções representando diversas unidades governamentais e ministeriais, como "CC-PR - Casa Civil da Presidência da República", "MAPA - Ministério da Agricultura e Pecuária", e "MCTI - Ministério da Ciência, Tecnologia e Inovação", entre outras.** 
        .. figure:: ListarAutoridade3.png
 
-**Ação SEI-ATOS>Mapeamento de Autoridades>Listar 
+**4) Ação SEI-ATOS>Mapeamento de Autoridades>Listar 
 Campo de seleção suspensa (dropdown) com o rótulo "Função" e três opções disponíveis. O campo apresenta um espaço vazio padrão como opção inicial, seguido pelas opções "Ministro" e "Substituto Eventual do Ministro". Ele é configurado para permitir que o usuário selecione uma das funções disponíveis.** 
        .. figure:: ListarAutoridade4.png
 
