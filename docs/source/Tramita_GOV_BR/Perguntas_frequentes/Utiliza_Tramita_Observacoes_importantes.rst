@@ -84,9 +84,9 @@ Como um órgão é considerado implantado?
 
 O órgão é considerado **implantado** após a conclusão bem-sucedida dos testes em produção.  Para isso, a partir do ambiente de produção, é necessário remeter o processo de teste para a seguinte unidade:
 
-**Repositório**: Poder Executivo Federal 
+**Repositório**: Órgãos/ Entidades Legados 
 
-**Unidade**: “Divisão de Gestão de Sistemas de Documentação e Informação - DISIS / COGED / CGTIP / DAL / SGC / MGI”
+**Unidade**: sei.orgao1.prod.tramita.processoeletronico.gov.br - Orgao1Prod
 
 .. important:: Atenção
 
