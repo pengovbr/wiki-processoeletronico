@@ -1,3 +1,9 @@
 **RN 181**
 ==========
 O sistema deve implementar um processo estruturado de carregamento e apresentação dos dados necessários para a reativação de autoridades, carregando a lista de autoridades inativas e oferecendo mecanismos de filtragem para localização rápida. Os dados apresentados devem ser consistentes e atualizados, refletindo a situação atual das autoridades inativas.
+
+- **Exemplo de Tela:**
+
+**1)Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar 
+Campo de seleção suspensa (dropdown) chamado "Órgão", que permite ao usuário selecionar uma opção específica relacionada aos órgãos disponíveis. O campo apresenta uma opção inicial em branco, seguida das opções "Todos", "SEI-ATOS", "PR e "IN".**
+     .. figure:: ReativarAutoridade2.png
