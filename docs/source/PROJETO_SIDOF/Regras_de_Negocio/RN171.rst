@@ -2,3 +2,6 @@
 ==========
 A tabela deve implementar mecanismos de ordenação para as colunas que contêm dados ordenáveis (ID, Sigla, Nome, Órgão, Unidade, Função), permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho.
 
+- **Exemplo de Tela:**
+     .. figure:: ListarAutoridade5.png
+
