@@ -4,6 +4,6 @@ A página de cadastramento de mapeamento de autoridade deve seguir o padrão vis
 
 - **Exemplo de Tela:**
 
-**Ação SEI-ATOS>Mapeamento de Autoridades>Cadastrar** 
+**1) Ação SEI-ATOS>Mapeamento de Autoridades>Cadastrar** 
        .. figure:: CadastrarAutoridade1.png
 
