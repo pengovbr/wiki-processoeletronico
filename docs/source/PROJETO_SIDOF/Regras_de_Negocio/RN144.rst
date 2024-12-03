@@ -6,6 +6,6 @@ A lista deve apresentar todos os tipos de processo mapeados no módulo e permiti
 
 - **Exemplo de Tela:**
 
-**Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse** 
+**1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse** 
        .. figure:: ReativarTipoDocumentos1.png
 
