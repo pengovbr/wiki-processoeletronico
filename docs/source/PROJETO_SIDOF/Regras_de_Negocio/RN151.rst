@@ -1,0 +1,5 @@
+**RN 151**
+==========
+O acesso à funcionalidade de reativação de tipos de documentos deve ser restrito aos usuários com perfil de Administrador do SEI-ATOS. 
+
+Usuários sem esse perfil não devem conseguir acessar a página, sendo redirecionados para a tela de acesso negado ou página inicial do sistema.

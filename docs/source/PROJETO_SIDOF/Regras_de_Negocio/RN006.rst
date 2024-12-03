@@ -1,0 +1,27 @@
+**RN 6**
+========
+O sistema deve permitir que o Administrador configure os TIPOS DE PROCESSOS do SEI que estarão sujeitos às regras do módulo.
+
+- **Exemplos das telas:**
+ **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Adicionar:** 
+       .. figure:: TiposProcessos1.png
+
+ **2) Caixa de seleção Tipo de Processo mostrando lista com opções:**
+       .. figure:: TiposProcessos2.png
+
+ **3) Caixa de seleção Documento Principal mostrando lista com opções:**
+       .. figure:: TiposProcessos3.png
+
+ **4) Formulário da página Adicionar Tipo de Processo preenchido corretamente:**
+       .. figure:: TiposProcessos4.png
+
+ **5) Tela inicial da ação Alterar Tipo de Processo:**
+       .. figure:: TiposProcessos5.png
+
+ **6) Tela inicial da ação SEI-ATOS>Tipo de Processo>Listar mostrando os processos sujeitos às regras do módulo e respectivos documentos principais:**
+       .. figure:: TiposProcessos6.png
+
+**7) Tela inicial da ação SEI-ATOS>Tipo de Processo>Reativar mostrando processos inativos:**
+       .. figure:: TiposProcessos7.png
+
+

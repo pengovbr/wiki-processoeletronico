@@ -1,0 +1,4 @@
+**RN 110**
+==========
+O sistema deve implementar mecanismos de navegação que permitam ao usuário retornar à tela anterior de forma intuitiva, preservando o contexto da navegação e garantindo que nenhuma alteração seja perdida durante a transição entre telas.
+

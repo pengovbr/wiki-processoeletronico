@@ -1,0 +1,7 @@
+**RN 100**
+==========
+
+O sistema deve fornecer mecanismos de navegação intuitivos que permitam ao usuário transitar entre as diferentes funcionalidades do módulo, especialmente ao adicionar novos tipos de processo ou retornar à tela anterior. 
+
+A navegação deve preservar o contexto e estado das operações em andamento, evitando perda de dados durante as transições.
+

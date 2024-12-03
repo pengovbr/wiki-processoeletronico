@@ -1,0 +1,3 @@
+**RN 55**
+=========
+O sistema deve assegurar que o envio para a Presidência da República seja realizado apenas após a revisão final dos documentos e pareceres por cada ministério envolvido, garantindo que toda a documentação necessária esteja completa e aprovada.

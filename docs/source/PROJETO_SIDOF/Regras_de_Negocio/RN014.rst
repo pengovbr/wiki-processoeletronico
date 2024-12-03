@@ -1,0 +1,3 @@
+**RN 14**
+=========
+O sistema deve bloquear o acesso a processos que não tenham sido tramitados diretamente para a unidade solicitante, assegurando que esses processos não apareçam nos resultados de pesquisa.

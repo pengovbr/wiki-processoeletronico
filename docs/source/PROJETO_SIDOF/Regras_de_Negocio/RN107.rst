@@ -1,0 +1,10 @@
+**RN 107**
+==========
+O sistema deve possibilitar a seleção e manipulação de múltiplos registros simultaneamente, permitindo que o usuário reative ou exclua vários tipos de processo em uma única operação.
+
+As ações em lote devem ser executadas somente após confirmação do usuário e apresentar feedback claro sobre o resultado da operação.
+
+- **Exemplo da tela:**
+ **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Reativar mostrando processos inativos:** 
+       .. figure:: ReativarTipoProcesso3.png
+

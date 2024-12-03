@@ -1,0 +1,5 @@
+**RN 111**
+==========
+
+O sistema deve fornecer uma funcionalidade de impressão que gere uma visualização formatada da lista de tipos de processo, incluindo todos os registros visíveis na tabela no momento da impressão, adaptada para o formato adequado ao meio impresso.
+

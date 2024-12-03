@@ -1,0 +1,8 @@
+**RN 118**
+==========
+O documento principal deve manter configurações específicas que garantam sua função essencial no processo: ser obrigatório, ter quantidade mínima de um e contabilização por processo. O sistema deve impedir alterações que comprometam estas características.
+
+- **Exemplo da tela:**
+ **1) Caixa de seleção “Contabilização” mostrando lista com opções:** 
+       .. figure:: AdicionarTipoDocumentos2.png
+

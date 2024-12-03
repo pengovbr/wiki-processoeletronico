@@ -1,0 +1,11 @@
+**RN 108**
+==========
+ 
+Cada registro da tabela deve disponibilizar ações individuais através de ícones intuitivos que permitam reativar ou excluir o tipo de processo específico.
+
+As ações devem exigir confirmação do usuário antes de serem efetivadas e fornecer feedback visual do resultado da operação.
+
+- **Exemplo da tela:**
+ **1) Tela inicial da ação SEI-ATOS>Tipo de Processo>Reativar mostrando processos inativos:** 
+       .. figure:: ReativarTipoProcesso4.png
+

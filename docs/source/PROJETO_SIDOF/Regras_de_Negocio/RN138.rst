@@ -1,0 +1,6 @@
+**RN 138**
+==========
+O acesso à funcionalidade de listagem de tipos de documentos deve ser restrito aos usuários com perfil de Administrador do SEI-ATOS. 
+
+Usuários sem esse perfil não devem conseguir acessar a página, sendo redirecionados adequadamente.
+

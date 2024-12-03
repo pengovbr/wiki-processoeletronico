@@ -1,0 +1,6 @@
+**RN 34**
+=========
+O campo Unidades para Disponibilização deve conter os mesmos Ministérios indicados no campo **Interessados** quando da criação do processo (excluído o Ministério Autor). 
+
+Deve vir pré-preenchido e não ser passível de alteração. A alteração deve ser permitida apenas no campo Coautores do processo, sendo refletida no campo Unidades para 
+disponibilização em questão.

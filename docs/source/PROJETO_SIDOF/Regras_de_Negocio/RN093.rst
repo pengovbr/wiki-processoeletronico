@@ -1,0 +1,9 @@
+**RN 93**
+=========
+Assim que selecionado a opção do menu 'Listar > Alterar', o sistema deve apresentar a tela conforme imagem abaixo.
+
+- **Exemplo da tela:**
+ **1) Tela inicial Alterar Tipo de Processo:** 
+
+       .. figure:: AdicionarTipoProcesso4.png
+

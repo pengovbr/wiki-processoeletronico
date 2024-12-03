@@ -1,0 +1,3 @@
+**RN 13**
+=========
+O sistema deve permitir que as unidades reservadas aos ministérios no novo Sistema de Tramitação de Atos Oficiais, hospedado na instância do SEI da Presidência da República e configurado para operar no modo multi-órgãos, pesquisem apenas os processos criados em sua própria unidade ou que tenham sido formalmente tramitados para elas.

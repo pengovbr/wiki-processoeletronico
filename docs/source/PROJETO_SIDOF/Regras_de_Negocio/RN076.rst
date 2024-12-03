@@ -1,0 +1,11 @@
+**RN 76**
+=========
+A seção “Mapeamento de Tipos de Documento” deve implementar funcionalidades que permitam a personalização granular das características e regras específicas de cada tipo de processo gerenciado pelo módulo. 
+
+Deve disponibilizar ações para adicionar novas configurações, listar as existentes e reativar configurações desativadas, proporcionando controle preciso sobre o comportamento de cada processo. 
+
+Deve permitir expansão/recolhimento das ações, mantendo o estado de visualização durante a sessão do usuário para garantir uma experiência de navegação consistente.
+
+- **Exemplo do menu:**
+ **1) Tela do Menu SEI-ATOS seção 'Mapeamento de Tipos de Documentos':** 
+       .. figure:: Menu4.png

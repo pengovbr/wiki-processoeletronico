@@ -1,0 +1,3 @@
+**RN 62**
+=========
+O sistema deve exibir uma mensagem de erro detalhada em caso de não conformidade, informando documentos ausentes, assinaturas faltantes ou erros na seleção.

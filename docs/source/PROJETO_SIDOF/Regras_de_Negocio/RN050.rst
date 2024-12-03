@@ -1,0 +1,3 @@
+**RN 50**
+=========
+O sistema deve permitir que o Administrador visualize e revise a lista de unidades com restrição de envio de processos pelos Ministérios Coautores, facilitando o gerenciamento e a atualização dessas configurações conforme necessário.

@@ -1,0 +1,8 @@
+**RN 86**
+=========
+As caixas de seleção devem implementar um comportamento dependente e dinâmico. 
+
+A seleção de um tipo de processo deve habilitar e carregar apenas documentos principais compatíveis na segunda caixa. 
+
+Ao trocar o tipo de processo, a lista de documentos deve ser atualizada automaticamente, mantendo apenas opções válidas e limpando qualquer 
+seleção anterior para evitar inconsistências.

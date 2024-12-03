@@ -1,0 +1,6 @@
+**RN 84**
+=========
+Ao acessar a funcionalidade para alterar um tipo de processo existente, o sistema deve carregar automaticamente os dados atuais, 
+exibindo o tipo de processo de forma não editável e permitindo apenas a modificação do documento principal. 
+
+O carregamento deve preservar todas as configurações originais e validar a consistência dos dados antes de permitir qualquer alteração.

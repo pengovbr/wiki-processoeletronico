@@ -1,0 +1,3 @@
+**RN 64**
+=========
+O sistema deve verificar se todos os Ministérios envolvidos no processo realizaram a seleção dos documentos.

@@ -1,0 +1,3 @@
+**RN 56**
+=========
+O sistema deve permitir que a seleção e o envio dos documentos sejam realizados na unidade reservada ao Ministério Autor e aos Coautores, dentro do novo Sistema de Tramitação de Atos Oficiais, operando na instância multi-órgãos da Presidência da República.

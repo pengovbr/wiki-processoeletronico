@@ -1,0 +1,3 @@
+**RN 179**
+==========
+O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de autoridades, otimizada para meio impresso.

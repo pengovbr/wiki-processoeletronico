@@ -1,0 +1,10 @@
+**RN 112**
+==========
+A página de alteração de mapeamento de tipo de documento deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior e área com título do tipo de processo mapeado em destaque. 
+
+A interface deve conter áreas distintas para: seleção do tipo de documento, definição de obrigatoriedade, configuração do tipo de assinatura e estabelecimento de limites de quantidade.
+
+- **Exemplo da tela:**
+ **1) Tela da ação da página Alterar Mapeamento de Tipo de Documento:** 
+       .. figure:: AdicionarTipoDocumentos1.png
+

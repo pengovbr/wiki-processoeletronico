@@ -1,0 +1,7 @@
+**RN 102**
+==========
+
+O sistema deve implementar uma funcionalidade de impressão que gere uma visualização adequadamente formatada da lista de tipos de processo, incluindo todos os registros visíveis na tabela no momento da impressão. 
+
+O formato deve ser otimizado para meio impresso, mantendo a legibilidade e organização dos dados apresentados.
+

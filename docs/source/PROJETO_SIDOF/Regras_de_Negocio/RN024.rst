@@ -1,0 +1,6 @@
+**RN 24**
+=========
+O Nível de Acesso sugerido, pré-preenchido no momento da criação do processo, deve ser Restrito, com a hipótese legal de Documento Preparatório (Art. 7º, § 3º, da Lei nº 12.527/2011).
+
+
+- **Observação:** Apenas será permitida a criação do tipo de processo com grau de acesso restrito, de foma que o usuário não possa alterar tal configuração.

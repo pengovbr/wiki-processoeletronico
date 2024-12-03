@@ -1,0 +1,6 @@
+**RN 104**
+==========
+A página de reativação dos Tipos de Processo deve seguir um layout específico e padronizado, com elementos organizados de forma a facilitar a visualização e operação pelo usuário. 
+
+Deve apresentar uma barra de comandos com botões de ação, área de pesquisa e uma tabela listando os tipos de processo inativos disponíveis para reativação.
+

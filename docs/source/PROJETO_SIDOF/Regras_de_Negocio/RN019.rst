@@ -1,0 +1,4 @@
+**RN 19**
+=========
+A unidade do Ministério Autor deverá ser automaticamente incluída no campo **Interessados** do formulário da ação INICIAR PROCESSO.
+

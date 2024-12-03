@@ -55,5 +55,10 @@ A equipe do PEN construiu este material pensando em você! Esperamos que possa a
 
    Tramita_GOV_BR/index
 
+.. toctree::
+   :hidden:
+   :titlesonly:
+
+   PROJETO_SIDOF/index
  
    

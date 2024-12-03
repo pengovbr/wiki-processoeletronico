@@ -1,0 +1,5 @@
+**RN 22**
+=========
+O preenchimento do campo Prioridade deve seguir as diretrizes estabelecidas no regulamento vigente.
+
+- **Observação:** Campo Prioridade disponível apenas a partir da Versão 4.1 do SEI

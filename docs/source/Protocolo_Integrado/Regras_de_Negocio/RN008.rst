@@ -1,0 +1,28 @@
+**RN008-Visualizar Resultado de Consulta PI: Usuário não Logado**
+=================================================================
+
+A plataforma PI deve permitir o usuário não logado visualize o resultado da consulta de processos com grau de acesso público.
+
+Para tanto, ao informar os filtros de consulta necessários e acionar o botão 'Consultar', o sistema deve exibir as informações abaixo:
+
+**Resultado da Consulta - Consulta realizada em dd/mm/aaaa às hh:mm**
+
+**Lista de Processos (Quantidade de Registros)**
+
+   - Disponibilizar grid em tela contendo as seguintes colunas:
+
+================== ==== ==== =========== ======= ====
+Processo/Documento Tipo	Data Interessado Assunto Ação
+================== ==== ==== =========== ======= ====	         
+================== ==== ==== =========== ======= ====
+
+**Lista de Andamentos (Quantidade de Registros)**
+
+
+   - Disponibilizar grid em tela contendo as seguintes colunas:
+
+========= ============ ========= ====
+Data/Hora  Interessado Descrição Ação
+========= ============ ========= ====	         
+========= ============ ========= ====
+ 

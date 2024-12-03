@@ -1,0 +1,8 @@
+**RN 31**
+=========
+O PARECER DE MÉRITO deve ser carregado no sistema já assinado a partir da instância do Ministério Autor, utilizando o módulo Gov.br ou um certificado digital ICP-Brasil. 
+
+A assinatura digital pode ser avançada ou qualificada.
+
+
+- **REGRA DE NEGÓCIO NÃO APLICÁVEL**

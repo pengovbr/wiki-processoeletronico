@@ -1,0 +1,12 @@
+**RN 121**
+==========
+O sistema deve fornecer uma interface inicial para a seleção do mapeamento de tipo de processo de interesse, com mecanismo de pesquisa dinâmico que filtra a lista à medida que o usuário digita. 
+
+A lista deve apresentar todos os mapeamentos de tipos de processo cadastrados no módulo e permitir seleção direta através de clique. 
+
+Ao selecionar um mapeamento, o sistema deve manter o nome do tipo de processo mapeado como contexto para exibição na tela subsequente.
+
+- **Exemplo da tela:**
+
+ **1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Cadastrar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse** 
+       .. figure:: Cadastrar1.png

@@ -1,0 +1,4 @@
+**RN 178**
+==========
+O sistema deve garantir que o processo de listagem seja intuitivo e seguro, permitindo ao usuário navegar facilmente entre as telas e manter o contexto da operação.
+

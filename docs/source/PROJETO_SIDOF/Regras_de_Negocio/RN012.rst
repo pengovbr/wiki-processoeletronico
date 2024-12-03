@@ -1,0 +1,6 @@
+**RN 12**
+=========
+O sistema deve permitir que o Administrador selecione o valor Permitir Coautores no campo específico no TIPO DE PROCESSO que está sendo criado.
+
+
+- **REGRA DE NEGÓCIO NÃO APLICÁVEL**

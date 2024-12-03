@@ -1,0 +1,5 @@
+**RN 37**
+=========
+O sistema deve restringir a disponibilização dos blocos de assinatura aos órgãos e unidades autorizados constantes do campo Coautores das propriedades do processo, parametrizando essa restrição.
+
+- **REGRA DE NEGÓCIO NÃO APLICÁVEL**

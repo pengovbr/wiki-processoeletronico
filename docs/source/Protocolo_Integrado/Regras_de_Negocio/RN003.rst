@@ -1,0 +1,6 @@
+**RN003-Acesso Restrito ao Conteúdo PI: Login via GOV.BR**
+==========================================================
+
+A plataforma PI deve permitir o acompanhamento de processos desde que o usuário esteja autenticado, ou seja, com grau de acessos restrito.
+
+Para tanto, a plataforma deve permitir que o usuário realize login via GOV.BR.

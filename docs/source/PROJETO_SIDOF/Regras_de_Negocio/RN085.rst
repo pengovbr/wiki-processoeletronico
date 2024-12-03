@@ -1,0 +1,8 @@
+**RN 85**
+=========
+Assim que alterado a opção 'Documento Principal', o sistema deve apresentar a tela conforme imagem abaixo.
+
+- **Exemplo da tela:**
+ **1) Tela da ação Alterar Tipo de Processo:** 
+
+       .. figure:: AdicionarTipoProcesso4.png

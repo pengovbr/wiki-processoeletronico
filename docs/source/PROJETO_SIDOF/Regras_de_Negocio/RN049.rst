@@ -1,0 +1,3 @@
+**RN 49**
+=========
+O sistema deve exibir uma mensagem de alerta ao preposto do Ministério Coautor sempre que ele tentar enviar um processo completo para uma unidade configurada como restrita, informando que apenas blocos de assinatura podem ser enviados para essa unidade, conforme o caso.

@@ -1,0 +1,3 @@
+**RN 65**
+=========
+O sistema deve validar a presença de todos os documentos obrigatórios conforme o tipo de processo.

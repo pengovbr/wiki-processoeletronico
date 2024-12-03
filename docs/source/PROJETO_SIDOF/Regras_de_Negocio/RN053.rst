@@ -1,0 +1,3 @@
+**RN 53**
+=========
+O sistema deve permitir que cada Ministério, conforme necessário, selecione seus próprios pareceres e demais anexos, garantindo que cada órgão tenha autonomia sobre os documentos adicionais que deseja incluir.

@@ -1,0 +1,11 @@
+**RN 144**
+==========
+O sistema deve fornecer uma interface inicial para a seleção do tipo de processo de interesse, com mecanismo de pesquisa dinâmico que filtra a lista à medida que o usuário digita. 
+
+A lista deve apresentar todos os tipos de processo mapeados no módulo e permitir seleção direta através de clique. Ao selecionar um tipo de processo, o sistema deve manter seu nome como contexto para exibição na tela subsequente.
+
+- **Exemplo de Tela:**
+
+**Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse** 
+       .. figure:: ReativarTipoDocumentos1.png
+

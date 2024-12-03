@@ -1,0 +1,6 @@
+**RN 152**
+==========
+O sistema deve garantir que apenas documentos em estado inativo sejam exibidos para reativação, validando seu estado atual antes de permitir a operação.
+
+Documentos já ativos não devem aparecer na listagem.
+

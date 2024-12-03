@@ -1,0 +1,10 @@
+**RN 97**
+=========
+
+A tabela deve implementar recursos de ordenação para as colunas ID, Nome e Documento Principal, permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho. 
+
+O estado da ordenação deve ser claramente indicado por setas direcionais no cabeçalho da coluna em uso, mantendo-se consistente durante toda a sessão.
+
+- **Exemplo da tela:**
+       .. figure:: ListarTipoProcesso4.png
+

@@ -1,0 +1,8 @@
+**RN 117**
+==========
+O sistema deve implementar validações para todos os campos da interface. Cada campo deve ser validado quanto ao seu preenchimento obrigatório, formato adequado e valores permitidos. 
+
+Para campos interdependentes, deve-se validar também a consistência entre suas configurações. 
+
+Qualquer violação deve gerar mensagens claras e específicas, indicando o problema e como corrigi-lo. O sistema deve preservar os dados já preenchidos em caso de erro, permitindo que o usuário corrija apenas os campos problemáticos.
+

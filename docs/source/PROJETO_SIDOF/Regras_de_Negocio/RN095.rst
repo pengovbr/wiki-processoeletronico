@@ -1,0 +1,9 @@
+**RN 95**
+=========
+A página de listagem dos Tipos de Processo deve implementar um layout estruturado e padronizado que facilite a visualização e manipulação dos dados. 
+
+Os elementos devem ser organizados de forma a otimizar a experiência do usuário, incluindo barra de comandos com botões de ação, área de pesquisa e uma tabela 
+com os tipos de processo ativos no módulo, seus documentos principais e ações disponíveis.
+
+- **Exemplo da tela:**
+       .. figure:: ListarTipoProcesso2.png

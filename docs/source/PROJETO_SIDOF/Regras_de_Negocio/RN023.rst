@@ -1,0 +1,19 @@
+**RN 23**
+=========
+A Classificação por Assuntos padrão deve ser estabelecida conforme o TIPO DE PROCESSO, conforme segue:
+
+ h)Anteprojeto/Projeto de Lei: 100 - ÁREA FIM;
+ 
+ i)Exposição de Motivos para Despacho: 100 - ÁREA FIM;
+ 
+ j)Exposição de Motivos para Mensagem: 100 - ÁREA FIM;
+ 
+ k)Projeto de Decreto de Pessoal: 100 - ÁREA FIM;
+ 
+ l)Projeto de Decreto Normativo: 100 - ÁREA FIM;
+ 
+ m)Projeto de Decreto sem número: 100 - ÁREA FIM;
+ 
+ n)Projeto de Medida Provisória: 100 - ÁREA FIM.
+
+**Observação:** O Código de Classificação e a Tabela de Temporalidade e Destinação de Documentos das atividades fim da Presidência da República ainda estão em fase de elaboração. Enquanto esse processo não for concluído, será atribuído o código 100 - ÁREA FIM a todos os TIPOS DE PROCESSOS.

@@ -1,0 +1,3 @@
+**RN 71**
+=========
+O sistema deve criar um 'protocolo digital' no processo de origem do Ministério Autor que informe a data de envio, o NUP do processo criado no protocolo da Presidência da República e quais documentos foram enviados.

@@ -1,0 +1,11 @@
+**RN 130**
+==========
+O sistema deve garantir que o processo de cadastramento seja intuitivo e seguro, permitindo ao usuário navegar entre as telas, salvar configurações e cancelar operações mantendo a integridade dos dados e o contexto da operação. 
+
+O sistema deve validar todas as regras antes de persistir as alterações e fornecer feedback apropriado sobre o resultado de cada ação.
+
+- **Exemplo de Tela:**
+
+**Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Formulário preenchido corretamente** 
+       .. figure:: Cadastrar6.png
+

@@ -1,0 +1,3 @@
+**RN 186**
+==========
+O acesso à funcionalidade de reativação de autoridades deve ser restrito aos usuários com perfil de Administrador do SEI-ATOS.
