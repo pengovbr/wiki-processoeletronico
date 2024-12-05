@@ -1,0 +1,1 @@
+  Regra: O sistema deve impedir o cadastramento de unidades que já estejam mapeadas como autoras/coautoras, garantindo a unicidade dos mapeamentos.
