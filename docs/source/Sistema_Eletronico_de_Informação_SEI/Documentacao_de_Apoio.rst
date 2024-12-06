@@ -48,8 +48,13 @@ Scripts de Conversão Tabela de Assuntos SEI
 
 Esta seção é dedicada à concentração dos scripts a serem utilizados para a conversão ("DE PARA") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidades pelo Arquivo Nacional.
 
-Tais scripts deverão ser utilizados por servidores com perfil profissional técnico e acesso ao banco de dados SEI do seu Órgão/UNIDADE.  
+Sobre esse tema, algumas observações:
 
+- Tais scripts deverão ser utilizados por servidores com perfil profissional técnico e acesso ao banco de dados SEI do seu Órgão/UNIDADE.
+
+- Esta solução só poderá ser utilizada em versões superiores a 4.0;
+
+- Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI. 
 
 Portaria 14 para portaria 174/24
 ++++++++++++++++++++++++++++++++
@@ -60,7 +65,7 @@ Portaria 14 para portaria 174/24
 
 :download:`Scrip_MySQL <_static/Downloads/script_mapeamento_Mysql.sql>`
 
-:download:` Scrip_Oracle <_static/Downloads/script_mapeamento_Oracle.sql>`
+:download:`Scrip_Oracle <_static/Downloads/script_mapeamento_Oracle.sql>`
 
 .. admonition:: Nota
 
@@ -68,11 +73,14 @@ Portaria 14 para portaria 174/24
 
 2) Após a conclusão do script de mapeamento, executar o script de relacionamento entre tabelas;
 
-:download:` Scrip_Relacionamento <_static/Downloads/update_rel_tipo_proced_assunto.sql>`
+:download:`Scrip_Relacionamento <_static/Downloads/update_rel_tipo_proced_assunto.sql>`
 
 3) Após o término da execução do script de relacionamento, uma nova tabela de assuntos ficará disponível no SEI;
 
 4) Analisar o conteúdo da nova tabela de assuntos e ativá-la.
+
+
+**Observações sobre alterações de estrutura.**
 
 
 
