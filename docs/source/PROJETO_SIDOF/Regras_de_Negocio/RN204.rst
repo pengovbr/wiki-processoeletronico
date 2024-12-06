@@ -1,1 +1,3 @@
-  Regra: A página de listagem de unidades autoras/coautoras deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, campos de pesquisa, tabela de dados paginada e quantidade total de registros, prezando por uma organização clara e intuitiva das informações.
+**RN 204**
+==========
+A página de listagem de unidades autoras/coautoras deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, campos de pesquisa, tabela de dados paginada e quantidade total de registros, prezando por uma organização clara e intuitiva das informações.
