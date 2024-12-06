@@ -1,1 +1,3 @@
-  Regra: O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de unidades, otimizada para meio impresso.
+**RN 214**
+==========
+O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de unidades, otimizada para meio impresso.
