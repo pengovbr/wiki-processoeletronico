@@ -1,0 +1,1 @@
+  Regra: O sistema deve garantir que o processo de listagem seja intuitivo e seguro, permitindo ao usuário navegar facilmente entre as telas e retornar ao ponto anterior quando necessário.

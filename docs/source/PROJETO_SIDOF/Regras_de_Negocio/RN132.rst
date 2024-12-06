@@ -4,5 +4,5 @@ A página de listagem de mapeamentos deve seguir o padrão visual do sistema, co
 
 - **Exemplo de Tela:**
 
-**Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Listar Tela 2 - Página de Listagem de Mapeamentos de Tipos de Documentos do Tipo de Processo Selecionado**
+**1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Listar Tela 2 - Página de Listagem de Mapeamentos de Tipos de Documentos do Tipo de Processo Selecionado**
   .. figure:: ListarTipoDocumento2.png

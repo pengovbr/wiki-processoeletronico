@@ -1,0 +1,1 @@
+  Regra: O sistema deve validar se há pelo menos uma unidade selecionada antes de permitir o cadastramento do mapeamento.

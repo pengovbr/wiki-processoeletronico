@@ -6,6 +6,6 @@ O sistema deve validar todas as regras antes de persistir as alterações e forn
 
 - **Exemplo de Tela:**
 
-**Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Formulário preenchido corretamente** 
+**1) Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Formulário preenchido corretamente** 
        .. figure:: Cadastrar6.png
 

@@ -196,3 +196,5 @@ As regras de negócio do Projeto SEI-ATOS estão listadas abaixo:
    RN187
    RN188
    RN189
+   RN190
+   RN191

@@ -1,3 +1,6 @@
 **RN 183**
 ==========
 A tabela deve implementar mecanismos de ordenação para as colunas que contêm dados ordenáveis (ID, Sigla, Nome, Nome Social e Órgão), permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho. O estado da ordenação deve ser indicado por setas direcionais.
+
+- **Exemplo de Tela:**
+     .. figure:: ReativarAutoridade3.png

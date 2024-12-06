@@ -8,6 +8,6 @@ O processo de validação deve ocorrer no momento do salvamento, fornecendo mens
 
 - **Exemplo de Tela:**
 
-**Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Caixa de seleção “Contabilização” mostrando lista com opções** 
+**1) Tela 2 - Página de cadastramento de novo mapeamento de tipo de documento Caixa de seleção “Contabilização” mostrando lista com opções** 
        .. figure:: Cadastrar4.png
 

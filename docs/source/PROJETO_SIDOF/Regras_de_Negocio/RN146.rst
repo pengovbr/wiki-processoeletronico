@@ -8,5 +8,5 @@ Após a seleção de um tipo de processo, deve carregar e exibir em tabela pagin
 
 - **Exemplo de Tela:**
 
-**Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse Usuário digitou "Decreto" no campo de pesquisa e o sistema automaticamente filtrou, mostrando apenas "Atos Oficiais: Decreto Normativo", com o termo "Decreto" destacado em amarelo, demonstrando o filtro dinâmico em funcionamento.** 
+**1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 1 - Página de seleção do mapeamento do tipo de processo de interesse Usuário digitou "Decreto" no campo de pesquisa e o sistema automaticamente filtrou, mostrando apenas "Atos Oficiais: Decreto Normativo", com o termo "Decreto" destacado em amarelo, demonstrando o filtro dinâmico em funcionamento.** 
        .. figure:: ReativarTipoDocumentos2.png

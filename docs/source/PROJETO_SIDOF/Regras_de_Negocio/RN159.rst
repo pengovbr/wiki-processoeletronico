@@ -2,3 +2,8 @@
 ==========
 
 O sistema deve permitir a alteração das configurações do mapeamento de autoridade, mantendo a integridade e consistência dos dados. Ao salvar, todas as validações devem ser executadas e, se bem-sucedidas, as alterações são persistidas e o usuário redirecionado para a listagem. O sistema deve fornecer feedback claro sobre o resultado de cada operação através de mensagens específicas.
+
+- **Exemplo de Tela:**
+
+**1) Campo de seleção suspensa (dropdown) com o rótulo "Função" e três opções disponíveis. O campo apresenta um espaço vazio padrão como opção inicial, seguido pelas opções "Ministro" e "Substituto Eventual do Ministro". Ele é configurado para permitir que o usuário selecione uma das funções disponíveis.** 
+       .. figure:: AlterarAutoridade2.png
