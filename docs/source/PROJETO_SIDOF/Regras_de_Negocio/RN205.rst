@@ -1,1 +1,3 @@
-  Regra: O sistema deve implementar um processo estruturado de carregamento e apresentação dos dados necessários para a listagem de unidades, carregando todos os registros de forma paginada e oferecendo mecanismos de filtragem para localização rápida. Os dados apresentados devem ser consistentes e atualizados, refletindo a situação atual das unidades mapeadas.
+**RN 205**
+==========
+O sistema deve implementar um processo estruturado de carregamento e apresentação dos dados necessários para a listagem de unidades, carregando todos os registros de forma paginada e oferecendo mecanismos de filtragem para localização rápida. Os dados apresentados devem ser consistentes e atualizados, refletindo a situação atual das unidades mapeadas.
