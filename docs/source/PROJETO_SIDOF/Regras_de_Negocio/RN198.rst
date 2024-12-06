@@ -1,1 +1,3 @@
-  Regra: O sistema deve validar se há pelo menos uma unidade selecionada antes de permitir o cadastramento do mapeamento.
+**RN 198**
+==========
+O sistema deve validar se há pelo menos uma unidade selecionada antes de permitir o cadastramento do mapeamento.
