@@ -1,5 +1,3 @@
 **RN 91**
 =========
-O sistema deve restringir a seleção de documentos principais apenas a documentos internos do SEI que sejam compatíveis com o tipo de processo selecionado. 
-
-A validação deve ser aplicada dinamicamente ao carregar as opções na caixa de seleção, garantindo que apenas documentos válidos estejam disponíveis para escolha.
+O sistema deve restringir a seleção de documentos principais apenas a documentos internos do SEI.
