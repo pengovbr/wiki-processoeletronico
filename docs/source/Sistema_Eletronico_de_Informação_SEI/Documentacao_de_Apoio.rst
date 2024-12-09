@@ -69,18 +69,21 @@ Portaria 14 para portaria 174/24
 
 .. admonition:: Nota
 
-   O script de mapeamento irá realizar a conversão da tabela condizente com a Portaria 14 para a tabela da Portaria 174/24, preservando os assuntos finalísticos na nova tabela.
+   O script de mapeamento irá realizar a inserção de uma nova tabela e seus assuntos arquivísticos, de acordo com a tabela da Portaria 174/24. Em seguida realizará a transferência dos assuntos finalísticos que o Órgão possui em sua tabela corrente para a nova tabela. Ao final do processo realizará o mapeamento dos assuntos da tabela corrente para a nova tabela, de acordo com a tabela de equivalência editada pelo Arquivo Nacional.
 
-2) Após a conclusão do script de mapeamento, executar o script de relacionamento entre tabelas;
+2) Após a conclusão do script de mapeamento, executar o script de atualização do relacionamento entre os Procedimentos e os novos assuntos da tabela da Portaria 174/24;
 
 :download:`Scrip_Relacionamento <_static/Downloads/update_rel_tipo_proced_assunto.sql>`
 
 3) Após o término da execução do script de relacionamento, uma nova tabela de assuntos ficará disponível no SEI;
 
-4) Analisar o conteúdo da nova tabela de assuntos e ativá-la.
+4) Analisar o conteúdo da nova tabela de assuntos e ativá-la;
+
+5) Para concluir o trabalho, executar o script de atualização das sequências do banco de dados SEI, se o banco de dados for o MySQL ou Sql Server. Para isso, execute o comando: 
+
+:: /usr/bin/php -c /etc/php.ini /opt/sei/scripts/atualizar_sequencias.php > atualizacao_versao_sei.log
 
 
-**Observações sobre alterações de estrutura.**
 
 
 
