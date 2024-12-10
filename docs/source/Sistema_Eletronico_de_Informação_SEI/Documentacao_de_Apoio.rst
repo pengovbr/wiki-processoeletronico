@@ -56,7 +56,7 @@ Sobre esse tema, algumas observações:
 
 - Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI. 
 
-Portaria 14 para portaria 174/24
+Resolução 14 para portaria 174/24
 ++++++++++++++++++++++++++++++++
 
 1) Executar o script de mapeamento. Abaixo seguem os scripts de mapeamento por tipo de banco de dados utilizado;
