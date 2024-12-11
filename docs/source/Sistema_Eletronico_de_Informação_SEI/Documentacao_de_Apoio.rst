@@ -66,24 +66,24 @@ Resolução 14 para portaria 174/24
 
 1) Executar o script de mapeamento. Abaixo seguem os scripts de mapeamento por tipo de banco de dados utilizado;
 
-:download:`Scrip_SQLServer <_static/Downloads/script_mapeamento_Sqlserver.sql>`
+:download:`Scrip_SQLServer <_static/images_downloads/script_mapeamento_Sqlserver.sql>`
 
-:download:`Scrip_MySQL <_static/Downloads/script_mapeamento_Mysql.sql>`
+:download:`Scrip_MySQL <_static/images_downloads/script_mapeamento_Mysql.sql>`
 
-:download:`Scrip_Oracle <_static/Downloads/script_mapeamento_Oracle.sql>`
+:download:`Scrip_Oracle <_static/images_downloads/script_mapeamento_Oracle.sql>`
 
 .. admonition:: Nota
 
    O script de mapeamento irá realizar a inserção de uma nova tabela e seus assuntos arquivísticos, de acordo com a tabela da Portaria 174/24. Em seguida realizará a transferência dos assuntos finalísticos que o Órgão possui em sua tabela corrente para a nova tabela. Ao final do processo realizará o mapeamento dos assuntos da tabela corrente para a nova tabela, de acordo com a tabela de equivalência editada pelo Arquivo Nacional.
 
-   A planilha de De/Para utilizada para conversão da resolução 14 para a portaria 174/24 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/Downloads/DePara_Res14_Por174.xlxs>`
+   A planilha de De/Para utilizada para conversão da resolução 14 para a portaria 174/24 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/images_downloads/DePara_Res14_Por174.xlxs>`
 
 
 2) Após o término da execução do script de relacionamento, uma nova tabela de assuntos ficará disponível no SEI;
 
 3) Analisar o conteúdo da nova tabela de assuntos e ativá-la;
 
-.. figure:: _static/images/Tela_ativacao_nova_tabela.gif
+.. figure:: _static/images_downloads/Tela_ativacao_nova_tabela_1.gif
 
 4) Para concluir o trabalho, executar o script de atualização das sequências do banco de dados SEI, se o banco de dados for o MySQL ou Sql Server. Para isso, execute o comando: 
 
