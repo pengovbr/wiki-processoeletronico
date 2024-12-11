@@ -76,7 +76,7 @@ Resolução 14 para portaria 174/24
 
    O script de mapeamento irá realizar a inserção de uma nova tabela e seus assuntos arquivísticos, de acordo com a tabela da Portaria 174/24. Em seguida realizará a transferência dos assuntos finalísticos que o Órgão possui em sua tabela corrente para a nova tabela. Ao final do processo realizará o mapeamento dos assuntos da tabela corrente para a nova tabela, de acordo com a tabela de equivalência editada pelo Arquivo Nacional.
 
-   A planilha de De/Para utilizada para conversão da resolução 14 para a portaria 174/24 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/images_downloads/DePara_Res14_Por174.xlxs>`
+   A planilha de De/Para utilizada para conversão da resolução 14 para a portaria 174/24 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/images_downloads/DePara_Res14_Por174.xlsx>`
 
 
 2) Após o término da execução do script de relacionamento, uma nova tabela de assuntos ficará disponível no SEI;
