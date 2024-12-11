@@ -54,7 +54,12 @@ Sobre esse tema, algumas observações:
 
 - Esta solução só poderá ser utilizada em versões superiores a 4.0;
 
-- Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI. 
+- Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI.
+
+.. admonition:: Nota
+
+   Para um funcionamento adequado da tabela 'De/Para', onde a relação é de 1 para 1, foram preenchidas as lacunas dos códigos da coluna 'De', repetindo-se o código original e adicionando as letras a,b,c... após o número. Isso se aplica aos códigos que foram desdobrados em mais de 1, na coluna 'Para'. Dessa forma, ressalta-se a necessidade de análise do órgão antes de qualquer aplicação no ambiente de produção
+
 
 Resolução 14 para portaria 174/24
 ++++++++++++++++++++++++++++++++
