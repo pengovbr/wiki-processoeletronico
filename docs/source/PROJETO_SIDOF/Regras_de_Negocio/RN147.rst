@@ -4,6 +4,6 @@ O sistema deve implementar mecanismo de pesquisa que permita localizar documento
 
 - **Exemplo de Tela:**
 
-**Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 2 - Página de Listagem de Mapeamentos de Tipos de Documentos Inativos** 
+**1) Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar Tela 2 - Página de Listagem de Mapeamentos de Tipos de Documentos Inativos** 
        .. figure:: ReativarTipoDocumentos3.png
 

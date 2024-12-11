@@ -1,0 +1,3 @@
+**RN 200**
+==========
+O módulo SEI-ATOS deve manter sincronização automática com o core do SEI, espelhando todas as alterações de estado realizadas no sistema principal para manter a consistência dos dados.

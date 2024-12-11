@@ -1,12 +1,6 @@
 **RN 83**
 =========
-A página deve apresentar um layout adaptativo que se ajusta conforme a operação sendo realizada (Adicionar/Alterar). 
-
-- Para Adicionar, a caixa de seleção de tipo de processo deve estar habilitada e a de documento principal desabilitada inicialmente. 
-
-.. figure:: AdicionarTipoProcesso1.png
-
-- Para Alterar, a caixa de tipo de processo deve estar desabilitada e preenchida, enquanto a de documento principal deve estar habilitada e preenchida. 
+A página de cadastramento de mapeamento de processos deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, caixa de seleção para tipo de processo e de documento principal, prezando por uma organização clara e intuitiva das informações.
 
 .. figure:: AdicionarTipoProcesso4.png
 

@@ -1,0 +1,3 @@
+**RN 197**
+==========
+O acesso à funcionalidade de cadastramento de mapeamento de unidades deve ser restrito aos usuários com perfil de Administrador do SEI-ATOS.

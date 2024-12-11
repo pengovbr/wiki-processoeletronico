@@ -1,0 +1,3 @@
+**RN 206**
+==========
+O sistema deve implementar mecanismo de pesquisa que permita localizar unidades a partir dos filtros disponíveis (Órgão, Sigla e Descrição), processando tanto correspondências exatas quanto parciais dos termos pesquisados. A pesquisa deve ignorar maiúsculas/minúsculas, desconsiderar acentuação e atualizar a tabela de forma dinâmica, mantendo a ordenação atual dos registros.

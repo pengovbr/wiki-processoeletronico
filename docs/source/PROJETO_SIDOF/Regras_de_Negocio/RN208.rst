@@ -1,0 +1,3 @@
+**RN 208**
+==========
+O sistema deve fornecer ações em lote para que os administradores possam realizar operações em múltiplas unidades de uma vez. Deve ser possível selecionar vários registros e executar ações como desativação ou exclusão em todos eles de forma simultânea, exigindo confirmação antes da operação.

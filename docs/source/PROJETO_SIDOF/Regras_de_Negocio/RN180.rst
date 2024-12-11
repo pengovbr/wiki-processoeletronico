@@ -1,3 +1,8 @@
 **RN 180**
 ==========
 A página de reativação de mapeamento de autoridades deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, campos de pesquisa, tabela de dados paginada e quantidade total de registros, prezando por uma organização clara e intuitiva das informações.
+
+- **Exemplo de Tela:**
+
+**1)Ação SEI-ATOS>Mapeamento de Tipos de Documentos>Reativar**
+     .. figure:: ReativarAutoridade1.png

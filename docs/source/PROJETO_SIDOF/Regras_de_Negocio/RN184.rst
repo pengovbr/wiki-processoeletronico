@@ -1,3 +1,7 @@
 **RN 184**
 ==========
 O sistema deve fornecer ações em lote para que os administradores possam realizar operações em múltiplas autoridades de uma vez.
+
+- **Exemplo de Tela:**
+     .. figure:: ReativarAutoridade4.png
+
