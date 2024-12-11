@@ -58,11 +58,11 @@ Sobre esse tema, algumas observações:
 
 .. admonition:: Nota
 
-   Para um funcionamento adequado da tabela 'De/Para', onde a relação é de 1 para 1, foram preenchidas as lacunas dos códigos da coluna 'De', repetindo-se o código original e adicionando as letras a,b,c... após o número. Isso se aplica aos códigos que foram desdobrados em mais de 1, na coluna 'Para'. Dessa forma, ressalta-se a necessidade de análise do órgão antes de qualquer aplicação no ambiente de produção
+   Para um funcionamento adequado da tabela 'De/Para', onde a relação é de 1 para 1, foram preenchidas as lacunas dos códigos da coluna 'De', repetindo-se o código original e adicionando as letras a,b,c... após o número. Isso se aplica aos códigos que foram desdobrados em mais de 1, na coluna 'Para'. Dessa forma, ressalta-se a necessidade de análise do órgão antes de qualquer aplicação no ambiente de produção.
 
-
+   
 Resolução 14 para portaria 174/24
-++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++
 
 1) Executar o script de mapeamento. Abaixo seguem os scripts de mapeamento por tipo de banco de dados utilizado;
 
@@ -75,6 +75,9 @@ Resolução 14 para portaria 174/24
 .. admonition:: Nota
 
    O script de mapeamento irá realizar a inserção de uma nova tabela e seus assuntos arquivísticos, de acordo com a tabela da Portaria 174/24. Em seguida realizará a transferência dos assuntos finalísticos que o Órgão possui em sua tabela corrente para a nova tabela. Ao final do processo realizará o mapeamento dos assuntos da tabela corrente para a nova tabela, de acordo com a tabela de equivalência editada pelo Arquivo Nacional.
+
+   A planilha de De/Para utilizada para conversão da resolução 14 para a portaria 174/24 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/Downloads/DePara_Res14_Por174.xlxs>`
+
 
 2) Após o término da execução do script de relacionamento, uma nova tabela de assuntos ficará disponível no SEI;
 
