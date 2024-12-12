@@ -1,2 +1,4 @@
 **RN 229**
 ==========
+O sistema deve validar o preenchimento dos campos obrigatórios antes de salvar.
+
