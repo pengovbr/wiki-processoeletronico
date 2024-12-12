@@ -1,2 +1,4 @@
 **RN 220**
 ==========
+O sistema deve fornecer ações individuais para cada registro, permitindo reativação e exclusão unitárias. Essas ações devem ser acessíveis através de botões posicionados na última coluna da tabela, identificados por ícones significativos. Ao clicar nas ações, deve ser exibida uma confirmação antes de efetivar a operação.
+
