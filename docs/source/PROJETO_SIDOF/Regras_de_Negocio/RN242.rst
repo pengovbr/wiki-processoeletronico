@@ -1,2 +1,4 @@
 **RN 242**
 ==========
+O sistema deve garantir que o processo de cadastramento seja intuitivo e seguro, permitindo ao usuário navegar facilmente entre as telas, manter o contexto da operação e retornar ao ponto anterior quando necessário.
+
