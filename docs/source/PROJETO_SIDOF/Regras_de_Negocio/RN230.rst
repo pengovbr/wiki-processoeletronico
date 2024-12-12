@@ -1,2 +1,4 @@
 **RN 230**
 ==========
+O sistema deve permitir salvar o mapeamento quando todos os campos estiverem preenchidos corretamente.
+
