@@ -1,2 +1,4 @@
 **RN 238**
 ==========
+O sistema deve validar se há pelo menos uma unidade selecionada e se todas as unidades selecionadas são autoras/coautoras.
+
