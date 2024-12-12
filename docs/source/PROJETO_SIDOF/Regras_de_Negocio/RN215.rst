@@ -1,2 +1,4 @@
 **RN 215**
 ==========
+A página de reativação de mapeamento de unidades deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior e área para filtros de pesquisa. A interface deve permitir a pesquisa, seleção e filtragem de unidades para reativação.
+
