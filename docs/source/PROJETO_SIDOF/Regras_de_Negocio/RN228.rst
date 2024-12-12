@@ -1,2 +1,4 @@
 **RN 228**
 ==========
+O acesso à funcionalidade deve ser controlado por perfil de usuário.
+
