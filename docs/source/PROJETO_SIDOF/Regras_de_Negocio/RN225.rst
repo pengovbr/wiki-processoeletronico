@@ -1,2 +1,4 @@
 **RN 225**
 ==========
+O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de unidades inativas, otimizada para meio impresso.
+
