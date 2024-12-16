@@ -2,3 +2,10 @@
 ==========
 O sistema deve permitir salvar o mapeamento quando todos os campos estiverem preenchidos corretamente.
 
+- **Exemplo de Tela:**
+
+**1) Ação SEI-ATOS>Mapeamento de Unidades>Protocolo 
+Caminho Feliz.** 
+       .. figure:: Protocolo4.png
+
+
