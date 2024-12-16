@@ -1,3 +1,9 @@
+Regras de Negócio
+=================
+
+As regras de negócio do Projeto SEI-ATOS estão listadas abaixo:
+
+
 .. toctree::
    :titlesonly:
 
