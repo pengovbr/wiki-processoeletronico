@@ -1,1 +1,3 @@
- Regra: A página de reativação de unidades restritas deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, área de pesquisa e tabela de dados. A interface deve permitir a pesquisa, seleção e filtragem de unidades para reativação.
+**RN 256**
+==========
+A página de reativação de unidades restritas deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, área de pesquisa e tabela de dados. A interface deve permitir a pesquisa, seleção e filtragem de unidades para reativação.
