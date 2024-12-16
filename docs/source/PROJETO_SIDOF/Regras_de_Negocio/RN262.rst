@@ -1,0 +1,1 @@
+ Regra: O acesso à funcionalidade de reativação de unidades restritas deve ser restrito aos usuários com perfil de Administrador do SEI-ATOS.
