@@ -1,1 +1,3 @@
-Regra: O sistema deve garantir que o processo de reativação seja intuitivo e seguro, permitindo ao usuário navegar facilmente entre as telas e retornar ao ponto anterior quando necessário.
+**RN 265**
+==========
+O sistema deve garantir que o processo de reativação seja intuitivo e seguro, permitindo ao usuário navegar facilmente entre as telas e retornar ao ponto anterior quando necessário.
