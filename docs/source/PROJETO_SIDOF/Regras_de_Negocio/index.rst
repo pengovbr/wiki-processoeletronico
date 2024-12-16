@@ -1,9 +1,3 @@
-Regras de Negócio
-=================
-
-As regras de negócio do Projeto SEI-ATOS estão listadas abaixo:
-
-
 .. toctree::
    :titlesonly:
 
@@ -198,3 +192,85 @@ As regras de negócio do Projeto SEI-ATOS estão listadas abaixo:
    RN189
    RN190
    RN191
+   RN191
+   RN192
+   RN193
+   RN194
+   RN195
+   RN196
+   RN197
+   RN198
+   RN199
+   RN200
+   RN201
+   RN201
+   RN202
+   RN203
+   RN204
+   RN205
+   RN206
+   RN207
+   RN208
+   RN209
+   RN210
+   RN211
+   RN211
+   RN212
+   RN213
+   RN214
+   RN215
+   RN216
+   RN217
+   RN218
+   RN219
+   RN220
+   RN221
+   RN221
+   RN222
+   RN223
+   RN224
+   RN225
+   RN226
+   RN227
+   RN228
+   RN229
+   RN230
+   RN231
+   RN231
+   RN232
+   RN233
+   RN234
+   RN235
+   RN236
+   RN237
+   RN238
+   RN239
+   RN240
+   RN241
+   RN241
+   RN242
+   RN243
+   RN244
+   RN245
+   RN246
+   RN247
+   RN248
+   RN249
+   RN250
+   RN251
+   RN251
+   RN252
+   RN253
+   RN254
+   RN255
+   RN256
+   RN257
+   RN258
+   RN259
+   RN261
+   RN261
+   RN262
+   RN263
+   RN264
+   RN265
+   RN266
