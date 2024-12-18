@@ -1,0 +1,4 @@
+**RN 236**
+==========
+O sistema deve fornecer ações em lote para que os administradores possam realizar o mapeamento de múltiplas unidades de uma vez. Deve ser possível cadastrar várias unidades simultaneamente, mantendo a integridade dos dados e fornecendo feedback adequado sobre a operação.
+

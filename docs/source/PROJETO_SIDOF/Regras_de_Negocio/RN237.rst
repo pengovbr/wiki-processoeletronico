@@ -1,0 +1,4 @@
+**RN 237**
+==========
+O acesso à funcionalidade deve ser controlado por perfil de usuário.
+

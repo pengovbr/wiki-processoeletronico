@@ -1,0 +1,4 @@
+**RN 221**
+==========
+O acesso à funcionalidade de reativação de unidades autoras/coautoras deve ser restrito aos usuários com perfil de Administrador do SEI-ATOS. Usuários sem esse perfil não devem conseguir acessar a página.
+

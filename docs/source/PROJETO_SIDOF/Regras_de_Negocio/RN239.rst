@@ -1,0 +1,4 @@
+**RN 239**
+==========
+O sistema deve impedir o cadastramento de unidades que já estejam mapeadas como restritas, garantindo a unicidade dos mapeamentos..
+

@@ -1,0 +1,4 @@
+**RN 243**
+==========
+O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de unidades autoras/coautoras disponíveis para mapeamento como restritas, otimizada para meio impresso.
+

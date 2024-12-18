@@ -1,0 +1,3 @@
+**RN 245**
+==========
+O sistema deve implementar um processo estruturado de carregamento e apresentação dos dados necessários para a listagem de unidades restritas, iniciando com a lista de unidades já mapeadas como autoras/coautoras e que foram configuradas como restritas. Os dados apresentados devem ser consistentes e atualizados, refletindo a situação atual das unidades restritas no módulo.

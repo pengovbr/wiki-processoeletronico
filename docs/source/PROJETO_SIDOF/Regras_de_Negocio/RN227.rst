@@ -1,0 +1,13 @@
+**RN 227**
+==========
+O sistema deve carregar as opções de órgãos e unidades de forma dinâmica, atualizando a lista de unidades conforme o órgão selecionado.
+
+- **Exemplo de Tela:**
+
+**1) Ação SEI-ATOS>Mapeamento de Unidades>Protocolo Campo de seleção suspensa (dropdown) chamado "Órgão", que permite ao usuário selecionar uma opção específica relacionada aos órgãos disponíveis. O campo apresenta uma opção inicial em branco, seguida das opções "Todos", "SEI-ATOS", "PR e "IN".** 
+       .. figure:: Protocolo2.png
+
+**2) Ação SEI-ATOS>Mapeamento de Unidades>Protocolo Campo de seleção suspensa (dropdown) chamado "Unidade", que permite ao usuário selecionar uma opção específica relacionada aos órgãos disponíveis que será utilizada pelo módulo como unidade de protocolo dos processo enviados para a Presidência da República.** 
+       .. figure:: Protocolo3.png
+
+

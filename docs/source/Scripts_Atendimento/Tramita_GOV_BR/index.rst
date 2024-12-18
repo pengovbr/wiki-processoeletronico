@@ -10,6 +10,7 @@ TRAMITA GOV.BR
    API_INSTALACAO_MODULO_TRAMITA.GOV.BR-ESCLARECER_DUVIDAS
    Barra_de_Progresso_Travando
    Desbloquear_Processo
+   Diferenca_entre_o_numero_de_protocolo_do_processo_tramitado
    Documentos_Externos_desformatados_quando_HTML
    Erro_criar_permissao
    ERRO_DE_PROCESSOS_TRAVADOS_NO_STATUS_4-Arquivos_digitais_recebidos_pelo_destinatario_NO_PAINEL_DO_TRAMITA

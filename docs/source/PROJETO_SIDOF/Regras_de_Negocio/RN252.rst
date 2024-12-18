@@ -1,0 +1,4 @@
+**RN 252**
+==========
+O sistema deve garantir fluxos completos de operações, seja para unidades individuais ou em lote, mantendo o usuário informado sobre o progresso e resultado das operações.
+

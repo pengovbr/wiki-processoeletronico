@@ -1,0 +1,3 @@
+**RN 246**
+==========
+O sistema deve implementar mecanismo de pesquisa que permita localizar unidades restritas a partir dos filtros disponíveis (Órgão, Sigla e Descrição), processando tanto correspondências exatas quanto parciais dos termos pesquisados. A pesquisa deve ser case-insensitive, ignorar acentuação e atualizar a tabela dinamicamente com os resultados encontrados, preservando a ordenação atual dos registros.

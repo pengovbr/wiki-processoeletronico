@@ -1,0 +1,4 @@
+**RN 233**
+==========
+O sistema deve carregar apenas a lista de unidades já mapeadas como autoras/coautoras de forma paginada, excluindo aquelas que já estejam mapeadas como restritas. A pesquisa deve atualizar dinamicamente os resultados conforme os critérios são informados.
+

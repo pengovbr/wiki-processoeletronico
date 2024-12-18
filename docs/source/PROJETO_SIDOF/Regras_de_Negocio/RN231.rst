@@ -1,0 +1,3 @@
+**RN 231**
+==========
+O sistema deve permitir a navegação entre as telas mantendo a consistência dos dados.

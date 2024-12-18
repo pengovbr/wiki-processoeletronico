@@ -1,0 +1,11 @@
+**RN 226**
+==========
+A página de mapeamento de unidade de protocolo deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior e áreas para seleção do órgão e unidade.
+
+
+- **Exemplo de Tela:**
+
+**1) Ação SEI-ATOS>Mapeamento de Unidades>Protocolo Tela Inicial** 
+       .. figure:: Protocolo1.png
+
+
