@@ -53,7 +53,7 @@ Caso seja de interesse do órgão, sugerimos que a equipe técnica responsável 
 
 .. list-table::
    :widths: 20 35
-   :header-rows: 1
+   :header-rows: 0
 
    - * SEI_MASCARA_NUMERO_PROCESSO_INFORMADO
      * #####.######/####-##|#################
