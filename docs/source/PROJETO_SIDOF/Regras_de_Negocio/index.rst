@@ -280,3 +280,4 @@ As regras de negócio do Projeto SEI-ATOS estão listadas abaixo:
    RN264
    RN265
    RN266
+   RN267
