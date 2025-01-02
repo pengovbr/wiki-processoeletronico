@@ -1,1 +1,8 @@
+**RN 267**
+==========
+Dado que os requisitos iniciais estejam pré-estabelecidos, o sistema deverá permitir que o adminstrador do SEI-ATOS visualize o ícone de envio da tramitação do proceso para presidência habilitado.
 
+- **Exemplo de Tela:**
+
+**1) Tela 1 - Gerenciar Tramitação do Processo** 
+       .. figure:: GerenciarTramitacaoProcesso.png
