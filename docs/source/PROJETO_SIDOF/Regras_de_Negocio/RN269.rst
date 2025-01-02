@@ -2,3 +2,6 @@
 ==========
  A tabela de tramitação deve exibir documentos organizados por unidade autora e coautoras.
 
+- **Exemplo de Tela:**
+       .. figure:: GerenciarTramitacaoProcesso1.png
+
