@@ -1,0 +1,6 @@
+**RN 276**
+==========
+O SEI-ATOS deve permitir a remoção de documentos selecionados.
+
+- **Exemplo de Tela:**
+       .. figure:: SelecionarDocumentos8.png
