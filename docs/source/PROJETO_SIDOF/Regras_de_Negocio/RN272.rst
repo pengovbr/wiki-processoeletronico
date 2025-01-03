@@ -1,6 +1,8 @@
 **RN 272**
 ==========
-O sistema deve inicialmente apresentar a tela "Gerenciar Tramitação do Processo" tipos de documentos mapeados para o tipo de processo em questão listados na tela e possibilitar ao administrador do SEI-ATOS a seleção de documentos por meio do ícone disponível na coluna de ações.
+O sistema deve inicialmente apresentar a tela "Gerenciar Tramitação do Processo" com a listagem tipos de documentos mapeados para o tipo de processo em questão. 
+
+O administrador do SEI-ATOS deverá realizar a seleção de documentos por meio do ícone disponível na coluna de "Ações".
 
 - **Exemplo de Tela:**
        .. figure:: SelecionarDocumentos1.png
