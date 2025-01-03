@@ -4,3 +4,5 @@ O SEI-ATOS deve permitir a confirmação da seleção de documentos.
 
 - **Exemplo de Tela:**
        .. figure:: SelecionarDocumentos5.png
+       .. figure:: SelecionarDocumentos6.png
+       .. figure:: SelecionarDocumentos7.png
