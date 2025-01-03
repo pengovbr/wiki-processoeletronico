@@ -1,6 +1,6 @@
 **RN 272**
 ==========
-O sistema deve x.
+O sistema deve inicialmente apresentar a tela "Gerenciar Tramitação do Processo" tipos de documentos mapeados para o tipo de processo em questão listados na tela.
 
 - **Exemplo de Tela:**
-       .. figure:: x.png
+       .. figure:: SelecionarDocumentos1.png
