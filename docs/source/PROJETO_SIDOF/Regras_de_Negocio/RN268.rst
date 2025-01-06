@@ -1,3 +1,7 @@
 **RN 268**
 ==========
 O sistema deve validar os interessados quando o usuário tenta acessar a tramitação.
+
+Referente ao vínculo entre a unidade e o interessado, caso seja alterada a sigla da unidade, a vaidação não ocorrerá.  
+
+O ideal deixar é que as siglas iguais.
