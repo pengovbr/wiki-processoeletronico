@@ -4,4 +4,3 @@ Exemplo de validação apresentado na imagem abaixo:
 
 - **Exemplo:**
        .. figure:: Validacao1.png
-       .. figure:: Validacao2.png
