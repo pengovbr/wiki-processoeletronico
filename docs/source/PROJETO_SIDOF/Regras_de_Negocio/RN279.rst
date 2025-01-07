@@ -1,6 +1,7 @@
 **RN 279**
 =========
-A seção “Unidades” deve ser disponibilizada em menu conforme apresentado na imagem abaixo:
+Exemplo de validação apresentado na imagem abaixo:
 
-- **Exemplo do menu:**
+- **Exemplo:**
        .. figure:: Validacao1.png
+       .. figure:: Validacao2.png
