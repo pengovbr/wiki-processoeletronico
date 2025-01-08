@@ -1,0 +1,6 @@
+**RN 279**
+=========
+Exemplo de validação apresentado na imagem abaixo:
+
+- **Exemplo:**
+       .. figure:: Validacao1.png
