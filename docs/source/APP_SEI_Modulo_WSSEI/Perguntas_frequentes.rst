@@ -58,7 +58,7 @@ O nome do módulo é o WSSEI (Webservice SEI).
 Qual é o endereço para download do módulo de conexão do SEI com o aplicativo?
 ------------------------------------------------------------------------------
 
-O endereço é o seguinte: https://github.com/spbgovbr/mod-ws sei.
+O endereço é o seguinte: https://github.com/pengovbr/mod-wssei/.
 
 Qual é o objetivo de ler o QRCode na versão web do SEI?
 -------------------------------------------------------
@@ -77,7 +77,7 @@ Os serviços do módulo WSSEI estão documentados?
 
 Sim, eles estão documentados por meio do Postman.
 
-Mais informações em https://github.com/spbgovbr/mod-wssei/blob/master/docs/README.md. 
+Mais informações em https://github.com/pengovbr/mod-wssei/blob/master/README.md. 
 
 Os serviços do módulo WSSEI podem ser testados?
 ------------------------------------------------
@@ -86,7 +86,7 @@ Os testes funcionais dos serviços podem ser executados por meio do Postman.
 
 É importante que durante a atualização do módulo em algum ambiente de homologação ou local sejam executados os testes no objetivo de verificar se os serviços realmente estão funcionando corretamente.
 
-Mais informações em: https://github.com/spbgovbr/mod-wssei/blob/master/testes/README.md.
+Mais informações em: https://github.com/pengovbr/mod-wssei/blob/master/tests/README.md.
 
 O aplicativo não está carregando documentos ou processos, o que está acontecendo?
 ---------------------------------------------------------------------------------
