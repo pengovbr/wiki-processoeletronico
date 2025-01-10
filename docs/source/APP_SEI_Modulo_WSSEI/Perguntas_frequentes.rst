@@ -16,7 +16,7 @@ Entre em contato com a área responsável em seu órgão/ entidade e confirme se
 O aplicativo possui todas as funcionalidades disponíveis no SEI Web?
 --------------------------------------------------------------------
 
-O aplicativo e a versão web são produtos diferentes. O aplicativo está em constante evolução e novas funcionalidades são incluídas à medida que novas versões são lançadas.  Caso você tenha interesse em sugerir uma nova funcionalidade ou alguma evolução, registre a sugestão de melhoria por meio da Central de Atendimento.
+O aplicativo e a versão web são produtos diferentes. O aplicativo está em constante evolução e novas funcionalidades são incluídas à medida que novas versões são lançadas.  Caso você tenha interesse em sugerir uma nova funcionalidade ou alguma evolução, registre a sugestão de melhoria por meio da `Central de Atendimento <https://www.gov.br/gestao/pt-br/assuntos/central-de-atendimento>`_.
 
 A categoria do chamado é PEN - APLICATIVO DO SEI - SUGESTÃO DE MELHORIA.
 
@@ -77,7 +77,7 @@ Os serviços do módulo WSSEI estão documentados?
 
 Sim, eles estão documentados por meio do Postman.
 
-Mais informações em https://github.com/pengovbr/mod-wssei/blob/master/README.md. 
+Mais informações em https://github.com/pengovbr/mod-wssei/blob/master/docs/api.md. 
 
 Os serviços do módulo WSSEI podem ser testados?
 ------------------------------------------------
