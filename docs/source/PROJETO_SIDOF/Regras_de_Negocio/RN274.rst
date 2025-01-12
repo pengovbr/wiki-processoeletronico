@@ -1,0 +1,7 @@
+**RN 274**
+==========
+O SEI-ATOS deve permitir a associação de documentos do processo a um tipo de documento mapeado.
+
+- **Exemplo de Tela:**
+       .. figure:: SelecionarDocumentos3.png
+       .. figure:: SelecionarDocumentos4.png

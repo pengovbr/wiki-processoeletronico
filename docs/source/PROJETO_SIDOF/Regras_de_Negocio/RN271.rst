@@ -1,0 +1,4 @@
+**RN 271**
+==========
+A tabela de tramitação deve ser reinicializada quando houver mudança do tipo de processo.
+

@@ -1,0 +1,8 @@
+**RN 267**
+==========
+ O botão "Gerenciar Tramitação do Processo" deve ser habilitado apenas para tipos de processo mapeados.
+
+- **Exemplo de Tela:**
+
+**1) Tela 1 - Gerenciar Tramitação do Processo** 
+       .. figure:: GerenciarTramitacaoProcesso.png

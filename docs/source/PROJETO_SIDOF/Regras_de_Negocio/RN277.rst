@@ -1,0 +1,6 @@
+**RN 277**
+==========
+O SEI-ATOS deve permitir o cancelamento de documentos selecionados.
+
+- **Exemplo de Tela:**
+       .. figure:: SelecionarDocumentos9.png

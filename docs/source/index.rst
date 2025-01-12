@@ -59,6 +59,12 @@ A equipe do PEN construiu este material pensando em você! Esperamos que possa a
    :hidden:
    :titlesonly:
 
+   APP_SEI_Modulo_WSSEI/index
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+
    PROJETO_SIDOF/index
  
    

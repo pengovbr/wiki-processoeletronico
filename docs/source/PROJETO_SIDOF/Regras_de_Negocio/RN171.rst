@@ -1,6 +1,6 @@
 **RN 171**
 ==========
-A tabela deve implementar mecanismos de ordenação para todas as colunas que contêm dados ordenáveis (ID, Sigla, Nome, Nome Social, Função, Órgão, Unidade), permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho. 
+A tabela deve implementar mecanismos de ordenação para todas as colunas que contêm dados ordenáveis (ID, Usuário, Nome, Nome Social, Função, Órgão), permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho. 
 
 O estado da ordenação deve ser indicado por setas direcionais.
 

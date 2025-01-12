@@ -1,6 +1,6 @@
 **RN 170**
 ==========
-O sistema deve implementar mecanismo de pesquisa que permita localizar autoridades a partir dos filtros disponíveis (Órgão, Sigla, Nome, Nome Social, Unidade e Função), processando tanto correspondências exatas quanto parciais dos termos pesquisados. 
+O sistema deve implementar mecanismo de pesquisa que permita localizar autoridades a partir dos filtros disponíveis (Usuário, Nome, Nome Social, Órgão e Função), processando tanto correspondências exatas quanto parciais dos termos pesquisados. 
 
 A pesquisa deve ser case-insensitive, ignorar acentuação e atualizar a tabela dinamicamente com os resultados encontrados, preservando a ordenação atual dos registros. 
 

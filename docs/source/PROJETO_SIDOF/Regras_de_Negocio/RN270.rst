@@ -1,0 +1,7 @@
+**RN 270**
+==========
+O sistema deve disponibilizar ações específicas para gerenciamento da tramitação.
+
+- **Exemplo de Tela:**
+       .. figure:: GerenciarTramitacaoProcesso2.png
+

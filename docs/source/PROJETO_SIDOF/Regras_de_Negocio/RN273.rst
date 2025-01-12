@@ -1,0 +1,6 @@
+**RN 273**
+==========
+A selecionar o ícone disponível na coluna de "Ações", o administrador do SEI-ATOS deverá ser direcionado para a tela "Atualizar Seleção de Documentos".
+
+- **Exemplo de Tela:**
+       .. figure:: SelecionarDocumentos2.png
