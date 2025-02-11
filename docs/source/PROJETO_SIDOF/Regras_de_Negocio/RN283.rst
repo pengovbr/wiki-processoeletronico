@@ -1,1 +1,3 @@
+**RN 283**
+=========
 A concessão de credenciais em processos sigilosos deve ser restrita a usuários que pertençam a unidades autoras/coautoras que sejam interessadas no processo e que não possuam acesso a nenhuma unidade mapeada como restrita, mesmo que tenham acesso a outras unidades válidas
