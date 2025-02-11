@@ -1,0 +1,1 @@
+A configuração da unidade de protocolo sigiloso pode restringir o recebimento da ação "Enviar para Presidência" a usuários específicos ou permitir que todos os usuários da unidade recebam processos
