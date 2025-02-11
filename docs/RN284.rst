@@ -1,1 +1,0 @@
-As credenciais de assinatura em processos sigilosos seguem as mesmas regras de concessão das credenciais de acesso, não podendo ser concedidas a usuários que tenham qualquer acesso a unidades restritas
