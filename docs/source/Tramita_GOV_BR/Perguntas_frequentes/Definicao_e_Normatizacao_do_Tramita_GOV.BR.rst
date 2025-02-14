@@ -39,7 +39,7 @@ O quadro sinóptico abaixo apresenta os tipos de solicitantes, a fundamentação
      * Fundamentação Legal
      * Documento Comprobatório
    - * Administração Direta, Autárquica e Fundacional do Poder Executivo Federal
-     * Art. 1º, Parágrafo Único :ref:`Art._1º`
+     * Art. 1º, Parágrafo Único
      * Documento que comprove o vínculo do servidor com o órgão/entidade informado na solicitação 1
    - * os Estados, o Distrito Federal, os Municípios e os consórcios públicos intermunicipais partícipes do Programa Nacional de Processo Eletrônico – ProPEN, nos termos do disposto no Decreto nº 11.946, de 12 de março de 2024
      * Art. 4º, I
