@@ -43,7 +43,7 @@ O quadro sinóptico abaixo apresenta os tipos de solicitantes, a fundamentação
      * Documento que comprove o vínculo do servidor com o órgão/entidade informado na solicitação 1
    - * os Estados, o Distrito Federal, os Municípios e os consórcios públicos intermunicipais partícipes do Programa Nacional de Processo Eletrônico – ProPEN, nos termos do disposto no Decreto nº 11.946, de 12 de março de 2024
      * Art. 4º, I
-     * Documento de Adesão 1 2
+     * Documento de Adesão[1]_[2]_
    - * os órgãos dos Poderes Judiciário e Legislativo federais, o Tribunal de Contas da União, o Ministério Público da União e a Defensoria Pública da União
      * Art. 4º, II
      * Termo de Designação 1 2 3
@@ -63,9 +63,9 @@ O quadro sinóptico abaixo apresenta os tipos de solicitantes, a fundamentação
 
 .. admonition:: Notas
 
-   1) Em todos os casos, além do documento comprobatório, o solicitante deve incluir cópia de documento oficial que comprove o CPF informado no momento do cadastro; 
+   .. [1] Em todos os casos, além do documento comprobatório, o solicitante deve incluir cópia de documento oficial que comprove o CPF informado no momento do cadastro; 
 
-   2) O solicitante do órgão que se enquadra no Art. 4º, I, II, III, IV, V ou VI deve informar o seu CPF, e não o da autoridade responsável pela assinatura do Documento Comprobatório. 
+   .. [2] O solicitante do órgão que se enquadra no Art. 4º, I, II, III, IV, V ou VI deve informar o seu CPF, e não o da autoridade responsável pela assinatura do Documento Comprobatório. 
 
    3) A solicitação de órgão que se enquadra no Art. 4º, II, III, IV, V ou VI será avaliada pela Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos, consideradas a conveniência, a oportunidade e a capacidade de atendimento (Art. 4, Parágrafo único). 
 
