@@ -65,6 +65,6 @@ Art. 8º Fica revogada a Portaria SEGES/ME nº 9.412, de 26 de outubro de 2022.
 
 Art. 9º Esta Portaria entra em vigor na data de sua publicação.
 
-.. centered::
+.. centered:: ROBERTO POJO
 
-    ROBERTO POJO
+    
