@@ -17,7 +17,7 @@ a. Documento comprobatório (Administração Pública Federal Direta, Autárquic
 
 b. Documento de Adesão (Entes Federativos e Consórcios Intermunicipais que aderiram ao ProPEN); 
 
-c. :download:`Termo de Designação <_static/Downloads/Termo_Designacao.pdf>`_ (Outros órgãos previstos na portaria);
+c. :download:`Termo de Designação <_static/Downloads/Termo_Designacao.pdf>` (Outros órgãos previstos na portaria);
 
 5. Anexar documentos pessoais; 
 
