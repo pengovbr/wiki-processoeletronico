@@ -9,5 +9,5 @@ Capacitações e Apresentações
 
    Apresentacoes
    TreinamentosApresentacoes/index
-   Perguntas_frequentes/index
+   Webnars
    
