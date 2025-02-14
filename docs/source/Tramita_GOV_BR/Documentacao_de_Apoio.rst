@@ -14,7 +14,7 @@ Manuais
 -  `Manual de Utilização da API <https://drive.google.com/file/d/1K8qe9Yp0736ICh6Sz4G8MLeKFAJTmki9/view?usp=sharing>`_
 -  `Tabela de Espécies Documentais <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_
 -  `Swagger - Homologação <https://homolog.api.processoeletronico.gov.br/swagger/swagger-ui.html>`_
--  `Swagger - Produção <https://api.conectagov.processoeletronico.gov.br/swagger/swagger-ui/>`_
+-  `Swagger - Produção <https://api.conectagov.processoeletronico.gov.br/swagger/swagger-ui/index.html>`_
 
 Vídeos
 +++++++
