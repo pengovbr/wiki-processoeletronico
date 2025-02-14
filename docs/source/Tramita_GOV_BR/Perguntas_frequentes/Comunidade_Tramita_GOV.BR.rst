@@ -34,7 +34,9 @@ A comunidade Tramita GOV.BR está hospedada no aplicativo de mensagens instantâ
 Como é concedido o acesso à Comunidade Tramita GOV.BR?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-A solicitação de acesso deve ser feita por meio do `formulário de coleta de informações <https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peDi9G5TEeHJOgRQMfYkAx3hUOElTNllYNjA2WlgxV1ozV0k1S0hMQzU1RiQlQCN0PWcu>`_ dos Gestores de Protocolo dos órgãos, e pela ciência e consentimento do Termo de Uso e Aviso de Privacidade relacionados à comunidade. Após o envio do formulário, estando ele em conformidade com as diretrizes internas, o acesso à comunidade é concedido ao solicitante. 
+Após a liberação do acesso, o primeiro gestor é incluído na Comunidade do Tramita GOV.BR utilizando o telefone informado no cadastro pelos gestores da plataforma. 
+
+Para os demais gestores do órgão, a solicitação de acesso deve ser feita por meio do `formulário de coleta de informações <https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peDi9G5TEeHJOgRQMfYkAx3hUOElTNllYNjA2WlgxV1ozV0k1S0hMQzU1RiQlQCN0PWcu>`_ dos Gestores de Protocolo dos órgãos, e pela ciência e consentimento do Termo de Uso e Aviso de Privacidade relacionados à comunidade. Após o envio do formulário, estando ele em conformidade com as diretrizes internas, o acesso à comunidade é concedido ao solicitante. 
 
 Existem requisitos mínimos para concessão de acesso à Comunidade Tramita GOV.BR?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

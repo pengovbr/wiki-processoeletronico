@@ -16,7 +16,9 @@ Os órgãos pertencentes ao **Sistema de Serviços Gerais (SISG)** são parte in
 O que é Sistema de Processo Administrativo Eletrônico (SPE)?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-**Sistema de Processo Administrativo Eletrônico (SPE)** é o termo utilizado para se referir aos sistemas internos utilizados pelos órgãos no gerenciamento de processos administrativos no exercício de suas atividades administrativas. Por exemplo: o SEI, o SIPAC, o SUAP, o Sapiens-AGU etc. 
+O **Sistema de Processo Administrativo Eletrônico (SPE)** é qualquer sistema de gerenciamento de processos administrativos e documentos avulsos em meio eletrônico utilizado por órgãos e entidades públicas, no exercício de suas atividades administrativas. 
+
+Por exemplo: o SEI, o SIPAC, o SUAP, o Sapiens-AGU etc.  
 
 O que é Número de Registro Eletrônico (NRE)?
 ++++++++++++++++++++++++++++++++++++++++++++
