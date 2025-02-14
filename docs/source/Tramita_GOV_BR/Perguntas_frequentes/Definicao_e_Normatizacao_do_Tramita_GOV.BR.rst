@@ -111,6 +111,6 @@ O documento comprobatório para os órgãos do Art. 1º, Parágrafo Único possu
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 
-Não, basta informar algum documento que comprove o vínculo do solicitante com o órgão no qual será responsável pela implantação.  Além disso, não existe impedimento de utilizar o `Termo de Designação <_static/images/Termo_Designacao.pdf>` como documento comprobatório, caso seja do interesse do órgão solicitante.  
+Não, basta informar algum documento que comprove o vínculo do solicitante com o órgão no qual será responsável pela implantação.  Além disso, não existe impedimento de utilizar o :download:`Termo de Designação <_static/images/Termo_Designacao.pdf>` como documento comprobatório, caso seja do interesse do órgão solicitante.  
 
  
