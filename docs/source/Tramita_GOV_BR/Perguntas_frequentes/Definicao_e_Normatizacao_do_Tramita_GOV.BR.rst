@@ -43,7 +43,7 @@ O quadro sinóptico abaixo apresenta os tipos de solicitantes, a fundamentação
      * Documento que comprove o vínculo do servidor com o órgão/entidade informado na solicitação 1
    - * os Estados, o Distrito Federal, os Municípios e os consórcios públicos intermunicipais partícipes do Programa Nacional de Processo Eletrônico – ProPEN, nos termos do disposto no Decreto nº 11.946, de 12 de março de 2024
      * Art. 4º, I
-     * Documento de Adesão[1]_[2]_
+     * Documento de Adesão[1]_ [2]_
    - * os órgãos dos Poderes Judiciário e Legislativo federais, o Tribunal de Contas da União, o Ministério Público da União e a Defensoria Pública da União
      * Art. 4º, II
      * Termo de Designação 1 2 3
