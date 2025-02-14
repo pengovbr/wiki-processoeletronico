@@ -6,6 +6,7 @@ Institui o Tramita GOV.BR.
 
 O SECRETÁRIO DE GESTÃO E INOVAÇÃO DO MINISTÉRIO DA GESTÃO E DA INOVAÇÃO EM SERVIÇOS PÚBLICOS, no uso das atribuições que lhe confere o art. 16, caput, incisos VI e inciso VII, alínea “d”, do Anexo I ao Decreto nº 12.102, de 08 de julho de 2024, e o art. 5º, caput, inciso IV, alínea "b", do Decreto nº 1.094, de 23 de março de 1994, e tendo em vista o disposto no Decreto nº 11.946, de 12 de março de 2024, resolve:
 
+.. _Art._1º:
 
 Art. 1º Fica instituído o Tramita GOV.BR, plataforma digital de comunicação integrante do Processo Eletrônico Nacional – PEN, destinado à tramitação externa, por meio de expedição, de processos administrativos eletrônicos e documentos avulsos entre sistemas de processo administrativo eletrônico –SPE.
 
