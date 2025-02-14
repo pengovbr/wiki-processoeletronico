@@ -5,23 +5,40 @@ Como o órgão pode aderir ao Tramita GOV.BR?
 +++++++++++++++++++++++++++++++++++++++++++
 
 
-1. Acessar o `Portal de Administração do Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/>`_
+.. list-table::
+   :header-rows: 1
 
-2. Clicar em `Solicitar Acesso ao Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_
+   - * Administração Direta, Autárquica e Fundacional do Poder Executivo Federal 
+   - * 1. Acessar o `Portal de Administração do Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/>`_
+   - * 2. Clicar em `Solicitar Acesso ao Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_
+   - * 3. Preencher as informações solicitadas; 
+   - * 4. Anexar o documento que comprove o vínculo do servidor com o órgão informado na solicitação;
+   - * 5. Anexar documentos pessoais; 
+   - * 6. Submeter a solicitação para apreciação da equipe do Tramita GOV.BR (Clicar em Solicitar).
 
-3. Preencher as informações solicitadas; 
 
-4. Anexar:
+.. list-table::
+   :header-rows: 1
 
-a. Documento comprobatório (Administração Pública Federal Direta, Autárquica e Fundacional); 
+   - * Os Estados, o Distrito Federal, os Municípios e os consórcios públicos intermunicipais partícipes do Programa Nacional de Processo Eletrônico  
+   - * 1. Acessar o `Portal de Administração do Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/>`_
+   - * 2. Clicar em `Solicitar Acesso ao Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_
+   - * 3. Preencher as informações solicitadas; 
+   - * 4. Anexar a cópia do Documento de Adesão;
+   - * 5. Anexar documentos pessoais; 
+   - * 6. Submeter a solicitação para apreciação da equipe do Tramita GOV.BR (Clicar em Solicitar).
+     
 
-b. Documento de Adesão (Entes Federativos e Consórcios Intermunicipais que aderiram ao ProPEN); 
+.. list-table::
+   :header-rows: 1
 
-c. :download:`Termo de Designação <_static/images/Termo_Designacao.pdf>` (Outros órgãos previstos na portaria);
-
-5. Anexar documentos pessoais; 
-
-6. Submeter a solicitação para apreciação da equipe do Tramita GOV.BR (Clicar em Solicitar).
+   - * Outros (Art. 4º, II, III, IV, V ou VI)  
+   - * 1. Acessar o `Portal de Administração do Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/>`_
+   - * 2. Clicar em `Solicitar Acesso ao Tramita GOV.BR <https://homolog.gestaopen.processoeletronico.gov.br/solicitarCadastroComite>`_
+   - * 3. Preencher as informações solicitadas; 
+   - * 4. Anexar o :download:`Termo de Designação <_static/images/Termo_Designacao.pdf>`; 
+   - * 5. Anexar documentos pessoais; 
+   - * 6. Submeter a solicitação para apreciação da equipe do Tramita GOV.BR (Clicar em Solicitar).
 
 
 De que forma é autorizado o acesso à plataforma?
