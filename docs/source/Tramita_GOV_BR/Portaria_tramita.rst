@@ -67,4 +67,4 @@ Art. 9º Esta Portaria entra em vigor na data de sua publicação.
 
 .. centered::
 
-   **ROBERTO POJO**
+   ROBERTO POJO
