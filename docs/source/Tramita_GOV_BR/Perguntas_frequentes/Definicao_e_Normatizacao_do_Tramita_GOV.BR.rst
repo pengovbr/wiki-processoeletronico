@@ -105,11 +105,12 @@ O Termo de Designação possui modelo?
 
 Sim, a equipe gestora fornece um modelo do termo de designação. Vale destacar que, conforme a natureza jurídica do órgão solicitante, o tipo de documento, sua estrutura e outras características podem mudar, desde que o conteúdo essencial do modelo seja respeitado. 
 
+
  
 O documento comprobatório para os órgãos do Art. 1º, Parágrafo Único possui modelo? 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 
-Não, basta informar algum documento que comprove o vínculo do solicitante com o órgão no qual será responsável pela implantação.  Além disso, não existe impedimento de utilizar o termo de designação como documento comprobatório, caso seja do interesse do órgão solicitante.  
+Não, basta informar algum documento que comprove o vínculo do solicitante com o órgão no qual será responsável pela implantação.  Além disso, não existe impedimento de utilizar o `Termo de Designação <_static/Downloads/Termo_Designacao.pdf>` como documento comprobatório, caso seja do interesse do órgão solicitante.  
 
  
