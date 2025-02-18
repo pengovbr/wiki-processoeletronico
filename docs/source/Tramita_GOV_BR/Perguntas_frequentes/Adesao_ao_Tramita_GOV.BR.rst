@@ -64,7 +64,7 @@ Independentemente do motivo pelo qual o atraso exista, é sempre possível que o
 Como são cadastrados os Gestores de Protocolo?
 ++++++++++++++++++++++++++++++++++++++++++++++
 
-O **cadastro** do primeiro Gestor de Protocolo do órgão no Portal de Administração deve ser realizado a partir da tela inicial do `Portal de Administração <https://gestaopen.processoeletronico.gov.br/>`_, clicando no link Solicitar Acesso ao Tramita GOV.BR, em destaque na parte central da página. As comprovações necessárias dependem do tipo de solicitante e estão devidamente apresentadas no item `1.4 <https://homolog.wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/Definicao_e_Normatizacao_do_Tramita_GOV.BR.html#quais-orgaos-podem-utilizar-o-tramita-gov-br>`_ desta FAQ.
+O **cadastro** do primeiro Gestor de Protocolo do órgão no Portal de Administração deve ser realizado a partir da tela inicial do `Portal de Administração <https://homolog.gestaopen.processoeletronico.gov.br/>`_, clicando no link Solicitar Acesso ao Tramita GOV.BR, em destaque na parte central da página. As comprovações necessárias dependem do tipo de solicitante e estão devidamente apresentadas no item `1.4 <https://homolog.wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/Definicao_e_Normatizacao_do_Tramita_GOV.BR.html#quais-orgaos-podem-utilizar-o-tramita-gov-br>`_ desta FAQ.
 
 Os gestores já cadastrados no Portal têm autonomia para cadastrar novos gestores e gerenciar os cadastros associados ao órgão.
 

@@ -74,21 +74,21 @@ O que é Documento Comprobatório?
 
 O documento comprobatório é o documento necessário para órgão solicitante possa ter o seu acesso a plataforma aprovado  
 
-Esse documento muda de acordo com a natureza jurídica do órgão solicitante, antes de realizar a solicitação veja quadro sinóptico da pergunta 1.4, para identificar qual é o documento comprobatório correto. Caso o documento anexado na solicitação esteja errado, a solicitação é recusada durante a avaliação. 
+Esse documento muda de acordo com a natureza jurídica do órgão solicitante, antes de realizar a solicitação veja quadro sinóptico da `pergunta 1.4 <https://homolog.wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/Definicao_e_Normatizacao_do_Tramita_GOV.BR.html#quais-orgaos-podem-utilizar-o-tramita-gov-br>`_ , para identificar qual é o documento comprobatório correto. Caso o documento anexado na solicitação esteja errado, a solicitação é recusada durante a avaliação. 
 
 
 O que é o Documento de Adesão?  
 ++++++++++++++++++++++++++++++
  
 
-O Documento de Adesão, é um documento solicitado aos Estados, Municípios e Consórcios Intermunicipais que aderiram ao ProPEN (Maiores informações sobre o programa na sua página oficial). Esse documento consiste na cópia do documento assinado para a adesão ao programa, no campo Documento Comprobatório disponível na página de solicitação de acesso. 
+O Documento de Adesão, é um documento solicitado aos Estados, Municípios e Consórcios Intermunicipais que aderiram ao ProPEN (Maiores informações sobre o programa na sua `página oficial <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/propen>`_). Esse documento consiste na cópia do documento assinado para a adesão ao programa, no campo Documento Comprobatório disponível na página de solicitação de acesso. 
 
  
 O que é o Termo de Designação? 
 ++++++++++++++++++++++++++++++
  
 
-O Termo de Designação é o documento solicitado ao órgão do Art. 4º, II,III,IV,V ou VI no processo de adesão a plataforma.  Esse documento tem como objetivo nomear um(a) servidor(a) que irá atuar como responsável pela implantação da plataforma Tramita GOV.BR no âmbito do seu órgão. 
+O :download:`Termo de Designação <_static/images/Termo_Designacao.pdf>` é o documento solicitado ao órgão do Art. 4º, II,III,IV,V ou VI no processo de adesão a plataforma.  Esse documento tem como objetivo nomear um(a) servidor(a) que irá atuar como responsável pela implantação da plataforma Tramita GOV.BR no âmbito do seu órgão. 
 
 O Termo deve ser assinado, preferencialmente, eletronicamente. A plataforma de Assinatura Eletrônica é sugerida pela equipe gestora por conta de sua facilidade de uso e segurança. 
 
