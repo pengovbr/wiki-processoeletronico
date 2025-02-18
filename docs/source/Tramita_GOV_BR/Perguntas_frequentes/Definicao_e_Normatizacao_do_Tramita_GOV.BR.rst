@@ -88,7 +88,7 @@ O que é o Termo de Designação?
 ++++++++++++++++++++++++++++++
  
 
-O :download:`Termo de Designação <_static/images/Termo_Designacao.pdf>` é o documento solicitado ao órgão do Art. 4º, II,III,IV,V ou VI no processo de adesão a plataforma.  Esse documento tem como objetivo nomear um(a) servidor(a) que irá atuar como responsável pela implantação da plataforma Tramita GOV.BR no âmbito do seu órgão. 
+O Termo de Designação é o documento solicitado ao órgão do Art. 4º, II,III,IV,V ou VI no processo de adesão a plataforma.  Esse documento tem como objetivo nomear um(a) servidor(a) que irá atuar como responsável pela implantação da plataforma Tramita GOV.BR no âmbito do seu órgão. 
 
 O Termo deve ser assinado, preferencialmente, eletronicamente. A plataforma de Assinatura Eletrônica é sugerida pela equipe gestora por conta de sua facilidade de uso e segurança. 
 
@@ -103,7 +103,7 @@ O Termo de Designação possui modelo?
 ++++++++++++++++++++++++++++++++++++
  
 
-Sim, a equipe gestora fornece um modelo do termo de designação. Vale destacar que, conforme a natureza jurídica do órgão solicitante, o tipo de documento, sua estrutura e outras características podem mudar, desde que o conteúdo essencial do modelo seja respeitado. 
+Sim, a equipe gestora fornece um modelo do :download:`Termo de Designação <_static/images/Termo_Designacao.pdf>`. Vale destacar que, conforme a natureza jurídica do órgão solicitante, o tipo de documento, sua estrutura e outras características podem mudar, desde que o conteúdo essencial do modelo seja respeitado. 
 
 
  
