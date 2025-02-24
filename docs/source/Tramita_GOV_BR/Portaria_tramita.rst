@@ -1,5 +1,5 @@
-PORTARIA SEGES/MGI Nº , DE DE DE 2025
-=====================================
+PORTARIA SEGES/MGI Nº 1.363, DE 21 DE FEVEREIRO DE 2025
+=======================================================
 
 Institui o Tramita GOV.BR.
 

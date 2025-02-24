@@ -20,14 +20,14 @@ A plataforma do Tramita GOV.BR é composta por **três produtos**, que atuam com
 Qual Instrumento Normativo institui o Tramita GOV.BR?
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-A Portaria nº xxxx, de xx de [mês] de 2025, é o Instrumento Normativo que institui o Tramita GOV.BR, plataforma digital de comunicação integrante do Processo Eletrônico Nacional – PEN, destinado à tramitação externa, por meio de expedição, de processos administrativos eletrônicos e documentos avulsos entre sistemas de processo administrativo eletrônico –SPE.
+A Portaria SEGES/MGI nº 1.363, de 21 de fevereiro de 2025, é o Instrumento Normativo que institui o Tramita GOV.BR, plataforma digital de comunicação integrante do Processo Eletrônico Nacional – PEN, destinado à tramitação externa, por meio de expedição, de processos administrativos eletrônicos e documentos avulsos entre sistemas de processo administrativo eletrônico –SPE.
 
 
 Quais órgãos podem utilizar o Tramita GOV.BR?   
 +++++++++++++++++++++++++++++++++++++++++++++
  
 
-A Portaria SEGES nº xxxxx, de xx de xxxxxxx de 2025 institui a utilização obrigatória do Tramita GOV.BR no âmbito da administração pública federal direta, autárquica e fundacional. Todavia, a portaria não restringe a utilização da plataforma apenas ao âmbito supracitado. Ressalta-se que dependendo da natureza jurídica do órgão interessado em utilizar a plataforma, a autorização de acesso depende de avaliação pela Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos, consideradas a conveniência, a oportunidade e a capacidade de atendimento (Art. 4, Parágrafo único), a qual pode resultar a aprovação ou rejeição fundamentada da solicitação realizada pelo órgão. 
+A Portaria SEGES/MGI nº 1.363, de 21 de fevereiro de 2025 institui a utilização obrigatória do Tramita GOV.BR no âmbito da administração pública federal direta, autárquica e fundacional. Todavia, a portaria não restringe a utilização da plataforma apenas ao âmbito supracitado. Ressalta-se que dependendo da natureza jurídica do órgão interessado em utilizar a plataforma, a autorização de acesso depende de avaliação pela Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos, consideradas a conveniência, a oportunidade e a capacidade de atendimento (Art. 4, Parágrafo único), a qual pode resultar a aprovação ou rejeição fundamentada da solicitação realizada pelo órgão. 
 
 O quadro sinóptico abaixo apresenta os tipos de solicitantes, a fundamentação legal e o documento comprobatório necessário para a adesão. 
 
