@@ -27,11 +27,13 @@ VII - processo administrativo eletrônico: aquele em que os atos processuais sã
 
 VIII - processo eletrônico nacional – PEN: infraestrutura pública de processo administrativo eletrônico, que visa à obtenção de substanciais melhorias no desempenho da gestão processual, com ganhos em agilidade, produtividade, satisfação do público usuário e redução de custos; e
 
-IX - sistema de processo administrativo eletrônico – SPE: qualquer sistema de gerenciamento de processos administrativos e documentos avulsos em meio eletrônico utilizado por órgãos e entidades públicas, no exercício de suas atividades administrativas. Art. 3º São objetivos do Tramita GOV.BR:@mo
-
+IX - sistema de processo administrativo eletrônico – SPE: qualquer sistema de gerenciamento de processos administrativos e documentos avulsos em meio eletrônico utilizado por órgãos e entidades públicas, no exercício de suas atividades administrativas. 
+ 
+Art. 3º São objetivos do Tramita GOV.BR:
+ 
 I - estabelecer um padrão de interoperabilidade para trâmite externo, por meio de expedição de processos administrativos eletrônicos e documentos avulsos entre diferentes órgãos e entidades da administração pública;
 
-II - integrar as diferentes soluções do PEN;
+II - integrar as diferentes soluções do PE;
 
 III - garantir a interoperabilidade, a integridade, a autenticidade, a segurança, a confiabilidade e a confidencialidade das informações documentais encaminhadas entre os sistemas existentes;
 
