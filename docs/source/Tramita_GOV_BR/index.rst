@@ -11,6 +11,7 @@ Maiores informações sobre o **Tramita.GOV.BR** podem ser consultadas no `Porta
    :hidden:
    :titlesonly:
 
+   Portaria_tramita
    Documentacao_de_Apoio
    TreinamentosApresentacoes/index
    Perguntas_frequentes/index

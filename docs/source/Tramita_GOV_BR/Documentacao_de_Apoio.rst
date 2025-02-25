@@ -16,7 +16,7 @@ Manuais
 -  `Padrão de Criação de Repositório <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/Criacao_repositorio_de_estruturas/index.html>`_ 
 -  `Tabela de Espécies Documentais <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_
 -  `Swagger - Homologação <https://homolog.api.processoeletronico.gov.br/swagger/swagger-ui.html>`_
--  `Swagger - Produção <https://api.conectagov.processoeletronico.gov.br/swagger/swagger-ui/>`_
+-  `Swagger - Produção <https://api.conectagov.processoeletronico.gov.br/swagger/swagger-ui/index.html>`_
 
 Vídeos
 +++++++
