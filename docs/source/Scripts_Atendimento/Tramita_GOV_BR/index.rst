@@ -9,6 +9,7 @@ TRAMITA GOV.BR
    API_INSTALACAO_MODULO_TRAMITA.GOV.BR-DIAGNOSTICAR_ERROS_E_FALHAS
    API_INSTALACAO_MODULO_TRAMITA.GOV.BR-ESCLARECER_DUVIDAS
    Atendimento_de_chamado_aberto_por_Ministerio_Publico–Tramita_GOV.BR
+   Atendimento_de_chamado_aberto_por_Tribunal_Regional_do_Trabalho-Tramita_GOV.BR
    Barra_de_Progresso_Travando
    Desbloquear_Processo
    Diferenca_entre_o_numero_de_protocolo_do_processo_tramitado
