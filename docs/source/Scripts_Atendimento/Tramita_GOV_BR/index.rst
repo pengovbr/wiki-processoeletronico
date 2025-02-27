@@ -8,6 +8,7 @@ TRAMITA GOV.BR
    Ambientes_diferentes_utilizando_o_mesmo_certificado_digital
    API_INSTALACAO_MODULO_TRAMITA.GOV.BR-DIAGNOSTICAR_ERROS_E_FALHAS
    API_INSTALACAO_MODULO_TRAMITA.GOV.BR-ESCLARECER_DUVIDAS
+   Atendimento_de_chamado_aberto_por_Ministerio_Publico–Tramita_GOV.BR
    Barra_de_Progresso_Travando
    Desbloquear_Processo
    Diferenca_entre_o_numero_de_protocolo_do_processo_tramitado
