@@ -1,4 +1,4 @@
-2025.02.27-Atendimento de chamado aberto por Tribunal Regional do Trabalho – Tramita GOV.BR -V1
+2025.03.06-Atendimento de chamado aberto por Tribunal Regional do Trabalho – Tramita GOV.BR -V2
 ===============================================================================================
 
 Situação  
@@ -7,11 +7,11 @@ Situação 
 Um chamado foi aberto por um Tribunal Regional do Trabalho (TRT), no qual o usuário solicita suporte para o Tramita GOV.BR. 
 
 .. admonition:: Notas
-
-   1) A lista dos Tribunais Regionais do Trabalho (TRTs) pode ser acessada em: `link <https://www.tst.jus.br/justica-do-trabalho>`_. Caso algum Tribunal Regional do Trabalho registre um chamado solicitando suporte para a plataforma Tramita GOV.BR, utilize este script no atendimento.  
  
-   2) Um chamado aberto pelo Conselho Superior da Justiça do Trabalho (CSJT) não pode ser fechado. 
+   1) Um chamado aberto pelo Conselho Superior da Justiça do Trabalho (CSJT) ou pelo Tribunal Regional do Trabalho da 12ª Região não pode ser fechado. 
 
+   2) A lista dos Tribunais Regionais do Trabalho (TRTs) pode ser acessada em: `link <https://www.tst.jus.br/justica-do-trabalho>`_.  Se algum Tribunal Regional do Trabalho, exceto os enumerados na OBS1, registrar um chamado solicitando suporte para a plataforma Tramita GOV.BR, utilize este script no atendimento.
+ 
 
 Quando Ocorre
 ~~~~~~~~~~~~~~
