@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow: /pt-br/homologacao/ # Hidden version
+Sitemap: https://wiki.processoeletronico.gov.br/sitemap.xml
