@@ -37,5 +37,9 @@ Scripts de Atendimento
 
    Tramita_GOV_BR/index
 
- 
+.. toctree::
+   :hidden:
+   :titlesonly:
+
+   SEI_APP/index
    
