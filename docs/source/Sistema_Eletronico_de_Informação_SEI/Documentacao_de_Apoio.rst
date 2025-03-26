@@ -66,11 +66,11 @@ Resolução 14 para portaria 174/24
 
 1) Executar o script de mapeamento. Abaixo seguem os scripts de mapeamento por tipo de banco de dados utilizado;
 
-:download:`Scrip_SQLServer <_static/images_downloads/script_mapeamento_Sqlserver.sql>`
+:download:`Scrip_SQLServer <_static/images_downloads/script_mapeamento_Sqlserver_2.sql>`
 
-:download:`Scrip_MySQL <_static/images_downloads/script_mapeamento_Mysql.sql>`
+:download:`Scrip_MySQL <_static/images_downloads/script_mapeamento_Mysql_3.sql>`
 
-:download:`Scrip_Oracle <_static/images_downloads/script_mapeamento_Oracle.sql>`
+:download:`Scrip_Oracle <_static/images_downloads/script_mapeamento_Oracle_2.sql>`
 
 .. admonition:: Nota
 
