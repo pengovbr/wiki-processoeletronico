@@ -42,4 +42,10 @@ Scripts de Atendimento
    :titlesonly:
 
    SEI_APP/index
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+
+   MODULOS_SEI/index
    
