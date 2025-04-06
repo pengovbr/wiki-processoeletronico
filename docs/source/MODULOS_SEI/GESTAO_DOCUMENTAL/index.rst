@@ -6,6 +6,6 @@ Módulo de Gestão Documental
    :titlesonly:
 
    Documentacao_de_Apoio
-   Capacitacoes_e_apresentacoes
+   TreinamentosApresentacoes
    Perguntas_frequentes/index
    
