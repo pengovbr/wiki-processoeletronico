@@ -34,6 +34,12 @@ A equipe do PEN construiu este material pensando em você! Esperamos que possa a
 .. toctree::
    :hidden:
    :titlesonly:
+  
+   MODULOS_SEI/index
+
+.. toctree::
+   :hidden:
+   :titlesonly:
 
    Protocolo_GOV_BR/index
 
