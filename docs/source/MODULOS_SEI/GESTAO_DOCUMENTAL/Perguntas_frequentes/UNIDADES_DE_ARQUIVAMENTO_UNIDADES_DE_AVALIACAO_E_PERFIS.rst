@@ -17,6 +17,5 @@ Sim. No menu Unidades de arquivamento é possível listar, excluir e cadastrar a
 O arquivamento se dará de forma descentralizada, sendo realizado por cada unidade, ou será possível centralizar esta atividade na unidade de gestão documental do órgão?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-O módulo permite a configuração que o órgão desejar, ou seja, é possível a parametrização de unidades descentralizadas ou de uma única unidade para realização das atividades de arquivamento e avaliação de documentos.
-
+O arquivamento deve ser realizado pela última unidade que concluir o processo, portanto, não pode ser centralizado em uma unidade.
 

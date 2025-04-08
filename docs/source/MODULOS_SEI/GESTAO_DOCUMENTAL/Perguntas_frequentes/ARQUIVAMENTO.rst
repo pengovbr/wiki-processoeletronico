@@ -7,7 +7,10 @@ Será possível realizar a correção da classificação dos processos? Como?
 Sim. Além da possibilidade de correção da classificação através da funcionalidade nativa do SEI de consultar/alterar processo, o módulo possibilita a confirmação ou alteração dos assuntos em dois momentos: o do arquivamento e o da avaliação.
 
 No SEI o processo fica aberto em várias unidades. Qual unidade fará o arquivamento do processo?
+-----------------------------------------------------------------------------------------------
+
 A unidade que fará o arquivamento do processo será a última a concluí-lo.
+
 
 É possível realizar o arquivamento de processos em lote?
 --------------------------------------------------------

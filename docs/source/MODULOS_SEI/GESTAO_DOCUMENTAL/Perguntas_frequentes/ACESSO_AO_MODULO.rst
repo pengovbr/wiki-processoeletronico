@@ -4,7 +4,7 @@ Acesso ao Módulo
 Como solicitar o acesso ao repositório do módulo?
 -------------------------------------------------
 
-O módulo já se encontra disponível para os órgãos e entidades da Administração Pública Federal Direta, Autárquica e Fundacional com time criado no GitHub. Aqueles que ainda não tem o Time no GitHub precisam aderir ao PEN seguindo os passos da trilha de adesão, disponível por meio do `link >https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/adesaoPEN-APF>`_.
+O módulo já se encontra disponível para os órgãos e entidades da Administração Pública Federal Direta, Autárquica e Fundacional com time criado no GitHub. Aqueles que ainda não tem o Time no GitHub precisam aderir ao PEN seguindo os passos da trilha de adesão, disponível por meio do `link <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/adesaoPEN-APF>`_.
 
 Os entes federativos aderentes ao Programa Nacional de Processo Eletrônico (ProPEN) já possuem o acesso ao módulo através do time no GitHub. Caso o Estado não seja aderente ao ProPEN, o módulo só será disponibilizado após formalizada a adesão ao Programa, conforme `Trilha de Adesão ao ProPEN <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/propen/Faca-adesao-Propen>`_.
 

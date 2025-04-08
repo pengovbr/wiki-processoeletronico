@@ -35,7 +35,7 @@ A partir da versão 4.1, o SEI possui menus e recursos de gestão documental nat
 O módulo está de acordo com as diretrizes do Arquivo Nacional?
 ---------------------------------------------------------------
 
-O módulo foi concebido para ser 100% adequado ao que dispõem as orientações do Conselho Nacional de Arquivos, o CONARQ. Com isso, o fluxo de gestão documental passa a ser executado sem qualquer divergência do que determina a norma vigente, no que tange ao processo de eliminação.
+O módulo foi concebido para ser adequado ao que dispõem as orientações do Conselho Nacional de Arquivos, o CONARQ, especialmente no que tange ao processo de eliminação preconizado pela `Resolução nº 40, de 9 de dezembro de 2014 <https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-conarq/resolucao-no-40-de-9-de-dezembro-de-2014-alterada>`_ , e suas alterações. A mencionada Resolução dispõe sobre os procedimentos para a eliminação de documentos no âmbito dos órgãos e entidades integrantes do Sistema Nacional de Arquivos - SINAR.
 
 
 Órgãos que não possuem tabela de temporalidade de documentos podem utilizar o módulo?

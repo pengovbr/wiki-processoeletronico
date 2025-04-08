@@ -22,7 +22,7 @@ Quem deve assinar o Edital de Ciência de Eliminação de Documentos?
 
 O Edital de Ciência deve ser assinado pelo Presidente da CPAD ou seu substituto.
 
-Quem deve assinar o Termo de Eliminação de documentos?
+Quem deve assinar o Termo de Eliminação de Documentos?
 ------------------------------------------------------
 
 Devem assinar o termo o responsável pela supervisão da eliminação e o presidente da CPAD ou seu substituto.
@@ -45,5 +45,5 @@ Sim, é possível incluir novos documentos no processo de eliminação.
 Os metadados com informações de descrição do processo, interessados e observações da unidade ficarão disponíveis para os processos eliminados?
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Todos os metadados existentes no SEI ficam armazenados no banco de dados. Para acessas os metadados em sua completude, é necessário acionar a área de tecnologia do seu órgão. 
+Todos os metadados existentes no SEI ficam armazenados no banco de dados. Para acessar os metadados em sua completude, é necessário acionar a área de tecnologia do seu órgão. 
 
