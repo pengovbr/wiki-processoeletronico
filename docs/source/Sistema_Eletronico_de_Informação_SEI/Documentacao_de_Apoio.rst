@@ -46,25 +46,34 @@ Módulo v3.1
 Scripts de Conversão Tabela de Assuntos SEI
 -------------------------------------------
 
+.. admonition:: Atenção
+
+   Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI. 
+
 Esta seção é dedicada à concentração dos scripts a serem utilizados para a conversão ("DE PARA") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidades pelo Arquivo Nacional.
+
+A planilha de De/Para utilizada para conversão da Resolução n. 14 de 24 de outubro de 2001, do CONARQ para Portaria AN/MGI nº 174, de 23 de setembro de 2024 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/images_downloads/DePara_Res14_Por174.xlsx>` 
+
+Já a planilha de De/Para utilizada para conversão da Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 foi elaborada pelo PEN com base nos documentos publicados pelo Arquivo Nacional, e está processo para a aprovação do referido órgão. 
+
+O script de mapeamento irá realizar a inserção de uma nova tabela e seus assuntos arquivísticos, de acordo com a tabela da Portaria AN/MGI nº 174/2024. Em seguida realizará a transferência dos assuntos finalísticos que o Órgão possui em sua tabela corrente para a nova tabela. Ao final do processo realizará o mapeamento dos assuntos da tabela corrente para a nova tabela, de acordo com a tabela de equivalência editada pelo Arquivo Nacional.
+
 
 Sobre esse tema, algumas observações:
 
-- Tais scripts deverão ser utilizados por servidores com perfil profissional técnico e acesso ao banco de dados SEI do seu Órgão/UNIDADE.
+- Tais scripts deverão ser utilizados por servidores com perfil profissional técnico e acesso ao banco de dados SEI do seu Órgão/UNIDADE; e
 
-- Esta solução só poderá ser utilizada em versões superiores a 4.0;
-
-- Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI.
+- Esta solução só poderá ser utilizada em versões superiores a 4.0.
 
 .. admonition:: Nota
 
-   Para um funcionamento adequado da tabela 'De/Para', onde a relação é de 1 para 1, foram preenchidas as lacunas dos códigos da coluna 'De', repetindo-se o código original e adicionando as letras a,b,c... após o número. Isso se aplica aos códigos que foram desdobrados em mais de 1, na coluna 'Para'. Dessa forma, ressalta-se a necessidade de análise do órgão antes de qualquer aplicação no ambiente de produção.
+   Para um funcionamento adequado da tabela 'De/Para', onde a relação é de 1 para 1, foram preenchidas as lacunas dos códigos da coluna 'De', repetindo-se o código original e adicionando as letras a,b,c... após o número. Isso se aplica aos códigos que foram desdobrados em mais de 1, na coluna 'Para'. Dessa forma, **ressalta-se a necessidade de análise do órgão antes de qualquer aplicação no ambiente de produção**.
 
    
-Resolução 14 para portaria 174/24
-+++++++++++++++++++++++++++++++++
+Resolução n. 14 de 24 de outubro de 2001, do CONARQ, para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-1) Executar o script de mapeamento. Abaixo seguem os scripts de mapeamento por tipo de banco de dados utilizado;
+Abaixo seguem os scripts de mapeamento por tipo de banco de dados utilizado:
 
 :download:`Scrip_SQLServer <_static/images_downloads/script_mapeamento_Sqlserver_2.sql>`
 
@@ -72,12 +81,22 @@ Resolução 14 para portaria 174/24
 
 :download:`Scrip_Oracle <_static/images_downloads/script_mapeamento_Oracle_2.sql>`
 
-.. admonition:: Nota
 
-   O script de mapeamento irá realizar a inserção de uma nova tabela e seus assuntos arquivísticos, de acordo com a tabela da Portaria 174/24. Em seguida realizará a transferência dos assuntos finalísticos que o Órgão possui em sua tabela corrente para a nova tabela. Ao final do processo realizará o mapeamento dos assuntos da tabela corrente para a nova tabela, de acordo com a tabela de equivalência editada pelo Arquivo Nacional.
+Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-   A planilha de De/Para utilizada para conversão da resolução 14 para a portaria 174/24 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/images_downloads/DePara_Res14_Por174.xlsx>`
+Abaixo seguem os scripts de mapeamento por tipo de banco de dados utilizado:
 
+:download:`Scrip_SQLServer <_static/images_downloads/script_mapeamento_47_174_Sqlserver.sql>`
+
+:download:`Scrip_MySQL <_static/images_downloads/script_mapeamento_47_174_Mysql.sql>`
+
+:download:`Scrip_Oracle <_static/images_downloads/script_mapeamento_47_174_Oracle.sql>`
+
+Orientações
++++++++++++
+
+1) Executar o script de mapeamento no banco de dados conforme versão da tabela que consta no Sistema SEI! do órgão.
 
 2) Após o término da execução do script de relacionamento, uma nova tabela de assuntos ficará disponível no SEI;
 
