@@ -6,6 +6,21 @@ FAQ
  
 - `FAQ <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/destaques/faq/faq-sobre-o-sei>`_
 
+
+.. versionadded:: 4
+
+Esta funcionalidade está disponível a partir da versão 4
+
+
+.. versionchanged:: 4
+
+Esta funcionalidade está disponível a partir da versão 4
+
+.. deprecated:: 4
+
+Esta funcionalidade está disponível a partir da versão 4
+
+
 Manuais de Usuários
 --------------------
 
