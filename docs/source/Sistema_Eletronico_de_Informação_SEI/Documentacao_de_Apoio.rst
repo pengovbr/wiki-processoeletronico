@@ -9,12 +9,12 @@ FAQ
 
 .. versionadded:: 4
 
-Esta funcionalidade está disponível a partir da versão 4
+   Esta funcionalidade está disponível a partir da versão 4
 
 
 .. versionchanged:: 4
 
-Esta funcionalidade está disponível a partir da versão 4
+   Esta funcionalidade está disponível a partir da versão 4
 
 .. deprecated:: 4
 
