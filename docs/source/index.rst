@@ -72,5 +72,14 @@ A equipe do PEN construiu este material pensando em você! Esperamos que possa a
    :titlesonly:
 
    PROJETO_SIDOF/index
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+
+   PROJETO_SANCAO_VETO/index
+
+
+
  
    
