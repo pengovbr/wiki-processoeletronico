@@ -9,4 +9,5 @@ Módulo de Gestão Documental
    Documentacao_de_Apoio
    TreinamentosApresentacoes
    Perguntas_frequentes/index
+   DECRETO_LEI
    
