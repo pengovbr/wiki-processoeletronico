@@ -14,6 +14,8 @@ Perguntas Frequentes (FAQ)
    AVALIACAO
    ELIMINACAO
    RECOLHIMENTO
+   RN001
+   RN002 
 
 
 
