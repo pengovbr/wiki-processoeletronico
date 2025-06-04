@@ -1,1 +1,7 @@
+**RN004 - Contagem de Temporalidade: Nova Funcionalidade de Condicionantes**
+============================================================================
+
+Como se dará o tratamento de Condicionantes no módulo GD?
+---------------------------------------------------------
+No módulo GD, deverá ser criada funcionalidade (no menu de Administração > Gestão Documental > Condicionantes) para configuração de ""Condicionantes"" (ex: aprovação de contas).
 
