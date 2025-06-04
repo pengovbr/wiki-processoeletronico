@@ -10,4 +10,4 @@ O relatório tem que identificar os documentos cuja eliminação não tenha sido
 
 Fundamentação
 ------------- 
-Requisito  3.3.7 do e-ARQ Brasil: "...produzir um relatório detalhando qualquer falha que ocorra durante uma eliminação. O relatório tem que identificar os documentos cuja eliminação não tenha sido bem-sucedida."
+Requisito  3.3.7 do e-ARQ Brasil
