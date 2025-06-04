@@ -7,3 +7,4 @@ O Módulo Gestão Documental deve ser implementado seguindo a legislação dispo
  - **e-ARQ Brasil** - https://www.gov.br/conarq/pt-br/centrais-de-conteudo/publicacoes/EARQV203MAI2022.pdf
  - **Resolução sobre procedimentos de eliminação** - https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-conarq/resolucao-no-40-de-9-de-dezembro-de-2014-alterada e https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-conarq/resolucao-no-44-de-14-de-fevereiro-de-2020
  - **Portaria sobre procedimentos de protocolo** - https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-interministerial-ndeg-1-677-de-07-de-outubro-de-2015
+ - **levantar lei**: https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/codigo-de-classificacao-e-tabela-de-temporalidade-e-destinacao-de-documentos-de-arquivo/cod_classif_tab_temp_ativ_meio_atualizacao_2024.pdf
