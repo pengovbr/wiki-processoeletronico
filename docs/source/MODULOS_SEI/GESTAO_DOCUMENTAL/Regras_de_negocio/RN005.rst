@@ -10,4 +10,4 @@ O relatório tem que identificar os documentos cuja eliminação não tenha sido
 
 Fundamentação
 ------------- 
-Requisito  3.3.7 do eARQ Brasil.
+Requisito  3.3.7 do e-ARQ Brasil.
