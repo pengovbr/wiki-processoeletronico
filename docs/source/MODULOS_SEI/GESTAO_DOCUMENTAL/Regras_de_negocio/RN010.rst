@@ -11,4 +11,4 @@ Notas
 -----
 Por default, deverão ser obtidos e preenchidos automaticamente os campos 'Tabela', 'Códigos Associados' e 'Nome das Condicionantes'.
 
-O campo 'Observações' é opcional.
+O campo 'Observação' é opcional.
