@@ -11,3 +11,7 @@ Regras de Negócio
    RN005
    RN006
    RN007
+   RN008
+   RN009
+   RN010
+
