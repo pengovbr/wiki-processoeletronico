@@ -1,0 +1,5 @@
+**RN006**
+=========
+Para configurar a condicionante no Módulo de Gestão Documental, o usuário deve utilizar o menu apresentado abaixo:
+
+.. figure:: Menu_Condicionante.png
