@@ -1,1 +1,8 @@
+**RN008 - Contagem de Temporalidade: Listagem de Condicionante**
+================================================================
 
+Como o sistema obtém a listagem de Condicionante no Módulo GD?
+--------------------------------------------------------------
+Deverá ser gerado script com a listagem de condicionante contendo o código associado e o nome para que a tabela seja populada (similar ao que ocorre na tabela de assuntos).
+
+Com a tabela populado, o sistema deve realizar a listagem da condicionante.
