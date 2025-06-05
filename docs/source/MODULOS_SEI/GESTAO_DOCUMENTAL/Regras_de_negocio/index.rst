@@ -9,3 +9,5 @@ Regras de Negócio
    RN003
    RN004
    RN005
+   RN006
+   RN007
