@@ -1,5 +1,8 @@
-**RN006**
-=========
-Para configurar a condicionante no Módulo de Gestão Documental, o usuário deve utilizar o menu apresentado abaixo:
+**RN006 - Contagem de Temporalidade: Menu Tabela de Condicionantes**
+====================================================================
+
+Como acessar o menu para o cadastro de Condicionantes no módulo GD?
+-------------------------------------------------------------------
+Para cadastrar a condicionante no Módulo de Gestão Documental, o usuário deve utilizar o menu 'Tabela de Condicionante' apresentado abaixo:
 
 .. figure:: Menu_Condicionante.png
