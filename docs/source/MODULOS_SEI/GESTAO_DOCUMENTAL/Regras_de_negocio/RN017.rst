@@ -1,0 +1,2 @@
+Desenvolver funcionalidade para listar os processos arquivados pela unidade e que se encontram em fase de guarda intermediária.
+Atualmente é possível visualizar no Arquivo da Unidade apenas os processos que se encontram em fase de guarda corrente.
