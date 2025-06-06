@@ -14,7 +14,7 @@ Manuais de Usuários
 - `Manual de Protocolo e Arquivo <https://softwarepublico.gov.br/social/sei/manuais/manual-do-protocolo-e-arquivo/sumario>`_
 - `Manual de Publicação <https://softwarepublico.gov.br/social/sei/manuais/manual-de-publicacao/publicacao-2.5.1>`_
 - `Manual do Usuário do SEI! <https://manuais.processoeletronico.gov.br/pt-br/latest/SEI/index.html>`_
-- Manual do Administrador SEI <https://manuais.processoeletronico.gov.br/pt-br/latest/SEIADM/index.html>`_
+- `Manual do Administrador SEI <https://manuais.processoeletronico.gov.br/pt-br/latest/SEIADM/index.html>`_
 
 Manuais Técnicos
 ----------------
@@ -37,6 +37,7 @@ As notas disponíveis abaixo comunicam as alterações, correções, novos recur
 .. list-table::
    :widths: 35
    :header-rows: 1
+   :align: left
 
    - * Notas de Releases
    - * :download:`SEI_v4.0.0 <_static/images_downloads/SEI_v4.0.0.pdf>`
