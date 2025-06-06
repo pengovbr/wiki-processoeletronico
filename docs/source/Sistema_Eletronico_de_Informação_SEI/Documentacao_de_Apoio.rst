@@ -34,34 +34,33 @@ Notas de Release
 
 As notas disponíveis abaixo comunicam as alterações, correções, novos recursos e melhorias introduzidas em uma nova versão do SEI.
 
-.. container:: align-left
+.. list-table::
+   :widths: 35
+   :header-rows: 1
+   :align: left
 
-   .. list-table::
-      :widths: 35
-      :header-rows: 1
-
-       - * Notas de Releases
-       - * :download:`SEI_v4.0.0 <_static/images_downloads/SEI_v4.0.0.pdf>`
-       - * :download:`SEI_v4.0.1 <_static/images_downloads/SEI_v4.0.1.pdf>`
-       - * :download:`SEI_v4.0.10 <_static/images_downloads/SEI_v4.0.10.pdf>`
-       - * :download:`SEI_v4.0.11 <_static/images_downloads/SEI_v4.0.11.pdf>`
-       - * :download:`SEI_v4.0.12 <_static/images_downloads/SEI_v4.0.12.pdf>`
-       - * :download:`SEI_v4.0.2 <_static/images_downloads/SEI_v4.0.2.pdf>`
-       - * :download:`SEI_v4.0.3 <_static/images_downloads/SEI_v4.0.3.pdf>`
-       - * :download:`SEI_v4.0.4 <_static/images_downloads/SEI_v4.0.4.pdf>`
-       - * :download:`SEI_v4.0.5 <_static/images_downloads/SEI_v4.0.5.pdf>`
-       - * :download:`SEI_v4.0.6 <_static/images_downloads/SEI_v4.0.6.pdf>`
-       - * :download:`SEI_v4.0.7 <_static/images_downloads/SEI_v4.0.7.pdf>`
-       - * :download:`SEI_v4.0.8 <_static/images_downloads/SEI_v4.0.8.pdf>`
-       - * :download:`SEI_v4.0.9 <_static/images_downloads/SEI_v4.0.9.pdf>`
-       - * :download:`SEI_v4.1.0 <_static/images_downloads/SEI_v4.1.0.pdf>`
-       - * :download:`SEI_v4.1.1 <_static/images_downloads/SEI_v4.1.1.pdf>`
-       - * :download:`SEI_v4.1.2 <_static/images_downloads/SEI_v4.1.2.pdf>`
-       - * :download:`SEI_v4.1.3 <_static/images_downloads/SEI_v4.1.3.pdf>`
-       - * :download:`SEI_v4.1.4 <_static/images_downloads/SEI_v4.1.4.pdf>`
-       - * :download:`SEI_v4.1.5 <_static/images_downloads/SEI_v4.1.5.pdf>`
-       - * :download:`SEI_v5.0.0 <_static/images_downloads/SEI_v5.0.0.pdf>`
-       - * :download:`SEI_v5.0.1 <_static/images_downloads/SEI_v5.0.1.pdf>`
+   - * Notas de Releases
+   - * :download:`SEI_v4.0.0 <_static/images_downloads/SEI_v4.0.0.pdf>`
+   - * :download:`SEI_v4.0.1 <_static/images_downloads/SEI_v4.0.1.pdf>`
+   - * :download:`SEI_v4.0.10 <_static/images_downloads/SEI_v4.0.10.pdf>`
+   - * :download:`SEI_v4.0.11 <_static/images_downloads/SEI_v4.0.11.pdf>`
+   - * :download:`SEI_v4.0.12 <_static/images_downloads/SEI_v4.0.12.pdf>`
+   - * :download:`SEI_v4.0.2 <_static/images_downloads/SEI_v4.0.2.pdf>`
+   - * :download:`SEI_v4.0.3 <_static/images_downloads/SEI_v4.0.3.pdf>`
+   - * :download:`SEI_v4.0.4 <_static/images_downloads/SEI_v4.0.4.pdf>`
+   - * :download:`SEI_v4.0.5 <_static/images_downloads/SEI_v4.0.5.pdf>`
+   - * :download:`SEI_v4.0.6 <_static/images_downloads/SEI_v4.0.6.pdf>`
+   - * :download:`SEI_v4.0.7 <_static/images_downloads/SEI_v4.0.7.pdf>`
+   - * :download:`SEI_v4.0.8 <_static/images_downloads/SEI_v4.0.8.pdf>`
+   - * :download:`SEI_v4.0.9 <_static/images_downloads/SEI_v4.0.9.pdf>`
+   - * :download:`SEI_v4.1.0 <_static/images_downloads/SEI_v4.1.0.pdf>`
+   - * :download:`SEI_v4.1.1 <_static/images_downloads/SEI_v4.1.1.pdf>`
+   - * :download:`SEI_v4.1.2 <_static/images_downloads/SEI_v4.1.2.pdf>`
+   - * :download:`SEI_v4.1.3 <_static/images_downloads/SEI_v4.1.3.pdf>`
+   - * :download:`SEI_v4.1.4 <_static/images_downloads/SEI_v4.1.4.pdf>`
+   - * :download:`SEI_v4.1.5 <_static/images_downloads/SEI_v4.1.5.pdf>`
+   - * :download:`SEI_v5.0.0 <_static/images_downloads/SEI_v5.0.0.pdf>`
+   - * :download:`SEI_v5.0.1 <_static/images_downloads/SEI_v5.0.1.pdf>`
 
 
 Apresentações Técnicas
