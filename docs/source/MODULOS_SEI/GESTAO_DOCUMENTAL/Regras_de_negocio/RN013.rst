@@ -1,7 +1,8 @@
 **RN013 - Arquivamento: Identificação de Despesa**
 ==================================================
 
-Como verificar se um processo esta associado à alguma condicionane?
+Como verificar se um processo esta associado à alguma Condicionante?
+--------------------------------------------------------------------
 
 Ao arquivar um processo, o sistema deve verificar se o código associado ao mesmo esta associado à alguma condicionante. 
 
