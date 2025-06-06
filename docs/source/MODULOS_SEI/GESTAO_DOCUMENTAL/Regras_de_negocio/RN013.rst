@@ -1,1 +1,1 @@
-
+ao arquivar um processo, verificar se o código associado ao mesmo esta associado à alguma condicionante, caso positivo (na tabela de assunto) se o prazo corrente for zero o processo deve ser mantido no arquivo da unidade até que o evento/disparo da condicionante seja satisfeito. A partir disto faz a transferência do arquivo da unidade para tela de avaliação por meio de metadados: solução já existente
