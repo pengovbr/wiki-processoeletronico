@@ -1,5 +1,5 @@
 **RN010 - Contagem de Temporalidade: Parametrização de Condicionante**
-================================================================
+======================================================================
 
 Como acessar o Cadastro de Condicionante por meio do menu no módulo GD?
 -----------------------------------------------------------------------
