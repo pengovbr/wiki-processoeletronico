@@ -1,5 +1,5 @@
-**RN014 - Arquivamento: Ordenador de Arquivamento nas Listagens**
-=================================================================
+**RN014 - Arquivamento: Ordenador nas colunas da tabela Pendências de Arquivamento**
+====================================================================================
 
 Como ordenar os dados na listagem de arquivamento?
 --------------------------------------------------
