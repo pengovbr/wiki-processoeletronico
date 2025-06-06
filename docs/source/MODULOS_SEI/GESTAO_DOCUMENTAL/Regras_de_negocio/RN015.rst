@@ -1,0 +1,1 @@
+Nas telas onde é pedida a senha permitir que as ações do botão ENVIAR ou SALVAR possam ser acionadas pelo botão ENTER, como ocorre no restante do SEI.
