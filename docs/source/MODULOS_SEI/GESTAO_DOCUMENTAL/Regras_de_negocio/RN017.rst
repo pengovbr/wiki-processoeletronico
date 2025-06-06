@@ -8,4 +8,4 @@ O sistema deverá listar os processos arquivados pela unidade e que se encontram
 
 Notas
 -----
-Atualmente é possível visualizar na tela '**Arquivo da Unidade**' apenas os processos que se encontram em fase de guarda corrente.
+Atualmente é possível visualizar na tela '**Arquivos da Unidade**' apenas os processos que se encontram em fase de guarda corrente.
