@@ -1,2 +1,11 @@
-Desenvolver funcionalidade para listar os processos arquivados pela unidade e que se encontram em fase de guarda intermediária.
+**RN017 - Arquivamento: Processos em fase de guarda intermediária listados no Arquivo da Unidade**
+==================================================================================================
+
+Como deve ser feita a listagem de processos arquivados pela unidade e que se encontram em fase de guarda intermediária ?
+------------------------------------------------------------------------------------------------------------------------
+
+O sistema deverá listar os processos arquivados pela unidade e que se encontram em fase de guarda intermediária na tela '**Arquivos da Unidade**'.
+
+Notas
+-----
 Atualmente é possível visualizar no Arquivo da Unidade apenas os processos que se encontram em fase de guarda corrente.
