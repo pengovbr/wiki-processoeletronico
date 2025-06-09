@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **RN010 - Contagem de Temporalidade: Cadastro de Condicionante**
 ================================================================
 
@@ -12,3 +13,19 @@ Notas
 Por default, deverão ser obtidos e preenchidos automaticamente os campos 'Tabela', 'Códigos Associados' e 'Nome das Condicionantes'.
 
 O campo 'Observação' é opcional.
+=======
+**RN011 - Contagem de Temporalidade: Parametrização de Condicionante**
+======================================================================
+
+Como acessar o Cadastro de Condicionante por meio do menu no módulo GD?
+-----------------------------------------------------------------------
+Ao clicar no ícone 'Parametrização de Condicionante' no Módulo de Gestão Documental, o usuário deverá ser direcionado para a página 'Parametrização de Condicionante' apresentada abaixo:
+
+.. figure:: Tela3_Cadastro_Condicionante.png
+
+Notas
+-----
+Por default, deverão ser obtidos e preenchidos automaticamente os campos 'Tabela', 'Códigos Associados' e 'Nome das Condicionantes'.
+
+O campo Ano da Despesa, Ano de Satisfação e 'Observação' são opcionais.
+>>>>>>> 790af019eb99f23c1a9a158e8532a48791aa4b96
