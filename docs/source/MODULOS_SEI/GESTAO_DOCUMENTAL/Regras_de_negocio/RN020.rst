@@ -1,10 +1,10 @@
-**RN020 - Avaliação: Parametrizar colunas a serem exibidas na tela de avaliação de processos
-============================================================================================
+**RN020 - Avaliação: Parametrizar colunas a serem exibidas na tela de avaliação de processos**
+==============================================================================================
 
 Como as colunas a serem exibidas na tela de avaliação de processos?
 -------------------------------------------------------------------
 
-O sistema deverá indicar campos no qual o usuário posso escolher as colunas à serem listadas** na listagem de avaliação, 
+O sistema deverá indicar campos no qual o usuário posso escolher as colunas à serem listadas na listagem de avaliação, 
 conforme imagem abaixo: 
 
 .. figure:: Tela1_Avaliacao_Processo.png
@@ -20,5 +20,5 @@ Ao pressionar o botão 'Inserir Colunas', o grid de listagem de avaliação deve
 
 Notas
 -----
-** Caso o usuário deseje escolher quais colunas visualizar na listagem de eliminação, o limite máximo de escolha/colunas a 
-serem exibidas será 11 (onze) como ocorre atualmente.
+Caso o usuário deseje escolher quais colunas visualizar na listagem de eliminação, o limite máximo de escolha/colunas 
+a serem exibidas será 11 (onze) como ocorre atualmente.
