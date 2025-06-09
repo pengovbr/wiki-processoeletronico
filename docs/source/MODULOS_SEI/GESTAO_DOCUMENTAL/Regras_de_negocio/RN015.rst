@@ -1,0 +1,7 @@
+**RN015 - Arquivamento: Acionar o Envio da Assinatura de Desarquivamento por meio do Teclado**
+==============================================================================================
+
+Como enviar a assinatura do Desarquivamento por meio do teclado?
+----------------------------------------------------------------
+
+Nas telas onde é pedida a senha, permitir que as ações do botão **ENVIAR** ou **SALVAR** possam ser acionadas pela tecla **ENTER**, como ocorre no restante do SEI.
