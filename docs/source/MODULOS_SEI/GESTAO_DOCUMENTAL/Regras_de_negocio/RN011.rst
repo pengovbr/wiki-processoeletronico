@@ -1,4 +1,4 @@
-**RN010 - Contagem de Temporalidade: Cadastro de Condicionante**
+**RN011 - Contagem de Temporalidade: Cadastro de Condicionante**
 ================================================================
 
 Como acessar o Cadastro de Condicionante por meio do menu no módulo GD?
