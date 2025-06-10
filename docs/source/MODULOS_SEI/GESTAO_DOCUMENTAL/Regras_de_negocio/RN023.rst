@@ -1,7 +1,7 @@
-**RN023 - Recolhimento: Criar SIP Bagit para envio para RDC-ARQ do AN**
+**RN023 - Recolhimento: Criar SIP BagIt para envio para RDC-ARQ do AN**
 =======================================================================
 
-Como criar SIP Bagit para envio para RDC-ARQ do AN?
+Como criar SIP BagIt para envio para RDC-ARQ do AN?
 ---------------------------------------------------
 Deverá ser criado SIP Bagit para envio para RDC-ARQ do AN.
 
