@@ -1,0 +1,156 @@
+<p>
+  A calculadora dos dígitos verificadores do NUP é uma ferramenta que auxilia na
+  identificação dos dígitos verificadores do NUP de 17 dígitos, conforme fórmula
+  definida no anexo da
+  <a
+    href="https://www.in.gov.br/en/web/dou/-/portaria-interministerial-n-11-de-25-de-novembro-de-2019-229645093"
+    >Portaria Interministerial nº 11/2019</a
+  >, que dispõe sobre os procedimentos relativos à utilização do NUP no âmbito
+  dos órgãos e entidades da Administração Pública federal direta, autárquica e
+  fundacional.
+</p>
+<p>
+  Para utilização da calculadora é necessário inserir os 15 primeiros dígitos do
+  NUP que se deseja descobrir os dígitos verificadores, conforme o exemplo:
+</p>
+<table border="0" class="plain" align="center">
+  <tbody>
+    <tr>
+      <td style="text-align: center">12345</td>
+      <td style="text-align: center">123456</td>
+      <td style="text-align: center">1234</td>
+      <td style="text-align: center"><strong>??</strong></td>
+    </tr>
+    <tr>
+      <td>Código da UP</td>
+      <td>Sequencial numérico</td>
+      <td>Ano</td>
+      <td>Dígitos verificadores</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  As letras <b>D</b> e <b>V</b> que constarem em NUP antigos criados segundo o
+  disposto no art. 7º da
+  <a href="http://www.comprasnet.gov.br/legislacao/portarias/p03_03.htm"
+    >Portaria SLTI nº 3/2003</a
+  >
+  poderão ser substituídas pelos dígitos verificadores calculados pela
+  calculadora.
+</p>
+<h2 style="text-align: center">Calculadora dos dígitos verificadores do NUP</h2>
+<div align="center"></div>
+<p style="text-align: center">Coloque o NUP sem os caracteres especiais</p>
+<p style="text-align: center">
+  <input
+    id="nup"
+    type="text"
+    maxlength="19"
+    onkeypress="return EnviaFormulario(event);"
+  />
+  <button type="button" onclick="calculaDV()">Enviar</button>
+</p>
+<p id="resultado" style="text-align: center">.</p>
+<script type="text/javascript">
+  // <![CDATA[
+  function calculaDV() {
+    var x, text;
+
+    // Get the value of the input field with id="numb"
+    x = document.getElementById("nup").value;
+
+    //Apaga os pontos
+    x = x.replace(".", "");
+    //Apaga as /
+    x = x.replace("/", "");
+    //Apaga o -
+    x = x.replace("-", "");
+    //Tamanho do campo digitado
+    var tamanhoNUP = x.length;
+
+    // Se o digitado não é número ou é menor que 0 ou se não tem 19 dígitos sem o DV
+    if (isNaN(x) || x <= 0 || tamanhoNUP != 15) {
+      text = "Entrada inválida. Digite o NUP com 15 dígitos para cálculo do DV";
+    } else {
+      //O javascripst consegue calcular corretamente, sem erro de arredondamento, números com até 13 dígitos.
+      // devemos quebrar o número em DUAS partes, e fazer o cálculo de forma fatorada.
+
+      //Retorna a string dele
+      var stringDoNUP = x.toString();
+      var j = 2;
+      var soma = 0;
+      for (var i = stringDoNUP.length - 1; i >= 0; i--) {
+        var posicao = stringDoNUP.charAt(i).valueOf();
+        soma = soma + j * posicao;
+        j++;
+      }
+
+      var resto = soma % 11;
+      resto = 11 - resto;
+      if (resto > 9) {
+        resto = resto - 10;
+      }
+      var primeiroDV = resto;
+
+      stringDoNUP = stringDoNUP + primeiroDV;
+
+      soma = 0;
+      j = 2;
+      for (var i = stringDoNUP.length - 1; i >= 0; i--) {
+        var posicao = stringDoNUP.charAt(i).valueOf();
+        soma = soma + j * posicao;
+        j++;
+      }
+
+      var resto = soma % 11;
+      resto = 11 - resto;
+      if (resto > 9) {
+        resto = resto - 10;
+      }
+      var segundoDV = resto;
+      //Formata o texto
+      text =
+        "O DV gerado foi " +
+        primeiroDV +
+        segundoDV +
+        ", resultando em " +
+        x.slice(0, 5) +
+        "." +
+        x.slice(5, 11) +
+        "/" +
+        x.slice(11, 15) +
+        "-" +
+        primeiroDV +
+        segundoDV;
+    }
+    //Atribui o texto ao label
+    document.getElementById("resultado").innerHTML = text;
+  }
+
+  //Função que verifica se a tecla digitada foi o enter
+  function OnEnter(evt) {
+    var key_code = evt.keyCode
+      ? evt.keyCode
+      : evt.charCode
+      ? evt.charCode
+      : evt.which
+      ? evt.which
+      : void 0;
+
+    if (key_code == 13) {
+      return true;
+    }
+  }
+
+  //Trata do evento de tecla pressionada no edit
+  function EnviaFormulario(e) {
+    if (OnEnter(e)) {
+      //Se a tecla digitada foi o enter, faz o cálculo do DV
+      calculaDV();
+      return false;
+    } else {
+      return true;
+    }
+  }
+  // ]]>
+</script>n
