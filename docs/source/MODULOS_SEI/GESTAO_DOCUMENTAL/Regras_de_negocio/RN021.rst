@@ -15,4 +15,3 @@ Essa mensagem deve constar no 'Termo de Arquivamento', como apresentado abaixo:
 
 .. figure:: Tela2_Arquivamento_Processo.png
 
-
