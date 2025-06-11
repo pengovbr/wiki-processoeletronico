@@ -1,5 +1,5 @@
-**RN027 - Eliminação: Amostragemde Processos**
-==============================================
+**RN027 - Eliminação: Amostragem de Processos**
+===============================================
 
 Como selecionar uma amostra de processos para serem mantidos no sistema?
 ------------------------------------------------------------------------
