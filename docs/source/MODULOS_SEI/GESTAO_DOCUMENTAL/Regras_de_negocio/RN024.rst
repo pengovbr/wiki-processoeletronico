@@ -1,4 +1,8 @@
-RN24
+**RN024 - Arquivamento: Apresentar Mensagem de Arquivamento**
+=============================================================
+
 Como deve ser apresentado as informações da Unidade na tabela?
+--------------------------------------------------------------
+
 Ao passar o mouse sobre a unidade, o sistema deve apresentar a sigla da unidade juntamente com a descrição completa.
  
