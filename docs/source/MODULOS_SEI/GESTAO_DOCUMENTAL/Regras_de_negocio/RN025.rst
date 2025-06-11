@@ -1,1 +1,4 @@
-
+RN25
+Como exibir apenas a classificação arquivística previamente selecionada nas opções "Remover" ou "Incluir Processos na Listagem"?
+Nas opções "Remover" ou "Incluir Processos na Listagem" localizada no menu de ações,
+deve ser exibida apenas a classificação arquivística previamente selecionada, não todas as que estavam originalmente no processo.
