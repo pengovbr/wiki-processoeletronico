@@ -1,5 +1,5 @@
-**RN024 - Arquivamento: Apresentar Informações da Unidade na tabela**
-=====================================================================
+**RN024 - Eliminação: Apresentar Informações da Unidade na tabela**
+===================================================================
 
 Como deve ser apresentado as informações da Unidade na tabela?
 --------------------------------------------------------------
