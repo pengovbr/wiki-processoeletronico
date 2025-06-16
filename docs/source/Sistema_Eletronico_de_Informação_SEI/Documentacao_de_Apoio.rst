@@ -79,7 +79,7 @@ As notas de release indicadas abaixo dizem respeito às versões 3.0 e 3.1 do SE
 +------------------------------------------------------------------+------------------------------------------------------------------+
 |:download:`SEI_v4.0.2 <_static/images_downloads/SEI_V3.0.2.pdf>`  | :download:`SEI_v4.1.2 <_static/images_downloads/SEI_v3.1.2.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.3 <_static/images_downloads/SEI_V3.0.3.pdf>`  | :download:`SEI_v4.1.3 <_static/images_downloads/SEI_v3.1.3.pdf>` |                                                                  |
+|:download:`SEI_v4.0.3 <_static/images_downloads/SEI_V3.0.3.pdf>`  | :download:`SEI_v4.1.3 <_static/images_downloads/SEI_v3.1.3.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
 |:download:`SEI_v4.0.4 <_static/images_downloads/SEI_V3.0.4.pdf>`  | :download:`SEI_v4.1.4 <_static/images_downloads/SEI_v3.1.4.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
@@ -105,10 +105,6 @@ As notas de release indicadas abaixo dizem respeito às versões 3.0 e 3.1 do SE
 +------------------------------------------------------------------+------------------------------------------------------------------+
 |:download:`SEI_v4.0.12 <_static/images_downloads/SEI_v3.0.15.pdf>`|                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-
-
-
-
 
 
 Apresentações Técnicas
