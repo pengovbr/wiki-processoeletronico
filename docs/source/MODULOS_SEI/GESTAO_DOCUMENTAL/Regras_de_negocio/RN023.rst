@@ -1,0 +1,13 @@
+**RN023 - Recolhimento: Criar SIP BagIt para envio para RDC-ARQ do AN**
+=======================================================================
+
+Como criar SIP BagIt para envio para RDC-ARQ do AN?
+---------------------------------------------------
+Deverá ser criado SIP Bagit para envio para RDC-ARQ do AN.
+
+Atualmente não criamos o pacote SIP para envio. Criar o mesmo.
+
+Notas:
+------
+Usar o https://packagist.org/packages/whikloj/bagittools para criar um bagit
+

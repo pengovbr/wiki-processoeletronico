@@ -24,3 +24,10 @@ Regras de Negócio
    RN018
    RN019
    RN020
+   RN021
+   RN022
+   RN023
+   RN024
+   RN025
+   RN026
+   RN027
