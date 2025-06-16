@@ -73,37 +73,37 @@ As notas de release indicadas abaixo dizem respeito às versões 3.0 e 3.1 do SE
 +==================================================================+==================================================================+
 | Versão 3                                                         | Versão 3.1                                                       |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-| :download:`SEI_v4.0.0 <_static/images_downloads/SEI_v3.0.0.pdf>` | :download:`SEI_v4.1.0 <_static/images_downloads/SEI_v3.1.0.pdf>` |
+| :download:`SEI_v3.0.0 <_static/images_downloads/SEI_v3.0.0.pdf>` | :download:`SEI_v3.1.0 <_static/images_downloads/SEI_v3.1.0.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.1 <_static/images_downloads/SEI_V3.0.1.pdf>`  | :download:`SEI_v4.1.1 <_static/images_downloads/SEI_v3.1.1.pdf>` |
+|:download:`SEI_v3.0.1 <_static/images_downloads/SEI_V3.0.1.pdf>`  | :download:`SEI_v3.1.1 <_static/images_downloads/SEI_v3.1.1.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.2 <_static/images_downloads/SEI_V3.0.2.pdf>`  | :download:`SEI_v4.1.2 <_static/images_downloads/SEI_v3.1.2.pdf>` |
+|:download:`SEI_v3.0.2 <_static/images_downloads/SEI_V3.0.2.pdf>`  | :download:`SEI_v3.1.2 <_static/images_downloads/SEI_v3.1.2.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.3 <_static/images_downloads/SEI_V3.0.3.pdf>`  | :download:`SEI_v4.1.3 <_static/images_downloads/SEI_v3.1.3.pdf>` |
+|:download:`SEI_v3.0.3 <_static/images_downloads/SEI_V3.0.3.pdf>`  | :download:`SEI_v3.1.3 <_static/images_downloads/SEI_v3.1.3.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.4 <_static/images_downloads/SEI_V3.0.4.pdf>`  | :download:`SEI_v4.1.4 <_static/images_downloads/SEI_v3.1.4.pdf>` |
+|:download:`SEI_v3.0.4 <_static/images_downloads/SEI_V3.0.4.pdf>`  | :download:`SEI_v3.1.4 <_static/images_downloads/SEI_v3.1.4.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.5 <_static/images_downloads/SEI_v3.0.5.pdf>`  | :download:`SEI_v4.1.5 <_static/images_downloads/SEI_v3.1.5.pdf>` |
+|:download:`SEI_v3.0.5 <_static/images_downloads/SEI_v3.0.5.pdf>`  | :download:`SEI_v3.1.5 <_static/images_downloads/SEI_v3.1.5.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.6 <_static/images_downloads/SEI_v3.0.6.pdf>`  | :download:`SEI_v4.1.5 <_static/images_downloads/SEI_v3.1.6.pdf>` |
+|:download:`SEI_v3.0.6 <_static/images_downloads/SEI_v3.0.6.pdf>`  | :download:`SEI_v3.1.6 <_static/images_downloads/SEI_v3.1.6.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.7 <_static/images_downloads/SEI_v3.0.7.pdf>`  | :download:`SEI_v4.1.5 <_static/images_downloads/SEI_v3.1.7.pdf>` |
+|:download:`SEI_v3.0.7 <_static/images_downloads/SEI_v3.0.7.pdf>`  | :download:`SEI_v3.1.7 <_static/images_downloads/SEI_v3.1.7.pdf>` |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.8 <_static/images_downloads/SEI_v3.0.8.pdf>`  |                                                                  |
+|:download:`SEI_v3.0.8 <_static/images_downloads/SEI_v3.0.8.pdf>`  |                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.9 <_static/images_downloads/SEI_v3.0.9.pdf>`  |                                                                  |
+|:download:`SEI_v3.0.9 <_static/images_downloads/SEI_v3.0.9.pdf>`  |                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.10 <_static/images_downloads/SEI_v3.0.10.pdf>`|                                                                  |
+|:download:`SEI_v3.0.10 <_static/images_downloads/SEI_v3.0.10.pdf>`|                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.11 <_static/images_downloads/SEI_v3.0.11.pdf>`|                                                                  |
+|:download:`SEI_v3.0.11 <_static/images_downloads/SEI_v3.0.11.pdf>`|                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.12 <_static/images_downloads/SEI_v3.0.12.pdf>`|                                                                  |
+|:download:`SEI_v3.0.12 <_static/images_downloads/SEI_v3.0.12.pdf>`|                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.10 <_static/images_downloads/SEI_v3.0.13.pdf>`|                                                                  |
+|:download:`SEI_v3.0.10 <_static/images_downloads/SEI_v3.0.13.pdf>`|                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.11 <_static/images_downloads/SEI_v3.0.14.pdf>`|                                                                  |
+|:download:`SEI_v3.0.11 <_static/images_downloads/SEI_v3.0.14.pdf>`|                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
-|:download:`SEI_v4.0.12 <_static/images_downloads/SEI_v3.0.15.pdf>`|                                                                  |
+|:download:`SEI_v3.0.12 <_static/images_downloads/SEI_v3.0.15.pdf>`|                                                                  |
 +------------------------------------------------------------------+------------------------------------------------------------------+
 
 
