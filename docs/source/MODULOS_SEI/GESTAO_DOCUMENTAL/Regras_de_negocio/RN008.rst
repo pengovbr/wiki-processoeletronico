@@ -6,3 +6,30 @@ Como o sistema obtém a listagem de Condicionante no Módulo GD?
 Deverá ser gerado script com a listagem de condicionante contendo o código associado e o nome para que a tabela seja populada (similar ao que ocorre na tabela de assuntos).
 
 Com a tabela populado, o sistema deve realizar a listagem da condicionante.
+
+Lista de Condicionantes (Mapear Código de Cada)
+-----------------------------------------------
+ - Fim da vigência
+ - Homologação do evento
+ - Enquanto vigora
+ - Conclusão da transferência
+ - Aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU)
+ - Finalização da elaboração dos instrumentos de pesquisa
+ - Conclusão da organização
+ - Conclusão da organização
+ - Finalização da elaboração dos instrumentos
+ - Conclusão do caso
+ - Alienação
+ - Quitação total da dívida
+ - Término do atendimento
+ - Término da análise
+ - Solução do litígio
+ - Trânsito em julgado
+ - Término do vínculo com a administração pública
+ - Homologação da aposentadoria
+ - Fim da vigência da consignação
+ - Fim da ocupação do imóvel
+ - Fim da vigência do convênio
+ - Término do vínculo do estudante com a administração pública
+ - Término do vínculo do beneficiário
+ - Até a solução da interposição de pedido de reconsideração ou de recurso
