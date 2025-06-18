@@ -7,7 +7,7 @@ Deverá ser gerado script com a listagem de condicionante contendo o código ass
 
 Com a tabela populado, o sistema deve realizar a listagem da condicionante.
 
-Lista de Condicionantes (Mapear Código de Cada página 115 até a 151)
+Lista de Condicionantes (Mapear Código de Cada página 115 até a 151: https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/codigo-de-classificacao-e-tabela-de-temporalidade-e-destinacao-de-documentos-de-arquivo/cod_classif_tab_temp_ativ_meio_atualizacao_2024.pdf)
 -----------------------------------------------
  - Fim da vigência
    
