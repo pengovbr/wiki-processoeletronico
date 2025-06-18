@@ -7,9 +7,11 @@ Deverá ser gerado script com a listagem de condicionante contendo o código ass
 
 Com a tabela populado, o sistema deve realizar a listagem da condicionante.
 
-Lista de Condicionantes (Mapear Código de Cada)
+Lista de Condicionantes (Mapear Código de Cada página 115 até a 151)
 -----------------------------------------------
  - Fim da vigência
+   
+      - Códigos Associados: 001, 002.01
  - Homologação do evento
  - Enquanto vigora
  - Conclusão da transferência
