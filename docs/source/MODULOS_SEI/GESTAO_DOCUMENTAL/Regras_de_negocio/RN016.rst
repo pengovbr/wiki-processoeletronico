@@ -1,8 +1,8 @@
-**RN016 - Arquivamento: Exibição de Campos nas Pendências de Arquivamento**
-===========================================================================
+**RN016 - Arquivamento: Exibição de Campos no Arquivo da Unidade**
+=================================================================
 
-Como deve ser feita a exibição de campos na tela 'Pendência de Arquivamento'?
------------------------------------------------------------------------------
+Como deve ser feita a exibição de campos na tela 'Arquivo da Unidade'?
+----------------------------------------------------------------------
 
 Campo **Assunto**
 -----------------
@@ -12,8 +12,10 @@ Isso é necessário para otimizar o espaço em tela tendo em vista que há proce
 
 Código de Classificação
 -----------------------
-Nas telas onde são apresentadas o "Código de Classificação" além de apresentar a descrição ao passar o cursor, o sistema deve permitir também que ao clicar duas vezes seja apresentada uma janela com os dados do código de classificação (prazo corrente, prazo intermediário, destinação, etc.) 
-O nome da janela deve ser "Consultar assunto".
+Nas telas onde são apresentadas o "Código de Classificação" além de apresentar a descrição ao passar o cursor, o sistema deve permitir também que ao clicar seja apresentada uma janela com os dados do código de classificação (prazo corrente, prazo intermediário, destinação, etc.) 
+O nome da janela deve ser "Consultar assunto", conforme imagem abaixo:
+
+.. figure:: modal_assunto.png
 
 Notas
 -----
