@@ -3,6 +3,6 @@
 
 Como acessar o menu para o cadastro de Condicionantes no módulo GD?
 -------------------------------------------------------------------
-Para cadastrar a condicionante no Módulo de Gestão Documental, o usuário deve utilizar o menu 'Arquivo de Condicionante' apresentado abaixo:
+Para cadastrar a condicionante no Módulo de Gestão Documental, o usuário deve utilizar o menu 'Arquivo de Condicionantes' apresentado abaixo:
 
 .. figure:: Menu_Condicionante.png
