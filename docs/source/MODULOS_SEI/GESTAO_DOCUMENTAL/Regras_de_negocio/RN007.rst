@@ -3,6 +3,6 @@
 
 Como acessar a página de Condicionante por meio do menu no módulo GD?
 ---------------------------------------------------------------------
-Ao clicar no menu 'Tabela de Condicionante' no Módulo de Gestão Documental, o usuário deverá ser direcionado para a página 'Condicionante' apresentada abaixo:
+Ao clicar no menu 'Arquivo de Condicionantes' no Módulo de Gestão Documental, o usuário deverá ser direcionado para a página 'Arquivo de Condicionantes' apresentada abaixo:
 
 .. figure:: Tela1_Cadastro_Condicionante.png
