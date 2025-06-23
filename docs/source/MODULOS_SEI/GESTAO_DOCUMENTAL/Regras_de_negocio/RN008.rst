@@ -7,8 +7,8 @@ Deverá ser gerado script com a listagem de condicionante contendo o código ass
 
 Com a tabela populada, o sistema deve realizar a listagem da condicionante.
 
-Lista de Condicionantes 
------------------------
+Listagem de Condicionantes 
+--------------------------
 ====================================================================================================================== ====================================
 Nome da Condicionante                                                                                                  Códigos Associados
 ====================================================================================================================== ====================================
