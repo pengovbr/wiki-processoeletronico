@@ -3,7 +3,10 @@
 
 Como se dará o tratamento de Condicionantes no módulo GD?
 ---------------------------------------------------------
-No módulo GD, deverá ser criada funcionalidade (no menu Gestão Documental > Condicionantes) para configuração de ""Condicionantes"" (ex: aprovação de contas).
+No módulo GD, deverá ser criada funcionalidade para configuração de ""Condicionantes"" (no menu Gestão Documental > Condicionantes).
 
-Deverá ser contemplado o mapeamento da condicionante, ou seja, o cadastro, a listagem e a reativação (no menu Administração > Gestão Documental > Cadastrar/Listar/Reativar).
+Para tanto, deverá ser contemplado o mapeamento da condicionante (no menu Administração > Gestão Documental > Cadastrar/Listar/Reativar): 
+ - Cadastro 
+ - Listagem 
+ - Reativação
 
