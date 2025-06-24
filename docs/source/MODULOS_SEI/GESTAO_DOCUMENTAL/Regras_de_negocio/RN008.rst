@@ -12,35 +12,321 @@ Listagem de Condicionantes
 ====================================================================================================================== ====================================
 Nome da Condicionante                                                                                                  Códigos Associados
 ====================================================================================================================== ====================================
-Fim da vigência	                                                                                                       001, 002.01
-Homologação do evento
-Enquanto vigora
-Conclusão da transferência
-Aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU)
-Finalização da elaboração dos instrumentos de pesquisa
-Conclusão da organização
-Conclusão da organização
-Finalização da elaboração dos instrumentos
-Conclusão do caso
-Alienação
-Quitação total da dívida
-Término do atendimento
-Término da análise
-Solução do litígio
-Trânsito em julgado
-Término do vínculo com a administração pública
-Homologação da aposentadoria
-Fim da vigência da consignação
-Fim da ocupação do imóvel
-Fim da vigência do convênio
-Término do vínculo do estudante com a administração pública
-Término do vínculo do beneficiário
-Até a solução da interposição de pedido de reconsideração ou de recurso
+Fim da vigência	                                                                                                       001
+
+                                                                                                                       002.01
+
+                                                                                                                       003.01
+
+                                                                                                                       004.11
+
+                                                                                                                       010.01
+
+                                                                                                                       011
+
+                                                                                                                       012
+
+                                                                                                                       019.111
+
+                                                                                                                       020.01
+
+                                                                                                                       025.22
+																													   
+                                                                                                                       026.61
+																													   
+                                                                                                                       029.4
+																													   
+                                                                                                                       030.01
+																													   
+                                                                                                                       050.01
+																													   
+                                                                                                                       060.01
+																													   
+                                                                                                                       070.01
+																													   
+                                                                                                                       920.01
+																													   
+Fim da Vigência do evento                                                                                              017.1 
+
+Término do atendimento                                                                                                 002.11 
+
+Término da análise                                                                                                     004.12
+
+Solução do litígio 																									   004.21
+
+Trânsito em julgado																									   004.22
+
+Homologação do evento                                                                                                  014.1
+                                                                                                                       
+                                                                                                                       014.2
+                                                                                                                       
+                                                                                                                       014.3
+                                                                                                                       
+                                                                                                                       014.4
+                                                                                                                       
+                                                                                                                       021.1
+                                                                                                                       
+                                                                                                                       021.2
+                                                                                                                       
+                                                                                                                       021.3
+                                                                                                                       
+                                                                                                                       021.4
+                                                                                                                       
+                                                                                                                       021.5
+                                                                                                                       
+                                                                                                                       913
+                                                                                                                       
+                                                                                                                       915
+                                                                                                                       
+                                                                                                                       916
+                                                                                                                       
+                                                                                                                       917																												   
+
+Homologação da aposentadoria                                                                                           023.14
+                                                                                                                       
+                                                                                                                       026.02
+																													   
+Aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU)  018.1 
+                                                                                                                       
+                                                                                                                       018.2
+                                                                                                                       
+                                                                                                                       023.6 
+                                                                                                                       
+                                                                                                                       023.71
+                                                                                                                       
+                                                                                                                       023.72
+                                                                                                                       
+                                                                                                                       023.73
+                                                                                                                       
+                                                                                                                       023.91
+                                                                                                                       
+                                                                                                                       023.93
+                                                                                                                       
+                                                                                                                       025.11 
+                                                                                                                       
+                                                                                                                       026.3 
+                                                                                                                       
+                                                                                                                       028.11
+                                                                                                                       
+                                                                                                                       028.21
+                                                                                                                       
+                                                                                                                       031.11
+                                                                                                                        
+                                                                                                                       031.12
+                                                                                                                       
+                                                                                                                       031.5 
+                                                                                                                       
+                                                                                                                       032.01
+                                                                                                                       
+                                                                                                                       033.11
+                                                                                                                        
+                                                                                                                       033.12
+                                                                                                                       
+                                                                                                                       036.1
+                                                                                                                        
+                                                                                                                       036.2
+                                                                                                                       
+                                                                                                                       041.11
+                                                                                                                        
+                                                                                                                       041.12
+                                                                                                                       
+                                                                                                                       041.13
+                                                                                                                       
+                                                                                                                       041.61
+                                                                                                                        
+                                                                                                                       041.62
+                                                                                                                       
+                                                                                                                       042.11
+                                                                                                                       
+                                                                                                                       042.12
+                                                                                                                       
+                                                                                                                       042.13
+                                                                                                                       
+                                                                                                                       042.4
+                                                                                                                       
+                                                                                                                       042.6
+                                                                                                                       
+                                                                                                                       043.2
+                                                                                                                       
+                                                                                                                       043.3
+                                                                                                                       
+                                                                                                                       043.61
+                                                                                                                       
+                                                                                                                       044.3 
+                                                                                                                       
+                                                                                                                       044.6
+                                                                                                                       
+                                                                                                                       045.11
+                                                                                                                       
+                                                                                                                       045.12
+                                                                                                                        
+                                                                                                                       045.13
+                                                                                                                        
+                                                                                                                       045.31
+                                                                                                                        
+                                                                                                                       045.32
+                                                                                                                       
+                                                                                                                       045.33
+                                                                                                                        
+                                                                                                                       047.1
+                                                                                                                       
+                                                                                                                       047.2
+                                                                                                                       
+                                                                                                                       047.3
+                                                                                                                       
+                                                                                                                       050.02
+                                                                                                                       
+                                                                                                                       050.03
+                                                                                                                       
+                                                                                                                       051.3
+                                                                                                                       
+                                                                                                                       052.1 
+                                                                                                                       
+                                                                                                                       052.211
+                                                                                                                        
+                                                                                                                       052.212
+                                                                                                                       
+                                                                                                                       052.213
+                                                                                                                        
+                                                                                                                       052.221
+                                                                                                                        
+                                                                                                                       052.222
+                                                                                                                       
+                                                                                                                       052.23
+                                                                                                                        
+                                                                                                                       052.24
+                                                                                                                       
+                                                                                                                       052.251
+                                                                                                                       
+                                                                                                                       052.252
+                                                                                                                       
+                                                                                                                       053.01
+                                                                                                                        
+                                                                                                                       053.1
+                                                                                                                        
+                                                                                                                       053.2
+                                                                                                                        
+                                                                                                                       053.3
+                                                                                                                       
+                                                                                                                       053.4
+                                                                                                                        
+                                                                                                                       054.1
+                                                                                                                        
+                                                                                                                       054.2
+                                                                                                                       
+                                                                                                                       059.1
+                                                                                                                        
+                                                                                                                       059.2
+                                                                                                                       
+                                                                                                                       059.4
+                                                                                                                        
+                                                                                                                       059.5
+                                                                                                                       
+                                                                                                                       062.11
+                                                                                                                        
+                                                                                                                       062.3
+                                                                                                                       
+                                                                                                                       069.3
+																													   
+Término do vínculo com a administração pública																		   020.11
+                                                                                                                       
+                                                                                                                       020.12
+                                                                                                                       
+                                                                                                                       020.13
+                                                                                                                       
+                                                                                                                       020.14
+                                                                                                                       
+                                                                                                                       020.2 
+																													   
+Fim da vigência da consignação																						   023.175
+
+Fim da ocupação do imóvel 																							   023.92
+
+Fim da vigência do convênio																							   024.51
+
+Término do vínculo do estudante com a administração pública															   024.52
+
+Término do vínculo do beneficiário																					   029.22
+
+																													   029.23
+
+Até a solução da interposição de pedido de reconsideração ou de recurso			                                       029.6
+
+Quitação total da dívida 																							   031.31
+
+                                                                                                                       031.32
+                                                                                                                      
+                                                                                                                       033.31
+                                                                                                                      
+                                                                                                                       033.32
+                                                                                                                      
+                                                                                                                       041.31
+                                                                                                                      
+                                                                                                                       041.32
+                                                                                                                      
+                                                                                                                       42.31
+                                                                                                                       
+                                                                                                                       42.32
+
+Enquanto vigora																										   031.41
+
+                                                                                                                       031.42
+                                                                                                                        
+                                                                                                                       036.01
+                                                                                                                       
+                                                                                                                       039.2 
+                                                                                                                       
+                                                                                                                       040.01
+                                                                                                                       
+                                                                                                                       047.01
+                                                                                                                       
+                                                                                                                       059.3
+                                                                                                                       
+                                                                                                                       064.01
+                                                                                                                       
+                                                                                                                       065.1
+                                                                                                                       
+                                                                                                                       066.1
+                                                                                                                       
+                                                                                                                       066.2
+                                                                                                                       
+                                                                                                                       066.31
+                                                                                                                        
+                                                                                                                       066.32
+                                                                                                                       
+                                                                                                                       066.41
+                                                                                                                       
+                                                                                                                       066.42
+                                                                                                                       
+                                                                                                                       073.33
+
+Alienação																										       032.4 
+
+                                                                                                                       043.4
+                                                                                                                       
+                                                                                                                       044.1 
+                                                                                                                       
+                                                                                                                       044.2
+
+Conclusão do caso 																								       033.6 
+
+																													   046.3 
+
+Finalização da elaboração dos instrumentos 																			   061.3
+
+																													   061.4 
+
+Devolução 																											   063.2 
+
+Conclusão da organização																							   069.11
+
+Finalização da elaboração dos instrumentos de pesquisa																   069.12
+
+Conclusão da transferência 																							   073.31
+
 ====================================================================================================================== ====================================
 
 
+**Referências:**
 
-
-
-
-(Mapear Código de Cada página 115 até a 151: https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/codigo-de-classificacao-e-tabela-de-temporalidade-e-destinacao-de-documentos-de-arquivo/cod_classif_tab_temp_ativ_meio_atualizacao_2024.pdf)
+ - Página 115 até a 151: https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/codigo-de-classificacao-e-tabela-de-temporalidade-e-destinacao-de-documentos-de-arquivo/cod_classif_tab_temp_ativ_meio_atualizacao_2024.pdf)
