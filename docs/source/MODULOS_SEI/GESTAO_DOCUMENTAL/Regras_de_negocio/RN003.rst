@@ -12,3 +12,5 @@ O problema é que atualmente o usuário precisa alterar um a um após rodar scri
 
 Isto deve ser atualizado automaticamente
 
+**NOVA FEATURE NA TABELA DE ASSUNTOS**
+
