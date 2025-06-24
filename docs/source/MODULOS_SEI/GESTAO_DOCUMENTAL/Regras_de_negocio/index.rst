@@ -31,3 +31,4 @@ Regras de Negócio
    RN025
    RN026
    RN027
+   RN028
