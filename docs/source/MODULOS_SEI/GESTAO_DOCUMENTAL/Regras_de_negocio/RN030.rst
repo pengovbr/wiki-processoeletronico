@@ -1,1 +1,9 @@
+**RN030 - Condicionantes: Tela para condicionantes que não alteram a destinação final**
+=======================================================================================
 
+Qual tela para as condicionantes que não Alteram a destinação final?
+--------------------------------------------------------------------
+
+Para Condicionantes que 'Não Alteram a Destinação Final', deverá ser apresentada a tela abaixo:
+
+.. figure:: Tela1_Alteracao_de_Condicionante.png
