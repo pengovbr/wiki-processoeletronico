@@ -5,7 +5,7 @@ Como o sistema obtém a listagem de Condicionante no prazo corrente no Módulo G
 --------------------------------------------------------------------------------
 Deverá ser gerado script com a listagem de condicionante contendo o código associado e o nome para que a tabela seja populada (similar ao que ocorre na tabela de assuntos).
 
-Com a tabela populada, o sistema deve realizar a listagem da condicionante no prazo corrente.
+Com a tabela populada, o sistema deve realizar a listagem da condicionante no prazo corrente mencionado abaixo:
 
 Listagem de Condicionantes no Corrente 
 --------------------------------------
