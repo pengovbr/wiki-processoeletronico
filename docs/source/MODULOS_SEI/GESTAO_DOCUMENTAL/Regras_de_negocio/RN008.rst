@@ -1,5 +1,5 @@
-**RN008 - Contagem de Temporalidade: Listagem de Condicionante no Prazo Corente**
-=================================================================================
+**RN008 - Contagem de Temporalidade: Listagem de Condicionante no Prazo Corrente**
+==================================================================================
 
 Como o sistema obtém a listagem de Condicionante no prazo corrente no Módulo GD?
 --------------------------------------------------------------------------------
