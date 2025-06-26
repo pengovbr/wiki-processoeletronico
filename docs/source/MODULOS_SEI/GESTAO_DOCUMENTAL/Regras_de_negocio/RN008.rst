@@ -1,14 +1,14 @@
-**RN008 - Contagem de Temporalidade: Listagem de Condicionante**
-================================================================
+**RN008 - Contagem de Temporalidade: Listagem de Condicionante no Prazo Corrente**
+==================================================================================
 
-Como o sistema obtém a listagem de Condicionante no Módulo GD?
---------------------------------------------------------------
+Como o sistema obtém a listagem de Condicionante no prazo corrente no Módulo GD?
+--------------------------------------------------------------------------------
 Deverá ser gerado script com a listagem de condicionante contendo o código associado e o nome para que a tabela seja populada (similar ao que ocorre na tabela de assuntos).
 
-Com a tabela populada, o sistema deve realizar a listagem da condicionante.
+Com a tabela populada, o sistema deve realizar a listagem da condicionante no prazo corrente.
 
-Listagem de Condicionantes 
---------------------------
+Listagem de Condicionantes no Corrente 
+--------------------------------------
 ====================================================================================================================== ====================================
 Nome da Condicionante                                                                                                  Códigos Associados
 ====================================================================================================================== ====================================
