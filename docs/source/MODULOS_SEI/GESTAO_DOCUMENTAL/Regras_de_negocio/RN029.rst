@@ -6,6 +6,6 @@ Como informar ao usuário que a destinação da condicionante será alterada?
 
 Ao passar o cursor do mouse sobre a informação "?", deverá ser exibido tooltip com a mensagem: 
 
-' Caso a condicionante não seja satisfeita, informar 'Sim' para que a destinação final do processo seja alterada.'
+' Caso a condicionante seja satisfeita, informar 'Sim' para que a destinação final do processo seja alterada.'
 
 .. figure:: Tela2_Cadastar_Condicionante.png
