@@ -8,4 +8,4 @@ Ao passar o cursor do mouse sobre a informação "?", deverá ser exibido toolti
 
 ' Caso a condicionante seja satisfeita, informar 'Sim' para que a destinação final do processo seja alterada.'
 
-.. figure:: Tela2_Cadastar_Condicionante.png
+.. figure:: Tela2_Cadastar_Condicionantes.png
