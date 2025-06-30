@@ -3,21 +3,9 @@
 
 Como o sistema obtém a listagem de Condicionantes no Módulo GD?
 --------------------------------------------------------------------------------
-Deverá ser gerado script com a listagem de condicionantes tanto no prazo corrente, quanto no prazo intermediário contendo o código associado e o nome para que a tabela seja populada (similar ao que ocorre na tabela de assuntos).
+Deverá ser gerado script com a listagem de condicionantes no prazo corrente contendo o código associado e o nome para que a tabela seja populada (similar ao que ocorre na tabela de assuntos).
 
-Com a tabela populada, o sistema deve realizar a listagem da condicionante no prazo corrente e intermediário mencionados abaixo:
-
-Listagem de Condicionantes no prazo Intermediário
--------------------------------------------------
-====================================================================================================================== ====================================
-Nome da Condicionante                                                                                                  Códigos Associados
-====================================================================================================================== ====================================
-Servidores e Empregados Públicos	                                                                               020.11
-																		   
-Salário Familiar                                                                                                       026.1 
-
-Controle de Portaria                                                                                                   046.4 
-====================================================================================================================== ====================================
+Com a tabela populada, o sistema deve realizar a listagem da condicionante no prazo corrente mencionados abaixo:
 
 Listagem de Condicionantes no prazo Corrente 
 --------------------------------------------
