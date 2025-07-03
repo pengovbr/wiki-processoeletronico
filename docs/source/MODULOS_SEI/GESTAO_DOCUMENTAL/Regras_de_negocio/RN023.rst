@@ -1,0 +1,20 @@
+**RN023 - Recolhimento: Criar SIP BagIt para envio para RDC-ARQ do AN**
+=======================================================================
+
+Como criar SIP BagIt para envio para RDC-ARQ do AN?
+---------------------------------------------------
+Deverá ser criado SIP Bagit para envio para RDC-ARQ do AN.
+
+Atualmente não criamos o pacote SIP para envio. 
+
+Para tanto, devem ser gerados os metadados baseando-se nas referências abaixo:
+
+ - `Dicionário de Dados <https://mtegovbr-my.sharepoint.com/personal/ivina_melo_gestao_gov_br/_layouts/15/AccessDenied.aspx?Source=https%3A%2F%2Fmtegovbr%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fivina%5Fmelo%5Fgestao%5Fgov%5Fbr%2FDocuments%2FArquivos%20de%20Chat%20do%20Microsoft%20Teams%2FMetadados%20SEI%20TJRO%201%2Exlsx%3Fga%3D1&correlation=1ca5aba1%2Df094%2D9000%2D6235%2D4d786836acae&Type=item&name=35b3289e%2D96f4%2D4e1e%2Dbbba%2D53bc630db99f&listItemId=326&listItemUniqueId=0a01cad3%2D50ea%2D448d%2Db1ae%2Dc89745f5e81d>`_
+ - `Metadados EArq <https://mtegovbr-my.sharepoint.com/personal/ivina_melo_gestao_gov_br/_layouts/15/AccessDenied.aspx?Source=https%3A%2F%2Fmtegovbr%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fivina%5Fmelo%5Fgestao%5Fgov%5Fbr%2FDocuments%2FArquivos%20de%20Chat%20do%20Microsoft%20Teams%2FTCU%20%2D%20Modelo%20para%20Dicion%C3%A1rio%20de%20Dados%20%2D%20eTCU%2Exlsx%3Fga%3D1&correlation=22a5aba1%2D1000%2D9000%2D6235%2D43a6179e8aef&Type=item&name=35b3289e%2D96f4%2D4e1e%2Dbbba%2D53bc630db99f&listItemId=325&listItemUniqueId=0e7145d2%2D4168%2D42ab%2D8731%2Dda8be4203d41>`_
+ - `Diagrama Metadados <https://mtegovbr-my.sharepoint.com/:b:/r/personal/duane_silva_gestao_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/EARQV203MAI2022.pdf?csf=1&web=1&e=vpcegB>`_
+ 
+
+Notas:
+------
+Usar o https://packagist.org/packages/whikloj/bagittools para criar um bagit
+

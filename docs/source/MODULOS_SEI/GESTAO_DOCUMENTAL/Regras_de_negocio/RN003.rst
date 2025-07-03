@@ -1,0 +1,13 @@
+**RN003 - Arquivamento: Recalcular Tabela com Alterações de Assuntos**
+======================================================================
+
+Como se dará as alterações na tabela de assuntos que não estão sendo refletidas nos processos arquivados/desarquivados?
+-----------------------------------------------------------------------------------------------------------------------
+
+No módulo GD (durante a alteração na tabela de assuntos), caso o assunto mude de temporalidade e ao rodar o agendamento, o sistema deve recalcular os prazos dos processos já arquivados para verificar se houve alguma alteração na temporalidade do assunto.
+
+Atualmente, ao rodar o script de atualização da tabela de assuntos, ao alterar as informações dos assuntos tal atualização não é refletidas nos processos que já estão arquivados/desarquivados. 
+
+O problema é que atualmente o usuário precisa alterar um a um após rodar script. 
+
+Isto deve ser atualizado automaticamente, por meio de um gatilho (trigger) à ser disparado quando os dados de determinados assuntos são atualizados.

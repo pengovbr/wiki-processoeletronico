@@ -1,0 +1,9 @@
+**RN031 - Condicionantes: Tela para condicionantes que alteram a destinação final**
+===================================================================================
+
+Qual tela para as condicionantes que alteram a destinação final?
+----------------------------------------------------------------
+
+Para Condicionantes que 'Alteram a Destinação Final' (caso seja informado 'Sim' no cadastro de condicionantes), deverá ser apresentada a tela abaixo:
+
+.. figure:: Tela2_Alteracao_de_Condicionante.png

@@ -1,0 +1,10 @@
+**RN024 - Eliminação: Apresentar Informações da Unidade na tabela**
+===================================================================
+
+Como deve ser apresentado as informações da Unidade na tabela?
+--------------------------------------------------------------
+
+Ao passar o mouse sobre a unidade, o sistema deve apresentar a sigla da unidade juntamente com a descrição completa conforme imagem abaixo:
+
+.. figure:: Tela1_Preparacao_Listagem_Eliminacao.png
+ 

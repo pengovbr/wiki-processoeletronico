@@ -1,0 +1,17 @@
+**RN021 - Arquivamento: Apresentar Mensagem de Arquivamento**
+=============================================================
+
+Como apresentar mensagem de arquivamento tanto na tela 'Arquivar ´Processo' quanto no Termo de Arquivamento?
+------------------------------------------------------------------------------------------------------------
+
+Na tela 'Arquivar Processo' deverá ser incluso um campo denominado "Observações Sobre o Arquivamento" para inserção de uma mensagem relacionada ao arquivamento, conforme apresentado abaixo:
+
+.. figure:: Tela1_Arquivamento_Processo.png
+
+
+Notas
+-----
+Essa mensagem deve constar no 'Termo de Arquivamento', como apresentado abaixo:
+
+.. figure:: Tela2_Arquivamento_Processo.png
+
