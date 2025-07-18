@@ -18,3 +18,4 @@ Notas:
 ------
 Usar o https://packagist.org/packages/whikloj/bagittools para criar um bagit
 
+*Esta funcionalidade será implementada em futuras versões do módulo
