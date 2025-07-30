@@ -17,7 +17,7 @@ As hipóteses somente podem ser fundamentadas em leis vigentes, e o quadro a seg
    - * Atividade Empresarial  
      * Art. 5º, §2º, do Decreto nº 7.724/2012  
    - * Comunicação lavagem dinheiro/financiamento de terrorismo 
-     * Art. 11, II, da Lei 9.613/1998 c/c Art. 88 do DL 73/1966 
+     * Art. 11, II, da Lei 9.613/1998 c/c Art. 88-O do DL 73/1966 
    - * Controle Interno  
      * Art. 26, § 3º, da Lei nº 10.180/2001  
    - * Direito Autoral  
@@ -29,7 +29,7 @@ As hipóteses somente podem ser fundamentadas em leis vigentes, e o quadro a seg
    - * Informação Privilegiadas de Sociedades Anônimas  
      * Art. 155, § 2º, da Lei nº 6.404/1976  
    - * Informações Obtidas em Fiscalização 
-     * Art. 2º, §3º da LC 105/2001 c/c Art.88 DL 73/1966 
+     * Art. 2º, §3º da LC 105/2001 c/c Art. 88-O DL 73/1966 
    - * Interceptações de Comunicações Telefônicas  
      * Art. 8º, caput, da Lei nº 9.296/1996  
    - * Investigação de Responsabilidade do Servidor  
