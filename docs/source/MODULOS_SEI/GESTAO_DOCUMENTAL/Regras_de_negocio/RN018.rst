@@ -1,8 +1,0 @@
-**RN018 - Arquivamento: Ordenador nas colunas da tabela Arquivos da Unidade**
-============================================================================
-
-Como ordenar os dados na listagem de arquivos da unidade?
----------------------------------------------------------
-
-Deverá incluir ordenador de itens (crescente e decrescente) nas seguintes colunas da tela de Arquivo da Unidade:
-Código de Classificação, Justificativa de Arquivamento e Base Legal.

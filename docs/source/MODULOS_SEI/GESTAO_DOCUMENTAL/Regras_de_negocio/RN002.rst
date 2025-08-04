@@ -1,8 +1,0 @@
-**RN002 - Arquivamento: Limitar Desarquivamento**
-=================================================
-
-Como se dará o controle/limitação de unidades para desarquivamento de processos no Módulo Gestão Documental?
-------------------------------------------------------------------------------------------------------------
-
-No módulo GD, durante o desarquivamento de processos,  o sistema deverá limitar seu Desarquivamento conforme a Unidade o qual o arquivou.
-

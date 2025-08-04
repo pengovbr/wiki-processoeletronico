@@ -1,7 +1,0 @@
-**RN027 - Eliminação: Amostragem de Processos**
-===============================================
-
-Como selecionar uma amostra de processos para serem mantidos no sistema?
-------------------------------------------------------------------------
-
-Desenvolver funcionalidade que permita a seleção de uma amostra de processos para serem mantidos no sistema (antes da efetivação da eliminação)
