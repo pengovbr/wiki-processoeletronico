@@ -1,5 +1,5 @@
-Módulos SEI
-===========
+Módulo Gestão Documental
+========================
 
 .. toctree::
    :titlesonly:
