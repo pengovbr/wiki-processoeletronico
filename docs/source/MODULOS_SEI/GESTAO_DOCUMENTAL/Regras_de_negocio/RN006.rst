@@ -3,6 +3,6 @@
 
 Como acessar o menu para o validação de Condicionantes no módulo GD?
 -------------------------------------------------------------------
-Para validar a condicionante no Módulo de Gestão Documental, o usuário deve utilizar o menu 'Arquivo de Condicionantes' apresentado abaixo:
+Para validar a condicionante no Módulo de Gestão Documental, o usuário deve utilizar o menu 'Arquivo de Condicionantes' apresentado abaixo: 
 
 .. figure:: Menu_Condicionante.png
