@@ -3,7 +3,7 @@
 
 Como criar SIP BagIt para envio para RDC-ARQ do AN?
 ---------------------------------------------------
-Deverá ser criado SIP Bagit para envio para RDC-ARQ do AN.
+Deverá ser criado SIP Bagit para envio para RDC-ARQ do AN. 
 
 Atualmente não criamos o pacote SIP para envio. 
 
