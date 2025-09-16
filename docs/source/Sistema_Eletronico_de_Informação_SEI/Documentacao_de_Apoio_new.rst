@@ -159,7 +159,7 @@ Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível co
 
 Abaixo segue os script de mapeamento compatível com todos bancos de dados utilizados:
 
-:download:`Scrip_SQLServer <_static/images_downloads/script_mapeamento_tabela_assuntos_14_47_174.php>`
+- :download:`Scrip_SQLServer <_static/images_downloads/script_mapeamento_tabela_assuntos_14_47_174.php>`
 
 
 Orientações
