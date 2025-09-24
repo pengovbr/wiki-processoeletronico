@@ -1,5 +1,5 @@
-Módulo Gestão Documental
-========================
+Módulos SEI
+===========
 
 .. toctree::
    :titlesonly:
@@ -8,6 +8,6 @@ Módulo Gestão Documental
    ADESAO
    ERRO_NA_NOMENCLATURA_DE_DOCUMENTOS_QUANDO_DA INSTALACAO_DO_MODULO
    ERRO_NO_ACERVO_GLOBAL
-   ERRO_NO_ARQUIVAMENTO-DESATIVACAO_DE_ASSUNTO
+   
    
    
