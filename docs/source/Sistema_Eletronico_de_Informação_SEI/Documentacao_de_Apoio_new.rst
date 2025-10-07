@@ -128,7 +128,7 @@ Scripts de Conversão Tabela de Assuntos SEI
 
 .. admonition:: Atenção
 
- Recomenda-se que o script seja testado em ambiente de homologação antes de ser aplicado no ambiente de produção do SEI. 
+   Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI.  
 
 Esta seção é dedicada à concentração do scripts a serem utilizados para a conversão ("DE PARA") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidades pelo Arquivo Nacional.
 
