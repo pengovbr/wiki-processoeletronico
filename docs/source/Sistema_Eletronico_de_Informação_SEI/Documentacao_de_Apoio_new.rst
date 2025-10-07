@@ -152,7 +152,7 @@ Sobre esse tema, algumas observações:
 Devido à atualização da Tabela de Assuntos relativos à área meio publicada pelo Arquivo Nacional, em setembro de 2024, foi solicitado pelos órgãos um script que automatizasse essa atualização no SEI!, que é feita manualmente.
 
    
-Resolução n. 14 de 24 de outubro de 2001, do CONARQ, para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 e Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024
+Script de Conversão da Tabela de Assuntos do SEI para a Portaria AN/MGI nº 174, de 23 de Setembro de 2024. 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível com os bancos de dados Oracle, MySql e SqlServer no qual o usuário irá inserir um parâmetro para escolher a partir de qual tabela será feita a equivalência, a partir da Resolução n. 14 de 24 de outubro de 2001, do CONARQ ou a partir da Portaria AN nº47, de 14 de fevereiro de 2020.
