@@ -128,9 +128,9 @@ Scripts de Conversão Tabela de Assuntos SEI
 
 .. admonition:: Atenção
 
-   Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI. 
+ Recomenda-se que o script seja testado em ambiente de homologação antes de ser aplicado no ambiente de produção do SEI. 
 
-Esta seção é dedicada à concentração dos scripts a serem utilizados para a conversão ("DE PARA") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidades pelo Arquivo Nacional.
+Esta seção é dedicada à concentração do scripts a serem utilizados para a conversão ("DE PARA") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidades pelo Arquivo Nacional.
 
 A planilha de De/Para utilizada para conversão da Resolução n. 14 de 24 de outubro de 2001, do CONARQ para Portaria AN/MGI nº 174, de 23 de setembro de 2024 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/images_downloads/DePara_Res14_Por174.xlsx>` 
 
@@ -141,23 +141,19 @@ O script de mapeamento irá realizar a inserção de uma nova tabela e seus assu
 
 Sobre esse tema, algumas observações:
 
-- Tais scripts deverão ser utilizados por servidores com perfil profissional técnico e acesso ao banco de dados SEI do seu Órgão/UNIDADE; e
+- O script deverá ser executado por colaboradores com perfil profissional técnico e acesso ao banco de dados SEI do seu Órgão/UNIDADE; e
 
 - Esta solução só poderá ser utilizada em versões superiores a 4.0.
 
 .. admonition:: Nota
 
-   Para um funcionamento adequado da tabela 'De/Para', onde a relação é de 1 para 1, foram preenchidas as lacunas dos códigos da coluna 'De', repetindo-se o código original e adicionando as letras a,b,c... após o número. Isso se aplica aos códigos que foram desdobrados em mais de 1, na coluna 'Para'. Dessa forma, **ressalta-se a necessidade de análise do órgão antes de qualquer aplicação no ambiente de produção**.
-
-Devido à atualização da Tabela de Assuntos relativos à área meio publicada pelo Arquivo Nacional, em setembro de 2024, foi solicitado pelos órgãos um script que automatizasse essa atualização no SEI!, que é feita manualmente.
-
    
 Script de Conversão da Tabela de Assuntos do SEI para a Portaria AN/MGI nº 174, de 23 de Setembro de 2024. 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível com os bancos de dados Oracle, MySql e SqlServer no qual o usuário irá inserir um parâmetro para escolher a partir de qual tabela será feita a equivalência, a partir da Resolução n. 14 de 24 de outubro de 2001, do CONARQ ou a partir da Portaria AN nº47, de 14 de fevereiro de 2020.
+Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível com os bancos de dados Oracle, MySql e SqlServer no qual o usuário irá inserir um parâmetro para escolher a partir de qual tabela será feita a equivalência: a partir da Resolução n. 14 de 24 de outubro de 2001, do CONARQ, ou a partir da Portaria AN nº47, de 14 de fevereiro de 2020.
 
-Abaixo segue os script de mapeamento compatível com todos bancos de dados utilizados:
+Abaixo segue o script de mapeamento compatível com todos bancos de dados utilizados:
 
 - :download:`Scrip_SQLServer <_static/images_downloads/script_mapeamento_tabela_assuntos_14_47_174.php>`
 
