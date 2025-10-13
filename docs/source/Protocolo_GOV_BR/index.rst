@@ -11,6 +11,8 @@ Maiores informações sobre o **Protocolo.GOV.BR** podem ser consultadas no `Por
    :hidden:
    :titlesonly:
 
+   Controle_Funcionalidades
    Documentacao_de_Apoio
    TreinamentosApresentacoes
+
    
