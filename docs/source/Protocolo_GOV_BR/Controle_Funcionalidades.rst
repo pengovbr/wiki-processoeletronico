@@ -1,5 +1,5 @@
-Controle de Funcionalidades da Sydle
-=====================================
+Controle Funcionalidades Sydle
+==============================
 
 Novas funcionalidades implementadas em DD/MM/AAAA:
 
