@@ -169,11 +169,12 @@ Orientações
   
   /usr/bin/php -c /etc/php.ini /opt/sei/scripts/script_mapeamento_tabela_assuntos_14_47_174.php
 
-3) Após a execução, serão exibidas duas opções:
+3) Após a execução do script, serão apresentadas duas opções:
 
- - 14 – Atualização dos assuntos arquivísticos conforme a Portaria nº 174/2024 e mapeamento dos assuntos da tabela referente à Portaria nº 14/2001.
+:: 
 
- - 47 – Atualização dos assuntos arquivísticos conforme a Portaria nº 174/2024 e mapeamento dos assuntos da tabela referente à Portaria nº 47/2020.
+   14 – Atualização dos assuntos arquivísticos conforme a Portaria nº 174/2024 e mapeamento dos assuntos da tabela referente à Portaria nº 14/2001.
+   47 – Atualização dos assuntos arquivísticos conforme a Portaria nº 174/2024 e mapeamento dos assuntos da tabela referente à Portaria nº 47/2020.
 
 4) Deverá ser fornecida a opção desejada (14 ou 47).
 
