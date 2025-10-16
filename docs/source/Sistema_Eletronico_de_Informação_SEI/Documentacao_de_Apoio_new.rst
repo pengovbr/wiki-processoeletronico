@@ -162,20 +162,24 @@ Abaixo segue o script de mapeamento compatível com todos bancos de dados utiliz
 
 Orientações
 +++++++++++
+1) Deverá ser feito o download do script para o servidor onde será executado.
+2) Após realizar o download do script, o seguida comando deve ser executado:
 
-1) Executar o script de mapeamento no banco de dados conforme versão da tabela que consta no Sistema SEI! do órgão.
+- /usr/bin/php -c /etc/php.ini /opt/sei/scripts/script_mapeamento_tabela_assuntos_14_47_174.php
 
-2) Após o término da execução do script de relacionamento, uma nova tabela de assuntos ficará disponível no SEI;
+3) Após a execução, serão exibidas duas opções:
 
-3) Analisar o conteúdo da nova tabela de assuntos e ativá-la;
+ - 14 – Atualização dos assuntos arquivísticos conforme a Portaria nº 174/2024 e mapeamento dos assuntos da tabela referente à Portaria nº 14/2001.
 
-.. figure:: _static/images_downloads/Tela_ativacao_nova_tabela_1.gif
+ - 47 – Atualização dos assuntos arquivísticos conforme a Portaria nº 174/2024 e mapeamento dos assuntos da tabela referente à Portaria nº 47/2020.
 
-4) Para concluir o trabalho, executar o script de atualização das sequências do banco de dados SEI, se o banco de dados for o MySQL ou Sql Server. Para isso, execute o comando: 
+4) Deverá ser fornecida a opção desejada (14 ou 47).
 
-:: 
-  
-  /usr/bin/php -c /etc/php.ini /opt/sei/scripts/atualizar_sequencias.php > atualizacao_versao_sei.log
+5) Ao selecionar a opção, o próprio script identifica automaticamente o tipo de banco de dados em uso (SQL Server, Oracle ou MySQL) e executa o procedimento conforme o banco identificado.
+
+6) Após a execução, ao verificar a tabela de assuntos no SEI e atualizar a página, será possível visualizar o mapeamento referente ao script executado. A execução atual permanece ativa, enquanto a anterior é desativada.
+
+     (Inserir vídeo demonstrativo)
 
 
 
