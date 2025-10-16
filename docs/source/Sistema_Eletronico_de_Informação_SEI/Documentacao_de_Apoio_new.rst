@@ -157,7 +157,7 @@ Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível co
 
 Abaixo segue o script de mapeamento compatível com todos bancos de dados utilizados:
 
-- :download:`Scrip_Mapeamento_Tabela_Assuntos <_static/images_downloads/script_mapeamento_tabela_assuntos_14_47_174.php>`
+- :download:`Script_Mapeamento_Tabela_Assuntos <_static/images_downloads/script_mapeamento_tabela_assuntos_14_47_174.php>`
 
 
 Orientações
