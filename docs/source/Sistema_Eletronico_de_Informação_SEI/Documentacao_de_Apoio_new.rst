@@ -165,7 +165,9 @@ Orientações
 1) O script deve ser transferido (download realizado) para o servidor de destino onde será executado.
 2) Após o download do script, execute o seguinte comando:
 
-- /usr/bin/php -c /etc/php.ini /opt/sei/scripts/script_mapeamento_tabela_assuntos_14_47_174.php
+:: 
+  
+  /usr/bin/php -c /etc/php.ini /opt/sei/scripts/script_mapeamento_tabela_assuntos_14_47_174.php
 
 3) Após a execução, serão exibidas duas opções:
 
