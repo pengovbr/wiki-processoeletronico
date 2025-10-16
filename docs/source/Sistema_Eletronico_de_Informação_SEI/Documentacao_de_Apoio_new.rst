@@ -162,8 +162,8 @@ Abaixo segue o script de mapeamento compatível com todos bancos de dados utiliz
 
 Orientações
 +++++++++++
-1) Deverá ser feito o download do script para o servidor onde será executado.
-2) Após realizar o download do script, o seguinte comando deve ser executado:
+1) O script deve ser transferido (download realizado) para o servidor de destino onde será executado.
+2) Após o download do script, execute o seguinte comando:
 
 - /usr/bin/php -c /etc/php.ini /opt/sei/scripts/script_mapeamento_tabela_assuntos_14_47_174.php
 
