@@ -175,7 +175,7 @@ Orientações
 
 4) Deverá ser fornecida a opção desejada (14 ou 47).
 
-.. figure:: _static/images_downloads/OPCOES.png
+ .. figure:: _static/images_downloads/OPCOES.png
 
 5) Ao selecionar a opção, o próprio script identifica automaticamente o tipo de banco de dados em uso (SQL Server, Oracle ou MySQL) e executa o procedimento conforme o banco identificado.
 
