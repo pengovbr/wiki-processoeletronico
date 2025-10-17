@@ -171,12 +171,11 @@ Orientações
 
 3) Após a execução do script, serão apresentadas duas opções:
 
-:: 
-
-   14 – Atualização dos assuntos arquivísticos conforme a Portaria nº 174/2024 e mapeamento dos assuntos da tabela referente à Portaria nº 14/2001.
-   47 – Atualização dos assuntos arquivísticos conforme a Portaria nº 174/2024 e mapeamento dos assuntos da tabela referente à Portaria nº 47/2020.
+ .. figure:: _static/images_downloads/OPCOES_TABELA_ASSUNTOS.png 
 
 4) Deverá ser fornecida a opção desejada (14 ou 47).
+
+.. figure:: _static/images_downloads/OPCOES.png
 
 5) Ao selecionar a opção, o próprio script identifica automaticamente o tipo de banco de dados em uso (SQL Server, Oracle ou MySQL) e executa o procedimento conforme o banco identificado.
 
