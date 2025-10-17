@@ -188,7 +188,7 @@ Orientações
 Notas sobre os códigos 024.139 e 024.149 na Tabela de Assuntos
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Referente aos códigos 024.139 e 024.149 na Tabela de Assuntos, ambos devem ser atualizados pelo próprio órgão, conforme as orientações da equipe de gestão documental.
+Referente aos códigos 024.139 e 024.149 na Tabela de Assuntos, ambos devem ser atualizados pelo próprio órgão, conforme as orientações da Equipe de Gestão Documental.
 
 A seguir, uma breve explicação sobre cada um:
 
