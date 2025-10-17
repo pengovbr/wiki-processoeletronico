@@ -179,7 +179,7 @@ Orientações
 
 6) Após a execução, ao verificar a tabela de assuntos no SEI e atualizar a página, será possível visualizar o mapeamento referente ao script executado. A execução atual permanece ativa, enquanto a anterior é desativada.
 
-     .. figure:: _static/images_downloads/Tela_ativacao_nova_tabela_1.gif
+ .. figure:: _static/images_downloads/Tela_ativacao_nova_tabela_1.gif
 
 
 
