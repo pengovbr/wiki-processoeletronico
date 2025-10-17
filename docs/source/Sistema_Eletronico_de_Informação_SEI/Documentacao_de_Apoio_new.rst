@@ -132,11 +132,12 @@ Scripts de Conversão Tabela de Assuntos SEI
 
 Esta seção é dedicada à concentração do scripts a serem utilizados para a conversão ("DE PARA") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidades pelo Arquivo Nacional.
 
-**Pendente Conferir com o Marco**
-----------------------------------
+**Pendente Conferir com o Marco Inicio**
+----------------------------------------
 A planilha de De/Para utilizada para conversão da Resolução n. 14 de 24 de outubro de 2001, do CONARQ para Portaria AN/MGI nº 174, de 23 de setembro de 2024 está disponível no link a seguir: :download:`DePara_Res14_Por174 <_static/images_downloads/DePara_Res14_Por174.xlsx>` 
-**Pendente Conferir com o Marco**
-----------------------------------
+
+**Pendente Conferir com o Marco Fim**
+-------------------------------------
 
 Já a planilha de De/Para utilizada para conversão da Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 foi elaborada pelo PEN com base nos documentos publicados pelo Arquivo Nacional, e está processo para a aprovação do referido órgão. 
 
