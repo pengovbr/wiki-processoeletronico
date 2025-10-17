@@ -185,6 +185,20 @@ Orientações
  .. figure:: _static/images_downloads/Tela_ativacao_nova_tabela_1.gif
 
 
+Notas sobre os códigos 024.139 e 024.149 na Tabela de Assuntos
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Referente aos códigos 024.139 e 024.149 na Tabela de Assuntos, ambos devem ser atualizados pelo próprio órgão, conforme as orientações da equipe de gestão documental.
+
+A seguir, uma breve explicação sobre cada um:
+
+ - 024.139 – Código existente apenas na Tabela 14, sem existência de equivalência. O órgão deve avaliar e atribuir a equivalência apropriada.
+
+ - 024.149 – Código também exclusivo da Tabela 14, sem existência de equivalência. O órgão deve avaliar e atribuir a equivalência apropriada.
+
+
+
+
 
 
 
