@@ -184,6 +184,12 @@ Orientações
 
  .. figure:: _static/images_downloads/Tela_ativacao_nova_tabela_1.gif
 
+7) Para concluir o trabalho, executar o script de atualização das sequências do banco de dados SEI, se o banco de dados for o MySQL ou Sql Server. Para isso, execute o comando: 
+
+:: 
+  
+  /usr/bin/php -c /etc/php.ini /opt/sei/scripts/atualizar_sequencias.php > atualizacao_versao_sei.log
+
 
 Notas sobre os códigos 024.139 e 024.149 na tabela de assuntos
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
