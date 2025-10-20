@@ -185,7 +185,8 @@ Orientações
  .. figure:: _static/images_downloads/Tela_ativacao_nova_tabela_1.gif
 
 
-.. admonition::  Notas sobre os códigos 024.139 e 024.149 na tabela de assuntos
+Notas sobre os códigos 024.139 e 024.149 na tabela de assuntos
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Referente aos códigos 024.139 e 024.149 na tabela de assuntos, ambos devem ser atualizados pelo próprio órgão, conforme as orientações da equipe de gestão documental.
 
