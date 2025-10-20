@@ -132,7 +132,7 @@ Scripts de Conversão Tabela de Assuntos SEI
 
 Esta seção é dedicada à concentração do scripts a serem utilizados para a conversão ("DE PARA") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidades pelo Arquivo Nacional.
 
-A planilha de De/Para utilizada para conversão da Resolução n. 14 de 24 de outubro de 2001, do CONARQ para Portaria AN/MGI nº 174, de 23 de setembro de 2024 está disponível para download na `página do Arquivo Nacional <https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/planilha-eletronica-com-instrumentos-de-gestao-de-documentos-relativos-as-atividades-meio>`_
+A planilha de De/Para utilizada para conversão da Resolução n. 14 de 24 de outubro de 2001, do CONARQ para Portaria AN/MGI nº 174, de 23 de setembro de 2024 está disponível para download na `Página do Arquivo Nacional <https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/planilha-eletronica-com-instrumentos-de-gestao-de-documentos-relativos-as-atividades-meio>`_
 
 Já a planilha de De/Para utilizada para conversão da Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 foi elaborada pelo PEN com base nos documentos publicados pelo Arquivo Nacional, passou pela aprovação do referido órgão e esta disponível na `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_
 
