@@ -7,6 +7,6 @@ Em construção.
    :hidden:
    :titlesonly:
 
-   Documentacao_de_Apoio
+   Guia_do_Usuario
    TreinamentosApresentacoes
    
