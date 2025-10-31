@@ -131,7 +131,106 @@ Para registrar demanda junto à Central de Atendimento, você deverá observar o
 
 .. figure:: _static/images/Guia_Usuario_AtPEN_Portal-orgao.png
 
-3.	O próximo passo é escolher a solução para a qual deseja suporte. É importante destacar que os ícones dos produtos do PEN aparecem em cada esfera administrativa de acordo com a disponibilidade. Confira na lista ao final do documento a relação dos produtos e dos tipos de suporte oferecidos.
+3.	O próximo passo é escolher a solução para a qual deseja suporte. É importante destacar que os ícones dos produtos do PEN aparecem em cada esfera administrativa de acordo com a disponibilidade. Confira na :ref:`Lista` ao final do documento a relação dos produtos e dos tipos de suporte oferecidos.
+
+
+4.	Escolhido o produto, selecione o tipo de suporte necessário e, se possível, preencha todos os dados solicitados. Em alguns casos, além dos campos obrigatórios, também será exigido/sugerido o envio de anexos (logs, prints, gravações de tela) que possibilitem prosseguir com o atendimento.
+
+*Se liga! Quanto mais robusta e detalhada for a sua solicitação, mais acurada será a análise da nossa equipe técnica.
+Atenção! Um assunto = um chamado. 
+Para que sua solicitação seja atendida com mais rapidez e precisão, abra um chamado para cada assunto. Assim, cada pedido vai direto para a equipe certa e o atendimento fica muito mais ágil e organizado.
+
+5.	Fluxo de Atendimento Interno – como funciona
+------------------------------------------------
+
+O fluxo interno define responsabilidades e passos para tratamento das demandas recebidas:
+
+1.	Triagem inicial e Suporte Analítico (Nível 2 – N2)
+2.	Recebimento do chamado e início do atendimento;
+3.	Verificação de integridade das informações;
+4.	Contato com você para esclarecimento de informações adicionais;
+5.	Esclarecimento de dúvidas ou resolução de incidentes frequentes, para os quais já exista documentação técnica disponibilizada;
+6.	Respostas técnicas baseadas em bancos de conhecimento e scripts;
+7.	Encaminhamento ao nível superior (Nível 3), quando exigido em virtude da complexidade da solicitação.
+8.	Suporte Especializado / Negocial e Técnico (Nível 3 – N3)
+9.	Alterações de código ou funções do sistema;
+10.	Diagnóstico de falhas, correções de bugs, ações de contorno;
+11.	Integração com outras equipes ou colaboradores externos, se necessário;
+12.	Testes e validação da solução; 
+13.	Retorno ao usuário e encerramento.
+
+O atendente responsável comunicará a você as orientações para resolução do problema;
+
+O chamado permanecerá aberto enquanto houver interação entre você e a equipe (solicitação de testes, envio de configurações, confirmação de ações necessárias etc.);
+
+O chamado será encerrado quando a equipe encaminhar resposta definitiva acerca da solicitação ou quando você deixar de interagir por mais de **72h**. Em qualquer dos casos, é possível reabrir o chamado em até 48h, se necessário.
+
+6. Regras de conduta, ética e privacidade
+-----------------------------------------
+
+Respeitar sempre os princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência, conforme previsto no regime jurídico do serviço público.
+
+Manter discrição e confidencialidade no tratamento de dados pessoais ou sensíveis. Seguir normas da Lei Geral de Proteção de Dados (LGPD) e demais regulamentos aplicáveis.
+
+Evitar vazamentos de informações, compartilhamento indevido ou uso de dados para fins diversos dos previstos no atendimento.
+Garantir acessibilidade para todos os usuários, considerando deficiência e barreiras de acesso; usar linguagem inclusiva e clara.
+
+7. Política de feedback, reclamações, sugestões e elogios
+---------------------------------------------------------
+
+Após o encerramento de cada chamado, será disponibilizado meio para avaliação da sua satisfação.
+
+Sugestões e reclamações poderão ser encaminhadas diretamente pela Central de Atendimento ou por meio dos canais institucionais (ouvidoria, Fala.Br, entre outros).
+
+As críticas serão analisadas com vistas a identificar oportunidades de melhorias nos processos.
+
+Elogios e reconhecimentos também serão registrados, para motivar boas práticas e divulgar casos de sucesso.
+
+8. Lista de links / documentos institucionais de referência
+-----------------------------------------------------------
+
+Aqui estão as principais fontes para aprimorar o seu uso do Processo Eletrônico Nacional:
+
+**Página oficial do Processo Eletrônico Nacional (PEN)**: Este é o hub central de informações sobre o PEN, o Programa Nacional de Processo Eletrônico (ProPEN) e todas as suas soluções. É um ponto de partida excelente para entender a infraestrutura e os objetivos.
+https://gov.br/pen
+
+**Manuais técnicos operacionais**: Aqui você encontra a documentação técnica e guias detalhados para operar os diversos módulos e sistemas do PEN. É um recurso essencial para usuários que buscam instruções aprofundadas.
+https://www.manuais.processoeletronico.gov.br
+
+**FAQ / Base de Conhecimento atualizada do PEN (WikiPEN)**: Um repositório valioso que reúne perguntas frequentes, documentação de apoio e informações detalhadas sobre o funcionamento dos sistemas, incluindo regras de negócio e detalhes de Protocolo Integrado. É ideal para tirar dúvidas e aprofundar conhecimentos.
+https://www.wiki.processoeletronico.gov.br
+
+**Portal de Serviços do MGI**: Este é o endereço da Central de Atendimento, seja para abrir chamados, relatar erros, tirar dúvidas, sugerir melhorias ou solicitar acessos. É o seu canal formal de comunicação com o suporte.
+https://www.portaldeservicos.gestao.gov.br
+
+**Política da Central de Atendimento da SEGES (Carta de Serviços ao Usuário do MGI)**: Esta carta detalha os compromissos, padrões de atendimento e a política que rege a Central de Atendimento, agora integrada ao Ministério da Gestão e da Inovação em Serviços Públicos. É fundamental para entender os direitos e expectativas do usuário em relação ao suporte.
+https://www.gov.br/gestao/pt-br/acesso-a-informacao/carta-de-servicos-ao-usuario
+
+**Página da Central de Atendimento aos Sistemas Estruturantes do MGI**: orienta o usuário sobre como abrir e acompanhar solicitações, indicando canais, requisitos e prazos. Também informa políticas de atendimento, Carta de Serviços, horários de funcionamento, aspectos de acessibilidade e diretrizes de privacidade em conformidade com a LGPD.
+https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento
+
+
+
+9. Revisão e atualização
+------------------------
+
+Este Guia será revisado periodicamente ou sempre que houver:
+
+- Inclusão/exclusão de sistemas ou módulos do PEN;
+- Mudança de legislação aplicável;
+- Resultados de avaliações ou auditorias que indiquem necessidade de ajustes;
+- Inclusão de novas funcionalidades, canais ou modificações nos processos de atendimento.
+
+
+
+10. Anexos
+----------
+
+.. _Lista:
+
+Lista de produtos e suportes oferecidos
++++++++++++++++++++++++++++++++++++++++
+
 
 API do Protocolo Integrado
  * O que é? Interface REST para integrar sistemas ao Protocolo Integrado nacional.
@@ -139,7 +238,6 @@ API do Protocolo Integrado
  * Disponível para: Executivo Federal; Executivo Estadual; Executivo Municipal; Outros Poderes.
  * Tipos de suporte na Central: Solicitar acesso; Reportar um erro; Registrar uma dúvida; Sugerir uma melhoria.
  * Para saber mais: `WikiPEN - Regras de Negócio da plataforma do Protocolo Integrado <https://wiki.processoeletronico.gov.br/pt-br/latest/Protocolo_Integrado/Regras_de_Negocio/index.html>`__; `Portal do Protocolo Integrado <https://protocolointegrado.gov.br/Protocolo/projeto.jsf>`__; `gov.br/pen - Protocolo Integrado <https://www.gov.br/mcti/pt-br/acesso-a-informacao/processo-eletronico/protocolo-integrado>`__
-
 
 
 API do Tramita Gov.BR
@@ -251,92 +349,3 @@ SEI
  * Disponível para: Executivo Federal; Executivo Estadual; Executivo Municipal; Outros Poderes.
  * Tipos de suporte na Central: Solicitar acesso ao código; Reportar um erro; Registrar uma dúvida; Sugerir uma melhoria.
  * Para saber mais: `gov.br/pen - SEI <https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/informacoes-sistemas-e-servicos-de-gestao/processo-eletronico-nacional/conteudo/SEI>`__;  `WikiPen - Documentação de Apoio <https://wiki.processoeletronico.gov.br/pt-br/latest/Sistema_Eletronico_de_Informa%C3%A7%C3%A3o_SEI/Documentacao_de_Apoio.html>`__;  `Manuais - Manual do Administrador SEI <https://manuais.processoeletronico.gov.br/pt-br/latest/SEIADM/index.html>`__; `Manuais - Manual do Usuário SEI 4.0+ <https://manuais.processoeletronico.gov.br/pt-br/latest/SEI/index.html>`__
-
-
-
-4.	Escolhido o produto, selecione o tipo de suporte necessário e, se possível, preencha todos os dados solicitados. Em alguns casos, além dos campos obrigatórios, também será exigido/sugerido o envio de anexos (logs, prints, gravações de tela) que possibilitem prosseguir com o atendimento.
-
-*Se liga! Quanto mais robusta e detalhada for a sua solicitação, mais acurada será a análise da nossa equipe técnica.
-Atenção! Um assunto = um chamado. 
-Para que sua solicitação seja atendida com mais rapidez e precisão, abra um chamado para cada assunto. Assim, cada pedido vai direto para a equipe certa e o atendimento fica muito mais ágil e organizado.
-
-5.	Fluxo de Atendimento Interno – como funciona
-------------------------------------------------
-
-O fluxo interno define responsabilidades e passos para tratamento das demandas recebidas:
-
-1.	Triagem inicial e Suporte Analítico (Nível 2 – N2)
-2.	Recebimento do chamado e início do atendimento;
-3.	Verificação de integridade das informações;
-4.	Contato com você para esclarecimento de informações adicionais;
-5.	Esclarecimento de dúvidas ou resolução de incidentes frequentes, para os quais já exista documentação técnica disponibilizada;
-6.	Respostas técnicas baseadas em bancos de conhecimento e scripts;
-7.	Encaminhamento ao nível superior (Nível 3), quando exigido em virtude da complexidade da solicitação.
-8.	Suporte Especializado / Negocial e Técnico (Nível 3 – N3)
-9.	Alterações de código ou funções do sistema;
-10.	Diagnóstico de falhas, correções de bugs, ações de contorno;
-11.	Integração com outras equipes ou colaboradores externos, se necessário;
-12.	Testes e validação da solução; 
-13.	Retorno ao usuário e encerramento.
-
-O atendente responsável comunicará a você as orientações para resolução do problema;
-
-O chamado permanecerá aberto enquanto houver interação entre você e a equipe (solicitação de testes, envio de configurações, confirmação de ações necessárias etc.);
-
-O chamado será encerrado quando a equipe encaminhar resposta definitiva acerca da solicitação ou quando você deixar de interagir por mais de **72h**. Em qualquer dos casos, é possível reabrir o chamado em até 48h, se necessário.
-
-6. Regras de conduta, ética e privacidade
------------------------------------------
-
-Respeitar sempre os princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência, conforme previsto no regime jurídico do serviço público.
-
-Manter discrição e confidencialidade no tratamento de dados pessoais ou sensíveis. Seguir normas da Lei Geral de Proteção de Dados (LGPD) e demais regulamentos aplicáveis.
-
-Evitar vazamentos de informações, compartilhamento indevido ou uso de dados para fins diversos dos previstos no atendimento.
-Garantir acessibilidade para todos os usuários, considerando deficiência e barreiras de acesso; usar linguagem inclusiva e clara.
-
-7. Política de feedback, reclamações, sugestões e elogios
----------------------------------------------------------
-
-Após o encerramento de cada chamado, será disponibilizado meio para avaliação da sua satisfação.
-
-Sugestões e reclamações poderão ser encaminhadas diretamente pela Central de Atendimento ou por meio dos canais institucionais (ouvidoria, Fala.Br, entre outros).
-
-As críticas serão analisadas com vistas a identificar oportunidades de melhorias nos processos.
-
-Elogios e reconhecimentos também serão registrados, para motivar boas práticas e divulgar casos de sucesso.
-
-8. Lista de links / documentos institucionais de referência
------------------------------------------------------------
-
-Aqui estão as principais fontes para aprimorar o seu uso do Processo Eletrônico Nacional:
-
-**Página oficial do Processo Eletrônico Nacional (PEN)**: Este é o hub central de informações sobre o PEN, o Programa Nacional de Processo Eletrônico (ProPEN) e todas as suas soluções. É um ponto de partida excelente para entender a infraestrutura e os objetivos.
-https://gov.br/pen
-
-**Manuais técnicos operacionais**: Aqui você encontra a documentação técnica e guias detalhados para operar os diversos módulos e sistemas do PEN. É um recurso essencial para usuários que buscam instruções aprofundadas.
-https://www.manuais.processoeletronico.gov.br
-
-**FAQ / Base de Conhecimento atualizada do PEN (WikiPEN)**: Um repositório valioso que reúne perguntas frequentes, documentação de apoio e informações detalhadas sobre o funcionamento dos sistemas, incluindo regras de negócio e detalhes de Protocolo Integrado. É ideal para tirar dúvidas e aprofundar conhecimentos.
-https://www.wiki.processoeletronico.gov.br
-
-**Portal de Serviços do MGI**: Este é o endereço da Central de Atendimento, seja para abrir chamados, relatar erros, tirar dúvidas, sugerir melhorias ou solicitar acessos. É o seu canal formal de comunicação com o suporte.
-https://www.portaldeservicos.gestao.gov.br
-
-**Política da Central de Atendimento da SEGES (Carta de Serviços ao Usuário do MGI)**: Esta carta detalha os compromissos, padrões de atendimento e a política que rege a Central de Atendimento, agora integrada ao Ministério da Gestão e da Inovação em Serviços Públicos. É fundamental para entender os direitos e expectativas do usuário em relação ao suporte.
-https://www.gov.br/gestao/pt-br/acesso-a-informacao/carta-de-servicos-ao-usuario
-
-**Página da Central de Atendimento aos Sistemas Estruturantes do MGI**: orienta o usuário sobre como abrir e acompanhar solicitações, indicando canais, requisitos e prazos. Também informa políticas de atendimento, Carta de Serviços, horários de funcionamento, aspectos de acessibilidade e diretrizes de privacidade em conformidade com a LGPD.
-https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/central-de-atendimento
-
-
-
-9. Revisão e atualização
-------------------------
-
-Este Guia será revisado periodicamente ou sempre que houver:
-
-- Inclusão/exclusão de sistemas ou módulos do PEN;
-- Mudança de legislação aplicável;
-- Resultados de avaliações ou auditorias que indiquem necessidade de ajustes;
-- Inclusão de novas funcionalidades, canais ou modificações nos processos de atendimento.
