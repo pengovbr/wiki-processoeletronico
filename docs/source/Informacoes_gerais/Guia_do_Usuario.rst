@@ -91,7 +91,7 @@ As comunidades do PEN são espaços colaborativos que servem para:
 •	Não compartilhar dados pessoais, informações sigilosas, credenciais ou conteúdos internos sensíveis;
 •	Não publicar logs, prints ou anexos que exponham dados protegidos. Quando necessário, anonimizar antes de postar.
 
-.. note:: 
+.. attention:: 
 ATENÇÃO! Os canais de relacionamento não substituem o Portal de Serviços e não são um canal para registrar solicitações técnicas ou tratativas negociais. Esses tipos de demandas devem sempre ser abertos como chamados, garantindo registro de protocolo e acompanhamento formal.
  
 3.	 Orientações de boas práticas
@@ -109,7 +109,7 @@ Você é um parceiro importante e tem papel fundamental no bom funcionamento da 
 
 •	Responda prontamente aos pedidos de informações adicionais feitos pela Central e acompanhe frequentemente os chamados, já que podem ocorrer falhas no recebimento das notificações de status e, assim, o atendimento pode ser encerrado por falta de interação (no caso de não haver resposta em até 72h);
 
-.. note:: 
+.. attention:: 
 Lembre-se! É sua responsabilidade o acompanhamento periódico dos chamados abertos!
 
 •	Se o atendimento for encerrado e ainda houver dúvidas ou persistir o problema, providencie a reabertura em até 48h; essa conduta agiliza a solução, visto que o chamado é priorizado e não passará por uma nova triagem e análise inicial;
@@ -136,7 +136,8 @@ Para registrar demanda junto à Central de Atendimento, você deverá observar o
 
 4.	Escolhido o produto, selecione o tipo de suporte necessário e, se possível, preencha todos os dados solicitados. Em alguns casos, além dos campos obrigatórios, também será exigido/sugerido o envio de anexos (logs, prints, gravações de tela) que possibilitem prosseguir com o atendimento.
 
-*Se liga! Quanto mais robusta e detalhada for a sua solicitação, mais acurada será a análise da nossa equipe técnica.
+.. attention:: 
+Se liga! Quanto mais robusta e detalhada for a sua solicitação, mais acurada será a análise da nossa equipe técnica.
 Atenção! Um assunto = um chamado. 
 Para que sua solicitação seja atendida com mais rapidez e precisão, abra um chamado para cada assunto. Assim, cada pedido vai direto para a equipe certa e o atendimento fica muito mais ágil e organizado.
 
