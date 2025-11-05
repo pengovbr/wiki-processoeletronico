@@ -1,7 +1,6 @@
 Projeto Sanção-Veto
 ===================
 
-
 .. toctree::
    :hidden:
    :titlesonly:
