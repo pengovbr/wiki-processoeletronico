@@ -1,1 +1,13 @@
+**RN 02**
+=========
+O menu Sanção&Veto deve implementar uma estrutura hierárquica dinâmica e persistente para organização das funcionalidades de gestão do módulo. 
 
+Suas seções devem agrupar operações relacionadas e permitir expansão/recolhimento, mantendo o estado de visualização durante a sessão do usuário para garantir uma experiência de navegação consistente.
+
+
+- **Exemplo do menu à ser implementado:**
+ **1) Tela do Menu Sanção&Veto totalmente recolhida:** 
+       .. figure:: Menu1.png
+
+ **2) Tela do Menu Sanção&Veto expandida mostrando as seções:** 
+       .. figure:: Menu2.png
