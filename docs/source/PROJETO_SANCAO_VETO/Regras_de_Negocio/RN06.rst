@@ -1,1 +1,5 @@
+**RN 06**
+=========
+O sistema deve implementar validação para garantir que apenas usuários com o perfil específico "Administrador do Sanção&Veto" possam acessar as funcionalidades administrativas do módulo. 
 
+Esta validação deve ser independente de outros perfis do sistema, incluindo o perfil de administrador geral.
