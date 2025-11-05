@@ -1,1 +1,8 @@
+**RN 01**
+=========
+Para acessar o Sanção&Veto, o usuário deve utilizar um navegador de internet para acessar a URL, informar seu login, senha e o órgão ao qual está vinculado.
 
+O tipo de órgão vinculado esta listado abaixo:
+ - SANÇÂO-VETO.
+
+.. figure:: AcessoSistema.png
