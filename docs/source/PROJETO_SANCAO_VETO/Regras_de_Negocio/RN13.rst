@@ -1,1 +1,6 @@
+**RN 13**
+=========
+O sistema deve implementar validação completa do campo obrigatório, garantindo que o tipo de processo seja
+selecionado antes de permitir o salvamento. 
 
+As validações devem ser executadas no momento do envio do formulário, fornecendo mensagens claras sobre campos não preenchidos.
