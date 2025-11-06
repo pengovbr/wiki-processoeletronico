@@ -2,6 +2,6 @@
 =========
 A página de cadastramento de mapeamento de processos deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, caixa de seleção para tipo de processo e de documento principal, prezando por uma organização clara e intuitiva das informações.
 
-.. figure:: AdicionarTipoProcesso4.png
+.. figure:: AdicionarTipoProcesso3.png
 
 O layout deve seguir o padrão visual do sistema, com barra de comandos, área de dados e botões de ação claramente organizados.
