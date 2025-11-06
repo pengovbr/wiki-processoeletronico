@@ -1,1 +1,7 @@
+**RN 08**
+=========
+Assim que acionada a opção 'Mapeamento de Tipos de Processos > Cadastrar' no menu, o ADMINISTRADOR deve ser direcionado para tela 'Adicionar Tipo de Processo'.
 
+- **Exemplo da tela:**
+ **1) Tela inicial da ação Adicionar Tipo de Processo:** 
+       .. figure:: AdicionarTipoProcesso1.png
