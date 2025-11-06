@@ -1,1 +1,7 @@
 
+**RN 15**
+=========
+O sistema deve impedir a duplicação de tipos de processo no módulo através de validações. 
+
+Ao tentar adicionar um tipo de processo já configurado, o sistema deve bloquear a operação, 
+exibir mensagem informativa clara e preservar os dados originais sem permitir sobrescrita acidental.
