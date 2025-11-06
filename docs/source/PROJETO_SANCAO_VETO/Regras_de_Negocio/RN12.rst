@@ -1,1 +1,7 @@
+**RN 12**
+=========
+O acesso às funcionalidades de adicionar e alterar tipos de processo deve ser controlado através do perfil do usuário, 
+sendo restrito exclusivamente aos administradores do sistema. 
 
+Qualquer tentativa de acesso não autorizado deve ser bloqueada e redirecionada para a página inicial do SEI, mantendo a segurança e integridade do módulo.
+ 
