@@ -1,3 +1,4 @@
 **RN 14**
 =========
-O sistema deve restringir a seleção de documentos principais apenas a documentos internos do SEI.
+A operação de salvar deve validar a consistência do tipo de processo, 
+exibindo feedback apropriado sobre o sucesso da operação e redirecionando o usuário para a lista atualizada de tipos de processo.
