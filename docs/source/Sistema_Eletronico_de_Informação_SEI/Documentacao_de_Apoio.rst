@@ -164,7 +164,8 @@ Abaixo segue o script de mapeamento compatível com todos bancos de dados utiliz
 
 .. admonition:: Nota
 
-   O SEI possui, por padrão, uma limitação de 500 caracteres para o preenchimento dos campos. Como as notas explicativas excedem esse limite, seu conteúdo foi adaptado para a disponibilização no script apresentado     abaixo. As versões originais das notas explicativas podem ser consultadas em:  `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_
+   O SEI possui, por padrão, uma limitação de 500 caracteres para o preenchimento dos campos. Como as notas explicativas excedem esse limite, seu conteúdo foi adaptado para a disponibilização do script citado     acima. 
+As versões originais das notas explicativas podem ser consultadas em:  `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_
 
 
 Orientações
