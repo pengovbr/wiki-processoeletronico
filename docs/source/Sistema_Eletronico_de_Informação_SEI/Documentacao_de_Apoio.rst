@@ -153,9 +153,16 @@ Script de Conversão da Tabela de Assuntos do SEI para a Portaria AN/MGI nº 174
 
 Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível com os bancos de dados Oracle, MySql e SqlServer no qual o usuário irá inserir um parâmetro para escolher a partir de qual tabela será feita a equivalência: a partir da Resolução n. 14 de 24 de outubro de 2001, do CONARQ, ou a partir da Portaria AN nº47, de 14 de fevereiro de 2020.
 
+O SEI aceita por padrão a limitação de 500 caracteres para os campos. Como as notas explicativas ultrapassam este limite, as mesmas foram adaptadas para disponibilização no script abaixo.
+Consulte as notas explicativas originais em:  
+
 Abaixo segue o script de mapeamento compatível com todos bancos de dados utilizados:
 
 - :download:`Script_Mapeamento_Tabela_Assuntos <_static/images_downloads/script_mapeamento_tabela_assuntos_14_47_174.php>`
+
+.. admonition:: Nota
+
+   O SEI possui, por padrão, uma limitação de 500 caracteres para o preenchimento dos campos. Como as notas explicativas excedem esse limite, seu conteúdo foi adaptado para a disponibilização no script apresentado     abaixo. As versões originais das notas explicativas podem ser consultadas em:  `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_
 
 
 Orientações
