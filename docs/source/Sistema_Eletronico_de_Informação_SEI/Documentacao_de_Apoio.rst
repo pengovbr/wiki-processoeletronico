@@ -145,10 +145,6 @@ Sobre esse tema, algumas observações:
 
 - Esta solução só poderá ser utilizada em versões superiores a 4.0.
 
-.. admonition:: Nota
-
-   Para um funcionamento adequado da tabela 'De/Para', onde a relação é de 1 para 1, foram preenchidas as lacunas dos códigos da coluna 'De', repetindo-se o código original e adicionando as letras a,b,c... após o número. Isso se aplica aos códigos que foram desdobrados em mais de 1, na coluna 'Para'. Dessa forma, **ressalta-se a necessidade de análise do órgão antes de qualquer aplicação no ambiente de produção**.
-
    
 Script de Conversão da Tabela de Assuntos do SEI para a Portaria AN/MGI nº 174, de 23 de Setembro de 2024. 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
