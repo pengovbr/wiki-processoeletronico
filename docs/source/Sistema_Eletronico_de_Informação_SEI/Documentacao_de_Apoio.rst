@@ -151,7 +151,7 @@ Script de Conversão da Tabela de Assuntos do SEI para a Portaria AN/MGI nº 174
 
 Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível com os bancos de dados Oracle, MySql e SqlServer no qual o usuário irá inserir um parâmetro para escolher a partir de qual tabela será feita a equivalência: a partir da Resolução n. 14 de 24 de outubro de 2001, do CONARQ, ou a partir da Portaria AN nº47, de 14 de fevereiro de 2020.
 
-Abaixo segue o script de mapeamento compatível os bancos de dados informados:
+Abaixo segue o script de mapeamento compatível com os bancos de dados informados:
 
 - :download:`Script_Mapeamento_Tabela_Assuntos <_static/images_downloads/script_mapeamento_tabela_assuntos_14_47_174.php>`
 
