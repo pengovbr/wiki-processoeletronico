@@ -191,9 +191,11 @@ Orientações
 Notas sobre os códigos 024.139 e 024.149 na tabela de assuntos
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Referente aos códigos 024.139 e 024.149 na tabela de assuntos, ambos devem ser atualizados pelo próprio órgão, conforme as orientações da equipe de gestão documental.
+Referente aos códigos 024.139 e 024.149 na tabela de assuntos, ambos devem ser atualizados pelo próprio órgão, conforme as orientações da equipe do Arquivo Nacional:
 
-A seguir, uma breve explicação sobre cada um:
+Repetir os referidos códigos no de/para e, posteriormente, inativar o descritor. Após a ativação da nova tabela, esses códigos deverão ser bloqueados para impedir que sejam utilizados em novos processos. Posteriormente, a equipe de gestão documental deverá, de forma gradual, conduzir a reclassificação dos processos que utilizam esses códigos. Assim, a ativação da nova tabela poderá ocorrer de forma mais célere.
+ 
+A seguir, uma breve explicação sobre cada código:
 
  - 024.139 – Código existente apenas na tabela 14, sem existência de equivalência. O órgão deve avaliar e atribuir a equivalência apropriada.
 
