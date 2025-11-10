@@ -136,7 +136,7 @@ A planilha de De/Para utilizada para conversão da Resolução n. 14 de 24 de ou
 
 Já a planilha de De/Para utilizada para conversão da Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 foi elaborada pelo PEN com base nos documentos publicados pelo Arquivo Nacional e submetida para avaliação do referido órgão, estando disponível em `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_
 
-O script de mapeamento irá realizar a inserção de uma nova tabela e seus assuntos arquivísticos, de acordo com a tabela da Portaria AN/MGI nº 174/2024. Em seguida realizará a transferência dos assuntos finalísticos que o Órgão possui em sua tabela corrente para a nova tabela. Ao final do processo realizará o mapeamento dos assuntos da tabela corrente para a nova tabela, de acordo com a tabela de equivalência editada pelo Arquivo Nacional.
+O script de mapeamento executará a criação de uma nova estrutura com os respectivos assuntos arquivísticos, conforme estabelecido pela Portaria AN/MGI nº 174/2024. Em seguida, os assuntos atualmente existentes serão transferidos para essa nova estrutura. Por fim, será realizado o mapeamento dos assuntos de acordo com a tabela de equivalência atualizada pelo Arquivo Nacional.
 
 
 Sobre esse tema, algumas observações:
