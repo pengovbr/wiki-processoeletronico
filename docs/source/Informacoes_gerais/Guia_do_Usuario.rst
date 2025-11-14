@@ -58,7 +58,22 @@ O PEN disponibiliza diferentes canais de relacionamento para atender às suas ne
  •	Indique passos práticos, riscos e alternativas;
  •	Configure suas notificações (diárias/semanais) e siga categorias de interesse para não perder atualizações.
 
-2.4.	E-mail institucional – processo.eletronico@gestao.gov.br
+2.4.	E-mail eletrônico – adesao.pen@gestao.gov.br
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+O endereço eletrônico adesao.pen@gestao.gov.br destina-se exclusivamente às comunicações administrativas relacionadas ao Processo Eletrônico Nacional (PEN) e ao Programa Nacional de Processo Eletrônico (ProPEN), nos seguintes casos:
+
+•	Contato com entes federativos aderentes ao ProPEN;
+
+•	Tramitação e esclarecimento de procedimentos de adesão ao PEN/ProPEN, quando não configurarem pedidos de suporte técnico;
+
+•	Interações administrativas referentes à implantação de soluções informatizadas do PEN/ProPEN, que não envolvam abertura de chamados de suporte;
+
+•	Esclarecimentos sobre diretrizes, políticas e normativos relacionados ao Programa Nacional de Processo Eletrônico;
+
+•	Comunicação institucional entre pontos focais e gestores do Programa, desde que não envolva abertura, atualização ou solução de chamados de suporte.
+
+2.5.	E-mail institucional – processo.eletronico@gestao.gov.br
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 •	Utilizado para comunicações oficiais do PEN aos órgãos e entidades (avisos, convites, comunicados gerais);
@@ -66,7 +81,7 @@ O PEN disponibiliza diferentes canais de relacionamento para atender às suas ne
 •	Esclarecimentos sobre diretrizes, políticas e normativos já publicados (sem análise de caso técnico);
 •	Comunicação entre pontos focais e gestores institucionais em temas de governança, quando não envolvam abertura, atualização ou solução de chamados.
 
-2.5.	Comunidades no WhatsApp 
+2.6.	Comunidades no WhatsApp 
 +++++++++++++++++++++++++++++
 
 As comunidades do PEN são espaços colaborativos que servem para:
