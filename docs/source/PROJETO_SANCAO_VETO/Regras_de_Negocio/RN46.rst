@@ -1,1 +1,16 @@
+**RN 46**
+==========
+A página de listagem de mapeamento de autoridades deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, campos de pesquisa, tabela de dados paginada e quantidade total de registros, prezando por uma organização clara e intuitiva das informações.
 
+- **Exemplo de Tela:**
+
+**1) Ação Sanção&Veto>Mapeamento de Autoridades>Listar** 
+       .. figure:: ListarAutoridade1.png
+
+**2) Ação Sanção&Veto>Mapeamento de Autoridades>Listar 
+Campo de seleção suspensa (dropdown) intitulado "Órgão", que permite ao usuário selecionar um órgão/unidade administrativa específica. O campo apresenta uma opção inicial em branco, seguida de uma lista abrangente de opções representando diversas unidades governamentais e ministeriais, como "CC-PR - Casa Civil da Presidência da República", "MAPA - Ministério da Agricultura e Pecuária", e "MCTI - Ministério da Ciência, Tecnologia e Inovação", entre outras.** 
+       .. figure:: ListarAutoridade3.png
+
+**3) Ação Sanção&Veto>Mapeamento de Autoridades>Listar 
+Campo de seleção suspensa (dropdown) com o rótulo "Função" e três opções disponíveis. O campo apresenta um espaço vazio padrão como opção inicial, seguido pelas opções "Ministro" e "Substituto Eventual do Ministro". Ele é configurado para permitir que o usuário selecione uma das funções disponíveis.** 
+       .. figure:: ListarAutoridade4.png
