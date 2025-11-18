@@ -1,7 +1,0 @@
-**RN019 - Arquivamento: Processos Sigilosos nas Pendências de Arquivamento**
-============================================================================
-
-Como deve ser adequada a listagem da tela 'Pendências de Arquivamento'?
------------------------------------------------------------------------
-
-O sistema deverá considerar os '**Processos Sigilosos**' na listagem da tela 'Pendências de Arquivamento' após o arquivamento do processo sigiloso.

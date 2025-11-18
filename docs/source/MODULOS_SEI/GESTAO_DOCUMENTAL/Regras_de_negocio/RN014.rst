@@ -1,7 +1,0 @@
-**RN014 - Arquivamento: Ordenador nas colunas da tabela Pendências de Arquivamento**
-====================================================================================
-
-Como ordenar os dados na listagem de arquivamento?
---------------------------------------------------
-
-Deverá ser incluso ordenador em **todas** as colunas da listagem/grid da tela de Pendências de Arquivamento.

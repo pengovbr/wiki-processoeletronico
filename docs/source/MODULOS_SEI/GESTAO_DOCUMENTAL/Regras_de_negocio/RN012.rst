@@ -1,6 +1,0 @@
-**RN012 - Contagem de Temporalidade: Identificação de Despesa**
-===============================================================
-DÚVIDA A SER TIRADA COM EQUIPE TÉCNICA
-
-Como o módulo identificará o ano em que houve a despesa para iniciar a contagem de temporalidade em guarda intermediária? 
-(lembrando que o ano de criação do processo não necessariamente será o ano da despesa que necessita aprovação de contas)

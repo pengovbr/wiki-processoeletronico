@@ -1,7 +1,0 @@
-**RN001 - Avaliação: Processos Restritos**
-==========================================
-
-Como se dará a avaliação de processos restritos no Módulo Gestão Documental?
-----------------------------------------------------------------------------
-
-No módulo GD, durante a avaliação de processos restritos,  o sistema deverá permitir o acesso ao conteúdo dos processos que não passaram pela unidade do avaliador (regra do SEI).

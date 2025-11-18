@@ -1,0 +1,3 @@
+**RN 281**
+==========
+O envio de processos sigilosos deve exigir a seleção de um destinatário autorizado na unidade de protocolo configurada

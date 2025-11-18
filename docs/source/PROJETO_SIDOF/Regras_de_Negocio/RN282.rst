@@ -1,0 +1,3 @@
+**RN 282**
+=========
+O envio de processos sigilosos deve criar novo processo na unidade de protocolo respectiva e conceder credenciais apenas ao destinatário selecionado
