@@ -1,7 +1,6 @@
 Projeto Sanção-Veto
 ===================
 
-
 .. toctree::
    :hidden:
    :titlesonly:
@@ -10,4 +9,3 @@ Projeto Sanção-Veto
    Documentacao_de_Apoio
    TreinamentosApresentacoes
    DECRETO_LEI
-

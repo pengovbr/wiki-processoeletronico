@@ -1,0 +1,3 @@
+**RN 38**
+=========
+O sistema deve carregar a lista inicial de usuários do SEI de forma paginada, excluindo aqueles que já estejam mapeados como autoridades. A pesquisa deve atualizar dinamicamente os resultados conforme os critérios são informados, mantendo a paginação consistente e limitando a quantidade de registros conforme parâmetro do SEI.

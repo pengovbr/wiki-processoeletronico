@@ -1,0 +1,8 @@
+**RN 41**
+=========
+
+O sistema deve permitir o cadastramento de mapeamento de autoridades, garantindo a integridade e consistência dos dados.
+
+Ao cadastrar, o sistema deve validar se os usuários selecionados não estão duplicados e persistir os mapeamentos. 
+
+O sistema deve fornecer feedback claro sobre o resultado de cada operação através de mensagens específicas. A navegação entre telas deve preservar o contexto da operação e os dados já informados até sua conclusão.

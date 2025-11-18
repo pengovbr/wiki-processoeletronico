@@ -1,0 +1,8 @@
+**RN 47**
+=========
+A tabela deve implementar mecanismos de ordenação para todas as colunas que contêm dados ordenáveis (ID, Usuário, Nome, Nome Social, Função, Órgão), permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho. 
+
+O estado da ordenação deve ser indicado por setas direcionais.
+
+- **Exemplo de Tela:**
+     .. figure:: ListarAutoridade5.png
