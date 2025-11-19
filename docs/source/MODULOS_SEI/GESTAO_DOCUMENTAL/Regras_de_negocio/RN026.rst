@@ -1,0 +1,8 @@
+**RN026 - Eliminação: Controle de Processos Eliminados**
+========================================================
+
+Como deve ser exibido o número do processo que foi eliminado?
+-------------------------------------------------------------
+
+Quando um processo for eliminado, deve ser acrescentado o número do processo que registrou a eliminação (processo onde é gerada a Listagem de Eliminação).
+No lugar do termo "Processo eliminado." deve aparecer o termo "Processo Eliminado. Processo de Eliminação n° XXXXX.XXXXXX/XXXX-00." [O número do processo deve ser na forma de link.]

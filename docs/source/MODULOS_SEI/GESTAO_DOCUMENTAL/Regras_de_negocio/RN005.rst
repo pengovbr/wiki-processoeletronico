@@ -1,0 +1,13 @@
+**RN005 - Eliminação: Gerar Relatório de Falhas de Eliminação**
+===============================================================
+
+Como se dará a extração de falhas no caso de eliminação?
+--------------------------------------------------------
+No módulo GD, deverá ser produzido um relatório detalhando qualquer falha que ocorra durante uma eliminação. 
+
+O relatório tem que identificar os documentos cuja eliminação não tenha sido bem-sucedida. 
+
+
+Fundamentação
+------------- 
+Requisito  3.3.7 do e-ARQ Brasil
