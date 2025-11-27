@@ -1,4 +1,4 @@
-Scripts de Conversão Tabela de Assuntos SEI
+Scripts de Conversão - Tabela de Assuntos SEI
 -------------------------------------------
 
 .. admonition:: Atenção
