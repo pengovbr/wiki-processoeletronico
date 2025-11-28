@@ -58,7 +58,7 @@ O PEN disponibiliza diferentes canais de relacionamento para atender às suas ne
  •	Indique passos práticos, riscos e alternativas;
  •	Configure suas notificações (diárias/semanais) e siga categorias de interesse para não perder atualizações.
 
-2.4.	E-mail eletrônico – adesao.pen@gestao.gov.br
+2.4.	E-mail institucional – adesao.pen@gestao.gov.br
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 O endereço eletrônico adesao.pen@gestao.gov.br destina-se exclusivamente às comunicações administrativas relacionadas ao Processo Eletrônico Nacional (PEN) e ao Programa Nacional de Processo Eletrônico (ProPEN), nos seguintes casos:
@@ -367,3 +367,84 @@ SEI
  * Disponível para: Executivo Federal; Executivo Estadual; Executivo Municipal; Outros Poderes.
  * Tipos de suporte na Central: Solicitar acesso ao código; Reportar um erro; Registrar uma dúvida; Sugerir uma melhoria.
  * Para saber mais: `gov.br/pen - SEI <https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/informacoes-sistemas-e-servicos-de-gestao/processo-eletronico-nacional/conteudo/SEI>`__;  `WikiPen - Documentação de Apoio <https://wiki.processoeletronico.gov.br/pt-br/latest/Sistema_Eletronico_de_Informa%C3%A7%C3%A3o_SEI/Documentacao_de_Apoio.html>`__;  `Manuais - Manual do Administrador SEI <https://manuais.processoeletronico.gov.br/pt-br/latest/SEIADM/index.html>`__; `Manuais - Manual do Usuário SEI 4.0+ <https://manuais.processoeletronico.gov.br/pt-br/latest/SEI/index.html>`__
+
+10.	Ficha Catalográfica
+-----------------------
+
+**Normalização Bibliográfica: Biblioteca do Ministério da Gestão e da Inovação em Serviços Públicos**
+
+::
+  
+   
+
+         Brasil. Ministério da Gestão e da Inovação em Serviços Públicos, Secretaria de Gestão e Inovação. 
+  Guia dos canais de atendimento do Processo Eletrônico Nacional (PEN) [recurso eletrônico] / Ministério 
+  da Gestão e da Inovação em Serviços Públicos, Secretaria de Gestão e Inovação. -- Brasília : Diretoria 
+  de Informações, Serviços e Sistemas de Gestão/SEGES /MGI, 2025.
+  1 v. : il. 
+
+  1. Processo administrativo eletrônico – Administração pública. 2. Central de atendimento. 3. Portal 
+  de serviços – Padronização. 
+  4. Atendimento – Orientações e boas práticas. 5. Programa Nacional de Processo Eletrônico (ProPEN). 
+  I. Título. 
+
+                                                                                                         CDD – 341.35 
+                                                                                                         CDU – 35.077
+
+
+
+
+11.	Créditos
+------------
+
+
+.. figure:: _static/images/BrasaoMGI.png
+ :class: center-image
+
+
+**Ministra de Estado da Gestão e da Inovação em Serviços Públicos**
+
+· Esther Dweck
+ 
+
+**Secretaria de Gestão e Inovação**
+
+· Roberto Seara Machado Pojo Rego
+ 
+
+**Secretária Adjunta de Gestão e Inovação**
+
+· Regina Lemos de Andrade
+ 
+
+**Diretoria de Informações, Serviços e Sistemas de Gestão**
+
+**Diretora**
+
+· Priscila Andressa Corrêa Cabral
+ 
+
+**Coordenação-Geral de Soluções Negociais do Processo Eletrônico - CGESP**
+
+**Coordenador-Geral**
+
+· Pedro Henrique de Paiva Moreira da Silva
+ 
+
+**Equipe Técnica**
+
+· Camila Aparecida Corgosinho Ribeiro
+ 
+
+**Revisão**
+
+· Marco Aurélio Rodrigues Braga
+ 
+
+**Editoração**
+
+· Rodrigo Massamitsu Hideshima
+ 
+
+*Guia dos Canais de Atendimento do PEN, outubro de 2025.*
+
