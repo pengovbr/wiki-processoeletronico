@@ -58,7 +58,7 @@ O PEN disponibiliza diferentes canais de relacionamento para atender às suas ne
  •	Indique passos práticos, riscos e alternativas;
  •	Configure suas notificações (diárias/semanais) e siga categorias de interesse para não perder atualizações.
 
-2.4.	E-mail eletrônico – adesao.pen@gestao.gov.br
+2.4.	E-mail institucional – adesao.pen@gestao.gov.br
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 O endereço eletrônico adesao.pen@gestao.gov.br destina-se exclusivamente às comunicações administrativas relacionadas ao Processo Eletrônico Nacional (PEN) e ao Programa Nacional de Processo Eletrônico (ProPEN), nos seguintes casos:
