@@ -22,7 +22,7 @@ Fim da vigência	                                                               
 																																						    
                                                                                                                        010.01                               Não 
 																																						    
-                                                                                                                       011                                  Verificar
+                                                                                                                       011                                  Sim
 																																						    
                                                                                                                        012                                  Não
 																																						    
@@ -60,9 +60,9 @@ Homologação do evento                                                         
 																																						    
                                                                                                                        014.2                                Não
 																																						    
-                                                                                                                       014.3                                Verificar
+                                                                                                                       014.3                                Não
 																																						    
-                                                                                                                       014.4                                Verificar
+                                                                                                                       014.4                                Sim
 																																						    
                                                                                                                        021.1                                Não
 																																						    
@@ -72,13 +72,13 @@ Homologação do evento                                                         
 																																						    
                                                                                                                        021.4                                Não
 																																						    
-                                                                                                                       021.5                                Verificar
+                                                                                                                       021.5                                Não
 																																						    
                                                                                                                        913                                  Não
 																																						    
-                                                                                                                       915                                  Verificar
+                                                                                                                       915                                  Não
 																																						    
-                                                                                                                       916                                  Verificar
+                                                                                                                       916                                  Sim
 																																						    
                                                                                                                        917									Não								  	
  																			   
@@ -315,13 +315,13 @@ Conclusão do caso 												       033.6                                     
 																																						    
 Finalização da elaboração dos instrumentos 									       061.3                                                                    Não                                 
 																																						    
-                                                                                                                       061.4                                Verificar
+                                                                                                                       061.4                                Sim
 																																						    
 Devolução 													       063.2                                                                                    Não                                 
 																																						    
-Conclusão da organização						                                               069.11                                                       Verificar                        
+Conclusão da organização						                                               069.11                                                       Sim                        
 																																						    
-Finalização da elaboração dos instrumentos de pesquisa								       069.12                                                           Verificar                           
+Finalização da elaboração dos instrumentos de pesquisa								       069.12                                                           Sim                           
 																																						    
 Conclusão da transferência 											       073.31                                                                           Não                                 
 																																						    
