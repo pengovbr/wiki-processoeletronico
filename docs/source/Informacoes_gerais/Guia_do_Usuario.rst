@@ -5,13 +5,14 @@ Guia dos Canais de Relacionamento do PEN/ProPEN
 1.	Apresentação
 ----------------
 
-A Central de Atendimento é o canal oficial de suporte aos usuários que utilizam as soluções do Processo Eletrônico Nacional, disponibilizadas pela Diretoria de Informações, Serviços e Sistemas de Gestão (DTGES), subordinada à Secretaria de Gestão e Inovação (SEGES) do Ministério da Gestão e da Inovação em Serviços Públicos.
+Os canais de relacionamento do Processo Eletrônico Nacional (PEN) constituem o conjunto oficial de meios destinados a oferecer suporte aos usuários das soluções disponibilizadas pela Diretoria de Informações, Serviços e Sistemas de Gestão (DTGES), vinculada à Secretaria de Gestão e Inovação (SEGES) do Ministério da Gestão e da Inovação em Serviços Públicos.
 
-O Processo Eletrônico Nacional (PEN) é uma infraestrutura pública de processo administrativo eletrônico que busca melhorar a gestão processual dos órgãos da Administração Pública Federal, tornando-a mais rápida, eficiente, satisfatória para os usuários e com menor custo. Adicionalmente, em 12 de março de 2024, por meio do Decreto nº 11.946, foi criado o Programa Nacional de Processo Eletrônico (ProPEN), com o propósito de ampliar o uso do processo administrativo eletrônico em todo o país - nos Estados, no Distrito Federal e nos Municípios.
+O Processo Eletrônico Nacional (PEN) é uma infraestrutura pública voltada à modernização da gestão de processos administrativos no âmbito da Administração Pública Federal, tornando-a mais ágil, eficiente, econômica e satisfatória para os usuários. Em 12 de março de 2024, o Decreto nº 11.946 instituiu o Programa Nacional de Processo Eletrônico (ProPEN), com o objetivo de expandir o uso do processo administrativo eletrônico em todo o país — abrangendo Estados, Distrito Federal e Municípios.
 
-Para garantir a prestação de suporte com o padrão de qualidade necessário ao sucesso desta e de diversas outras políticas públicas de responsabilidade da Secretaria, foi criada a Política da Central de Atendimento da SEGES, que estabelece diretrizes para assegurar um atendimento mais padronizado, ágil e eficiente, com foco na satisfação e na aderência às normas vigentes. A partir dessa política, foi criado este guia para pautar a atuação da Central de Atendimento do PEN, fortalecendo o canal de comunicação entre o governo e os usuários e contribuindo para uma experiência mais simples e transparente.
+Para assegurar que o atendimento prestado mantenha padrões elevados de qualidade e apoie adequadamente essa e outras políticas públicas sob responsabilidade da Secretaria, foi instituída a Política da Central de Atendimento da SEGES. Essa política define diretrizes para um atendimento padronizado, ágil e eficiente, alinhado às
+normas vigentes e orientado à satisfação dos usuários. Com base nessa política, este guia orienta a atuação dos canais de relacionamento do PEN, fortalecendo a comunicação entre o governo e os usuários e promovendo uma experiência mais clara, acessível e transparente em todas as interações realizadas.
 
-O objetivo deste documento, portanto, é dar orientação sobre procedimentos, padronizar condutas e promover a excelência no atendimento, garantindo que as comunicações, o registro e a solução de demandas sejam realizados com eficiência, clareza e respeito aos usuários.
+Assim, o objetivo deste documento é orientar sobre procedimentos, harmonizar práticas e fomentar a excelência no atendimento, garantindo que a comunicação, o registro e a solução de demandas sejam conduzidos com eficiência, clareza e respeito aos usuários em todos os canais de suporte do PEN.
  
 2.	 Canais de relacionamento
 -----------------------------
