@@ -1,4 +1,4 @@
-Guia do Usuário da Central de Atendimento do Processo Eletrônico Nacional (PEN/ProPEN)
+Guia dos Canais de Relacionamento do PEN/ProPEN
 ======================================================================================
 
 
