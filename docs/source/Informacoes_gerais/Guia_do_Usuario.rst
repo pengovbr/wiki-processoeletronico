@@ -19,7 +19,7 @@ Assim, o objetivo deste documento é orientar sobre procedimentos, harmonizar pr
 
 O PEN disponibiliza diferentes canais de relacionamento para atender às suas necessidades. Cada canal tem uma finalidade específica e janelas de funcionamento próprias, garantindo agilidade, rastreabilidade e suporte adequado, conforme o tipo e a urgência da demanda. Vamos conhecê-los melhor?
 
-2.1.	Portal de Serviços — Sistema de Chamados
+2.1.	`Portal de Serviços — Sistema de Chamados <https://portaldeservicos.gestao.gov.br/pt#/>`__
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 •	É o canal formal para reportar erros, tirar dúvidas, sugerir melhorias, solicitar credenciais e acesso aos códigos-fonte;
@@ -33,7 +33,7 @@ O PEN disponibiliza diferentes canais de relacionamento para atender às suas ne
 •	Atende de forma automatizada e contínua (24/7);
 •	Indicado para informar sobre os produtos do PEN, tirar dúvidas de baixa complexidade e direcionar a abertura de chamados.
 
-2.3.	ParticiPEN
+2.3. `ParticiPEN <https://participen.processoeletronico.gov.br>`__
 ++++++++++++++++
 
 É uma plataforma colaborativa que funciona como um fórum de discussão, onde a comunidade pode trocar experiências, sugerir melhorias, tirar dúvidas, compartilhar boas práticas e construir soluções em conjunto. A proposta é fortalecer a comunidade de usuários e gestores de sistemas do PEN, promovendo a colaboração entre os órgãos e ampliando o conhecimento sobre as ferramentas disponíveis.
