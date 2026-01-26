@@ -1,2 +1,4 @@
 **RN 103**
 ==========
+ O sistema deve permitir pesquisa por sigla e descrição, inclusive combinadas. A pesquisa deve ignorar maiúsculas/minúsculas e acentuação. Quando não houver resultado, a estrutura da tabela deve permanecer visível.
+ 
