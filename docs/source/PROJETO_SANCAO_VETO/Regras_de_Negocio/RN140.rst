@@ -1,2 +1,3 @@
 **RN 140**
 ==========
+O sistema deve permitir desativar múltiplas unidades selecionadas, com confirmação do usuário. Quando não houver seleção, deve exibir alerta.
