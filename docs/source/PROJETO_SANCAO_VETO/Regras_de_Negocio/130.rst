@@ -1,2 +1,3 @@
 **RN 130**
 ==========
+O sistema deve permitir mapear unidades como ministeriais, individualmente ou em lote, após confirmação do usuário. Deve remover as unidades mapeadas da lista de disponíveis. Deve impedir mapeamento sem seleção de unidades.
