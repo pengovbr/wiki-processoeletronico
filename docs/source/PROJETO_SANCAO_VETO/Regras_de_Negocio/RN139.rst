@@ -1,2 +1,3 @@
 **RN 139**
 ==========
+O sistema deve permitir desativar uma unidade mapeada, com confirmação do usuário.
