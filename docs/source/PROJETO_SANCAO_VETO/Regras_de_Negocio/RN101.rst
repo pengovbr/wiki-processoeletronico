@@ -1,2 +1,3 @@
 **RN 101**
 ==========
+O sistema deve carregar a lista de unidades disponíveis para mapeamento de forma paginada, excluindo unidades já mapeadas como internas, e permitir seleção múltipla de registros.
