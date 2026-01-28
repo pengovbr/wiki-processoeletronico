@@ -5,11 +5,11 @@ Scripts de Conversão - Tabela de Assuntos SEI
 
    Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI.  
 
-Esta seção é dedicada à concentração do scripts a serem utilizados para a conversão ("DE PARA") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidades pelo Arquivo Nacional.
+Esta seção é dedicada à concentração do script a serem utilizados para a conversão ("De/Para") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidas pelo Arquivo Nacional.
 
 A planilha de De/Para utilizada para conversão da Resolução n. 14 de 24 de outubro de 2001, do CONARQ para Portaria AN/MGI nº 174, de 23 de setembro de 2024 está disponível para download na `Página do Arquivo Nacional <https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/planilha-eletronica-com-instrumentos-de-gestao-de-documentos-relativos-as-atividades-meio>`_
 
-Já a planilha de De/Para utilizada para conversão da Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 foi elaborada pelo PEN com base nos documentos publicados pelo Arquivo Nacional e submetida para avaliação do referido órgão, estando disponível em `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_
+Já a planilha de De/Para utilizada para conversão da Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 foi elaborada pelo PEN com base nos documentos publicados pelo Arquivo Nacional e submetida para avaliação do referido órgão, estando disponível em `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_. Esta planilha foi criada apenas para fins de subsidiar a construção do script, não devendo substituir o material disponibilizado pelo Arquivo Nacional.
 
 O script de mapeamento executará a criação de uma nova estrutura com os respectivos assuntos arquivísticos, conforme estabelecido pela Portaria AN/MGI nº 174/2024. Em seguida, os assuntos atualmente existentes serão transferidos para essa nova estrutura. Por fim, será realizado o mapeamento dos assuntos de acordo com a tabela de equivalência atualizada pelo Arquivo Nacional.
 
@@ -64,16 +64,37 @@ Orientações
   
   /usr/bin/php -c /etc/php.ini /opt/sei/scripts/atualizar_sequencias.php > atualizacao_versao_sei.log
 
+.. admonition:: Atenção
 
-Notas sobre os códigos 024.139 e 024.149 na tabela de assuntos
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   O referido script contempla os códigos já existentes e/ou que possuem equivalência. Os novos códigos criados pelo Arquivo Nacional,    conforme `Tabela de Atualizações <https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/codigo-de-classificacao-e-tabela-de-temporalidade-e-destinacao-de-documentos-de-arquivo/cod_classif_tab_temp_ativ_meio_atualizacao_2024.pdf>`_, devem ser inseridos de forma manual. São eles:
 
-Referente aos códigos 024.139 e 024.149 na tabela de assuntos, ambos devem ser atualizados pelo próprio órgão, conforme as orientações da equipe do Arquivo Nacional:
-
-Repetir os referidos códigos no de/para e, posteriormente, inativar o descritor. Após a ativação da nova tabela, esses códigos deverão ser bloqueados para impedir que sejam utilizados em novos processos. Posteriormente, a equipe de gestão documental deverá, de forma gradual, conduzir a reclassificação dos processos que utilizam esses códigos. Assim, a ativação da nova tabela poderá ocorrer de forma mais célere.
+   - 002.3
+   - 002.31
+   - 002.32
+   - 002.33
+   - 015.4
+   - 015.41
+   - 015.42
+   - 015.5
+   - 018.1
+   - 018.2
+   - 019.114
+   - 019.13
+   - 019.14
+   - 029.13
+   - 030.04
+   - 041.7
+   - 063.4
  
-A seguir, uma breve explicação sobre cada código:
 
- - 024.139 – Código existente apenas na tabela 14, sem existência de equivalência. O órgão deve avaliar e atribuir a equivalência apropriada.
 
- - 024.149 – Código também exclusivo da tabela 14, sem existência de equivalência. O órgão deve avaliar e atribuir a equivalência apropriada.
+Notas do Arquivo Nacional
++++++++++++++++++++++++++
+
+I - Quando a equivalência for de um código para muitos, é necessário realizar a reclassificação de processo a processo, mas diante do volume é possível adotar uma estratégia para essa migração automática. Pode-se relacionar o código anterior com o código estruturante imediatamente superior, do novo código da Portaria AN/MGI nº 174/2024, ficando esse código estruturante desabilitado em seguida e seja feita o planejamento da reclassificação, mesmo que no momento da avaliação e destinação; 
+
+II - Deve-se considerar também os códigos que foram extintos, para os quais deve-se observar se há processos nele classificados e, caso haja, deve-se relacionar o código anterior ao código estruturante imediatamente superior, do novo código da Portaria AN/MGI nº 174/2024, apenas para fins de migração, também orientando que seja desabilitado em seguida e se faça o planejamento da reclassificação; 
+
+III - Não é recomendada a alteração do descritor ou do código na mesma tabela ativa, o que afetaria a relação orgânica, temporalidade e destinação dos documentos; 
+
+IV - Não é recomendada a criação de novos códigos provisórios ou a continuidade de uso dos códigos anteriores ao código da Portaria AN/MGI nº 174/2024.
