@@ -5,11 +5,11 @@ Scripts de Conversão - Tabela de Assuntos SEI
 
    Recomenda-se que os scripts sejam testados em ambiente de homologação antes de serem aplicados no ambiente de produção do SEI.  
 
-Esta seção é dedicada à concentração do script a serem utilizados para a conversão ("De/Para") das tabelas de Assuntos utilizadas no SEI, conforme as portarias emitidas pelo Arquivo Nacional.
+Esta seção é dedicada à concentração dos scripts a serem utilizados para a conversão ("De/Para") das tabelas de Assuntos utilizadas no SEI, conforme os normativos emitidos pelo Arquivo Nacional.
 
-A planilha de De/Para utilizada para conversão da Resolução n. 14 de 24 de outubro de 2001, do CONARQ para Portaria AN/MGI nº 174, de 23 de setembro de 2024 está disponível para download na `Página do Arquivo Nacional <https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/planilha-eletronica-com-instrumentos-de-gestao-de-documentos-relativos-as-atividades-meio>`_
+A planilha de De/Para utilizada para conversão da Resolução CONARQ n. 14, de 24 de outubro de 2001, para a Portaria AN/MGI nº 174, de 23 de setembro de 2024, está disponível para download na `Página do Arquivo Nacional <https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/planilha-eletronica-com-instrumentos-de-gestao-de-documentos-relativos-as-atividades-meio>`_
 
-Já a planilha de De/Para utilizada para conversão da Portaria AN nº47, de 14 de fevereiro de 2020 para a Portaria AN/MGI nº 174, de 23 de setembro de 2024 foi elaborada pelo PEN com base nos documentos publicados pelo Arquivo Nacional e submetida para avaliação do referido órgão, estando disponível em `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_. Esta planilha foi criada apenas para fins de subsidiar a construção do script, não devendo substituir o material disponibilizado pelo Arquivo Nacional.
+Já a planilha de De/Para utilizada para conversão da Portaria AN nº47, de 14 de fevereiro de 2020, para a Portaria AN/MGI nº 174, de 23 de setembro de 2024, foi elaborada pelo PEN com base nos documentos publicados pelo Arquivo Nacional e submetida para avaliação do referido órgão, estando disponível em `Planilha de Equivalência da Tabela de Assuntos <https://mtegovbr-my.sharepoint.com/:x:/r/personal/caroline_ribeiro_gestao_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5292f0d2-82f2-4e51-b6e4-9853fb8686db%7D&wdOrigin=TEAMS-WEB.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1760990982880&web=1>`_. Esta planilha foi criada apenas no intuito de subsidiar a construção do script, não devendo substituir o material disponibilizado pelo Arquivo Nacional.
 
 O script de mapeamento executará a criação de uma nova estrutura com os respectivos assuntos arquivísticos, conforme estabelecido pela Portaria AN/MGI nº 174/2024. Em seguida, os assuntos atualmente existentes serão transferidos para essa nova estrutura. Por fim, será realizado o mapeamento dos assuntos de acordo com a tabela de equivalência atualizada pelo Arquivo Nacional.
 
@@ -20,11 +20,8 @@ Sobre esse tema, algumas observações:
 
 - Esta solução só poderá ser utilizada em versões superiores a 4.0.
 
-   
-Script de Conversão da Tabela de Assuntos do SEI para a Portaria AN/MGI nº 174, de 23 de Setembro de 2024. 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível com os bancos de dados Oracle, MySql e SqlServer no qual o usuário irá inserir um parâmetro para escolher a partir de qual tabela será feita a equivalência: a partir da Resolução n. 14 de 24 de outubro de 2001, do CONARQ, ou a partir da Portaria AN nº47, de 14 de fevereiro de 2020.
+Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível com os bancos de dados Oracle, MySql e SqlServer no qual o usuário irá inserir um parâmetro para escolher a partir de qual tabela será feita a equivalência: a partir da Resolução CONARQ n. 14, de 24 de outubro de 2001, ou a partir da Portaria AN nº47, de 14 de fevereiro de 2020.
 
 Abaixo segue o script de mapeamento compatível com os bancos de dados informados:
 
@@ -32,7 +29,7 @@ Abaixo segue o script de mapeamento compatível com os bancos de dados informado
 
 .. admonition:: Nota
 
-   O SEI possui, por padrão, uma limitação de 500 caracteres para o preenchimento dos campos. Como as notas explicativas excedem esse limite, seu conteúdo foi adaptado para a disponibilização do script citado     acima. As versões originais das notas explicativas podem ser consultadas em: <https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/planilha-eletronica-com-instrumentos-de-gestao-de-documentos-relativos-as-atividades-meio>`_
+   O SEI possui, por padrão, uma limitação de 500 caracteres para o preenchimento dos campos. Como as notas explicativas excedem esse limite, seu conteúdo foi adaptado para a disponibilização do script citado acima. As versões originais das notas explicativas podem ser consultadas em: <https://www.gov.br/arquivonacional/pt-br/servicos/gestao-de-documentos/orientacao-tecnica-1/planilha-eletronica-com-instrumentos-de-gestao-de-documentos-relativos-as-atividades-meio>`_
 
 
 Orientações
