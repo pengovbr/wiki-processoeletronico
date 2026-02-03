@@ -25,7 +25,7 @@ Foi elaborado apenas um script em linguagem PHP, de maneira a ser compatível co
 
 Abaixo segue o script de mapeamento compatível com os bancos de dados informados:
 
-- :download:`Script_Mapeamento_Tabela_Assuntos <_static/images_downloads/script_mapeamento_tabela_assuntos_14_47_174.php>`
+- `Script_Mapeamento_Tabela_Assuntos <https://github.com/pengovbr/mod-gestao-documental/blob/master/src/scripts/script_cadastro_de_condicionantes.php>`_
 
 .. admonition:: Nota
 
