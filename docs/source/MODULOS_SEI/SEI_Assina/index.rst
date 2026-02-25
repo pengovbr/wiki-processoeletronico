@@ -4,5 +4,5 @@ Módulo SEIAssina!
    :hidden:
    :titlesonly:
 
-   Documentacao_de_Apoio
+   SEIAssina_Documentacao_de_Apoio
    Perguntas_Frequentes_FAQ
