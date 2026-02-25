@@ -105,6 +105,18 @@ O módulo depende de 3 credenciais principais, obtidas com dois órgãos diferen
 
 
 
+===================================================== ======================================================================================
+Órgãos                                                  Credenciais                                                                               
+===================================================== ======================================================================================
+Secretaria de Governo Digital (SGD)                     Credencial do Gov.br: Necessária para assinatura avançada via Gov.br
+
+Instituto Nacional de Tecnologia da Informação (ITI)    API Validar: Permite consultar e validar assinaturas dentro de PDFs
+                                                                                                                                                 
+                                                        Assinador de Referência (AssinaGov): Utilizada para realizar assinatura qualificada
+===================================================== ======================================================================================
+
+
+
 2.2.	Onde ficam armazenadas as configurações das credenciais?
   As informações das credenciais são armazenadas na configuração do módulo. Para maiores informações a respeito, orientamos a leitura do Manual de Instalação do Módulo, o link de acesso para cada versão do módulo está disponível na tabela abaixo.  
 
