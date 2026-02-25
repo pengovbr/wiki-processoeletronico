@@ -30,6 +30,7 @@ Perguntas Frequentes (FAQ)
   
 1.5.	O que é assinatura qualificada?
   A assinatura que utiliza certificado digital, nos termos do § 1º do art. 10 da Medida Provisória nº 2.200-2, de 24 de agosto de 2001.
+
   Fonte: https://www.gov.br/governodigital/pt-br/identidade/assinatura-eletronica/saiba-mais-sobre-a-assinatura-eletronica 
 
 
@@ -48,7 +49,7 @@ Perguntas Frequentes (FAQ)
 1.9.	O que é Autoridade de Carimbo de Tempo?
   Uma Autoridade Certificadora do Tempo (ACT) é uma entidade responsável por emitir Carimbos do Tempo. A AC-Raiz da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) é a responsável pelo credenciamento das ACTs que desejam integrar a estrutura, com base em critérios estabelecidos nos documentos que regulamentam o assunto.
 
-Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/autoridades-de-carimbo-do-tempo 
+  Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/autoridades-de-carimbo-do-tempo 
 
 
 1.10.	O que é o AssinaGov? 
@@ -70,7 +71,7 @@ Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/autoridades-de-carimbo-d
 1.14.	O que é ICP-Brasil?
   A Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) é uma cadeia hierárquica de confiança que viabiliza a emissão de certificados digitais para a identificação virtual do cidadão.
 
-Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/. 
+  Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/. 
 
 
 1.15.	O que é Certificado em Nuvem?
@@ -109,7 +110,7 @@ O módulo depende de 3 credenciais principais, obtidas com dois órgãos diferen
 Órgãos                                                  Credenciais                                                                               
 ===================================================== ======================================================================================
 Secretaria de Governo Digital (SGD)                     Credencial do Gov.br: Necessária para assinatura avançada via Gov.br
-
+----------------------------------------------------- --------------------------------------------------------------------------------------
 Instituto Nacional de Tecnologia da Informação (ITI)    API Validar: Permite consultar e validar assinaturas dentro de PDFs
                                                                                                                                                  
                                                         Assinador de Referência (AssinaGov): Utilizada para realizar assinatura qualificada
