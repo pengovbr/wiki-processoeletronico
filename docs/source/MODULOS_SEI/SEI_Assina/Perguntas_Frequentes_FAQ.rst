@@ -4,7 +4,7 @@ Perguntas Frequentes (FAQ)
 1.	 CONCEITO
 -------------
 
-1.1.	O que é o Módulo SEIAssina!?
+1.1.	O que é o Módulo SEI!Assina?
   É módulo que possibilita os usuários internos e externos realizarem a assinatura avançada e qualificada em documentos internos e externos, inclusive por meio de bloco de assinatura.
 
   
@@ -156,7 +156,7 @@ Instituto Nacional de Tecnologia da Informação (ITI)    API Validar: Permite c
 
   
 2.7.	É possível usar a assinatura avançada do core do SEI junto com o módulo?
-  A orientação técnica é apenas utilizar as funcionalidades do Módulo SEIAssina! para evitar conflito com assinatura avançada disponível no Core do SEI. Ao utilizar o módulo, a recomendação é desabilitar a funcionalidade nativa do sistema.
+  A orientação técnica é apenas utilizar as funcionalidades do Módulo SEI!Assina para evitar conflito com assinatura avançada disponível no Core do SEI. Ao utilizar o módulo, a recomendação é desabilitar a funcionalidade nativa do sistema.
 
 
 2.8.	O módulo precisa do aplicativo Java do SEI para assinar?
