@@ -1,5 +1,8 @@
-1.	CONCEITOS
-=============
+Perguntas Frequentes (FAQ)
+==========================
+
+1.	 CONCEITO
+-------------
 
 1.1.	O que é o Módulo de Assinatura Eletrônica?
   É módulo que possibilita os usuários internos e externos realizarem a assinatura avançada e qualificada em documentos internos e externos, inclusive por meio de bloco de assinatura.
@@ -83,7 +86,7 @@ Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/.
 
 
 2.	 CREDENCIAIS E COMPATIBILIDADE
-==================================
+----------------------------------
 
 2.1.	Quais credenciais são necessárias para utilizar o módulo?
 
@@ -159,7 +162,7 @@ O módulo depende de 3 credenciais principais, obtidas com dois órgãos diferen
 •	A possibilidade de assinatura de documento externo por usuário externo.
 
 3.	CERTIFICADO DIGITAL
-=======================
+-----------------------
 
 3.1.	Quais sãos os certificados digitais aceitos para realizar a assinatura qualificada?
   O módulo apenas aceita certificados emitidos pela ICP-Brasil. Alguns exemplos:
@@ -185,7 +188,7 @@ OBS1: O módulo não aceita certificados A3.
 
 
 4.	ASSINAR E VALIDAR
-=====================
+---------------------
 
 
 4.1.	Onde a assinatura é exibida no documento?
@@ -246,7 +249,7 @@ OBS1: A assinatura de documento externo está apenas disponível a partir da ver
 
   
 5.	CARIMBO DE TEMPO
-====================
+--------------------
 
 5.1.	Quais são os benefícios de utilizar carimbo de tempo?
   O carimbo de tempo garante data e hora certificadas da assinatura e validade jurídica mesmo após expiração do certificado utilizado para assinar os documentos.
@@ -278,7 +281,7 @@ OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a p
 
 
 6.	USUÁRIO EXTERNO
-===================
+-------------------
 
 6.1.	O usuário externo pode assinar documentos internos utilizando assinatura qualificada e avançada?
   A partir da versão 1.3.0, o usuário externo pode assinar documentos internos utilizando assinatura avançada (GOV.BR) e qualificada (SERPROID e Token A1).
