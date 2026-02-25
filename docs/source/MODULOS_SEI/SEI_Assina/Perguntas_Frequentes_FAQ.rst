@@ -4,7 +4,7 @@ Perguntas Frequentes (FAQ)
 1.	 CONCEITO
 -------------
 
-1.1.	O que é o Módulo de Assinatura Eletrônica?
+1.1.	O que é o Módulo SEIAssina!?
   É módulo que possibilita os usuários internos e externos realizarem a assinatura avançada e qualificada em documentos internos e externos, inclusive por meio de bloco de assinatura.
 
   
@@ -143,7 +143,7 @@ O módulo depende de 3 credenciais principais, obtidas com dois órgãos diferen
 
   
 2.7.	É possível usar a assinatura avançada do core do SEI junto com o módulo?
-  A orientação técnica é apenas utilizar as funcionalidades do Módulo de Assinatura Eletrônica para evitar conflito com assinatura avançada disponível no Core do SEI. Ao utilizar o módulo, a recomendação é desabilitar a funcionalidade nativa do sistema.
+  A orientação técnica é apenas utilizar as funcionalidades do Módulo SEIAssina! para evitar conflito com assinatura avançada disponível no Core do SEI. Ao utilizar o módulo, a recomendação é desabilitar a funcionalidade nativa do sistema.
 
 
 2.8.	O módulo precisa do aplicativo Java do SEI para assinar?
@@ -172,7 +172,7 @@ Certificado em nuvem (Serpro ID, Certisign, Valid, Soluti, etc)
 
 Certificado A1 (arquivo PFX/P12).
   
-OBS1: O módulo não aceita certificados A3.
+  **OBS1: O módulo não aceita certificados A3.**
 
   
 3.2.	O módulo suporta certificados A1 e A3?
@@ -216,21 +216,23 @@ OBS1: O módulo não aceita certificados A3.
 4.2.	O módulo possibilita a assinatura de documento externo?
   Sim, o módulo permite que o documento externo seja assinado pelos usuários.
 
-**OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.**
+    **OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.**
 
-  
+
 4.3.	É possível assinar vários documentos com assinatura avançada ou qualificada?
   Sim. O módulo permite realizar a assinatura de diversos documentos por meio do bloco de assinatura. Essa funcionalidade permite tanto assinatura avançada quanto qualificada.
 
   
 4.4.	É possível assinar tantos documentos internos quanto externos no mesmo bloco de assinatura?
   Não, a própria aplicação impede que seja colocado em um mesmo bloco documentos internos e externos. Logo, em um bloco de assinatura é apenas permitido um tipo de documento, interno ou externo.
-OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.
+    
+    **OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.**
 
   
 4.5.	Para quais tipos de documentos é permitida a assinatura destacada?
   A assinatura destacada é apenas permitida para documentos externos. O usuário consegue realizar o upload do arquivo p7s para a aplicação e realizar a validação da assinatura.
-OBS1: O upload de arquivo p7s está apenas disponível a partir da versão 1.4.0.
+    
+    **OBS1: O upload de arquivo p7s está apenas disponível a partir da versão 1.4.0.**
 
   
 4.6.	Qualquer usuário consegue realizar assinatura por meio do GOV.BR?
@@ -239,13 +241,16 @@ OBS1: O upload de arquivo p7s está apenas disponível a partir da versão 1.4.0
   
 4.7.	É possível assinar documentos externos por meio de bloco de assinatura?
   O módulo possibilita que documentos externos sejam assinados por meio de bloco de assinatura.
-OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.
-OBS2: É necessário entrar no bloco é realizar a assinatura de cada documento. Atualmente, não é possível assinar todos os documentos em lote.
+
+    **OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.**
+
+    **OBS2: É necessário entrar no bloco é realizar a assinatura de cada documento. Atualmente, não é possível assinar todos os documentos em lote.**
 
   
 4.8.	É possível assinar qualquer tipo de documento externo?
   Não, o módulo apenas permite a assinatura de documentos externos no formato Portable Document File (PDF).
-OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.
+
+    **OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.**
 
   
 5.	CARIMBO DE TEMPO
@@ -257,27 +262,32 @@ OBS1: A assinatura de documento externo está apenas disponível a partir da ver
   
 5.2.	Como habilitar o carimbo de tempo?
   Citar o manual correto.
-OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.
+
+    **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
   
 5.3.	O carimbo de tempo está habilitado para qual tipo de assinatura?
   Atualmente, o GOV.BR, assinatura avançada, não possibilita realizar a assinatura utilizando um carimbo do tempo. Então, apenas para assinatura qualificada é possível utilizar esse recurso.
-OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.
+
+    **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
   
 5.4.	O carimbo de tempo está habilitado para qual tipo de documento?
   Após a configuração dos dados da Autoridade de Carimbo de Tempo, a utilização é habilitada tanto para documento interno quanto externo.
-OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.
+
+    **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
 
 5.5.	Onde eu consigo as credenciais da autoridade de carimbo de tempo?
   Os dados para configurar a autoridade certificadora de carimbo de tempo são obtidas, após a contratação do serviço pelo órgão/entidade. 
-OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.
+
+    **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
 
 5.6.	A utilização do carimbo de tempo é obrigatória?
   A configuração do Carimbo de Tempo é desejável, mas não é obrigatória. Portanto, a ausência dessa contratação não impede o órgão/entidade de começar a utilizar o módulo em ambiente de produção.
-OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.
+
+    **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
 
 6.	USUÁRIO EXTERNO
@@ -293,7 +303,8 @@ OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a p
 
 6.3.	O usuário externo pode assinar documentos com carimbo de tempo?
   A utilização do carimbo de tempo pelos usuários externos é habilitada pelos Administradores do SEI.
-OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.
+
+    **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
 
 
