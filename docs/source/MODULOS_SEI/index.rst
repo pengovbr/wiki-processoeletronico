@@ -5,6 +5,6 @@ Módulos SEI
    :hidden:
    :titlesonly:
 
-   GESTAO_DOCUMENTAL
-   SEI_Assina
+   GESTAO_DOCUMENTAL/index
+   SEI_Assina/index
    
