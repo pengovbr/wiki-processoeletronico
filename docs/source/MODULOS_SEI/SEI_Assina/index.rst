@@ -1,4 +1,5 @@
 Módulo SEIAssina!
+=================
 
 .. toctree::
    :hidden:
