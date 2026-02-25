@@ -1,4 +1,4 @@
-Documentação de Apoio - Módulo SEIAssina! 
+Documentação de Apoio 
 =========================================
 
 Em construção.
