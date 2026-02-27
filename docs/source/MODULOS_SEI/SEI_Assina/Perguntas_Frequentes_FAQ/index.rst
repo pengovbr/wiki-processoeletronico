@@ -6,8 +6,8 @@ Perguntas_Frequentes_FAQ
    :numbered:
 
    Conceito
-   Credenciais_e_ _Compatibilidade
-   Certificado_ _Digital
+   Credenciais_e_Compatibilidade
+   Certificado_Digital
    Assinar_e_Validar
    Carimbo_de_Tempo
    Usuario_Externo
