@@ -35,7 +35,7 @@ Instituto Nacional de Tecnologia da Informação (ITI)    API Validar: Permite c
 
 3.2.	Onde ficam armazenadas as configurações das credenciais?
 --------------------------------------------------------------
-  As informações das credenciais são armazenadas na configuração do módulo. Para maiores informações a respeito, orientamos a leitura do Manual de Instalação do Módulo, o link de acesso para cada versão do módulo está disponível na tabela abaixo.  
+As informações das credenciais são armazenadas na configuração do módulo. Para maiores informações a respeito, orientamos a leitura do Manual de Instalação do Módulo, o link de acesso para cada versão do módulo está disponível na tabela abaixo.  
 
   
 +-----------------+----------------------------------------------------------------------------------------------------------------------------------------------+  
@@ -48,13 +48,13 @@ Instituto Nacional de Tecnologia da Informação (ITI)    API Validar: Permite c
    
 3.3.	Como solicitar a credencial do GOV.BR?
 --------------------------------------------
-  O passo a passo para solicitar a credencial do GOV.BR está disponível em:  https://manuais.processoeletronico.gov.br/pt-br/latest/MODULOS-SEI/Assinatura_Avancada_Processo_de_solicitacao_e_habilitacao.html. 
+O passo a passo para solicitar a credencial do GOV.BR está disponível em:  https://manuais.processoeletronico.gov.br/pt-br/latest/MODULOS-SEI/Assinatura_Avancada_Processo_de_solicitacao_e_habilitacao.html. 
 
 3.4.	Como solicitar a credencial do Validar?
 ---------------------------------------------
-  Após aprovação da solicitação de acesso ao módulo, as orientações de como solicitar a credencial serão enviadas por meio de e-mail.
+Após aprovação da solicitação de acesso ao módulo, as orientações de como solicitar a credencial serão enviadas por meio de e-mail.
 
 
 3.5.	Como solicitar a credencial do AssinaGOV?
 -----------------------------------------------
-  Após aprovação da solicitação de acesso ao módulo, as orientações de como solicitar a credencial serão enviadas por meio de e-mail.
+Após aprovação da solicitação de acesso ao módulo, as orientações de como solicitar a credencial serão enviadas por meio de e-mail.

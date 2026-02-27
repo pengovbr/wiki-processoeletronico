@@ -36,7 +36,7 @@
   Não, com o módulo, a utilização desse aplicativo não é mais necessária, visto que o módulo possibilita a realização de assinatura qualificada por meio de certificado em nuvem e A1, sem o usuário instalar qualquer tipo de aplicativo em sua máquina.
 
 
-2.9.	Quais são as funcionalidades exclusivas da versão 1.4.0?
+2.5.	Quais são as funcionalidades exclusivas da versão 1.4.0?
 --------------------------------------------------------------
     As seguintes funcionalidades estão apenas disponíveis na versão 1.4.0:
 
@@ -47,4 +47,3 @@
 •	A inclusão de documentos externos em bloco de assinatura;
 
 •	A possibilidade de assinatura de documento externo por usuário externo.
-
