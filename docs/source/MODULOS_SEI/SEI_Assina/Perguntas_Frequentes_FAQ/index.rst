@@ -3,8 +3,7 @@ Perguntas_Frequentes_FAQ
 
 .. toctree::
    :titlesonly:
-   :numbered:
-
+  
    Conceito
    Credenciais_e_Compatibilidade
    Certificado_Digital

@@ -1,4 +1,4 @@
-2.CREDENCIAIS E COMPATIBILIDADE
+CREDENCIAIS E COMPATIBILIDADE
 ==================================
 
 

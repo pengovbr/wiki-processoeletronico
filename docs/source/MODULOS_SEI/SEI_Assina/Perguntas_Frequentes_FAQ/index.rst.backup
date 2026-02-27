@@ -2,7 +2,7 @@ Perguntas_Frequentes_FAQ
 ========================
 
 .. toctree::
-   :hidden:
+   :titlesonly:
    :numbered:
 
    Conceito
