@@ -26,7 +26,7 @@
   
 4.3.	O módulo suporta certificados A1 e A3?
 --------------------------------------------
-  As versões lançadas (1.3.0 e 1.4.0) possuem apenas compatibilidade com o certificado A1.
+  As versões lançadas (1.3.0 e 1.4.0) possuem apenas compatibilidade com certificado A3 em nuvem e A1.
 
   
 4.4.	Preciso configurar algo para usar um certificado A1?
