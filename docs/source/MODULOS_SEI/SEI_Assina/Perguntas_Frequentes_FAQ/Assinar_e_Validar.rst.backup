@@ -62,6 +62,7 @@
 
   
 4.7.	É possível assinar documentos externos por meio de bloco de assinatura?
+-----------
   O módulo possibilita que documentos externos sejam assinados por meio de bloco de assinatura.
 
     **OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.**
@@ -70,6 +71,7 @@
 
   
 4.8.	É possível assinar qualquer tipo de documento externo?
+------------------------------------------------------------
   Não, o módulo apenas permite a assinatura de documentos externos no formato Portable Document File (PDF).
 
     **OBS1: A assinatura de documento externo está apenas disponível a partir da versão 1.4.0.**

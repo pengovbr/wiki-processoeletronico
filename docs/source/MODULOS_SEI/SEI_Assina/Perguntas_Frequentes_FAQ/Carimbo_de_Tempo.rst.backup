@@ -17,48 +17,29 @@
 
   
 5.3.	O carimbo de tempo está habilitado para qual tipo de assinatura?
-------------------------------------------------------------
+---------------------------------------------------------------------
   Atualmente, o GOV.BR, assinatura avançada, não possibilita realizar a assinatura utilizando um carimbo do tempo. Então, apenas para assinatura qualificada é possível utilizar esse recurso.
 
     **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
   
 5.4.	O carimbo de tempo está habilitado para qual tipo de documento?
+--------------------------------------------------------------------
   Após a configuração dos dados da Autoridade de Carimbo de Tempo, a utilização é habilitada tanto para documento interno quanto externo.
 
     **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
 
 5.5.	Onde eu consigo as credenciais da autoridade de carimbo de tempo?
+----------------------------------------------------------------------
   Os dados para configurar a autoridade certificadora de carimbo de tempo são obtidas, após a contratação do serviço pelo órgão/entidade. 
 
     **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
 
 5.6.	A utilização do carimbo de tempo é obrigatória?
+----------------------------------------------------
   A configuração do Carimbo de Tempo é desejável, mas não é obrigatória. Portanto, a ausência dessa contratação não impede o órgão/entidade de começar a utilizar o módulo em ambiente de produção.
 
     **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
-
-
-6.	USUÁRIO EXTERNO
--------------------
-
-6.1.	O usuário externo pode assinar documentos internos utilizando assinatura qualificada e avançada?
-  A partir da versão 1.3.0, o usuário externo pode assinar documentos internos utilizando assinatura avançada (GOV.BR) e qualificada (SERPROID e Token A1).
-
-  
-6.2.	O usuário externo pode assinar documentos externos utilizando assinatura qualificada e avançada?
-  A partir da versão 1.4.0, o usuário externo pode assinar documentos externos utilizando assinatura avançada (GOV.BR) e qualificada (SERPROID e Token A1).
-
-
-6.3.	O usuário externo pode assinar documentos com carimbo de tempo?
-  A utilização do carimbo de tempo pelos usuários externos é habilitada pelos Administradores do SEI.
-
-    **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
-
-
-
-
-
 
