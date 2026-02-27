@@ -5,7 +5,8 @@ Perguntas_Frequentes_FAQ
    :titlesonly:
   
    Conceito
-   Credenciais_e_Compatibilidade
+   Compatibilidade_e_Acesso_ao_Módulo
+   Credenciais
    Certificado_Digital
    Assinar_e_Validar
    Carimbo_de_Tempo
