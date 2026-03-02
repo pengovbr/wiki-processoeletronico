@@ -16,6 +16,6 @@ A partir da versão 1.4.0, o usuário externo pode assinar documentos externos u
 --------------------------------------------------------------------
 A utilização do carimbo de tempo pelos usuários externos é habilitada pelos Administradores do SEI.
 
-  **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
+  **OBS1: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
 
