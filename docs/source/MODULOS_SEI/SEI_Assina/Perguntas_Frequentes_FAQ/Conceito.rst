@@ -41,7 +41,7 @@ Fonte: https://www.gov.br/governodigital/pt-br/identidade/assinatura-eletronica/
 -------------------------------------
 A assinatura que utiliza certificado digital, nos termos do § 1º do art. 10 da Medida Provisória nº 2.200-2, de 24 de agosto de 2001.
 
-  Fonte: https://www.gov.br/governodigital/pt-br/identidade/assinatura-eletronica/saiba-mais-sobre-a-assinatura-eletronica 
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/assinatura-eletronica/saiba-mais-sobre-a-assinatura-eletronica 
 
 
 1.7.	O que é Assinatura Destacada (Desatachada)?
@@ -63,7 +63,7 @@ A assinatura e o documento assinado são um único arquivo.
 ---------------------------------------------
 Uma Autoridade Certificadora do Tempo (ACT) é uma entidade responsável por emitir Carimbos do Tempo. A AC-Raiz da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) é a responsável pelo credenciamento das ACTs que desejam integrar a estrutura, com base em critérios estabelecidos nos documentos que regulamentam o assunto.
 
-  Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/autoridades-de-carimbo-do-tempo 
+Fonte: https://www.gov.br/iti/pt-br/assuntos/icp-brasil/autoridades-de-carimbo-do-tempo 
 
 
 1.11.	O que é o AssinaGov?
