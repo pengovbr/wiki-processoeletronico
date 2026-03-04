@@ -9,7 +9,7 @@ O carimbo de tempo garante data e hora certificadas da assinatura e validade jur
   
 6.2.	Como habilitar o carimbo de tempo?
 ----------------------------------------
-As informações de como habilitar o carimbo de tempo estão disponíveis no Manual de Instalação.
+As informações de como habilitar o carimbo de tempo estão disponíveis no `Manual de Instalação <https://github.com/pengovbr/mod-sei-assinatura-eletronica/blob/release/1.4.0/docs/INSTALL.md#22-carimbo-de-tempo>`__.
 
     **OBS: As funcionalidades relacionadas ao Carimbo de Tempo estão disponíveis a partir da versão 1.4.0.**
 
