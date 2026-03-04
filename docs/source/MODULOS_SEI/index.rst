@@ -6,4 +6,4 @@ Módulos SEI
    :titlesonly:
 
    GESTAO_DOCUMENTAL/index
-   
+   SEI_Assina/index
