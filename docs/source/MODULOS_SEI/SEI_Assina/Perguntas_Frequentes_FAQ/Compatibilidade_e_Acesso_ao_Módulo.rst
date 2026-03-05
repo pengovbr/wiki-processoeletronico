@@ -5,7 +5,7 @@
 2.1.	Quem pode ter acesso ao módulo?
 -------------------------------------
 
-O órgão interessado em utilizar o módulo deve formalizar o seu interesse por meio de e-mail, o qual deve ser encaminhado para  adesao.pen@gestao.gov.br. Após o recebimento da solicitação, a equipe responsável avaliará a conveniência, a oportunidade e a capacidade de atendimento. Caso o órgão interessado seja aprovado, a equipe responsável entrará em contato.  
+Para utilizar o módulo, o órgão interessado deve formalizar sua solicitação por meio do e-mail adesao.pen@gestao.gov.br. Após o recebimento, nossa equipe analisará o pedido e entrará em contato para os próximos passos. 
 
 
 	**OBS1: A versão do SEI do órgão solicitante deve ser uma das versões enumeradas na pergunta 2.2 do FAQ. Caso não tenha a versão compatível, a solicitação será recusada.**
