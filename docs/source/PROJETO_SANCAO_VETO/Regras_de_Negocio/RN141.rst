@@ -1,3 +1,0 @@
-**RN 141**
-==========
-O sistema deve permitir excluir uma unidade mapeada, com confirmação do usuário.

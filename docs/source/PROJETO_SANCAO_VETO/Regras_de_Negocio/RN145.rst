@@ -1,3 +1,0 @@
-**RN 145**
-==========
-O sistema deve permitir ordenar a lista de unidades por qualquer coluna (ID, Sigla, Descrição, Órgão) em ordem ascendente ou descendente, exibindo indicador visual da ordenação atual e mantendo a ordenação após novas pesquisas.
