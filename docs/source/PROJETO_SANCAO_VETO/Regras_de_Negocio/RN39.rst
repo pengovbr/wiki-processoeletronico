@@ -1,9 +1,3 @@
 **RN 39**
 =========
-O sistema deve disponibilizar mecanismos de seleção através de caixas de seleção, permitindo a seleção individual ou múltipla de usuários para mapeamento como autoridades. A seleção em massa deve se aplicar aos registros da página atual, habilitando automaticamente a opção de cadastramento.
-
-- **Exemplo de Tela:**
-
-**1) Ação Sanção&Veto>Mapeamento de Tipos de Autoridades>Cadastrar 
-Campo de seleção suspensa (dropdown) chamado "Órgão", que permite ao usuário selecionar uma opção específica relacionada aos órgãos disponíveis. O campo apresenta uma opção inicial em branco, seguida das opções "Todos", "Sanção&Veto", "PR e "IN".** 
-       .. figure:: CadastrarAutoridade2.png
+O sistema deve exibir a lista de usuários de forma paginada quando houver muitos registros.
