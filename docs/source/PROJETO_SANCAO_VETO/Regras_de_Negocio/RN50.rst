@@ -1,7 +1,3 @@
 **RN 50**
 =========
-O sistema deve fornecer ações em lote para que os administradores possam realizar operações em múltiplos mapeamentos de uma vez.
-
-- **Exemplo de Tela:**
-     .. figure:: ListarAutoridade6.png
-
+ O sistema deve permitir excluir uma autoridade, com confirmação do usuário.
