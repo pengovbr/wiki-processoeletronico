@@ -1,6 +1,9 @@
 **RN 02**
 =========
+**RN 02**
+=========
 O sistema deve exibir o formulário com o campo obrigatório e as ações disponíveis.
 
 - **Exemplo da tela a ser implementada:**
        .. figure:: Images\Mapeamento_de_Autoridades\funcao_de_autoridade_cadastrar.png
+
