@@ -1,9 +1,3 @@
 **RN 69**
 =========
-A página de cadastramento de mapeamento de unidades deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior, área de pesquisa e tabela de dados. A interface deve permitir a pesquisa, seleção e filtragem de unidades para mapeamento como autora/coautora.
-
-
-- **Exemplo de Tela:**
-
-**1)Ação Sanção&Veto>Mapeamento de Unidades> Autoras/Coautoras>Cadastrar** 
-       .. figure:: UnidadeAutora1.png
+O sistema deve salvar o mapeamento quando os campos obrigatórios estiverem preenchidos.
