@@ -1,5 +1,7 @@
 **RN 06**
 =========
-O sistema deve implementar validação para garantir que apenas usuários com o perfil específico "Administrador do Sanção&Veto" possam acessar as funcionalidades administrativas do módulo. 
+O sistema deve exibir a lista de funções com total de registros visível e coluna de ações.
 
-Esta validação deve ser independente de outros perfis do sistema, incluindo o perfil de administrador geral.
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Autoridades/funcao_de_autoridade_listar.png
