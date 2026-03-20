@@ -1,3 +1,4 @@
 **RN 65**
 =========
-O sistema deve validar a consistência dos dados antes de permitir operações em lote, garantindo que todas as configurações necessárias ainda existam no sistema.
+ O sistema deve permitir cancelar e retornar à listagem sem salvar alterações.
+
