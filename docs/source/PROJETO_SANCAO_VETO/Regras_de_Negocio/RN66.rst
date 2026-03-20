@@ -1,4 +1,3 @@
 **RN 66**
 =========
-O sistema deve garantir fluxos completos de operações, seja para registros individuais ou em lote, mantendo o usuário informado sobre o progresso e resultado das operações.
-
+ O sistema deve exibir o formulário de cadastro com os campos obrigatórios e ações disponíveis.
