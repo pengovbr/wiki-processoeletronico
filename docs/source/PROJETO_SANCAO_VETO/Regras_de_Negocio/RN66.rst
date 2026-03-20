@@ -4,4 +4,4 @@ O sistema deve exibir o formulário de cadastro com os campos obrigatórios e a�
 
 - **Exemplo da tela a ser implementada:**
 
-  .. figure:: Images/Mapeamento_de_Autoridades/funcao_de_autoridade_cadastrar.png
+  .. figure:: Images/Mapeamento_de_Tipo_de_Processos/tipos_processos_cadastrar.png
