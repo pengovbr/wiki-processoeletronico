@@ -1,3 +1,4 @@
 **RN 96**
 =========
-O módulo Sanção&VEto deve manter sincronização automática com o core do SEI, espelhando todas as alterações de estado realizadas no sistema principal para manter a consistência dos dados.
+ O sistema deve retornar à tela principal quando o usuário solicita fechar a página.
+ 
