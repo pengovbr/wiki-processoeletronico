@@ -1,9 +1,4 @@
 **RN 22**
 =========
 
-Cada registro listado na tabela deve disponibilizar ações individuais através de ícones intuitivos, permitindo alterar, desativar ou excluir o tipo de processo específico. 
-
-Todas as ações devem exigir confirmação do usuário antes de serem efetivadas e fornecer feedback visual apropriado sobre o resultado da operação, mantendo a consistência dos dados.
-
-- **Exemplo da tela:**
-       .. figure:: ListarTipoProcesso6.png
+O sistema deve permitir reativar uma função inativa, com confirmação do usuário.
