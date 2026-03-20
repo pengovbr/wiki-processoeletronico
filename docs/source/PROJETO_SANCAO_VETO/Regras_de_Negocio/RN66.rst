@@ -1,3 +1,7 @@
 **RN 66**
 =========
- O sistema deve exibir o formulário de cadastro com os campos obrigatórios e ações disponíveis.
+O sistema deve exibir o formulário de cadastro com os campos obrigatórios e ações disponíveis.
+
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Autoridades/funcao_de_autoridade_cadastrar.png
