@@ -1,4 +1,0 @@
-**RN 122**
-==========
-O sistema deve permitir filtrar unidades por órgão com submissão automática, exibindo apenas as unidades que correspondem ao critério aplicado.
-  

@@ -1,3 +1,0 @@
-**RN 125**
-==========
-O sistema deve retornar à tela principal quando o usuário solicita fechar a página.
