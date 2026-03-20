@@ -5,4 +5,4 @@ Para acessar o Sanção&Veto, o usuário deve utilizar um navegador de internet 
 O tipo de órgão vinculado esta listado abaixo:
  - SEI-ATOS.
 
-.. figure:: Acesso_Sistema.png
+.. figure:: Images/Acesso_Sistema.png
