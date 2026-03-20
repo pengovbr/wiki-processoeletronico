@@ -1,3 +1,7 @@
 **RN 83**
 =========
-A tabela deve implementar mecanismos de ordenação para as colunas que contêm dados ordenáveis (ID, Sigla, Descrição e Órgão), permitindo que o usuário alterne entre ordenação ascendente e descendente através de cliques no cabeçalho. O estado da ordenação deve ser indicado por setas direcionais.
+O sistema deve exibir a lista de mapeamentos inativos quando houver resultados.
+
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Tipo_de_Processos/tipos_processos_reativar.png
