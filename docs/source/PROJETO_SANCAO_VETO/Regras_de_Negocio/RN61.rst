@@ -1,6 +1,7 @@
 **RN 61**
 =========
-O sistema deve fornecer ações em lote para que os administradores possam realizar operações em múltiplas autoridades de uma vez.
+O sistema deve exibir a interface de alteração com campos preenchidos e editáveis conforme definido.
 
-- **Exemplo de Tela:**
-     .. figure:: ReativarAutoridade4.png
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Tipo_de_Processos/tipos_processos_alterar.png
