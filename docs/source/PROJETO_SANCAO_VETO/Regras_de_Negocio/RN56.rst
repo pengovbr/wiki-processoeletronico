@@ -1,3 +1,7 @@
 **RN 56**
 =========
-O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de autoridades, otimizada para meio impresso.
+O sistema deve exibir a lista de autoridades inativas quando houver resultados.
+
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Autoridades/autoridades_reativar.png
