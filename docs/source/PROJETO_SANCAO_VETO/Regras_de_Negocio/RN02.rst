@@ -10,4 +10,4 @@ Suas seções devem agrupar operações relacionadas e permitir expansão/recolh
        .. figure:: Menu1.png
 
  **2) Tela do Menu Sanção&Veto expandida mostrando as seções:** 
-       .. figure:: Menu2.png
+       .. figure:: Mapeamento de Autoridades/autoridades_cadastrar.png
