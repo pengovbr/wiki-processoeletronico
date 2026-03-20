@@ -1,5 +1,3 @@
 **RN 16**
 =========
-O sistema deve implementar mecanismos de navegação que permitam ao usuário cancelar a operação atual e retornar à listagem de tipos de processo de forma segura. 
-
-O cancelamento deve descartar as alterações não salvas e preservar o estado anterior dos dados, evitando modificações acidentais no sistema.
+O sistema deve permitir ordenar a lista por qualquer coluna (ID, Função, Ordem) em ordem ascendente ou descendente, exibindo indicador visual da ordenação atual e mantendo a ordenação após novas pesquisas.
