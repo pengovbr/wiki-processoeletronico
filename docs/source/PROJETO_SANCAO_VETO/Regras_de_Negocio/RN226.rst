@@ -1,2 +1,3 @@
 **RN 226**
 ==========
+O painel de controle deve disponibilizar um botão que leva à tela de informações do projeto de lei.
