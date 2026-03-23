@@ -1,2 +1,3 @@
 **RN 256**
 ==========
+ As linhas expansíveis devem exibir os processos relacionados ao processo principal que já foram enviados para manifestação, com as mesmas colunas da tabela "Processos Enviados para Manifestação" do Painel (gerenciar_tramitacao_tabela_processos_enviados.feature).
