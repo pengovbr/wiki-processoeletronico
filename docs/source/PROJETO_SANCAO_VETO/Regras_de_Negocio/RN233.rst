@@ -1,2 +1,3 @@
 **RN 233**
 ==========
+O campo "Ponto Focal" deve permitir selecionar usuários do SEI e gerenciar o registro (incluir, editar, excluir, reordenar quando aplicável).
