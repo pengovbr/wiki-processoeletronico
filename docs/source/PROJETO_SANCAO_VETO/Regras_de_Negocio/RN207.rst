@@ -1,2 +1,3 @@
 **RN 207**
 ==========
+Ao clicar no ícone de gerenciar tramitação, o sistema deve exibir a tela do painel de controle.
