@@ -1,2 +1,3 @@
 **RN 230**
 ==========
+O campo "Ementa" deve ser multilinha e aceitar até 1000 caracteres com o texto do projeto.
