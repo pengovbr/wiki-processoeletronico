@@ -1,2 +1,3 @@
 **RN 204**
 ==========
+ Ao acionar "Limpar Formulário", o sistema zera todos os campos preenchidos pelo usuário, retornando o formulário ao estado inicial. A ação requer confirmação para evitar perda acidental de dados.
