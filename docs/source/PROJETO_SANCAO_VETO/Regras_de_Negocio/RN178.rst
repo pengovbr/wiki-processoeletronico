@@ -1,2 +1,3 @@
 **RN 178**
 ==========
+ O administrador deve poder definir qual o nível de assinatura exigido para o documento Aprovo (Simples, Qualificada, Avançada ou Nenhuma); somente uma opção pode estar selecionada por vez.
