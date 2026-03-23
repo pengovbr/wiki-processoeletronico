@@ -1,2 +1,3 @@
 **RN 196**
 ==========
+Ao acionar "Incluir Aprovo", o sistema exibe o formulário com todas as seções necessárias para preenchimento. O formulário possui quatro botões de ação: "Salvar Rascunho" (grava sem validar obrigatórios), "Enviar Formulário" (valida e inclui na árvore do processo), "Limpar Formulário" (zera todos os campos com confirmação) e "Fechar" (retorna à árvore do processo).
