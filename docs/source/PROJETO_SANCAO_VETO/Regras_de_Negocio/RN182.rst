@@ -1,2 +1,3 @@
 **RN 182**
 ==========
+O usuário pode assinar o documento Aprovo a partir da árvore do processo.
