@@ -1,2 +1,3 @@
 **RN 210**
 ==========
+Ao acionar "Editar prazos", o sistema deve permitir informar a data ou o prazo do retorno programado e aplicar a todos os processos da tabela "Processos Não Enviados".
