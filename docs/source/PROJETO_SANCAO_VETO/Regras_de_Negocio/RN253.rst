@@ -1,2 +1,3 @@
 **RN 253**
 ==========
+ A tela do MAPA deve exibir título, barra de localização e botões de ação no padrão das telas do SEI.
