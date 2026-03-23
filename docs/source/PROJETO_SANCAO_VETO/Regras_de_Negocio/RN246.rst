@@ -1,2 +1,3 @@
 **RN 246**
 ==========
+ A coluna "Situação do Aprovo" deve exibir a opção de manifestação constante no documento Aprovo assinado, correspondente às três opções do formulário de Aprovo (opção 1: matéria fora das competências; opção 2: sanção integral; opção 3: veto, com tipo parcial ou integral). O valor exibido deve ser o da opção selecionada no Aprovo no momento em que foi assinado.
