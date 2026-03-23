@@ -1,2 +1,3 @@
 **RN 179**
 ==========
+Somente documentos de Aprovo incluídos via "Enviar Formulário" (com todos os campos obrigatórios preenchidos) aparecem na árvore do processo. Rascunhos salvos via "Salvar Rascunho" não são exibidos na árvore.
