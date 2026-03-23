@@ -1,2 +1,3 @@
 **RN 180**
 ==========
+O documento Aprovo na árvore exibe o mesmo cabeçalho dos demais documentos e recebe numeração em sequência.
