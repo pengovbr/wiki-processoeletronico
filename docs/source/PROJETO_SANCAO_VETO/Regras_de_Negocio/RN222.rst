@@ -1,2 +1,3 @@
 **RN 222**
 ==========
+O bloco "Seleção de Unidades Internas" deve exibir uma grade de checkboxes com as unidades mapeadas como internas.
