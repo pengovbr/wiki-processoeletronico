@@ -1,2 +1,3 @@
 **RN 202**
 ==========
+ Ao acionar "Salvar Rascunho", o sistema grava todos os dados preenchidos sem exigir o preenchimento dos campos obrigatórios. O usuário pode editar livremente e salvar quantas vezes quiser.
