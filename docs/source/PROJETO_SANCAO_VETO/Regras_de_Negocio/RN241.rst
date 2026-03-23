@@ -1,2 +1,3 @@
 **RN 241**
 ==========
+A tabela deve exibir as colunas com dados do processo e do retorno programado, quando houver.
