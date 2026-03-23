@@ -1,2 +1,3 @@
 **RN 228**
 ==========
+ O campo "Título" deve aceitar entrada de uma linha no padrão do SEI.
