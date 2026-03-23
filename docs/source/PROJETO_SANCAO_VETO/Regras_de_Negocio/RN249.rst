@@ -1,2 +1,3 @@
 **RN 249**
 ==========
+ A tabela deve exibir as colunas com dados do processo, unidades nos interessados, prazo e ações por linha.
