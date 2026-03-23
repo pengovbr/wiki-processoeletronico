@@ -1,2 +1,3 @@
 **RN 177**
 ==========
+ Na página de Parâmetros Gerais deve haver um campo (ou área) onde o administrador seleciona quais funções de autoridade, cadastradas em "Mapeamento de Autoridades > Função de Autoridade", poderão assinar o documento Aprovo Ministerial.
