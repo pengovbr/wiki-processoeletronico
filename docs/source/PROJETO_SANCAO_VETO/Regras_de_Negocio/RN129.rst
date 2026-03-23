@@ -1,3 +1,8 @@
 **RN 129**
 ==========
  O sistema deve exibir a lista de unidades internas mapeadas, com total de registros visível e coluna de ações.
+
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Unidades/unidades_internas_listar.png
+
