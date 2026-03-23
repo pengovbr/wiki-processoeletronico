@@ -1,2 +1,3 @@
 **RN 191**
 ==========
+Quando o parâmetro está desabilitado, o ministério pode enviar o processo para qualquer unidade conforme o fluxo normal do SEI (desde que haja Aprovo incluído e assinado).
