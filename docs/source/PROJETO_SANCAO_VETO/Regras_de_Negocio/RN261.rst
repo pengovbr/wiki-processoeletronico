@@ -1,2 +1,3 @@
 **RN 261**
 ==========
+ O sistema deve exibir a opção de acesso ao MAPA como ação direta no menu "Sanção & Veto", fora da área de Administração. A área de Administração do menu é exclusiva do administrador do módulo; o MAPA é para uso de qualquer usuário que tenha o perfil de acesso ao MAPA.
