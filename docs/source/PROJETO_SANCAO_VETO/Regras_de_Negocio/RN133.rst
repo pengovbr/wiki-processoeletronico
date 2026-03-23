@@ -1,2 +1,4 @@
 **RN 133**
 ==========
+ O sistema deve permitir seleção múltipla e seleção de todos os registros visíveis.
+  
