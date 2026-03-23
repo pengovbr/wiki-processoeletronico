@@ -1,2 +1,3 @@
 **RN 221**
 ==========
+O bloco "Seleção de Unidades Externas" deve exibir uma grade de checkboxes com as siglas das unidades ministeriais mapeadas.
