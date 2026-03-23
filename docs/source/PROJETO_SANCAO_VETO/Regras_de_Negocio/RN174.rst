@@ -1,2 +1,3 @@
 **RN 174**
 ==========
+ Deve existir opção de menu na área de administração do módulo levando à página de Parâmetros Gerais.
