@@ -1,2 +1,3 @@
 **RN 262**
 ==========
+O item de menu do MAPA deve ser exibido apenas quando o usuário possuir o perfil de acesso ao MAPA.
