@@ -1,2 +1,3 @@
 **RN 184**
 ==========
+Enquanto o documento Aprovo não foi assinado, o usuário pode alterá-lo pela árvore do processo. Ao alterar, o sistema reabre o formulário para edição. O usuário pode então "Salvar Rascunho" (o documento é retirado da árvore e volta ao estado de rascunho) ou "Enviar Formulário" (revalida e mantém o documento na árvore).
