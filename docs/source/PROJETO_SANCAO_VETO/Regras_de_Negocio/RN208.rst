@@ -1,2 +1,3 @@
 **RN 208**
 ==========
+ A tela do painel de controle deve exibir sempre a tabela "Processos Enviados para Manifestação" (mesmo com 0 registros) e, quando houver processos não enviados, a tabela "Processos Não Enviados"; além dos botões para programar e enviar processos.
