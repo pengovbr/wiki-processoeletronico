@@ -1,2 +1,3 @@
 **RN 224**
 ==========
+ Ao clicar em "Gerar Processos", o sistema deve exibir um pop-up de confirmação informando quantos processos serão criados, quantos documentos serão copiados, que a operação é irreversível e perguntando se o usuário tem certeza.
