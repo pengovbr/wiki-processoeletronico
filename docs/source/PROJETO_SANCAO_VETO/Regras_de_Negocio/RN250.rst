@@ -1,2 +1,3 @@
 **RN 250**
 ==========
+ O número do processo na coluna "Número do processo" deve ser um link que, ao ser clicado, abre uma nova aba no navegador levando o usuário ao processo de interesse.
