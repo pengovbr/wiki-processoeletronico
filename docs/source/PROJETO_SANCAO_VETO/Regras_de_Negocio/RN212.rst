@@ -1,2 +1,3 @@
 **RN 212**
 ==========
+ Ao clicar em "Enviar Processos", o sistema deve considerar como alvo do envio somente os processos da tabela "Processos Não Enviados" que o usuário selecionou.
