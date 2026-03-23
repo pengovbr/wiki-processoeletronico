@@ -1,2 +1,3 @@
 **RN 240**
 ==========
+ A quantidade de linhas da tabela deve refletir a quantidade de registros na tabela de retorno programado. Cada registro de retorno programado de um processo corresponde a uma linha na tabela. Se um processo foi enviado, voltou e foi enviado novamente, deve haver duas linhas (dois registros de retorno programado).
