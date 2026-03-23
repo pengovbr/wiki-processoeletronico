@@ -1,3 +1,4 @@
 **RN 99**
 =========
-O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de unidades inativas, otimizada para meio impresso.
+ O sistema deve permitir filtrar unidades por órgão com submissão automática, exibindo apenas as unidades que correspondem ao critério aplicado.
+  
