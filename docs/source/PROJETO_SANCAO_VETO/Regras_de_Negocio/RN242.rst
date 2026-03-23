@@ -1,2 +1,3 @@
 **RN 242**
 ==========
+ O valor exibido na coluna "Prazo" deve ser clicável. Ao clicar em um prazo específico, o usuário deve ser redirecionado em uma nova aba para a página do retorno programado, exibindo aquele prazo na tela para o usuário eventualmente consultar ou editar.
