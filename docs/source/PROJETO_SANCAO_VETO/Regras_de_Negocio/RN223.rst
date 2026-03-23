@@ -1,2 +1,3 @@
 **RN 223**
 ==========
+ A tela deve exibir a lista de documentos do processo atual para o usuário selecionar quais serão duplicados em cada novo processo.
