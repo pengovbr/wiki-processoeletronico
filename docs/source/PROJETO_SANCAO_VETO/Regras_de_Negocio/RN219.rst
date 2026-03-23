@@ -1,3 +1,3 @@
 **RN 219**
 ==========
- O painel de controle deve disponibilizar o botão "Programar Processos" que leva à tela de gerar processos de consulta.
+ A tela deve exibir os botões "Gerar Processos" e "Voltar".
