@@ -1,2 +1,3 @@
 **RN 186**
 ==========
+O usuário pode incluir o documento Aprovo em bloco de assinatura quando a ação estiver disponível.
