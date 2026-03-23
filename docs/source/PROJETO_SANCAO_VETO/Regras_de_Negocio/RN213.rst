@@ -1,2 +1,3 @@
 **RN 213**
 ==========
+Para cada processo selecionado, o sistema deve verificar se todas as informações necessárias para o envio estão preenchidas. O envio só continua se todas as informações de todos os processos selecionados estiverem preenchidas. Caso contrário, o sistema exibe erro informativo e não envia nenhum processo.
