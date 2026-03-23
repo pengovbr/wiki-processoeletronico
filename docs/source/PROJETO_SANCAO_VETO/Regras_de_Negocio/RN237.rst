@@ -1,2 +1,3 @@
 **RN 237**
 ==========
+Ao acionar "Salvar", o sistema deve persistir as informações do formulário.
