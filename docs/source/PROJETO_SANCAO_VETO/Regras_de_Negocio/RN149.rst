@@ -1,2 +1,3 @@
 **RN 149**
 ==========
+O sistema deve permitir excluir múltiplas unidades selecionadas, com confirmação do usuário. Quando não houver seleção, deve exibir alerta.
