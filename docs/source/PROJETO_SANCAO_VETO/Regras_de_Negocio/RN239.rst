@@ -1,2 +1,3 @@
 **RN 239**
 ==========
+A tabela "Processos Enviados para Manifestação" deve listar somente processos relacionados ao processo principal, de tipo mapeado e já enviados para alguma unidade.
