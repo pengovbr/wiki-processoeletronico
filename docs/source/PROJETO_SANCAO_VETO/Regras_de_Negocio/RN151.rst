@@ -1,4 +1,3 @@
 **RN 151**
 ==========
-O sistema deve retornar à tela principal quando o usuário solicita fechar a página.
- 
+ O sistema deve exibir a lista de unidades ministeriais mapeadas, com total de registros visível e coluna de ações.
