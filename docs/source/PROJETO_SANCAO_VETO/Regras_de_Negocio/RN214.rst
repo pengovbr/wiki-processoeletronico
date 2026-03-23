@@ -1,2 +1,3 @@
 **RN 214**
 ==========
+Antes de executar o envio, o sistema deve exibir um pop-up de confirmação com resumo do que está prestes a acontecer.
