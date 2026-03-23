@@ -1,2 +1,3 @@
 **RN 260**
 ==========
+A tabela do MAPA deve possuir caption ou summary descritivo; links devem possuir título ou texto alternativo; o padrão de acessibilidade das demais telas do módulo deve ser mantido.
