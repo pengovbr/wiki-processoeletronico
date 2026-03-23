@@ -1,2 +1,3 @@
 **RN 183**
 ==========
+Ao assinar o Aprovo, o sistema pode exibir mensagens de confirmação conforme a situação do usuário (autoridade mapeada na unidade e nível de assinatura configurado em Parâmetros Gerais).
