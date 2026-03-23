@@ -1,4 +1,10 @@
 **RN 121**
 ==========
 O sistema deve carregar a lista de unidades disponíveis para mapeamento de forma paginada, excluindo unidades já mapeadas como internas, e permitir seleção múltipla de registros.
+
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Unidades/Internas/unidades_internas_cadastrar.png
+
+
  
