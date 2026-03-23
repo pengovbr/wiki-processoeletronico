@@ -1,2 +1,3 @@
 **RN 211**
 ==========
+ O painel de controle deve exibir o botão "Enviar Processos" para acionar o envio dos processos selecionados na tabela "Processos Não Enviados".
