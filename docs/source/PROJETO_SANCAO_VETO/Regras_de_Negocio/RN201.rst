@@ -1,2 +1,3 @@
 **RN 201**
 ==========
+ O formulário deve indicar visualmente quais campos são obrigatórios, independentemente do estado (rascunho ou finalizado). A indicação deve ser clara para que o usuário saiba o que falta preencher antes de incluir o documento na árvore.
