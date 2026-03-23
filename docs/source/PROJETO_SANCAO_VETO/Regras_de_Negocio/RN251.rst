@@ -1,2 +1,3 @@
 **RN 251**
 ==========
+A cor do número do processo (NUP) na coluna "Número do processo" deve refletir se o processo está aberto ou fechado na unidade do usuário, seguindo o padrão do SEI.
