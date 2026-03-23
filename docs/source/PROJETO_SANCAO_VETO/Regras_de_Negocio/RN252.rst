@@ -1,2 +1,3 @@
 **RN 252**
 ==========
+ Cada linha deve possuir ação para incluir a data que será usada no retorno programado.
