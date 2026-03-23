@@ -1,2 +1,3 @@
 **RN 176**
 ==========
+ Ao salvar a página, a configuração escolhida deve ser persistida e refletida no comportamento do módulo.
