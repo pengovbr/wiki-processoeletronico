@@ -1,2 +1,3 @@
 **RN 255**
 ==========
+A tela do MAPA deve permitir filtrar os processos principais pelas condições exibidas no mock, ocultando/reexibindo linhas de acordo com os filtros ativos e mantendo a consistência com o estado de expansão das linhas.
