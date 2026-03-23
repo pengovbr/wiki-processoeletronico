@@ -1,2 +1,3 @@
 **RN 247**
 ==========
+A tabela "Processos Não Enviados" só deve aparecer no painel de controle quando existirem processos criados e não enviados que se encaixam na view. Se todos os processos relacionados já tiverem sido enviados, a tabela não deve ser exibida.
