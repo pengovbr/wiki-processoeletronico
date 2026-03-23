@@ -1,2 +1,3 @@
 **RN 258**
 ==========
+ As informações registradas em "Informações do Projeto de Lei" (Título, Ementa, Código da Lei, Datas e Prazos, Ponto Focal, Autores, Secretárias Adjuntas Temáticas, etc.) devem estar disponíveis no contexto do MAPA, na linha do processo principal (resumo) e/ou em painel, detalhe ou modal, conforme implementação (ver gerenciar_tramitacao_informacoes_projeto_lei.feature e informacoes_projeto_lei.feature).
