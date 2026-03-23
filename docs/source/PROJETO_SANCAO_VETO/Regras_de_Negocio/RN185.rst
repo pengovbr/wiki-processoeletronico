@@ -1,2 +1,3 @@
 **RN 185**
 ==========
+O usuário pode excluir o documento Aprovo da árvore quando for o gerador e o documento atender às condições de exclusão (ex.: não publicado).
