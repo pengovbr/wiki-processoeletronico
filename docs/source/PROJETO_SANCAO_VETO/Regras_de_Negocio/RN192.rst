@@ -1,2 +1,3 @@
 **RN 192**
 ==========
+O sistema deve exibir o botão "Incluir Aprovo" somente quando a unidade atual estiver mapeada em Mapeamento de Unidades > Ministeriais e o tipo do processo estiver mapeado com natureza "Manifestação dos ministérios".
