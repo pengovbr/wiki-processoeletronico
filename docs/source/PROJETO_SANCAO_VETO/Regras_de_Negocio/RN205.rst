@@ -1,2 +1,3 @@
 **RN 205**
 ==========
+ Ao acionar "Fechar" sem salvar, o sistema deve solicitar confirmação antes de descartar os dados preenchidos.
