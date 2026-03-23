@@ -1,2 +1,3 @@
 **RN 197**
 ==========
+O sistema deve exibir os dados básicos do documento com número do processo automaticamente preenchido (somente leitura), a referência — processo SEI/PR nº, o assunto, a fundamentação (multiselect) e o título do documento fixo.
