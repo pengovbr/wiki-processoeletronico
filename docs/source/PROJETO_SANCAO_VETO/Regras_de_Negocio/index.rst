@@ -174,7 +174,5 @@ As regras de negócio do Projeto Sanção&Veto estão listadas abaixo:
    RN149
    RN150
    RN151
-   RN152
-   RN153
-   RN154
+
 
