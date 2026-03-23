@@ -1,2 +1,4 @@
 **RN 126**
 ==========
+O sistema deve gerar uma versão formatada para impressão contendo os registros exibidos na tabela, mantendo a ordenação atual dos registros.
+ 
