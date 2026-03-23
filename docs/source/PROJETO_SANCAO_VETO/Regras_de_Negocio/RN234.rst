@@ -1,2 +1,3 @@
 **RN 234**
 ==========
+ O campo "Secretária(s) Adjunta(s) Temática(s)" deve permitir selecionar unidades do SEI e gerenciar a lista (incluir, editar, excluir, reordenar).
