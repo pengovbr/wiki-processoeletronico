@@ -1,2 +1,3 @@
 **RN 235**
 ==========
+Os campos "Chegada do Autógrafo", "Prazo para Sanção/Veto" e "Data da Reunião" devem ser campos de data no padrão do SEI.
