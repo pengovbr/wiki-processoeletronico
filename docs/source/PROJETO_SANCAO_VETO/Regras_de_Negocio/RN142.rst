@@ -1,4 +1,5 @@
 **RN 142**
 ==========
-O sistema deve permitir filtrar unidades por órgão com submissão automática, exibindo apenas as unidades que correspondem ao critério aplicado.
+O sistema deve retornar à tela principal quando o usuário solicita fechar a página.
+ 
   
