@@ -1,2 +1,3 @@
 **RN 194**
 ==========
+O sistema deve ocultar o botão "Incluir Aprovo" quando o tipo do processo não estiver mapeado como "Manifestação dos ministérios".
