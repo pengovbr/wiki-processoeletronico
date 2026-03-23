@@ -1,2 +1,3 @@
 **RN 188**
 ==========
+ Quando o parâmetro "Restringir envio de processo de manifestação ministerial à unidade de origem" está habilitado, o ministério não pode enviar o processo para nenhuma outra unidade além da unidade que o enviou.
