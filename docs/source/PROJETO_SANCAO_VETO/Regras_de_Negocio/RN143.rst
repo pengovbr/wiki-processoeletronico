@@ -1,2 +1,4 @@
 **RN 143**
 ==========
+ O sistema deve carregar a lista de unidades disponíveis para mapeamento de forma paginada, excluindo unidades já mapeadas como ministeriais, e permitir seleção múltipla de registros.
+ 
