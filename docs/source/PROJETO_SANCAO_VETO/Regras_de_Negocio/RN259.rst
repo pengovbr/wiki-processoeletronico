@@ -1,2 +1,3 @@
 **RN 259**
 ==========
+O MAPA deve listar apenas processos principais ativos (tipo mapeado, não arquivados/concluídos conforme critério do módulo) que possuam processos relacionados já enviados ou elegíveis ao fluxo; as linhas expansíveis exibem apenas processos relacionados ao principal, de tipo mapeado e já enviados.
