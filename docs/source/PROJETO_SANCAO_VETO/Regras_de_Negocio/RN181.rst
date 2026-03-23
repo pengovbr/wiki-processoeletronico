@@ -1,2 +1,3 @@
 **RN 181**
 ==========
+O usuário pode incluir quantos Aprovos quiser no mesmo processo; todos aparecem na árvore com suas ações.
