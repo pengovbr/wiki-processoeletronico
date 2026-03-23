@@ -1,2 +1,3 @@
 **RN 245**
 ==========
+A coluna "Situação" deve exibir "Aberto" ou "Concluído no destino"; ao passar o mouse, exibir em quais unidades ministeriais mapeadas o processo está aberto.
