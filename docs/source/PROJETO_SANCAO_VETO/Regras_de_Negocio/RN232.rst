@@ -1,2 +1,3 @@
 **RN 232**
 ==========
+ O campo "Autores(as)" deve permitir selecionar informações do campo de contatos do SEI e gerenciar a lista (incluir, editar, excluir, reordenar).
