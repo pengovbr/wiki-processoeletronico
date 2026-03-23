@@ -1,2 +1,4 @@
 **RN 220**
 ==========
+O bloco "Seleção do Tipo de Processo a ser Criado:" deve exibir um dropdown com os tipos de processo mapeados pelo módulo.
+
