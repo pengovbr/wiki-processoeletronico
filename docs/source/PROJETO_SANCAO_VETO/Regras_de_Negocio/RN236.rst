@@ -1,2 +1,3 @@
 **RN 236**
 ==========
+O campo "Hora da Reunião" deve ser um campo de hora no padrão do SEI.
