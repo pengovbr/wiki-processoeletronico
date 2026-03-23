@@ -1,2 +1,4 @@
 **RN 163**
 ==========
+ O sistema deve exibir a lista de unidades ministeriais inativas quando houver resultados.
+ 
