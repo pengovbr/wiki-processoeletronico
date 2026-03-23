@@ -1,2 +1,3 @@
 **RN 227**
 ==========
+A tela deve exibir os botões de ação "Salvar" e "Fechar".
