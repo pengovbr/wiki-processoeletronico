@@ -1,2 +1,3 @@
 **RN 146**
 ==========
+ O sistema deve permitir reativar uma unidade inativa, com confirmação do usuário.
