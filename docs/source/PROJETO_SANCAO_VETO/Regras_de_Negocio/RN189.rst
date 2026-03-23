@@ -1,2 +1,3 @@
 **RN 189**
 ==========
+O módulo deve permitir o envio do processo (para a unidade de origem ou para qualquer unidade, conforme o parâmetro) somente se existir pelo menos um documento do tipo Aprovo incluído no processo e assinado.
