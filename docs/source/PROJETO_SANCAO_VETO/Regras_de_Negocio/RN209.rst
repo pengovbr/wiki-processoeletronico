@@ -1,2 +1,3 @@
 **RN 209**
 ==========
+O painel de controle deve exibir o botão "Editar prazos" para permitir edição em lote do retorno programado dos processos não enviados.
