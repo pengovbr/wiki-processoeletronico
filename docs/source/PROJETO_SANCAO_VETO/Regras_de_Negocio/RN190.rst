@@ -1,2 +1,3 @@
 **RN 190**
 ==========
+ Quando o parâmetro está habilitado, o envio para a unidade que enviou o processo ao ministério deve ser permitido (desde que haja Aprovo incluído e assinado).
