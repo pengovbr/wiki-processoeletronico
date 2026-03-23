@@ -1,2 +1,3 @@
 **RN 238**
 ==========
+A tabela "Processos Enviados para Manifestação" deve estar sempre visível no painel de controle. Quando não houver processos a exibir, o sistema deve apresentar a estrutura da tabela com número de registros 0, evidenciando que não há processos relacionados que batem com o critério.
