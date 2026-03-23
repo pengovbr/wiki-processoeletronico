@@ -1,2 +1,3 @@
 **RN 229**
 ==========
+ O campo "Código da Lei" deve armazenar o código identificador da lei (ex.: PL 1281/2022), utilizado na especificação dos processos gerados pelo módulo.
