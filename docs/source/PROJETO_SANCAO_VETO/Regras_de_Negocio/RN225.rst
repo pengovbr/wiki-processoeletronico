@@ -1,2 +1,3 @@
 **RN 225**
 ==========
+ Após confirmação no pop-up, o módulo deve criar um processo do tipo selecionado para cada unidade ministerial marcada, com Interessados (unidade ministerial + unidades internas marcadas), documentos copiados (incluindo assinaturas), relação com o processo principal e Especificação preenchida com o Código da Lei e a sigla do ministério.
