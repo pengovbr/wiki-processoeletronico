@@ -1,2 +1,3 @@
 **RN 248**
 ==========
+Quando exibida, a tabela "Processos Não Enviados" deve listar somente processos relacionados ao processo principal, de tipo mapeado e que ainda não foram enviados para outra unidade.
