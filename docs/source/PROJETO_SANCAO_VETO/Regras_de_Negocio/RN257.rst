@@ -1,2 +1,3 @@
 **RN 257**
 ==========
+ O NUP na linha do processo principal e nas linhas dos processos relacionados deve ser link clicável; o Prazo (quando aplicável) deve ser link para a página do retorno programado; o "Nº documento (Aprovo)" (quando houver Aprovo assinado) deve ser link para a visualização do documento Aprovo; a cor do NUP deve seguir o padrão do SEI (verde quando processo aberto na unidade do usuário, vermelho quando fechado).
