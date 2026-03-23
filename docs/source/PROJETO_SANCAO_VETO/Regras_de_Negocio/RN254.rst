@@ -1,2 +1,3 @@
 **RN 254**
 ==========
+A tela deve exibir uma tabela em que cada linha de processo principal possui ícone para expandir ou ocultar as linhas dos processos relacionados (manifestação ministerial), no padrão do Plano de Trabalho do SEI.
