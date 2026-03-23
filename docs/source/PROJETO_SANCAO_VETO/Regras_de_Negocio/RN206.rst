@@ -1,2 +1,3 @@
 **RN 206**
 ==========
+O ícone "Gerenciar Tramitação do Processo" deve ser exibido na barra de ferramentas do processo apenas quando o usuário acessou a barra, a unidade está mapeada em Coordenação e o processo é de tipo mapeado.
