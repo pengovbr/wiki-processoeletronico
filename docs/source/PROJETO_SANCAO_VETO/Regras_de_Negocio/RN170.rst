@@ -1,2 +1,3 @@
 **RN 170**
 ==========
+O sistema deve permitir excluir uma unidade inativa, com confirmação do usuário.
