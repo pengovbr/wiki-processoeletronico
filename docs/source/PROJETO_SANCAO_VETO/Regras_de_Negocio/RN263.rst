@@ -1,2 +1,3 @@
 **RN 263**
 ==========
+ Apenas usuários com o perfil de acesso ao MAPA podem acessar a tela do MAPA. O acesso direto via URL sem permissão deve ser bloqueado.
