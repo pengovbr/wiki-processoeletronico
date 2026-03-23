@@ -1,6 +1,6 @@
 **RN 141**
 ==========
- O sistema deve exibir a lista de unidades internas inativas quando houver resultados.
+ O sistema deve gerar uma versão formatada para impressão contendo os registros exibidos na tabela, mantendo a ordenação atual dos registros.
  
 - **Exemplo da tela a ser implementada:**
 
