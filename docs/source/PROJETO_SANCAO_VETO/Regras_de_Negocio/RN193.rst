@@ -1,2 +1,3 @@
 **RN 193**
 ==========
+O sistema deve ocultar o botão "Incluir Aprovo" quando a unidade atual não estiver mapeada em Mapeamento de Unidades > Ministeriais.
