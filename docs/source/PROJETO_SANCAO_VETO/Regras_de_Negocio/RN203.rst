@@ -1,2 +1,3 @@
 **RN 203**
 ==========
+Ao acionar "Enviar Formulário", o sistema valida todos os campos obrigatórios. Somente se todos estiverem preenchidos corretamente, o documento de Aprovo é incluído na árvore do processo e fica disponível para assinatura. Após a inclusão, o conteúdo do rascunho é mantido no formulário, permitindo que o usuário inclua um novo Aprovo com base no anterior, modificando apenas o necessário. O rascunho só é zerado quando o usuário aciona "Limpar Formulário".
