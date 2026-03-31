@@ -83,7 +83,7 @@ A equipe do PEN construiu este material pensando em você! Esperamos que possa a
    :hidden:
    :titlesonly:
 
-   GUIA_IMPLANTACAO_PEN/index
+   GUIA_IMPLANTACAO_PEN
 
 .. toctree::
    :hidden:
