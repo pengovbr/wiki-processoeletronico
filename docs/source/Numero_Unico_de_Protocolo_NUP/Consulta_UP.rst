@@ -34,7 +34,8 @@ Selecione a UF e o Município para encontrar o Código correspondente.
 
    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
    
-   <script type="text/javascript">
+  <script type="text/javascript">
+     // 1. COLOQUE AQUI O SEU LINK RAW DO GITHUB
      const csvUrl = 'https://raw.githubusercontent.com/pengovbr/wiki-processoeletronico/refs/heads/homologacao/docs/source/Numero_Unico_de_Protocolo_NUP/Codigos_UP_das_UF.csv';
      let dadosGlobais = [];
 
@@ -44,29 +45,44 @@ Selecione a UF e o Município para encontrar o Código correspondente.
      const divResultado = document.getElementById('resultado');
      const preDados = document.getElementById('dados-completos');
 
-     // 1. Baixar e ler o CSV
+     // 2. Baixar e ler o CSV
      Papa.parse(csvUrl, {
        download: true,
        header: true,
        skipEmptyLines: true,
        complete: function(results) {
+         // VERIFICAÇÃO DE ERRO
+         if (!results.data || results.data.length === 0) {
+             alert("Erro: O arquivo CSV está vazio ou o link está incorreto.");
+             return;
+         }
+         
+         // Verifica se a coluna UF existe de verdade na planilha
+         if (results.data[0].UF === undefined) {
+             alert("Erro: A coluna 'UF' não foi encontrada. Verifique se o nome da coluna no CSV está exatamente como 'UF' (maiúsculo e sem espaços). Nomes das colunas encontradas: " + Object.keys(results.data[0]).join(", "));
+             return;
+         }
+
          dadosGlobais = results.data;
          iniciarFiltros();
+       },
+       error: function(erro) {
+           alert("Erro ao tentar baixar o arquivo do GitHub: " + erro.message);
        }
      });
 
-     // 2. Preencher a UF
+     // 3. Preencher a UF
      function iniciarFiltros() {
        const ufsUnicas = [...new Set(dadosGlobais.map(item => item.UF))].sort();
        popularSelect(selectUf, ufsUnicas, 'Selecione a UF');
        selectUf.disabled = false;
+       selectUf.options[0].text = "Selecione a UF"; // Tira o texto "Carregando..."
      }
 
-     // 3. Mudar UF -> Preencher Municípios
+     // 4. Mudar UF -> Preencher Municípios
      selectUf.addEventListener('change', function() {
        const ufSelecionada = this.value;
        
-       // Limpa os campos abaixo
        inputCodigo.value = '';
        divResultado.style.display = 'none';
 
@@ -77,13 +93,20 @@ Selecione a UF e o Município para encontrar o Código correspondente.
        }
 
        const municipiosFiltrados = dadosGlobais.filter(item => item.UF === ufSelecionada);
+       
+       // Verifica se a coluna Municipio existe
+       if (municipiosFiltrados.length > 0 && municipiosFiltrados[0].Municipio === undefined) {
+           alert("Erro: A coluna 'Municipio' não foi encontrada. Verifique letras maiúsculas ou acentos na sua planilha.");
+           return;
+       }
+
        const municipiosUnicos = [...new Set(municipiosFiltrados.map(item => item.Municipio))].sort();
        
        popularSelect(selectMunicipio, municipiosUnicos, 'Selecione o Município');
        selectMunicipio.disabled = false;
      });
 
-     // 4. Mudar Município -> Preencher Código e Resultado automaticamente
+     // 5. Mudar Município -> Preencher Código e Resultado automaticamente
      selectMunicipio.addEventListener('change', function() {
        const ufSelecionada = selectUf.value;
        const municipioSelecionado = this.value;
@@ -94,16 +117,12 @@ Selecione a UF e o Município para encontrar o Código correspondente.
          return;
        }
 
-       // Busca a linha exata correspondente à UF e Município
        const linhaEncontrada = dadosGlobais.find(item => 
          item.UF === ufSelecionada && item.Municipio === municipioSelecionado
        );
        
        if (linhaEncontrada) {
-         // Preenche o campo código (certifique-se de que o nome da coluna é "Codigo")
          inputCodigo.value = linhaEncontrada.Codigo || 'Código não cadastrado';
-         
-         // Exibe os dados completos
          preDados.textContent = JSON.stringify(linhaEncontrada, null, 2);
          divResultado.style.display = 'block';
        }
@@ -113,7 +132,7 @@ Selecione a UF e o Município para encontrar o Código correspondente.
      function popularSelect(elemento, arrayDeValores, textoPadrao) {
        elemento.innerHTML = `<option value="">${textoPadrao}</option>`;
        arrayDeValores.forEach(valor => {
-         if(valor) {
+         if(valor && valor.trim() !== "") { // Evita linhas em branco indesejadas
            elemento.innerHTML += `<option value="${valor}">${valor}</option>`;
          }
        });
