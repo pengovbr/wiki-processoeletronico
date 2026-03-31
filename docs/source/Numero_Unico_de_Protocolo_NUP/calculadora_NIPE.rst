@@ -1,9 +1,9 @@
  Calculadora de DV do NIPE
+
 =========================
 
 A calculadora dos dígitos verificadores do NIPE é uma ferramenta que auxilia na identificação dos dígitos verificadores do NIPE de 20 dígitos, conforme fórmula
-definida no anexo da `Portaria Interministerial nº 11/2019 <https://www.in.gov.br/en/web/dou/-/portaria-interministerial-n-11-de-25-de-novembro-de-2019-229645093>`_,
-que trata da padronização do NUP no Governo Federal.
+definida na documentação de apoio do produto.
 
 Para usar a calculadora, informe os 18 primeiros dígitos do NIPE, como no exemplo:
 
