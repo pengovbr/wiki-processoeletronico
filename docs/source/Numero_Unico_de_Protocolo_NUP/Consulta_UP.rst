@@ -129,12 +129,12 @@ Selecione a UF e o Município para encontrar o Código correspondente.
      });
 
      // Função auxiliar para criar as opções do select
-     function popularSelect(elemento, arrayDeValores, textoPadrao) {
-       elemento.innerHTML = `<option value="">${textoPadrao}</option>`;
-       arrayDeValores.forEach(valor => {
-         if(valor && valor.trim() !== "") { // Evita linhas em branco indesejadas
-           elemento.innerHTML += `<option value="${valor}">${valor}</option>`;
-         }
-       });
-     }
+     //function popularSelect(elemento, arrayDeValores, textoPadrao) {
+     //  elemento.innerHTML = `<option value="">${textoPadrao}</option>`;
+     //  arrayDeValores.forEach(valor => {
+     //    if(valor && valor.trim() !== "") { // Evita linhas em branco indesejadas
+     //      elemento.innerHTML += `<option value="${valor}">${valor}</option>`;
+     //    }
+     //  });
+     //}
    </script>
