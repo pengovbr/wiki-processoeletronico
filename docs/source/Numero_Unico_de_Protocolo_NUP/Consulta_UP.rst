@@ -136,5 +136,5 @@ Selecione a UF e o Município para encontrar o Código correspondente.
      //      elemento.innerHTML += `<option value="${valor}">${valor}</option>`;
      //    }
      //  });
-     //}
+     }
    </script>
