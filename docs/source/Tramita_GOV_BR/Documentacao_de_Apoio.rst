@@ -6,6 +6,14 @@ FAQ
  
 - `FAQ <https://wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_
 
+
+Guia Operacional para Recusa de Acesso
+++++++++++++++++++++++++++++++++++++++
+
+* `Guia Operacional para Recusa de Acesso
+
+
+
 Manuais
 +++++++
 
