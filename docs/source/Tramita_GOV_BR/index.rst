@@ -15,5 +15,5 @@ Maiores informações sobre o **Tramita GOV.BR** podem ser consultadas no `Porta
    Documentacao_de_Apoio
    TreinamentosApresentacoes/index
    Perguntas_frequentes/index
-   Guia_Op_Recusa_de_Acesso
+   Guia_Op_Recusa_de_Acesso/index
    
