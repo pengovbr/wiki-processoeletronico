@@ -4,7 +4,6 @@ Guia Operacional para Recusa de Acesso - Tramita GOV.BR
 
 
 .. toctree::
-   :hidden:
    :titlesonly:
 
    Introducao
