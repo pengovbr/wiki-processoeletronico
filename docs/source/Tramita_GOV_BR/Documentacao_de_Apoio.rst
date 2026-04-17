@@ -10,7 +10,7 @@ FAQ
 Guia Operacional para Recusa de Acesso
 ++++++++++++++++++++++++++++++++++++++
 
-* Guia Operacional para Recusa de Acesso
+* `Guia Operacional para Recusa de Acesso <https://wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Guia_Op_Recusa_de_Acesso/Index.html?>`_
 
 
 
