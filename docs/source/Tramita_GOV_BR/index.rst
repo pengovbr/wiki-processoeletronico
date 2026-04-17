@@ -8,7 +8,6 @@ A adoção da plataforma se traduz em um significativo impacto em termos de agil
 Maiores informações sobre o **Tramita GOV.BR** podem ser consultadas no `Portal do Processo Eletrônico Nacional <https://www.gov.br/economia/pt-br/assuntos/processo-eletronico-nacional/conteudo/tramita.gov.br>`_
 
 .. toctree::
-   :hidden:
    :titlesonly:
 
    Portaria_tramita
