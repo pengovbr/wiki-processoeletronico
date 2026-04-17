@@ -13,8 +13,7 @@ Guia Operacional para Recusa de Acesso - Tramita GOV.BR
    Solicitacao_e_de_um_orgao_que_possui_cadastro_na_plataforma
    Solicitacao_foi_realizada_por_municipio
    Solicitacao_foi_realizada_por_unidade_administrativa_que_nao_possui_automomia
+   Solicitacao_foi_realizada_por_conselho_regional
    Solicitacao_foi_realizada_por_servidor_descentralizado_da_agu
    Solicitacoes_antigas
    Solicitacao_em_que_a_equipe_nao_conseguiu_identificar_o_seu_real_objetivo
-
-   
