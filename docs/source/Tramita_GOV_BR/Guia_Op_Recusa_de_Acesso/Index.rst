@@ -4,8 +4,8 @@ Guia Operacional para Recusa de Acesso - Tramita GOV.BR
 
 
 .. toctree::
+   :hidden:
    :titlesonly:
-   :numbered:
 
    Introducao
    Solicitacao_nao_cumpriu_os_requisitos_minimos_para_pedir_acesso_em_ambiente_de_producao
