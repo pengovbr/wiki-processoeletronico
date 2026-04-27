@@ -2,11 +2,13 @@
 =====================
 
 
-
-
-
 4.1.	Quais sãos os certificados digitais aceitos para realizar a assinatura qualificada?
+<<<<<<< HEAD
 ----------------------------------------------------------------------------------------
+=======
+-----------------------------------------------------------------------------------------
+
+>>>>>>> 5050f885a824b8ab48106f73f3a8d5d9275ba3d4
 O módulo apenas aceita certificados emitidos pela ICP-Brasil. Alguns exemplos:
   
 
@@ -36,4 +38,8 @@ Não. Basta importar o arquivo PFX/P12 no momento da assinatura e digitar a sua 
   
 4.5.	O módulo reconhece assinaturas realizadas com certificados emitidos por outros países do Mercosul?
 -------------------------------------------------------------------------------------------------------
+<<<<<<< HEAD
 Sim.  A API Validar reconhece assinaturas padrão Mercosul e exibe selos especiais.
+=======
+Sim.  A API Validar reconhece assinaturas padrão Mercosul e exibe selos especiais.
+>>>>>>> 5050f885a824b8ab48106f73f3a8d5d9275ba3d4

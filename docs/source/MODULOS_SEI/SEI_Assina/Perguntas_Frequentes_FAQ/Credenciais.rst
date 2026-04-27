@@ -9,18 +9,6 @@
 O módulo depende de 3 credenciais principais, obtidas com dois órgãos diferentes:
 
 
-+--------------------------------------------------------+-----------------------------------------------------------------------------------------+  
-| Órgãos                                                 | Credenciais                                                                             |  
-+========================================================+=========================================================================================+
-| Secretaria de Governo Digital (SGD)                    | Credencial do Gov.br: Necessária para assinatura avançada via Gov.br.                   |
-+--------------------------------------------------------+-----------------------------------------------------------------------------------------+
-| Instituto Nacional de Tecnologia da Informação (ITI)   | API Validar: Permite consultar e validar assinaturas dentro de PDFs                     |
-|                                                        |                                                                                         | 
-|                                                        | Assinador de Referência (AssinaGov): Utilizada para realizar assinatura qualificada.    |
-+--------------------------------------------------------+-----------------------------------------------------------------------------------------+
-
-
-
 ===================================================== ======================================================================================
 Órgãos                                                  Credenciais                                                                               
 ===================================================== ======================================================================================
@@ -57,4 +45,8 @@ Após aprovação da solicitação de acesso ao módulo, as orientações de com
 
 3.5.	Como solicitar a credencial do AssinaGOV?
 -----------------------------------------------
+<<<<<<< HEAD
 Após aprovação da solicitação de acesso ao módulo, as orientações de como solicitar a credencial serão enviadas por meio de e-mail.
+=======
+Após aprovação da solicitação de acesso ao módulo, as orientações de como solicitar a credencial serão enviadas por meio de e-mail.
+>>>>>>> 5050f885a824b8ab48106f73f3a8d5d9275ba3d4
