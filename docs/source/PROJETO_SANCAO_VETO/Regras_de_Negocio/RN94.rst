@@ -1,4 +1,4 @@
 **RN 94**
 =========
-O sistema deve fornecer ações em lote para que os administradores possam realizar operações em múltiplas unidades de uma vez. Deve ser possível selecionar vários registros e executar ações como reativação ou exclusão em todos eles de forma simultânea, exigindo confirmação antes da operação.
-
+O sistema deve permitir mapear unidades como de coordenação, individualmente ou em lote, após confirmação do usuário. Deve remover as unidades mapeadas da lista de disponíveis. Deve impedir mapeamento sem seleção de unidades.
+ 

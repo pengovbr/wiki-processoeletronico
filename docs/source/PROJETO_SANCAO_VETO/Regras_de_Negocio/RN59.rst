@@ -1,3 +1,4 @@
 **RN 59**
 =========
-O sistema deve implementar mecanismo de pesquisa que permita localizar autoridades inativas a partir dos filtros disponíveis (Órgão, Sigla, Nome e Nome Social), processando tanto correspondências exatas quanto parciais dos termos pesquisados. A pesquisa deve atualizar a tabela dinamicamente, preservando a ordenação atual dos registros.
+ O sistema deve permitir reativar múltiplas autoridades selecionadas, com confirmação do usuário. Quando não houver seleção, deve exibir alerta.
+

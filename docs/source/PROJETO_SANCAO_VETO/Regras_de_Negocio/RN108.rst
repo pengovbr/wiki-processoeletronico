@@ -1,4 +1,4 @@
 **RN 108**
 ==========
-O sistema deve permitir ordenar a lista de unidades por qualquer coluna (ID, Sigla, Descrição, Órgão) em ordem ascendente ou descendente, exibindo indicador visual da ordenação atual e mantendo a ordenação após novas pesquisas.
- 
+ O sistema deve retornar à tela principal quando o usuário solicita fechar a página.
+  

@@ -1,3 +1,4 @@
 **RN 97**
 =========
-O sistema deve garantir fluxos completos de operações, seja para unidades individuais ou em lote, mantendo o usuário informado sobre o progresso e resultado das operações.
+O sistema deve permitir ordenar a lista de unidades por qualquer coluna (ID, Sigla, Descrição, Órgão) em ordem ascendente ou descendente, exibindo indicador visual da ordenação atual e mantendo a ordenação após novas pesquisas.
+ 

@@ -1,3 +1,3 @@
 **RN 146**
 ==========
-O sistema deve exibir a lista de unidades ministeriais inativas quando houver resultados.
+ O sistema deve permitir combinar o filtro por órgão com a pesquisa por sigla e descrição.

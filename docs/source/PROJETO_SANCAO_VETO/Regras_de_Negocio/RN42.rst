@@ -1,11 +1,10 @@
 **RN 42**
 =========
 
-A página de alteração de mapeamento de autoridade deve seguir o padrão visual do sistema, apresentando barra de localização com título apropriado, barra de comandos superior e áreas distintas para dados do usuário e configuração de autoridade. 
+O sistema deve exibir a lista de autoridades mapeadas, com total de registros visível e coluna de ações.
 
-A interface deve manter campos de identificação em modo somente leitura e permitir a alteração apenas das configurações de função.
+- **Exemplo da tela a ser implementada:**
 
-- **Exemplo de Tela:**
+  .. figure:: Images/Mapeamento_de_Autoridades/autoridades_listar.png
 
-**1) Tela da ação da página Alterar Mapeamento de Autoridade** 
-       .. figure:: AlterarAutoridade1.png
+

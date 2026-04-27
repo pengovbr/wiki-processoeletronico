@@ -1,3 +1,4 @@
 **RN 107**
 ==========
-O sistema deve retornar à tela principal quando o usuário solicita fechar a página.
+O sistema deve gerar uma versão formatada para impressão contendo os registros exibidos na tabela, mantendo a ordenação atual dos registros.
+  

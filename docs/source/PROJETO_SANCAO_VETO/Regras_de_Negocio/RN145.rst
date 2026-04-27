@@ -1,3 +1,3 @@
 **RN 145**
 ==========
-O sistema deve permitir ordenar a lista de unidades por qualquer coluna (ID, Sigla, Descrição, Órgão) em ordem ascendente ou descendente, exibindo indicador visual da ordenação atual e mantendo a ordenação após novas pesquisas.
+ O sistema deve permitir pesquisa por sigla e descrição, inclusive combinadas. A pesquisa deve ignorar maiúsculas/minúsculas e acentuação. Quando não houver resultado, a estrutura da tabela deve permanecer visível.

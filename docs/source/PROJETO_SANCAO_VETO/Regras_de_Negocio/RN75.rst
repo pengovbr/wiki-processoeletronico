@@ -1,4 +1,3 @@
 **RN 75**
 =========
-O sistema deve impedir o cadastramento de unidades que já estejam mapeadas como autoras/coautoras, garantindo a unicidade dos mapeamentos.
-
+O sistema deve permitir desativar um mapeamento, com confirmação do usuário.

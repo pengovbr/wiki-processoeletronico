@@ -1,4 +1,8 @@
 
 **RN 33**
 =========
-O sistema deve implementar mecanismos de navegação que permitam ao usuário retornar à tela anterior de forma intuitiva, preservando o contexto da navegação e garantindo que nenhuma alteração seja perdida durante a transição entre telas.
+ O sistema deve exibir filtros, ações e a lista de usuários disponíveis para mapeamento.
+
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Autoridades/autoridades_cadastrar.png

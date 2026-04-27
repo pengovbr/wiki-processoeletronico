@@ -1,4 +1,0 @@
-**RN 121**
-==========
-O sistema deve exibir a lista de unidades internas inativas quando houver resultados.
- 

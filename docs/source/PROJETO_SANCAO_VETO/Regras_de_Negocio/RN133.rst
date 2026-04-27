@@ -1,3 +1,4 @@
 **RN 133**
 ==========
-O sistema deve permitir ordenar a lista de unidades por qualquer coluna (ID, Sigla, Descrição, Órgão) em ordem ascendente ou descendente, exibindo indicador visual da ordenação atual e mantendo a ordenação após novas pesquisas.
+ O sistema deve permitir seleção múltipla e seleção de todos os registros visíveis.
+  

@@ -1,4 +1,7 @@
 **RN 66**
 =========
-O sistema deve garantir fluxos completos de operações, seja para registros individuais ou em lote, mantendo o usuário informado sobre o progresso e resultado das operações.
+O sistema deve exibir o formulário de cadastro com os campos obrigatórios e ações disponíveis.
 
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Tipo_de_Processos/tipos_processos_cadastrar.png

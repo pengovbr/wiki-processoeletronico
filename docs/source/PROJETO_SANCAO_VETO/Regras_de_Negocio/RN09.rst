@@ -1,8 +1,3 @@
 **RN 09**
 =========
-Assim que o ADMINISTRADOR selecionar o campo 'Tipos de Processos', o sistema deve listar todos os processos disponíveis no SEI.
-
-- **Exemplo da tela:**
- **1) Caixa de seleção Tipo de Processo mostrando lista com opções iniciais:** 
-
-       .. figure:: AdicionarTipoProcesso2.png
+O sistema deve permitir acessar a alteração de uma função a partir da listagem.

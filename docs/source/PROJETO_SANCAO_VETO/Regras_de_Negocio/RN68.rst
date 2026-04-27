@@ -1,3 +1,4 @@
 **RN 68**
 =========
-O sistema deve fornecer funcionalidade de impressão que gere uma visualização formatada da lista de autoridades inativas, otimizada para meio impresso.
+ O sistema deve exigir o preenchimento do campo "Natureza do Processo".
+

@@ -1,5 +1,7 @@
 **RN 27**
 =========
-A página de reativação dos Tipos de Processo deve seguir um layout específico e padronizado, com elementos organizados de forma a facilitar a visualização e operação pelo usuário. 
+O sistema deve exibir o formulário com o campo obrigatório e as ações disponíveis.
 
-Deve apresentar uma barra de comandos com botões de ação, área de pesquisa e uma tabela listando os tipos de processo inativos disponíveis para reativação
+- **Exemplo da tela a ser implementada:**
+
+  .. figure:: Images/Mapeamento_de_Autoridades/autoridades_alterar.png

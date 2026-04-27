@@ -1,4 +1,3 @@
 **RN 117**
 ==========
-O sistema deve permitir excluir múltiplas unidades selecionadas, com confirmação do usuário. Quando não houver seleção, deve exibir alerta.
- 
+ O sistema deve permitir excluir uma unidade inativa, com confirmação do usuário.

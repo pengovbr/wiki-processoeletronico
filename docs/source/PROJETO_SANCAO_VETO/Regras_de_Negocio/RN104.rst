@@ -1,3 +1,4 @@
 **RN 104**
 ==========
- O sistema deve permitir combinar o filtro por órgão com a pesquisa por sigla e descrição.
+O sistema deve permitir desativar múltiplas unidades selecionadas, com confirmação do usuário. Quando não houver seleção, deve exibir alerta.
+  
