@@ -2,7 +2,7 @@ Guia Operacional para Recusa de Acesso - Tramita GOV.BR
 =======================================================
 
 
-:download: `Guia Operacional para Recusa de Acesso - Tramita GOV.BR <Tramita_GOV_BR/Guia_Op_Recusa_de_Acesso/GUIA_OPERACIONAL_PARA_RECUSA_DE_ACESSO_À_PLATAFORMA_TRAMITA_GOV.BR_V10.pdf>`_
+:download: `Guia Operacional para Recusa de Acesso - Tramita GOV.BR <Tramita_GOV_BR/Guia_Op_Recusa_de_Acesso/GUIA_OPERACIONAL_PARA_RECUSA_DE_ACESSO_A_PLATAFORMA_TRAMITA_GOV.BR_V10.pdf>`_
 
 
 
