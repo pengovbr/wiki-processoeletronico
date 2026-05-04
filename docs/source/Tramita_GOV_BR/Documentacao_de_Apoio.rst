@@ -15,6 +15,7 @@ Manuais
 - `Manual Técnico-Operacional do Tramita.GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_TECNICO_OPERACIONAL/index.html>`_
 -  `Manual de Instalação do Módulo de Integração do Tramita.GOV.BR <https://manuais.processoeletronico.gov.br/pt-br/latest/Manual-de-Integra%C3%A7%C3%A3o-ao-Tramita-GOV.BR/INSTALL.html>`_
 -  `Manual de Utilização da API <https://drive.google.com/file/d/1K8qe9Yp0736ICh6Sz4G8MLeKFAJTmki9/view?usp=sharing>`_
+-  :download:`Guia Operacional para Recusa de Acesso à Plataforma Tramita GOV.BR <_static/images_downloads/GUIA_OPERACIONAL_PARA_RECUSA_DE_ACESSO_A_PLATAFORMA_TRAMITA_GOV-BR_V10.pdf>`
 -  `Padrão de Criação de Repositório <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/Criacao_repositorio_de_estruturas/index.html>`_ 
 -  `Tabela de Espécies Documentais <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/destaques/material-de-apoio-2/copy_of_especiesdocumentais.xls>`_
 -  `Swagger - Homologação <https://homolog.api.processoeletronico.gov.br/swagger/swagger-ui.html>`_
