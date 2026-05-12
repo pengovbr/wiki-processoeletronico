@@ -6,8 +6,6 @@ FAQ
  
 - `FAQ <https://wiki.processoeletronico.gov.br/pt-br/homologacao/Tramita_GOV_BR/Perguntas_frequentes/index.html#perguntas-frequentes-faq>`_
 
-
-
 Manuais
 +++++++
 
@@ -38,5 +36,3 @@ Script SQL
   SELECT 
   id_tramite,dth_registro,aa.valor as destino FROM sei.md_pen_tramite tra
   inner join atributo_andamento aa on aa.id_origem=tra.id_estrutura_destino
-
- 
