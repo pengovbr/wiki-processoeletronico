@@ -1,1 +1,4 @@
+**RN040 - Destinação por fase e unidade de última conclusão**
+=============================================================
 
+Para processos em fase corrente, o destino deve ser o Arquivo da Unidade da unidade SEI responsável pela última conclusão do processo. Para processos em fase intermediária, o destino deve ser a tela 'Avaliação Legado'.
