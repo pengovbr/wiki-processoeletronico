@@ -1,1 +1,4 @@
+**RN038 - Uso excepcional**
+===========================
 
+Antes da execução, o sistema deve exibir aviso explícito de que se trata de funcionalidade excepcional, informando que todos os processos elegíveis serão arquivados e exigindo confirmação do usuário.
