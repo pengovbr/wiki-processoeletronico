@@ -1,1 +1,4 @@
+**RN037 - Execução em lote**
+============================
 
+Os processos elegíveis devem ser arquivados em uma única ação, sem necessidade de análise individual, de forma compatível com tratamento de grandes volumes.
