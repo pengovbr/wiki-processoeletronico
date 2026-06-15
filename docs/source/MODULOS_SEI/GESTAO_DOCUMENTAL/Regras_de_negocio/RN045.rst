@@ -1,1 +1,4 @@
+**RN045 - Abrangência por unidade**
+===================================
 
+A tela de Arquivamento Legado deve permitir a seleção de uma ou mais unidades SEI afetadas pela execução, sendo tratados apenas processos dessas unidades.
