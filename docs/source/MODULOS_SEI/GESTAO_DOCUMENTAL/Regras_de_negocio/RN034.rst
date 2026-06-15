@@ -1,4 +1,4 @@
-**RN034 - Escopo temporal do legadol**
-======================================
+**RN034 - Escopo temporal do legado**
+=====================================
 
 Somente processos concluídos antes da data de instalação do módulo de Gestão Documental podem ser considerados para tratamento de legado.
