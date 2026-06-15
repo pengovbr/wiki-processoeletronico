@@ -1,1 +1,5 @@
 
+**RN036 - Elegibilidade automática**
+====================================
+
+O sistema deve identificar automaticamente os processos elegíveis ao tratamento de legado. O processo deve estar concluído, ser anterior à data de instalação do módulo e possuir data de conclusão anterior ou igual à data de corte. Não deve haver seleção manual processo a processo.
