@@ -1,1 +1,4 @@
+**RN039 - Justificativa padronizada**
+=====================================
 
+O sistema deve aplicar automaticamente justificativa padronizada e sistêmica aos processos arquivados por tratamento de legado. O texto deve ser registrado no andamento e no Termo de Arquivamento e só pode ser alterado no menu de Justificativas de Arquivamento/Desarquivamento.
