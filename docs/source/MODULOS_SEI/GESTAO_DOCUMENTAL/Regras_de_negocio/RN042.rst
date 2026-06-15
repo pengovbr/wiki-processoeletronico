@@ -1,1 +1,4 @@
+**RN042 - Auditoria e transparência**
+=====================================
 
+O sistema deve registrar e permitir consulta a: usuário executor, data e hora da execução, data de corte utilizada, quantidade de processos arquivados, volume total em bytes e identificação dos processos tratados como legado.
