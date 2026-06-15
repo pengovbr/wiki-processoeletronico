@@ -1,1 +1,4 @@
+**RN046 - Desarquivamento pelo fluxo normal**
+=============================================
 
+Processos arquivados por tratamento de legado, quando necessitarem ser desarquivados, devem seguir o fluxo normal de desarquivamento do sistema
