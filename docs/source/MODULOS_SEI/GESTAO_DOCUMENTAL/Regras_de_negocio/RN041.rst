@@ -1,1 +1,4 @@
+**RN041 - Segregação da avaliação**
+===================================
 
+Processos tratados via legado não podem compor a fila regular de avaliação arquivística. Devem ser acessados exclusivamente pela tela específica 'Avaliação Legado'.
