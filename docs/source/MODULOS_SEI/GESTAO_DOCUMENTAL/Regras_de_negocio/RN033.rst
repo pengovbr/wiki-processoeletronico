@@ -1,1 +1,5 @@
+**RN033 - Visibilidade por perfil**
+===================================
+
+As funcionalidades 'Arquivamento Legado' e 'Avaliação Legado' devem ser exibidas exclusivamente para usuários que possuam o perfil 'GD Tratamento Legado'. Para usuários sem esse perfil, as telas não devem aparecer no sistema.  
 
