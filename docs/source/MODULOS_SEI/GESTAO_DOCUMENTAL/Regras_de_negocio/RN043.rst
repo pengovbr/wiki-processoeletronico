@@ -1,1 +1,4 @@
+**RN043 - Identificação visível de legado**
+===========================================
 
+Todo processo tratado pelo arquivamento de legado deve ser marcado como 'legado' e essa identificação deve ser persistente e visível ao usuário.
