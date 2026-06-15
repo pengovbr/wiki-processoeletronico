@@ -1,1 +1,4 @@
+**RN035 - Data de corte obrigatória**
+=====================================
 
+A configuração do arquivamento em lote deve exigir data de corte obrigatória. A data de corte não pode ser posterior à data de instalação do módulo e limita os processos elegíveis.
