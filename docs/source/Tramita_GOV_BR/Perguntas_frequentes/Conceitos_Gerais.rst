@@ -92,15 +92,11 @@ Toda unidade marcada para recebimento na plataforma será apresentada na tela de
 O que são Unidades Centralizadoras?
 +++++++++++++++++++++++++++++++++++
 
-**Unidades Centralizadoras** são são unidades responsáveis pelo recebimento de todos os processos enviados para unidades hierarquicamente inferiores desde que seja configurado pelo Gestor de Protocolo. 
+O órgão/entidade pode definir uma ou mais unidades administrativas para centralizar os trâmites enviados para outras unidades disponíveis para recebimento, funcionando como uma unidade de protocolo. Uma unidade centralizadora não é, obrigatoriamente, uma unidade superior na hierarquia; pode ser uma unidade em outro nível ou em outra estrutura hierárquica dentro do órgão/entidade (por exemplo, uma unidade de outra Secretaria).
 
-A interesse do órgão, quando configuradas e habilitadas, essas unidades funcionam basicamente como uma unidade de protocolo, ou seja, todos os processos recebidos via plataforma tramitarão por essa unidade.
+A configuração desse tipo de unidade não é obrigatória para utilização da plataforma Tramita GOV.BR, ficando a critério do gestor a sua definição ou não.
 
-.. admonition:: Ilustrando
-
-   Se uma unidade (x) é indicada como unidade centralizadora de várias outras (a, b, c...), quaisquer processos ou documentos avulsos remetidos para quaisquer dessas outras unidades (a, b, c...) serão recebidos pela unidade centralizadora (x).
-
-Para mais detalhes sobre como configurar uma unidade como centralizadora, consulte o `Manual Operacional do Tramita GOV.BR <https://www.gov.br/gestao/pt-br/assuntos/processo-eletronico-nacional/arquivos/tramita-gov-br-documentos/Manual_Tecnico_Operacional_do_Tramita.GOV.BR.pdf>`_ (PDF).
+Mais detalhes sobre unidade centralizadora e o passo a passo de sua configuração estão disponíveis no seguinte endereço: https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_PORTAL_DE_ADMINISTRACAO/PROTOCOLO.html#unidades-centralizadoras. 
 
 O que são Repositórios de Estrutura?
 +++++++++++++++++++++++++++++++++++++
@@ -114,12 +110,4 @@ Os demais poderes e entes federativos, após autorização de acesso e vínculo 
 .. important:: Após realizar o login no portal é necessário acessar: 
 
    Gestão do Tramita  > Órgão  > Hierarquia
-
-
-
-
-
-
-
-
 
