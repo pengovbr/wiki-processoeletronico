@@ -96,7 +96,7 @@ O órgão/entidade pode definir uma ou mais unidades administrativas para centra
 
 A configuração desse tipo de unidade não é obrigatória para utilização da plataforma Tramita GOV.BR, ficando a critério do gestor a sua definição ou não.
 
-Mais detalhes sobre unidade centralizadora e o passo a passo de sua configuração estão disponíveis no seguinte endereço: https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_PORTAL_DE_ADMINISTRACAO/PROTOCOLO.html#unidades-centralizadoras. 
+Mais detalhes sobre unidade centralizadora e o passo a passo de sua configuração estão disponíveis na sessão `Unidades Centralizadoras <https://wiki.processoeletronico.gov.br/pt-br/latest/Tramita_GOV_BR/Perguntas_frequentes/Conceitos_Gerais.html#o-que-sao-unidades-centralizadoras/>`_, do `Manual Portal de Administração <https://manuais.processoeletronico.gov.br/pt-br/latest/TRAMITA.GOV.BR/MANUAL_PORTAL_DE_ADMINISTRACAO/index.html/>`_. 
 
 O que são Repositórios de Estrutura?
 +++++++++++++++++++++++++++++++++++++
