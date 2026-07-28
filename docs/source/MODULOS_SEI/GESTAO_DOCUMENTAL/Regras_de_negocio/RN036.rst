@@ -1,6 +1,6 @@
 **RN036 - Apresentação do menu de Arquivamento Passivo Documental.**
 ====================================================================
 
-O sistema deve apresentar o menu de Arquivamento Passivo Documental conformne imagem abaixo:
+O sistema deve apresentar o menu de Arquivamento Passivo Documental conforme imagem abaixo:
 
 .. figure:: MENU1.png
