@@ -2,3 +2,5 @@
 ==============================================================================
 
 O sistema deve apresentar as configurações do Arquivamento Passivo Documental conformne imagem abaixo:
+
+.. figure:: TELA1.png
