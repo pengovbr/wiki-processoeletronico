@@ -2,3 +2,5 @@
 ====================================================================
 
 O sistema deve apresentar o menu de Arquivamento Passivo Documental conformne imagem abaixo:
+
+.. figure:: MENU1.png
