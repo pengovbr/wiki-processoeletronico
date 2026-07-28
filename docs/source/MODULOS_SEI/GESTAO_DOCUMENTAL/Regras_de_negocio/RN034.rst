@@ -1,0 +1,6 @@
+**RN034 - Data de Corte Posterior à Data de Instalação do Módulo.**
+===================================================================
+
+O sistema não deve permitir informar uma data de corte posterior à data de instalação do módulo. 
+
+Caso ocorra, deverá exibir a mensagem 'Somente é possível arquivar pasdivo documental processos concluídos antes de <data de instalação do órgão no módulo DD/MM/AAAA>.'
