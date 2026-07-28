@@ -1,1 +1,4 @@
+**RN035 - Apresentação das configurações do Arquivamento Passivo Documental.**
+==============================================================================
 
+O sistema deve apresentar as configurações do Arquivamento Passivo Documental conformne imagem abaixo:
