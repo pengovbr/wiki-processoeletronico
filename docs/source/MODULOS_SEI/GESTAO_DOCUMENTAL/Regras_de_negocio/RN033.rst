@@ -1,5 +1,5 @@
 **RN033 - Alteração da Data de Corte**
 =====================================
 
-O sistema deve permitir que  a ação de alterar a data de corte seja executada mais de uma vez pelo usuário com perfil 'GD Administração', mesmo após ter configurado um passivo documental anteriormente para que a equipe GD possa executar a atividade em etapas.
+O sistema deve permitir que  a ação de alterar a data de corte seja executada mais de uma vez pelo usuário com perfil 'GD Avaliação', mesmo após ter configurado um passivo documental anteriormente para que a equipe GD possa executar a atividade em etapas.
 	
