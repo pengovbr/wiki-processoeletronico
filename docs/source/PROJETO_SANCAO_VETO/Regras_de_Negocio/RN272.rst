@@ -1,1 +1,4 @@
+**RN 272**
+==========
+O sistema deve impedir que unidades já mapeadas como 'Ministerial', 'Interna' ou Coordenação sejam mapeadas em outras.
 
