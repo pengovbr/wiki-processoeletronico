@@ -294,3 +294,4 @@ As regras de negócio do Projeto Sanção&Veto estão listadas abaixo:
    RN269
    RN270
    RN271
+   RN272
