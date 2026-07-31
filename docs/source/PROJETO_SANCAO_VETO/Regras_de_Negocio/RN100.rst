@@ -1,1 +1,3 @@
-
+**RN 100**
+==========
+O sistema deve impedir que unidades ja mapeadas como 'Ministerial', 'Interna' ou Coordenação sejam mapeadas em outras.
