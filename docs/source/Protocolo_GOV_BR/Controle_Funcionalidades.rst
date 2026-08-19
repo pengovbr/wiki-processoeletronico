@@ -18,13 +18,13 @@ Melhorias implementadas em 26/01/2026:
 
 Melhorias implementadas em 25/05/2026:
 ======================================
-- Adequação ao CNPJ Alfanumérico;
-- Definição de prazos para atendimento de solicitação de ajustes pelo cidadão;
-- Funcionalidade de pesquisa;
-- Gestão de usuários;
-- Descentralização de triagem para multiórgãos;
-- Funcionalidade Analytics;
-- Funcionalidade de filtros.
+- Adequação do formulário do cidadão ao CNPJ Alfanumérico, conforme `Instrução Normativa RFB nº 229/2024 <https://www.in.gov.br/en/web/dou/-/instrucao-normativa-rfb-n-2.229-de-15-de-outubro-de-2024-590495955>`_;
+- Definição de prazos para atendimento de solicitação de ajustes pelo cidadão, para tornar o atendimento mais eficiente;
+- Aprimoramento da funcionalidade de pesquisa, que passa a retornar resultados de forma mais otimizada;
+- Inserção de atalho para acesso à funcionalidade de Gestão de usuários;
+- Descentralização de triagem para multiórgãos, que passa a permitir que o atendimento das solicitações seja realizado por órgãos vinculados;
+- Funcionalidade Analytics, que disponibiliza relatórios com dados para apoiar a gestão;
+- Aprimoramento da funcionalidade de filtros, que recebe mais tags para visualização das solicitações.
 =========================================================================================================
 
 Melhorias implementadas em 17/08/2026:
