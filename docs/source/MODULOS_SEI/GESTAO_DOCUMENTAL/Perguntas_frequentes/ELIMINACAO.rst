@@ -1,11 +1,11 @@
 Eliminação
 ==========
 
-Como é a eliminação de processos pelo Módulo GD?
+.. Retirado temporariamente Como é a eliminação de processos pelo Módulo GD?
 ------------------------------------------------
 
-Quando um processo passa pelo fluxo completo de eliminação, que poderá ocorrer na versão 4.1.1 ou superior, todos os objetos digitais dos documentos são permanentemente eliminados, não sendo possível sua visualização e recuperação. O processo ainda permanecerá no sistema para possível consulta de metadados e histórico. 
-A árvore de documentos dos arquivos do processo manterá os registros de quais documentos estavam no processo, bem como seus andamentos, porém cada objeto digital/anexo ficará permanentemente inacessível.
+.. Retirado temporariamente Quando um processo passa pelo fluxo completo de eliminação, que poderá ocorrer na versão 4.1.1 ou superior, todos os objetos digitais dos documentos são permanentemente eliminados, não sendo possível sua visualização e recuperação. O processo ainda permanecerá no sistema para possível consulta de metadados e histórico. 
+.. Retirado temporariamente A árvore de documentos dos arquivos do processo manterá os registros de quais documentos estavam no processo, bem como seus andamentos, porém cada objeto digital/anexo ficará permanentemente inacessível. ..
 
 Os modelos de Listagem, Edital de Ciência e Termo de Eliminação poderão ser customizados de acordo com os modelos utilizados pela instituição?
 ----------------------------------------------------------------------------------------------------------------------------------------------
