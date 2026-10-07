@@ -1,14 +1,18 @@
-2.Compatibilidade e Acesso ao Módulo
+2. Compatibilidade e Acesso ao Módulo
 ====================================
 
 
-2.1.	Quem pode ter acesso ao módulo?
+2.1.	Como ter acesso ao Módulo de Assinatura Eletrônica?
 -------------------------------------
 
-Para utilizar o módulo, o órgão interessado deve formalizar sua solicitação por meio do e-mail adesao.pen@gestao.gov.br. Após o recebimento, nossa equipe analisará o pedido e entrará em contato para os próximos passos. 
+O Módulo de Assinatura Eletrônica do SEI encontra-se em fase de implantação piloto e, neste momento, ainda não está disponível para novos órgãos. 
+ 
+Os órgãos que tenham interesse em aderir ao módulo podem encaminhar manifestação para o e-mail adesao.pen@gestao.gov.br, a fim de receber comunicações sobre sua disponibilização e futuras oportunidades de adesão.
 
 
 	**OBS1: A versão do SEI do órgão solicitante deve ser uma das versões enumeradas na pergunta 2.2 do FAQ. Caso não tenha a versão compatível, a solicitação será recusada.**
+
+
 
 2.2.	O módulo é compatível com qual(is) versão(ões)?
 -----------------------------------------------------
