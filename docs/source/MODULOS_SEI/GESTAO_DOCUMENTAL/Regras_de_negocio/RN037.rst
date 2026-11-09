@@ -1,1 +1,8 @@
+**RN037 - Eliminação Fíisca de Documentos.**
+============================================
+
+
+O sistema, no módulo GD, deverá garantir a exclusão definitiva e física dos documentos diretamente no banco de dados, removendo integralmente o conteúdo e os arquivos correspondentes, sem possibilidade de recuperação.
+
+Deverão ser preservados todos os metadados associados aos documentos, incluindo informações de identificação, histórico, classificação, datas, autoria e demais dados de rastreabilidade, garantindo a integridade das informações e a manutenção dos registros para fins de auditoria e consulta.
 
